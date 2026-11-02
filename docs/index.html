@@ -1,6 +1,348 @@
 <!doctype html>
 <html lang="en">
+<head><!doctype html>
+<html lang="en">
 <head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Market wire</title>
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Market wire">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#eef1f4" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0e141b" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #eef1f4; --panel: #ffffff; --ink: #18202b; --muted: #5d6877; --line: #d6dce3;
+  --major: #5b34c9; --major-bg: #efeafd; --notable: #0b6e7f; --notable-bg: #e4f3f5;
+  --up: #1d7a3e; --down: #b3261e; --focus: #5b34c9;
+  --sans: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0e141b; --panel: #161e27; --ink: #e5eaf0; --muted: #98a3b1; --line: #27323e;
+    --major: #b39cff; --major-bg: #241c45; --notable: #6fd0de; --notable-bg: #10313a;
+    --up: #5fd38a; --down: #ff8a80; --focus: #b39cff;
+    color-scheme: dark;
+  }
+}
+* { box-sizing: border-box; }
+html { scroll-padding-top: env(safe-area-inset-top, 0px); }
+body {
+  margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 var(--sans);
+  padding: env(safe-area-inset-top, 0px) 0 env(safe-area-inset-bottom, 0px);
+}
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+.wrap { max-width: 1240px; margin: 0 auto; padding: 20px 20px 48px; }
+
+header { display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; }
+h1 {
+  font: 800 30px/1 var(--sans); font-stretch: 62%; letter-spacing: 0.01em; margin: 0;
+}
+.status { color: var(--muted); font-size: 14px; }
+.status b { font-weight: 600; color: var(--ink); }
+.dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--muted); margin-right: 6px; vertical-align: 1px; }
+.dot.open { background: var(--up); }
+.health { margin-left: auto; font-size: 13px; color: var(--muted); }
+.health.warn { color: var(--down); }
+
+.tape { display: flex; gap: 6px; overflow-x: auto; padding: 14px 0 10px; scrollbar-width: thin; }
+.tape .grp { display: flex; gap: 6px; padding-right: 10px; margin-right: 4px; border-right: 1px solid var(--line); }
+.tape .grp:last-child { border-right: 0; }
+.chip {
+  flex: none; border: 1px solid var(--line); background: var(--panel); color: var(--ink);
+  border-radius: 6px; padding: 5px 9px; font: 600 14px/1.1 var(--sans); font-stretch: 75%;
+  cursor: pointer; display: flex; flex-direction: column; align-items: flex-start; min-width: 64px;
+}
+.chip small { font-weight: 500; font-size: 13px; font-stretch: 85%; }
+.chip.on { border-color: var(--ink); box-shadow: inset 0 0 0 1px var(--ink); }
+.up { color: var(--up); } .down { color: var(--down); }
+
+.cols { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: 24px; margin-top: 8px; }
+@media (max-width: 960px) { .cols { grid-template-columns: 1fr; } }
+
+.filters { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; margin-bottom: 12px; }
+.filters button, .filters select {
+  font: 500 14px var(--sans); border: 1px solid var(--line); background: var(--panel); color: var(--ink);
+  border-radius: 999px; padding: 5px 12px; cursor: pointer;
+}
+.filters button[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.filters .count { color: var(--muted); font-size: 13px; margin-left: auto; }
+
+.feed { list-style: none; margin: 0; padding: 0; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; }
+.item { display: grid; grid-template-columns: 4px 74px 1fr; gap: 0 14px; padding: 14px 16px 12px 0; border-top: 1px solid var(--line); }
+.item:first-child { border-top: 0; }
+.bar { border-radius: 0 3px 3px 0; }
+.item.major .bar { background: var(--major); }
+.item.notable .bar { background: var(--notable); }
+.tk { font: 700 16px/1.2 var(--sans); font-stretch: 70%; padding-top: 2px; }
+.tk small { display: block; font-weight: 500; font-size: 13px; color: var(--muted); font-stretch: 85%; }
+.hl { font: 400 18px/1.35 var(--serif); margin: 0; max-width: 72ch; }
+.item.major .hl { font-weight: 600; }
+.hl a { text-decoration: none; }
+.hl a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.meta { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-top: 6px; font-size: 13px; color: var(--muted); }
+.tag { font-weight: 600; padding: 1px 7px; border-radius: 4px; font-size: 12px; }
+.item.major .tag { background: var(--major-bg); color: var(--major); }
+.item.notable .tag { background: var(--notable-bg); color: var(--notable); }
+.item.info .tag, .item.muted .tag { background: var(--bg); color: var(--muted); }
+.item.muted { opacity: 0.6; }
+.fb { margin-left: auto; display: flex; gap: 2px; }
+.fb button {
+  border: 0; background: none; color: var(--muted); font: 500 13px var(--sans); cursor: pointer;
+  padding: 2px 6px; border-radius: 4px;
+}
+.fb button:hover { background: var(--bg); color: var(--ink); }
+@media (max-width: 560px) {
+  .wrap { padding: 14px 12px 40px; }
+  .item { grid-template-columns: 4px 1fr; gap: 4px 12px; }
+  .item > div:last-child { grid-column: 2; }
+  .tk { display: flex; gap: 8px; align-items: baseline; }
+  .tk small { display: inline; }
+  .hl { font-size: 17px; }
+}
+.empty { padding: 40px 20px; text-align: center; color: var(--muted); }
+
+aside { position: sticky; top: 16px; align-self: start; }
+@media (max-width: 960px) { aside { position: static; } }
+.brief { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 18px; }
+.brief-head { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; }
+.brief h2 { font: 800 22px/1.1 var(--sans); font-stretch: 70%; margin: 0; }
+.brief select { font: 500 13px var(--sans); border: 1px solid var(--line); background: var(--panel); color: var(--ink); border-radius: 6px; padding: 3px 6px; }
+.brief .when { color: var(--muted); font-size: 13px; margin: 2px 0 12px; }
+.brief .summary { font: 400 16px/1.55 var(--serif); white-space: pre-line; margin: 0 0 14px; }
+.brief h3 { font: 700 14px var(--sans); margin: 16px 0 6px; color: var(--muted); }
+.brief ul { list-style: none; margin: 0; padding: 0; }
+.brief li { padding: 5px 0; border-top: 1px solid var(--line); font-size: 14px; }
+.brief li:first-child { border-top: 0; }
+.brief li b { font-stretch: 75%; margin-right: 6px; }
+.movers { display: flex; flex-wrap: wrap; gap: 6px; }
+.movers span { border: 1px solid var(--line); border-radius: 6px; padding: 3px 8px; font: 600 14px var(--sans); font-stretch: 80%; }
+.note { font-size: 12px; color: var(--muted); margin-top: 14px; }
+.general { margin-top: 12px; }
+.general button { font: 500 14px var(--sans); border: 1px solid var(--line); background: var(--panel); color: var(--ink); border-radius: 8px; padding: 8px 12px; cursor: pointer; width: 100%; }
+@media (prefers-reduced-motion: no-preference) { .item.fresh { animation: fresh 2.4s ease-out 1; } }
+@keyframes fresh { from { background: var(--major-bg); } to { background: transparent; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Market wire</h1>
+    <span class="status" id="status"><span class="dot"></span>Loading…</span>
+    <span class="health" id="health"></span>
+  </header>
+
+  <nav class="tape" id="tape" aria-label="Watchlist prices"></nav>
+
+  <div class="cols">
+    <main>
+      <div class="filters" role="toolbar" aria-label="Filter stories">
+        <button data-f="all" aria-pressed="true">All</button>
+        <button data-f="major" aria-pressed="false">Major</button>
+        <button data-f="notable" aria-pressed="false">Notable+</button>
+        <button data-f="filing" aria-pressed="false">SEC filings</button>
+        <button data-f="move" aria-pressed="false">Big moves</button>
+        <button data-f="muted" aria-pressed="false">Muted</button>
+        <select id="group" aria-label="Group"><option value="">All groups</option></select>
+        <span class="count" id="count"></span>
+      </div>
+      <ul class="feed" id="feed"></ul>
+    </main>
+
+    <aside id="briefing">
+      <section class="brief" aria-live="polite">
+        <div class="brief-head">
+          <h2 id="b-title">Briefing</h2>
+          <select id="b-pick" aria-label="Choose briefing"></select>
+        </div>
+        <p class="when" id="b-when"></p>
+        <div id="b-body"><p class="empty">The first briefing arrives at 8:30 AM Eastern on the next trading day.</p></div>
+        <p class="note">News summaries only, not investment advice.</p>
+      </section>
+      <div class="general"><button id="general-fb">Send a comment about the bot</button></div>
+    </aside>
+  </div>
+</div>
+
+<script>
+const S = { feed: [], prices: {}, meta: {}, briefs: [], f: "all", group: "", ticker: "", seen: new Set() };
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const CAT = { earnings:"Earnings", guidance:"Guidance", deals:"Deals & M&A", talks:"Deal talks", leadership:"Leadership",
+  regulatory:"Legal & regulatory", capital:"Capital & dilution", analyst:"Analyst ratings", product:"Products & AI",
+  sec:"SEC filing", move:"Big move", general:"General", noise:"Noise", muted:"Muted source" };
+
+function ago(iso) {
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 1) return "just now";
+  if (m < 60) return `${m} min ago`;
+  const h = Math.round(m / 60);
+  return h < 24 ? `${h} h ago` : new Date(iso).toLocaleDateString([], { month: "short", day: "numeric" });
+}
+const etTime = (iso) => new Date(iso).toLocaleString([], { timeZone: "America/New_York", weekday: "short", hour: "numeric", minute: "2-digit" }) + " ET";
+
+async function getJSON(name) {
+  try { const r = await fetch(`data/${name}?t=${Date.now()}`); return r.ok ? await r.json() : null; }
+  catch { return null; }
+}
+
+function issueURL(title, lines) {
+  if (!S.meta.repo) return null;
+  const q = new URLSearchParams({ title: `[feedback] ${title}`.slice(0, 120), body: lines.join("\n") });
+  return `https://github.com/${S.meta.repo}/issues/new?${q}`;
+}
+function feedback(item, vote) {
+  let comment = "";
+  if (vote === "comment") { comment = prompt(`Comment on: ${item.title}`) || ""; if (!comment) return; }
+  const url = issueURL(`${vote} ${item.ticker}: ${item.title}`, [
+    `vote: ${vote === "comment" ? "" : vote}`, `item: ${item.id}`, `comment: ${comment}`, "",
+    "Submit this issue to apply it. The bot closes it once applied."]);
+  if (url) window.open(url, "_blank", "noopener"); else alert("Feedback works once the dashboard is published on GitHub Pages.");
+}
+
+function renderStatus() {
+  const m = S.meta, label = { open: "Market open", pre: "Pre-market", after: "After hours", closed: "Market closed" }[m.session] || "—";
+  $("status").innerHTML = `<span class="dot ${m.session === "open" ? "open" : ""}"></span><b>${label}</b> · updated ${m.updated ? ago(m.updated) : "never"}`;
+  const errs = m.health?.errors || [];
+  $("health").textContent = errs.length ? `${errs.length} source issue${errs.length > 1 ? "s" : ""} last run` : (m.updated ? "All sources responding" : "");
+  $("health").className = "health" + (errs.length ? " warn" : "");
+  $("health").title = errs.slice(0, 8).join("\n");
+}
+
+function renderTape() {
+  const wl = S.meta.watchlist || {}, groups = S.meta.groups || {};
+  const byGroup = {};
+  for (const [tk, v] of Object.entries(wl)) (byGroup[v.group] ||= []).push(tk);
+  $("tape").innerHTML = Object.entries(byGroup).map(([g, tks]) => `<div class="grp" title="${esc(groups[g] || g)}">` + tks.map(tk => {
+    const q = S.prices[tk], c = q?.change_pct;
+    const val = wl[tk].listed === false ? "not listed" : (c == null ? "—" : `${c > 0 ? "+" : ""}${c.toFixed(1)}%`);
+    return `<button class="chip ${S.ticker === tk ? "on" : ""}" data-tk="${tk}" aria-pressed="${S.ticker === tk}">${tk}<small class="${c > 0 ? "up" : c < 0 ? "down" : ""}">${val}</small></button>`;
+  }).join("") + "</div>").join("");
+  $("tape").querySelectorAll(".chip").forEach(b => b.onclick = () => { S.ticker = S.ticker === b.dataset.tk ? "" : b.dataset.tk; render(); });
+}
+
+function visible() {
+  return S.feed.filter(i => {
+    if (S.ticker && i.ticker !== S.ticker) return false;
+    if (S.group && i.group !== S.group) return false;
+    if (S.f === "muted") return i.tier === "muted";
+    if (i.tier === "muted") return false;
+    if (S.f === "major") return i.tier === "major";
+    if (S.f === "notable") return i.tier !== "info";
+    if (S.f === "filing") return i.kind === "filing";
+    if (S.f === "move") return i.kind === "move";
+    return true;
+  });
+}
+
+function renderFeed() {
+  const list = visible();
+  $("count").textContent = `${list.length} ${list.length === 1 ? "story" : "stories"}${S.ticker ? ` · ${S.ticker}` : ""}`;
+  if (!list.length) {
+    $("feed").innerHTML = `<li class="empty">${S.feed.length ? "Nothing matches these filters. Clear the ticker or pick “All”." : "No stories yet. The bot fills this page on its next run."}</li>`;
+    return;
+  }
+  $("feed").innerHTML = list.slice(0, 250).map((i, n) => {
+    const outlets = (i.outlets || []).length > 1 ? ` +${i.outlets.length - 1} outlets` : "";
+    const fresh = S.seen.size && !S.seen.has(i.id) ? " fresh" : "";
+    return `<li class="item ${i.tier}${fresh}">
+      <span class="bar"></span>
+      <div class="tk">${esc(i.ticker)}<small>${ago(i.first_seen)}</small></div>
+      <div>
+        <p class="hl">${i.url ? `<a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>` : esc(i.title)}</p>
+        <div class="meta">
+          <span class="tag">${esc(CAT[i.category] || i.category)}</span>
+          <span>${esc(i.source || "")}${outlets}</span>
+          <span title="Importance score">${i.score}</span>
+          ${i.alerted && (i.alert_channels || []).some(c => c !== "grouped") ? `<span>alert sent</span>` : ""}
+          <span class="fb">
+            <button data-n="${n}" data-v="up" aria-label="More like this">👍</button>
+            <button data-n="${n}" data-v="down" aria-label="Less like this">👎</button>
+            ${i.kind === "news" ? `<button data-n="${n}" data-v="mute-source" aria-label="Mute this source">Mute source</button>` : ""}
+            <button data-n="${n}" data-v="comment" aria-label="Comment">Comment</button>
+          </span>
+        </div>
+      </div></li>`;
+  }).join("");
+  $("feed").querySelectorAll(".fb button").forEach(b => b.onclick = () => feedback(list[+b.dataset.n], b.dataset.v));
+}
+
+function renderBrief() {
+  const pick = $("b-pick");
+  if (!S.briefs.length) { pick.hidden = true; return; }
+  pick.hidden = false;
+  if (pick.options.length !== S.briefs.length) {
+    pick.innerHTML = S.briefs.map((b, i) => `<option value="${i}">${esc(b.title)} · ${new Date(b.created).toLocaleDateString([], { month: "short", day: "numeric" })}</option>`).join("");
+  }
+  const b = S.briefs[+pick.value || 0];
+  $("b-title").textContent = b.title;
+  $("b-when").textContent = `${etTime(b.created)} · ${b.counts.stories} stories, ${b.counts.major} major`;
+  let h = b.summary ? `<p class="summary">${esc(b.summary)}</p>` : "";
+  if (b.movers?.length) h += `<h3>Movers</h3><div class="movers">${b.movers.map(m => `<span class="${m.change_pct > 0 ? "up" : "down"}">${esc(m.ticker)} ${m.change_pct > 0 ? "+" : ""}${m.change_pct.toFixed(1)}%</span>`).join("")}</div>`;
+  for (const [g, items] of Object.entries(b.groups || {})) {
+    h += `<h3>${esc(g)}</h3><ul>${items.map(i => `<li><b>${esc(i.ticker)}</b>${i.url ? `<a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>` : esc(i.title)}</li>`).join("")}</ul>`;
+  }
+  if (b.filings?.length) h += `<h3>SEC filings</h3><ul>${b.filings.map(f => `<li><a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.title)}</a></li>`).join("")}</ul>`;
+  if (!h) h = `<p class="empty">A quiet session: nothing notable since the last briefing.</p>`;
+  $("b-body").innerHTML = h;
+}
+
+function render() { renderStatus(); renderTape(); renderFeed(); renderBrief(); }
+
+async function load() {
+  const [feed, prices, meta, briefs] = await Promise.all(["feed.json", "prices.json", "meta.json", "briefings.json"].map(getJSON));
+  if (S.feed.length) S.seen = new Set(S.feed.map(i => i.id));
+  S.feed = (feed?.items || []).sort((a, b) => b.first_seen.localeCompare(a.first_seen) || b.score - a.score); S.prices = prices?.quotes || {}; S.meta = meta || {}; S.briefs = briefs?.briefings || [];
+  const sel = $("group");
+  if (sel.options.length === 1) for (const [k, v] of Object.entries(S.meta.groups || {})) sel.add(new Option(v, k));
+  render();
+}
+
+document.querySelectorAll(".filters button").forEach(b => b.onclick = () => {
+  S.f = b.dataset.f;
+  document.querySelectorAll(".filters button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  renderFeed();
+});
+$("group").onchange = (e) => { S.group = e.target.value; renderFeed(); };
+$("b-pick").onchange = renderBrief;
+$("general-fb").onclick = () => {
+  const c = prompt("What should the bot do differently?"); if (!c) return;
+  const url = issueURL("general comment", ["vote: ", "item: ", `comment: ${c}`]);
+  if (url) window.open(url, "_blank", "noopener"); else alert("Feedback works once the dashboard is published on GitHub Pages.");
+};
+load();
+setInterval(load, 5 * 60 * 1000);
+setInterval(renderStatus, 60 * 1000);
+</script>
+</body>
+</html>
+
+{
+  "name": "Market wire",
+  "short_name": "Market wire",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e141b",
+  "theme_color": "#18202b",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Market wire</title>
