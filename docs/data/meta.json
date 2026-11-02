@@ -1,1 +1,136 @@
-{}
+{
+ "updated": "2026-11-02T01:43:02Z",
+ "session": "closed",
+ "repo": "Kamalhaddad1987/news-bot",
+ "groups": {
+  "big_tech": "Big Tech",
+  "ai_chips": "AI chips",
+  "ai_software": "AI software & cloud",
+  "musk": "Tesla & SpaceX",
+  "ai_energy": "AI energy",
+  "quantum": "Quantum computing"
+ },
+ "watchlist": {
+  "GOOGL": {
+   "name": "Alphabet",
+   "group": "big_tech",
+   "listed": true
+  },
+  "MSFT": {
+   "name": "Microsoft",
+   "group": "big_tech",
+   "listed": true
+  },
+  "AAPL": {
+   "name": "Apple",
+   "group": "big_tech",
+   "listed": true
+  },
+  "AMZN": {
+   "name": "Amazon",
+   "group": "big_tech",
+   "listed": true
+  },
+  "META": {
+   "name": "Meta Platforms",
+   "group": "big_tech",
+   "listed": true
+  },
+  "NVDA": {
+   "name": "Nvidia",
+   "group": "ai_chips",
+   "listed": true
+  },
+  "AMD": {
+   "name": "AMD",
+   "group": "ai_chips",
+   "listed": true
+  },
+  "AVGO": {
+   "name": "Broadcom",
+   "group": "ai_chips",
+   "listed": true
+  },
+  "TSM": {
+   "name": "TSMC",
+   "group": "ai_chips",
+   "listed": true
+  },
+  "ORCL": {
+   "name": "Oracle",
+   "group": "ai_software",
+   "listed": true
+  },
+  "PLTR": {
+   "name": "Palantir",
+   "group": "ai_software",
+   "listed": true
+  },
+  "NOW": {
+   "name": "ServiceNow",
+   "group": "ai_software",
+   "listed": true
+  },
+  "ANT": {
+   "name": "Anthropic",
+   "group": "ai_software",
+   "listed": false
+  },
+  "TSLA": {
+   "name": "Tesla",
+   "group": "musk",
+   "listed": true
+  },
+  "SPCX": {
+   "name": "SpaceX",
+   "group": "musk",
+   "listed": true
+  },
+  "VST": {
+   "name": "Vistra",
+   "group": "ai_energy",
+   "listed": true
+  },
+  "CEG": {
+   "name": "Constellation Energy",
+   "group": "ai_energy",
+   "listed": true
+  },
+  "GEV": {
+   "name": "GE Vernova",
+   "group": "ai_energy",
+   "listed": true
+  },
+  "OKLO": {
+   "name": "Oklo",
+   "group": "ai_energy",
+   "listed": true
+  },
+  "IONQ": {
+   "name": "IonQ",
+   "group": "quantum",
+   "listed": true
+  },
+  "RGTI": {
+   "name": "Rigetti Computing",
+   "group": "quantum",
+   "listed": true
+  },
+  "QBTS": {
+   "name": "D-Wave Quantum",
+   "group": "quantum",
+   "listed": true
+  }
+ },
+ "health": {
+  "errors": [
+   "SEC ticker list: GET failed https://www.sec.gov/files/company_tickers.json: Invalid header value b'Kamal Haddad\\nKamalhaddad86@hotmail.com'"
+  ],
+  "counts": {
+   "fetched": 1333,
+   "new_stories": 1119,
+   "alerts_sent": 0
+  }
+ },
+ "ai_summaries": false
+}
