@@ -4,7 +4,7 @@
    "id": "2026-11-01-morning",
    "kind": "morning",
    "title": "Morning brief",
-   "created": "2026-11-02T02:01:37Z",
+   "created": "2026-11-02T02:09:27Z",
    "since": "2026-10-30T20:30:00Z",
    "summary": null,
    "groups": {
@@ -82,14 +82,26 @@
       "category": "earnings"
      }
     ],
+    "Tesla & SpaceX": [
+     {
+      "id": "b71acb7460280115",
+      "ticker": "TSLA",
+      "title": "A SpaceX and Tesla Merger Will Only Be Successful If This One Thing Happens",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS21aQUp4Ni1KUWNoVE10V1czTnhIZEE5ZXhfc2JIQk9paDBtTTdmYThMdTZvUlFBM1l4VDZJN3lwR0lRTTFQeDBxRVdpN0lxTHZvVjhqNVFZb3RFcUMySWI3VWp2VXcxV1ltelZ0TnUtekxidXNCbEVVRm5SWkFFWjFISDBYR3FwWW5qdV9BRnVVUjlGdDFmS2ozLU9GOFlJSUE?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "deals"
+     }
+    ],
     "Big Tech": [
      {
-      "id": "c7cc97deb10e78c5",
+      "id": "d42e9ea77d3022e7",
       "ticker": "META",
-      "title": "S&P Downgrades Meta's Credit Outlook to Negative",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTVpCYUVpVWkwdGh0V1p0bWtFR2lXMWNOV2JFN2xGb29FbkdyczcxYk8xQWdGWWk5d25sN0oyMnpxcUNRbkstVlk0VjVlcFh3M0dmTVpxalcyNkVQVWNvckxJUUtSc1V2TFNRM3JRRzNXZkxTNXNhN2M3cG1JaGtnR0ljbGNjUnJk?oc=5",
-      "source": "조선일보",
-      "score": 83,
+      "title": "S&P Cuts Meta Credit Rating Outlook to 'Negative' on AI Spending Burden, Warns on Cash Flow",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YYjh0Z1gyM2hidWlEQy1QTTMyYjR5UU9neFJHb0lqSXFjNUhLQ0k5dDlZd1ZUNk1neFN1MndmLTdsUU5ubTVuRmlpZE9WUDRCaHlQcVRUM0F0S1dFVjJkcC0xRkU3Z1c4Nm9ZczdzcnppT2QxOUE?oc=5",
+      "source": "BigGo Finance",
+      "score": 80,
       "tier": "major",
       "category": "guidance"
      },
@@ -102,18 +114,6 @@
       "score": 80,
       "tier": "major",
       "category": "guidance"
-     }
-    ],
-    "Tesla & SpaceX": [
-     {
-      "id": "b71acb7460280115",
-      "ticker": "TSLA",
-      "title": "A SpaceX and Tesla Merger Will Only Be Successful If This One Thing Happens",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS21aQUp4Ni1KUWNoVE10V1czTnhIZEE5ZXhfc2JIQk9paDBtTTdmYThMdTZvUlFBM1l4VDZJN3lwR0lRTTFQeDBxRVdpN0lxTHZvVjhqNVFZb3RFcUMySWI3VWp2VXcxV1ltelZ0TnUtekxidXNCbEVVRm5SWkFFWjFISDBYR3FwWW5qdV9BRnVVUjlGdDFmS2ozLU9GOFlJSUE?oc=5",
-      "source": "Yahoo Finance",
-      "score": 81,
-      "tier": "major",
-      "category": "deals"
      }
     ]
    },
@@ -161,8 +161,8 @@
    ],
    "filings": [],
    "counts": {
-    "stories": 885,
-    "major": 145
+    "stories": 884,
+    "major": 144
    }
   }
  ]
