@@ -1,0 +1,37 @@
+name: Apply feedback
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: news-bot
+  cancel-in-progress: false
+
+jobs:
+  feedback:
+    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.issue.title, '[feedback]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Apply
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m bot feedback
+      - name: Save results
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add state
+          git diff --cached --quiet || git commit -m "Apply feedback"
+          git pull --rebase --quiet && git push --quiet
