@@ -1,0 +1,120 @@
+# How the bot decides what matters. This is the file we tune together.
+# Every item gets a score from 0 to 100:
+#   major   (>= tiers.major)   -> WhatsApp + push alert, top of dashboard
+#   notable (>= tiers.notable) -> highlighted on dashboard and in briefings
+#   info    (below notable)    -> dashboard feed only
+#   muted   (noise rules)      -> hidden (visible under the "Muted" filter)
+
+tiers:
+  major: 70
+  notable: 40
+
+# Patterns are case-insensitive regular expressions matched against headlines.
+categories:
+  earnings:
+    label: Earnings
+    score: 75
+    patterns: ['\bearnings\b', 'quarterly results', '\bQ[1-4]\b.*\b(results|revenue|profit)', '\bbeats?\b.*estimates', '\bmiss(es)?\b.*estimates']
+  guidance:
+    label: Guidance
+    score: 80
+    patterns: ['guidance', '\boutlook\b', '\bforecast(s)?\b', 'raises.*(view|target)', 'cuts.*(view|outlook)']
+  deals:
+    label: Deals & M&A
+    score: 75
+    patterns: ['\bacquir(e|es|ed|ing|ition)\b', '\bmerger\b', '\bbuyout\b', 'takeover', 'to buy\b.*\$', 'multi-?billion.*(deal|contract)', '\bpartnership\b']
+  leadership:
+    label: Leadership
+    score: 75
+    patterns: ['\bCEO\b', '\bCFO\b', 'steps down', '\bresign', '\bappoint', 'chief executive', 'departure']
+  regulatory:
+    label: Legal & regulatory
+    score: 70
+    patterns: ['antitrust', '\bDOJ\b', '\bFTC\b', 'SEC (charges|probe|investigation)', '\bprobe\b', '\bfined?\b', 'ruling', '\bjudge\b', 'export (controls|ban|curbs)', 'European Commission', 'tariff']
+  capital:
+    label: Capital & dilution
+    score: 70
+    patterns: ['share sale', 'stock offering', '\boffering\b', 'dilution', 'bond sale', 'raises \$', 'buyback', 'repurchase', 'dividend', 'convertible', '\bIPO\b', 'lockup']
+  talks:
+    label: Deal talks
+    score: 55
+    patterns: ['in talks', 'nears? (a )?deal', 'considering', '\bexplor(es|ing)\b', 'Pentagon', 'government contract', 'Golden Dome', 'bid for']
+  analyst:
+    label: Analyst ratings
+    score: 45
+    patterns: ['upgrade', 'downgrade', 'price target', 'initiates coverage', '\boverweight\b', '\bunderweight\b']
+  product:
+    label: Products & AI
+    score: 40
+    patterns: ['launch', 'unveil', '\bmodel\b', '\bchip\b', 'data center', 'gigawatt', 'reactor', 'qubit']
+
+# An upgrade or downgrade from one of these firms counts as major.
+major_analysts: ['Goldman', 'Morgan Stanley', 'JPMorgan', 'Bank of America', 'BofA', 'Citi', 'Wells Fargo', 'UBS', 'Barclays', 'Jefferies', 'Bernstein', 'Evercore']
+major_analyst_score: 72
+
+# Headlines matching these are muted. Add patterns as you see noise.
+noise:
+  - 'lead plaintiff'
+  - 'class action'
+  - 'shareholder alert'
+  - 'investor alert'
+  - 'investors (who|with) (lost|large losses)'
+  - 'securities fraud investigation'
+  - '(Rosen|Pomerantz|Levi & Korsinsky|Bronstein|Kessler Topaz|Faruqi|Glancy|Kaplan Fox|Bragar)'
+  - 'stocks? to buy'
+  - 'should you buy'
+  - 'better buy'
+  - 'buy the dip'
+  - 'millionaire'
+  - 'prediction:'
+  - 'stock market today'
+  - 'live (updates|levels)'
+  - 'stock price & news'
+
+# Publishers to ignore entirely (matched against the news source name).
+muted_sources: []
+
+# Score added for official sources and multiple outlets covering one story.
+boosts:
+  sec_filing: 5
+  per_extra_outlet: 3        # each extra outlet reporting the same story
+  max_outlet_boost: 12
+
+# SEC filing types. 8-Ks are scored by item number.
+sec:
+  form_scores:
+    '8-K': 45
+    '10-Q': 50
+    '10-K': 55
+    '4': 25             # insider buy/sell
+    'S-1': 75
+    '424B': 45
+    'SC 13D': 60
+    'SC 13D/A': 40
+    'DEF 14A': 30
+  eight_k_items:              # item: [score, label, optional topic it shares with news]
+    '1.01': [80, 'Major agreement', deals]
+    '1.03': [95, 'Bankruptcy']
+    '2.01': [85, 'Acquisition or sale completed', deals]
+    '2.02': [80, 'Earnings release', earnings]
+    '2.05': [72, 'Restructuring or layoffs']
+    '2.06': [72, 'Impairment']
+    '3.01': [85, 'Listing problem']
+    '4.02': [92, 'Past results unreliable (restatement)']
+    '5.02': [78, 'Executive or director change', leadership]
+    '7.01': [40, 'Investor disclosure']
+    '8.01': [45, 'Other event']
+
+alerts:
+  whatsapp: true
+  push: true                 # backup channel; also sends "briefing ready" notes
+  max_per_run: 6             # avoid floods during big news days
+  same_topic_hours: 3        # one alert per company and topic in this window
+  quiet_hours_et: [23, 6]    # no alerts 11pm-6am Eastern (they wait for morning)
+  repeat_move_step: 2.0      # re-alert a mover when it moves this many more points
+
+briefings:
+  morning: '08:30'           # Eastern Time
+  midday:  '12:30'
+  close:   '16:30'
+  top_stories: 10

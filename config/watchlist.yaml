@@ -1,0 +1,62 @@
+# Your watchlist. Edit freely: add a ticker under any group, or add a new group.
+#   name:      company name shown on the dashboard
+#   aliases:   words a headline must contain to count (defaults to the name's
+#              first word). Tickers are also matched, case-sensitive.
+#   query:     optional custom Google News search
+#   listed:    false = not trading yet (news and SEC filings only, no prices)
+#   move_pct:  optional per-company override for the big-move alert
+#
+# Each group can set its own move_pct (alert when the stock moves this much
+# in a day). Companies without one use defaults.move_pct.
+
+defaults:
+  move_pct: 5.0
+
+groups:
+  big_tech:
+    label: Big Tech
+    tickers:
+      GOOGL: {name: Alphabet, aliases: [Alphabet, Google, GOOG]}
+      MSFT:  {name: Microsoft}
+      AAPL:  {name: Apple}
+      AMZN:  {name: Amazon}
+      META:  {name: Meta Platforms, aliases: [Meta, Zuckerberg]}
+
+  ai_chips:
+    label: AI chips
+    tickers:
+      NVDA: {name: Nvidia}
+      AMD:  {name: AMD}
+      AVGO: {name: Broadcom}
+      TSM:  {name: TSMC, aliases: [TSMC, Taiwan Semiconductor]}
+
+  ai_software:
+    label: AI software & cloud
+    tickers:
+      ORCL: {name: Oracle}
+      PLTR: {name: Palantir}
+      NOW:  {name: ServiceNow, aliases: [ServiceNow]}
+      ANT:  {name: Anthropic, aliases: [Anthropic, Claude AI], listed: false}
+
+  musk:
+    label: Tesla & SpaceX
+    tickers:
+      TSLA: {name: Tesla, aliases: [Tesla]}
+      SPCX: {name: SpaceX, aliases: [SpaceX, Starlink]}
+
+  ai_energy:
+    label: AI energy
+    move_pct: 4.0
+    tickers:
+      VST:  {name: Vistra}
+      CEG:  {name: Constellation Energy, aliases: [Constellation Energy]}
+      GEV:  {name: GE Vernova, aliases: [GE Vernova, Vernova]}
+      OKLO: {name: Oklo}
+
+  quantum:
+    label: Quantum computing
+    move_pct: 4.0
+    tickers:
+      IONQ: {name: IonQ}
+      RGTI: {name: Rigetti Computing, aliases: [Rigetti]}
+      QBTS: {name: D-Wave Quantum, aliases: [D-Wave]}
