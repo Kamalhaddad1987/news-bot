@@ -1,0 +1,58 @@
+name: Briefings
+
+on:
+  schedule:
+    # Each briefing is listed twice (summer and winter UTC times).
+    # The bot sends only the one that matches Eastern Time, once per day.
+    - cron: "30 12,13 * * 1-5"   # morning ~8:30 ET
+    - cron: "30 16,17 * * 1-5"   # midday  ~12:30 ET
+    - cron: "30 20,21 * * 1-5"   # close   ~4:30 ET
+  workflow_dispatch:
+    inputs:
+      kind:
+        description: Which briefing to send now
+        type: choice
+        options: [morning, midday, close]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-bot
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Pick briefing
+        id: pick
+        run: |
+          case "${{ github.event.schedule }}" in
+            "30 12,13 * * 1-5") echo "kind=morning" >> "$GITHUB_OUTPUT" ;;
+            "30 16,17 * * 1-5") echo "kind=midday"  >> "$GITHUB_OUTPUT" ;;
+            "30 20,21 * * 1-5") echo "kind=close"   >> "$GITHUB_OUTPUT" ;;
+            *) echo "kind=${{ inputs.kind }}" >> "$GITHUB_OUTPUT" ;;
+          esac
+      - name: Build briefing
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          DASHBOARD_URL: ${{ vars.DASHBOARD_URL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m bot brief ${{ steps.pick.outputs.kind }} ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
+      - name: Save results
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add docs/data state
+          git diff --cached --quiet || git commit -m "${{ steps.pick.outputs.kind }} briefing"
+          git pull --rebase --quiet && git push --quiet
