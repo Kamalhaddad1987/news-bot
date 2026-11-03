@@ -1,6 +1,169 @@
 {
  "briefings": [
   {
+   "id": "2026-11-03-midday",
+   "kind": "midday",
+   "title": "Midday brief",
+   "created": "2026-11-03T17:26:03Z",
+   "since": "2026-11-03T13:30:00Z",
+   "summary": null,
+   "groups": {
+    "Tesla & SpaceX": [
+     {
+      "id": "f4e2e48f70b6811b",
+      "ticker": "SPCX",
+      "title": "How a SpaceX-Tesla merger could hand Musk majority control",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2ZLTFotSFpIcXNockdTX0wxZjJDTkp6cE1VNTN1c1A3NUpUREdPMjUyamFRTUQ3RUh1YkJwdWdrdElIcWlSdEhHS1NRZnp4SWw1TTQtXzJOTlF3RWNsLUJpSTBKcmxSQUlLVThyZW5kWEdwc1F2T3loLUg3THFicFlLNkhjdw?oc=5",
+      "source": "Yahoo",
+      "score": 87,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "6864dcba413e0818",
+      "ticker": "TSLA",
+      "title": "A SpaceX-Tesla Merger Could Hand Musk More Control",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEV6LW9HOGlOYVhQQ1RfckpNRThzZjVjeHpvUVlFM29EUFJTR01ab1pwVGNLM0lTLS0yYzFMODVRRWg5TVEwWUdwS1BxSTVRRUNERUtpSGNzMXhOdHpJSm93eWRSb1ZFVGVjZDduSjRSLUh4X0ZsOUZEX01lTXdGQ1FxaXNRUQ?oc=5",
+      "source": "Finimize",
+      "score": 87,
+      "tier": "major",
+      "category": "deals"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "71e606848ca83364",
+      "ticker": "AAPL",
+      "title": "Apple Retreats 4% Despite Earnings Beat as Memory Costs Squeeze Margin Outlook; Microsoft Dips, Meta Holds Steady",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVUZrNC13VW5lN2g0bnB4bzBYQjBBcy1DQUt5ZUdWVjRqQ243ajBvX1JraXZkMkxUa01JRW9iOEphMGFlVy1DTXhPWTR4S1V5UVR1b3U0LVdGTlF5V0ZMdUhPUUZfRmNobmRKN0tKM1lFdmM0Q2V6Wi0xejNLTGF4T1lERjZlSmdlLTZhTDJSdUEwNUhRMmZhWnl5TElTVUg5TnJwWWJQMk1iTmlmRkdzWVRvdHh6Q20xa0NFdFNkeHN1cjVhVm1nZ3plWGV1cmpLSnQ0cFJxNDg3TDJ2UVpJTWViRmxCN2hHQ1E?oc=5",
+      "source": "24/7 Wall St.",
+      "score": 84,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "80ab27c4cf8c47b7",
+      "ticker": "AAPL",
+      "title": "Apple Services Unit Faces Near-Term Pressure as Memory Costs Weigh on Margin Guidance, Morgan Stanley Says",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTJ1QmZUaGdwSkVJZW9IcURKM09xakt5dGpzazlEUTNLTXJXTWlabjRVOWxIaDNYRFpwdkxTTmktbHp3eG10MGpBVGhKY2U1bVN0bURieXk0VTZiQkZaM0FGWWdCaE8zWHY1dFc2bzBfaTFhQm5TTldNQ3VBWWQyaWdmZ2RUNVlndXloM0R5RVVVSlkydmstM0trdw?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "c27dcd19325c0c99",
+      "ticker": "AAPL",
+      "title": "Apple 2027 Growth Outlook Faces Scrutiny — Analysts See iPhone Upside, Flag Services Slowdown And Margin Risks",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWW01ZUZ0UlRKbVl5cTRyS2tXUmc2S0Q2ampkSnpGX2NBdGtOdjBycnV3V2pYUWYzZ0Fmel9SNjdYTm9KejVCQlowQk9Gb1RWNmFCZVBfUjNjVGlEaGViNnp1TmVVdlNpVUVVNXlWa0VMN21mVWRseFBaMGtfOEhjMHpTTTZOQXVVdTQ3UEduaVpzOXNMenJVc1dubmM?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "91fd34697c09314b",
+      "ticker": "MSFT",
+      "title": "Apple Retreats 4% Despite Earnings Beat as Memory Costs Squeeze Margin Outlook; Microsoft Dips, Meta Holds Steady",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVUZrNC13VW5lN2g0bnB4bzBYQjBBcy1DQUt5ZUdWVjRqQ243ajBvX1JraXZkMkxUa01JRW9iOEphMGFlVy1DTXhPWTR4S1V5UVR1b3U0LVdGTlF5V0ZMdUhPUUZfRmNobmRKN0tKM1lFdmM0Q2V6Wi0xejNLTGF4T1lERjZlSmdlLTZhTDJSdUEwNUhRMmZhWnl5TElTVUg5TnJwWWJQMk1iTmlmRkdzWVRvdHh6Q20xa0NFdFNkeHN1cjVhVm1nZ3plWGV1cmpLSnQ0cFJxNDg3TDJ2UVpJTWViRmxCN2hHQ1E?oc=5",
+      "source": "24/7 Wall St.",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "bba9349876ffa8ee",
+      "ticker": "META",
+      "title": "Apple Retreats 4% Despite Earnings Beat as Memory Costs Squeeze Margin Outlook; Microsoft Dips, Meta Holds Steady",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVUZrNC13VW5lN2g0bnB4bzBYQjBBcy1DQUt5ZUdWVjRqQ243ajBvX1JraXZkMkxUa01JRW9iOEphMGFlVy1DTXhPWTR4S1V5UVR1b3U0LVdGTlF5V0ZMdUhPUUZfRmNobmRKN0tKM1lFdmM0Q2V6Wi0xejNLTGF4T1lERjZlSmdlLTZhTDJSdUEwNUhRMmZhWnl5TElTVUg5TnJwWWJQMk1iTmlmRkdzWVRvdHh6Q20xa0NFdFNkeHN1cjVhVm1nZ3plWGV1cmpLSnQ0cFJxNDg3TDJ2UVpJTWViRmxCN2hHQ1E?oc=5",
+      "source": "24/7 Wall St.",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "4b167cc87b15dc64",
+      "ticker": "PLTR",
+      "title": "Palantir Falls 6% Despite Earnings Beat and Raised Outlook; Datadog Drops 3%, Snowflake Slides 2%",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVWdLenNZWFNrY1dwLWpmUFh0M3NqVTlDc3RHRzdpR25BR05kZ05JWVpZdG4yYUN6MDlwdGdISHlwUXg4cm8xcjBIWlVJN0JyVWJsMHpPQkYzSEdkNnVyOHRjRmNQaFZTRV9pbUtSVjlEUlE3LV91a2dWdE5MRC13cWYzLURTLXFDSVYwbFFwTF81SUlvZDgxSEh3MmVpZW5IX3JxUEc0SUJyNXFRakh1Q2NROGtIM3VYR0ZBTDZfRU1SOHVNalZBQzlKeUJaMkFlUEE?oc=5",
+      "source": "24/7 Wall St.",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "1a31438c68fcd48f",
+      "ticker": "ANT",
+      "title": "Anthropic Touts Claude’s Chip Design Skills to IPO Investors",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnpwS0FzRk9KWUhPNC1rT3JnNWdLN1NhTWM0VU5zWHkyZEo5NVR1dXJhTWdVY2R0ZGEwcVhDTGZ3TkR5SGRIemoyenlCUU1TV2xMTzNBa0xtZDJSb1hGeUVqVlhBVmJNRVFkVS1qb21LdmtqOUxmWEtVOEgwd3JnRnNJMHJIQXdfYndBMUpjZWNPaGRwSW55ZWJsdEk?oc=5",
+      "source": "The Information",
+      "score": 79,
+      "tier": "major",
+      "category": "capital"
+     },
+     {
+      "id": "bf2d7ee94cfdc079",
+      "ticker": "ORCL",
+      "title": "Oracle set to price $10 billion share sale at reported 11% discount",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3ZjT3N3Ni1HcjdIWWRNSmhaY2pQLUVyZHlJMDNDeDgyZTZIYWN5Z3hvV1R5R1c2Mk5sYmF3T210eGNaeGJQMW03R2RiOVZDTi1aVDhTRlZFRElVY1lTVTNqNTRmYmRoY3h1ZEdLRXhPLW5rdWJIeTdNZ2FXdWs3X3JNX2QzMl93MEVzMHhGZW9sOFJGVy1SQnpQeG5TYTl6?oc=5",
+      "source": "investingLive",
+      "score": 79,
+      "tier": "major",
+      "category": "capital"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "GEV",
+     "change_pct": 6.59,
+     "price": 919.09
+    },
+    {
+     "ticker": "ORCL",
+     "change_pct": 6.24,
+     "price": 126.67
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": 6.12,
+     "price": 29.89
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": 5.48,
+     "price": 492.44
+    },
+    {
+     "ticker": "VST",
+     "change_pct": 4.74,
+     "price": 140.99
+    },
+    {
+     "ticker": "SPCX",
+     "change_pct": 3.92,
+     "price": 141.72
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": 3.47,
+     "price": 11.04
+    },
+    {
+     "ticker": "CEG",
+     "change_pct": 3.3,
+     "price": 265.74
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 872,
+    "major": 163
+   }
+  },
+  {
    "id": "2026-11-03-morning",
    "kind": "morning",
    "title": "Morning brief",
