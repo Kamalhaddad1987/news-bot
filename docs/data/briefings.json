@@ -1,6 +1,171 @@
 {
  "briefings": [
   {
+   "id": "2026-11-04-close",
+   "kind": "close",
+   "title": "Closing brief",
+   "created": "2026-11-04T21:14:54Z",
+   "since": "2026-11-04T17:30:00Z",
+   "summary": null,
+   "groups": {
+    "Big Tech": [
+     {
+      "id": "a2e63d183401321e",
+      "ticker": "META",
+      "title": "Meta Acquires AI Coding Startup Conductor - A",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNVhZUlp6aDhfWWlTenFxbHNRQ01tUG9pcS1QZ3dKaGN3bXdPSkVRZGlHZGY0WEhWRWl2T3NUWkItVTdvS3I4VlhHWDdmdWFzQVNxd3ZzSTNqak4ycXJpbDlCRkpsUXlGRFlnZ21oemREVXpBNVRYOVBpU0ZuWmdRc3BqSzA0YUtYZHJ2endfeEptRFk4dzk4?oc=5",
+      "source": "Moomoo",
+      "score": 84,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "b044eaaac7d3bea9",
+      "ticker": "AMZN",
+      "title": "Why Ethereum Is Following Amazon’s Playbook: Sharplink CEO",
+      "url": "https://www.coinage.media/2026/why-ethereum-is-now-following-amazons-playbook-sharplink-ceo?.tsrc=rss",
+      "source": "News",
+      "score": 75,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "77a460bdb6f4524b",
+      "ticker": "MSFT",
+      "title": "A rare second exit: AI startup Suplari acquired by Docusign nearly 3 years after Microsoft spinout",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPejYzVEt5YXNiZnJxLVpkalA2Y0g3RWdLNkZRUlpRXzd5X0FGSVhmZFVOOTdDXzJCczNFTllVY1F0SG93T1lmYzlBRzVHVk5jcWJPTExCaG5SdDZ4REtGSmZHNHBzcVRnY0dGT3hQLWF0UGlzN1ZKWHZ3XzRWZklQM3NqbnBmalBHeFdkcWowQ1RmZ0pZUU1YeV8xRmdtUnZhZHYwOE44N0dlUWxhM0lqblZ2OG1TVE9qdERqSERB?oc=5",
+      "source": "GeekWire",
+      "score": 75,
+      "tier": "major",
+      "category": "deals"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "e4452a78b238bd99",
+      "ticker": "AMD",
+      "title": "AMD Stocks Rise as $17 Billion Forecast Sets a 27% Growth Hurdle",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXBFeVozeVZ2QjRpeWVBVmQxM3RtVlpvdHVIanl5WkJzaHJPOGFIaXBoNEdiSmZsWHc2Smh5aVpZSV9tblRSTTEwNFRnYk5mV1FMekxzazZmellBZE85VHRiX2U5TmRqSkRVeXBTYmRsZkY4d0hmdG5OTGpLUUZYX1VfY011U3dsNkZmSjFNVkFoRGt2RFE?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "afb5ec4c47626c21",
+      "ticker": "AMD",
+      "title": "AMD price targets hold firm as analysts lift forecasts on AI growth outlook",
+      "url": "https://www.proactiveinvestors.com/companies/news/1101246/amd-price-targets-hold-firm-as-analysts-lift-forecasts-on-ai-growth-outlook-1101246.html?.tsrc=rss",
+      "source": "News",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "fbf4c798a0e7d9aa",
+      "ticker": "AMD",
+      "title": "AMD Reports Strong Q3 Performance with Revenue Growth and Positive Outlook",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaC1aX2xGMGpKeHJTM0ZubU5GMlFJbU85elliYl9zNUYwTmt4cUNqa0xWOTBGMEY4amVSbUpLa2I4Mzk0ZWxmWnBGeGFKQlhaNGxzQkdPQTRDckJqMkZreG5GZjltTUN0eU1HXzRGMkR6eExReHBZQlZ1cFU1dzRKMmkwU2NUczN0QndWQW9IVzNUeGw3cFR0NWw2ZExycEpWZkdVcVZxcEp2UzRVTXN4eFllWQ?oc=5",
+      "source": "GuruFocus",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "4fdd6ce2806aa3d8",
+      "ticker": "AMD",
+      "title": "AMD earnings analysis: questions answered and next catalysts",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjlPM3hVZXJETkMzZTBGRVZiUlVCZlZRMHZZby1mZVpLeDlERTFKejZZQ1luMGpteE9kemVOVFNvdEc5VWxPaUk1Y2ZGcTlLVk1TV2hRcngtbWhubGdDNUNaMmR3NUlrcWh5SENYY3UyRDRHWVVyUUgyM3ptT1RrNks1a0wxQmY2MkNFM0VEeGdKa05xWUJtdUhqWkFEeVUtdmU1RDlxbHk?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "earnings"
+     },
+     {
+      "id": "8b977557aded8f2b",
+      "ticker": "AMD",
+      "title": "AMD Guidance Points to Its First Quarter Ever With More Revenue Than Intel",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRDZEOHB5ck9sSFNXa0ZIcTNTbG82blRWNzh1cmY3TGRibjhCbkNYWldJVmx2RXdvVHVwQWpmMGhlb3Ewc19tVGdRbFk2eGMya042QkZ6SVZ1WEFMd203NDh6NVRwV0RXcHpWQ3FPRkN6Rk9zNXZBSzVCaXZKd0lJSTl2LVJ1SmhHMlU2OHBydjdmeUo4b2c0VzhkWkp6YlF6SUowNkVBSXVnZjV4U0HSAbMBQVVfeXFMUFZwYVpoWlZaVVdjTlZFSUpmZzZSME9rdXFwbW5QZUk3cnpWMnFpbVhPRWdqc3pUc3ZycmRpeVA1NkV3SWRRaUhJNkZwUzlRMTRFV2NONmV2TDY4bmpXZklRd1hTSjVSdHBPWXFoMkFKcXVUdjhCMHBZckdrczVianBWcF9zNWJNT2ZJQzlLUnI2Q3VyRld0S0REY3dWYzV4YlFtM2pxZTcyV2FTeHZXMG1xeTA?oc=5",
+      "source": "TechPowerUp",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Quantum computing": [
+     {
+      "id": "2d123602e0e36987",
+      "ticker": "IONQ",
+      "title": "IonQ Q3 2026 Earnings Tomorrow: Time to Buy Stock, Wait or Sell?",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUjF3U21kaHJSTkdveTNQcjlKTEp2YVlOU1JMQ29HMHZhSkJXQUdNWURQVU4ya0R0Z20xX2lwa0pKX3lfZTZncF93OTg0SFU0cWdrbm96WWpkY25DSXY3NGc2RzVBTXBXQmdHOGVIRG5CRHZ6eG5BdGptcklBZW1NNncwUXZUM3R4R2NwTG5wN09xalhPUUxUTEJkRQ?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "earnings"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "c59b9557e1d93320",
+      "ticker": "PLTR",
+      "title": "PLTR Stock Quote Price and Forecast",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OczhoclROTzRScHYxdzFkV05RZk5ValVkQmo2TEx5NUxIaGN3X1dXZ2d5SlJ5V3BTS3JsdEF1N0czV256MVhWUU9rUjlXRWJO?oc=5",
+      "source": "CNN",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "VST",
+     "change_pct": -13.88,
+     "price": 120.22
+    },
+    {
+     "ticker": "GEV",
+     "change_pct": -9.3,
+     "price": 832.77
+    },
+    {
+     "ticker": "CEG",
+     "change_pct": -6.71,
+     "price": 245.72
+    },
+    {
+     "ticker": "MSFT",
+     "change_pct": 6.68,
+     "price": 555.8
+    },
+    {
+     "ticker": "AMZN",
+     "change_pct": 6.12,
+     "price": 266.03
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": -5.87,
+     "price": 22.11
+    },
+    {
+     "ticker": "AAPL",
+     "change_pct": 5.31,
+     "price": 349.51
+    },
+    {
+     "ticker": "SPCX",
+     "change_pct": -3.81,
+     "price": 135.92
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 400,
+    "major": 32
+   }
+  },
+  {
    "id": "2026-11-04-midday",
    "kind": "midday",
    "title": "Midday brief",
