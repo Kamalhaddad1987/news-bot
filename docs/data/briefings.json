@@ -1,6 +1,171 @@
 {
  "briefings": [
   {
+   "id": "2026-11-05-morning",
+   "kind": "morning",
+   "title": "Morning brief",
+   "created": "2026-11-05T13:45:34Z",
+   "since": "2026-11-04T21:30:00Z",
+   "summary": null,
+   "groups": {
+    "Big Tech": [
+     {
+      "id": "2fb454ac7d60d951",
+      "ticker": "AMZN",
+      "title": "Amazon Launches Partnership with Uber Eats Featuring $0 Delivery Fee for Prime Members",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNW1CZ3ZvaG5ocmpucmYxcmRibFpzamx3RTdhNW9CdjBzTnU1SVVKRkNNNlh2dDkwU29SX3lfU2MtNDRtb2xDVkJ1anRURVhqZDVuS1lBcHlKUldZeFRFQ0dWQVFLNWlBelpnLUtGMFJmVm9jR2s4d1VBSkRVUGxoQmRHa2I3RFdsdjVveDVmcFgybmFUS0NIQ2RENzI4eE9kNHRTdW84X0oyTTVoNWVQSTNxMk1Qa1pZQzllY0d3M0VMUnVBN01jQ2tYYTNmUy1CcXlNT3hWdUE4QnR5MW9xOQ?oc=5",
+      "source": "Morningstar",
+      "score": 87,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "9156a33cdad797f9",
+      "ticker": "MSFT",
+      "title": "Microsoft rejects multibillion-dollar AI deal with UK’s Nscale",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnNKc0t2WlRGTk9fTmRoLXFJUWkweF9tNXY1UG1FZjUxdkhGVGtUYmlvMmtvS2ZpX3VabTE1VW1jaUNGalhsbTRENTNTZXVwb1dfZ2FDaUJwUkxhYWc0cTA4Rm5wdENKclZPTVRaQV8zT1VpcHV3eVFIUmJUWUdiWlVRRkk?oc=5",
+      "source": "Financial Times",
+      "score": 87,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "9b01fa3ab63e1dd8",
+      "ticker": "META",
+      "title": "Meta joins Microsoft and Google in offering voluntary exits to employees, report says",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSVlhSmp2ZlhOWGQxdEtKLW43RWNjYzhKR0ZYb2tLMmFRZVlSc0RIRFQyU3hRTzNiQmJ2R2RXN3QwUl96SG9kcE8tNVJyWW80blNwSlNmTnlTNFFleVRIVDVsY3lnRy16b0dXZ2RqQXlGNms1aTZlSHhacVVmeW5OT0RlVVR0M2NBelFnOExuQng2dEhtZ3JqWDY4bTVWLWg3TV9BRF9jMlo4aVo2VHAxQ1F6OUo2M2NLQ3ExbG81T0VGb0FBQmFHX1hsdVlxT1BYb0NqdXdGVWxMZG1HMmc?oc=5",
+      "source": "India Today",
+      "score": 82,
+      "tier": "major",
+      "category": "capital"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "2aa96135dabdecad",
+      "ticker": "NOW",
+      "title": "LTM and ServiceNow expand partnership to scale agentic AI and accelerate joint go-to-market",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ltm-servicenow-expand-partnership-scale-043000747.html?.tsrc=rss",
+      "source": "News",
+      "score": 87,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "d48047ade0b0b757",
+      "ticker": "PLTR",
+      "title": "Palantir’s CEO Just Said What Wall Street Doesn’t Want to Hear About AI",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1BKOTJVb1lrR1IzbS11ZzRLbXU1N1hDUzh4QTU3cmpiQlZaMjB2bERxUzZXQzRjaW5MMFpGM3JGUHB1RVVWeXVxX3lMOElvVzZtSVVYaFdaWlNfQjl4b2J6TE9QTm9vWHBvWXJJYmw4V2JLOFd4Z29lWHVfUVNYN29yX0xiQ2xNZUU2Wk9wbU0zS1FaakdPdHkxRFg2WDdUWG5CR01CRW16LU1aWmc3QVU2WQ?oc=5",
+      "source": "24/7 Wall St.",
+      "score": 84,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "e6be7100342b5eb2",
+      "ticker": "SPCX",
+      "title": "Morgan Stanley Sees SpaceX Stock Hitting $300 as AI Forecasts Explode",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNEFmVGpSUC0yUU4wVWV5cDlnRWNmRHQ2WFRsMDlmanFHTG1YbnN3TGY1bTRBNlF4b0h1RDhVLWpnQkZDTHVkZURvYWhJVms1X0dVczFVUnFGOHc1Uk0yNl9yaVJoU0V6M2p4blhRVnpsRUtxaC1fYkl6WlJuOEdVdHRySklzZ2RM?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "score": 84,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "f7045a14bda6e27f",
+      "ticker": "SPCX",
+      "title": "Elon Musk’s Starlink Deal Has ‘Tremendous Potential,’ Qualcomm CEO Says — Eyes FY28 Cash-In, Calls It Just The ‘Beginning’",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaC1HYWNoQzlEd0FrQVVjVzBCb0J5NEdlMnBidURlaE9jWThkbkxWZTVXOXBuMXpvTjQwS1RJSWZrZUhWODY3WWxsZVA4OE5aeEJjU1RDSXhMSVA1ejN3S3NjbVpNYVUyYjJ6WW5sQXRKT3hSVlFtSV9sa25pRnlmdmhqYkItQXJySHdLNnFDZjFTRkdLX0xiTk05RXluWUd2?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "3b4062e5ae9c307c",
+      "ticker": "AMD",
+      "title": "AMD is a 'data center first' company, says CEO Lisa Su",
+      "url": "https://finance.yahoo.com/video/amd-is-a-data-center-first-company-says-ceo-lisa-su-132618996.html?.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "1d3716f4194b0388",
+      "ticker": "AMD",
+      "title": "AMD earnings: $17B forecast would beat Intel for the first time",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeHR4MXBaekRzRlMtZkJ2TjE3MVkwbmhpb3Q1MWNueTVLVEVVSlpmb0tsdmxsZUxJY1p3a1RJUzg3S05xc1BpMEdZUWNMc1oyUV9wUnYyVzZiWFFTTlJnMkozdWFZdXQ4LURyTDVSQXJCSFRJSUhWY3hDNkNJQ2o0RUlR?oc=5",
+      "source": "The Next Web",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "05a1f1bbe4fc9641",
+      "ticker": "AMD",
+      "title": "A Quick Look at Today's Ratings for Advanced Micro Devices(AMD.US), With a Forecast Between $540 to $800",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNTU3N2F5cEtsRm94WG9IeXpUZld3TUt3emlTNkpTNER2VGdjLWNQX3BVZXplbV9qX3VvSlpEelY3WG9sejJBOWUyUER1WGFoMnhhTExPZUxHTVkzNHhzRHZwSENLellnS1dkc01Pd1F1RjBac2RseWxoTVlDZXlhMjlYUWU1TUxJTlNnTUFMN0RyUVpJUWNXRHJB?oc=5",
+      "source": "Moomoo",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "VST",
+     "change_pct": -13.83,
+     "price": 120.29
+    },
+    {
+     "ticker": "GEV",
+     "change_pct": -9.3,
+     "price": 832.83
+    },
+    {
+     "ticker": "CEG",
+     "change_pct": -6.71,
+     "price": 245.72
+    },
+    {
+     "ticker": "MSFT",
+     "change_pct": 6.68,
+     "price": 555.8
+    },
+    {
+     "ticker": "AMZN",
+     "change_pct": 6.12,
+     "price": 266.03
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": -5.83,
+     "price": 22.12
+    },
+    {
+     "ticker": "AAPL",
+     "change_pct": 5.31,
+     "price": 349.51
+    },
+    {
+     "ticker": "SPCX",
+     "change_pct": -3.81,
+     "price": 135.92
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 890,
+    "major": 110
+   }
+  },
+  {
    "id": "2026-11-04-close",
    "kind": "close",
    "title": "Closing brief",
