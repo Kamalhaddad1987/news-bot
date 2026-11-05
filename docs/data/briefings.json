@@ -1,6 +1,173 @@
 {
  "briefings": [
   {
+   "id": "2026-11-05-midday",
+   "kind": "midday",
+   "title": "Midday brief",
+   "created": "2026-11-05T17:32:50Z",
+   "since": "2026-11-05T13:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI chips": [
+     {
+      "id": "df6f1ab490fae868",
+      "ticker": "NVDA",
+      "title": "Box expands Nvidia partnership, unveils AI workflow builder",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamVIUEo5c3Y3Vi1MRDN3R3lZYWpFS09VQW1OandJZklqUDdOeTBlU1lZcFZZYTRzNFZEQi1Va0h6bzhIbG9zQnc4ajM1RnB5UUtPZURrdFBucHVQbUJCM1d5NW54MWZvTkNSRmJuYzFDT0lGXzZWSXRWemk5cVNUTkZiNDRXV0FoeEhqN3UydW1LZkpVVjVYMlVpZS1BR1puLUI1eDh1Zjd3ZFBtZ3E1VjBjeVZJX3l2SXFLX0h3LTROMENjZ3Jr?oc=5",
+      "source": "TradingView",
+      "score": 84,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "e6180d96fa2e9c3a",
+      "ticker": "AMD",
+      "title": "AMD CEO Su on earnings outlook, new Starbucks holiday menu, and Hilton CEO on hotel demand",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTd5dlA0ajlJV2VXbUl0R3NFcmZqR04yOE5VdEkxeDN2Wm5hRUppd0NwcTZGaGNmUVg2V2dIb28zZHJpekhMZjZOSVJGaExRemotTGNNR085bWRJVmVuUjludnJkaDhpQ2VHUGI1V2xIMl91ejdIUmNNSDhNLU9PN29WRDhEUWV5T0phRGt5VmtZUi1tR1g0eE80cGgzd3QzREhGaG8wakpuZ0d4UTI3MGFRY0FVUWRTcGROUHRtUFRiQk56VXM0WDNqN0s2cmFn?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "80a2520e7387dd02",
+      "ticker": "NVDA",
+      "title": "This Is the Number That Could Change Nvidia Stock’s Outlook for 2027",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMmFuRzBoLU1XbWdsTmNJdkdqR2NKOWNod1lYeG1GeHpXbFN2UUhRaTJMd2sxOWxheDlIZ2dIOTc1UkQtMURkY1NxeFVaTWdVcU5QTkJTbm9KR0wzbjdRdmhHdWZ1NDl0MkdjUVBjcjZhcTcwU2lPc0lLVUlFSjRzSVJaUGRfRGFtMWVCdGFlOTdsZDFzQWVRNlFNdXRUOUxFdUZtcDhZVjM2SGtIdW1Pcw?oc=5",
+      "source": "24/7 Wall St.",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "3b4062e5ae9c307c",
+      "ticker": "AMD",
+      "title": "AMD is a 'data center first' company, says CEO Lisa Su",
+      "url": "https://finance.yahoo.com/video/amd-is-a-data-center-first-company-says-ceo-lisa-su-132618996.html?.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "d48047ade0b0b757",
+      "ticker": "PLTR",
+      "title": "Palantir’s CEO Just Said What Wall Street Doesn’t Want to Hear About AI",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1BKOTJVb1lrR1IzbS11ZzRLbXU1N1hDUzh4QTU3cmpiQlZaMjB2bERxUzZXQzRjaW5MMFpGM3JGUHB1RVVWeXVxX3lMOElvVzZtSVVYaFdaWlNfQjl4b2J6TE9QTm9vWHBvWXJJYmw4V2JLOFd4Z29lWHVfUVNYN29yX0xiQ2xNZUU2Wk9wbU0zS1FaakdPdHkxRFg2WDdUWG5CR01CRW16LU1aWmc3QVU2WQ?oc=5",
+      "source": "24/7 Wall St.",
+      "score": 84,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "005dd9f980dfcb71",
+      "ticker": "TSLA",
+      "title": "SpaceX, Tesla stocks tumble as Democratic sweep raises questions on merger prospects, AI buildout",
+      "url": "https://finance.yahoo.com/markets/article/spacex-tesla-stocks-tumble-as-democratic-sweep-raises-questions-on-merger-prospects-ai-buildout-153753814.html?.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "91fd649c31b2bebf",
+      "ticker": "SPCX",
+      "title": "SpaceX, Tesla stocks tumble as Democratic sweep raises questions on merger prospects, AI buildout",
+      "url": "https://finance.yahoo.com/markets/article/spacex-tesla-stocks-tumble-as-democratic-sweep-raises-questions-on-merger-prospects-ai-buildout-153753814.html?.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "deals"
+     }
+    ],
+    "Quantum computing": [
+     {
+      "id": "2456d7d6ae4f412e",
+      "ticker": "IONQ",
+      "title": "IonQ (IONQ) Stock Forecast & Analyst Price Targets",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81U2htWVRtalRKbUVSOHE2SklMS0hpWVV0Z3BwOEhVanBwaEFTeS12N3dsN0FVZHdNQnVyOGpubTZkclQ2RkJmUnVqQUhia0xzZk9rOUdwUE8?oc=5",
+      "source": "TipRanks",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "834e489df7183022",
+      "ticker": "GOOGL",
+      "title": "BKH: Reaffirmed guidance as Google data-center agreements unlock significant long-term growth",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNU3FWZFZ6anFaQlhzeE5udWtxR3BlUVdaZXByY1lNMFo1Q1d2bW0zY3d2c05DQ2ZPa19yRzdFbHBxS29ySnM0ckQ0WkYtaGs3enNJYjRDTFo0eXRXWXdjZWhBWHZ2djdNdmUyZFRwUkNLSm95U0pTNzlHRXRWUGNYelhPRHVQbWhGMlRlMGJSSmxlLTZKbFdrUGJEYXgyeG1kNXdFWmgwajNVRkljRUJPMmI0bkQ0ZVQxWDFLUjhTeDFNaW90OUJVSTluYlgweVBYMjdsdkJQcVc1TFY4cEpSRkNKcDFZSk50aWljLTZkZTFNNk1ORFRWYXJ4cDFKNTFoQnBiVkFHMkpMM2M?oc=5",
+      "source": "TradingView",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "9e86f111ebcb1df0",
+      "ticker": "AAPL",
+      "title": "Apple cuts employee AI budgets as new CEO looks to rein in costs",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcUZkemROUV9ULWsyQWo3YS1aU0RGdGdqUEVyNDRSeGRkWlFXWXR1aXN0MzJrV19kOU5Rc055UlVyY3NtSjNOclNnUWRCUDVpLXo5cUM3Z0VXc0RTeVlwY1dTajhTbm5GWnJoMkJHZmlnLTNsamFSUFRRbGpxaEdmUXE4VWdQdw?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "score": 78,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "AMD",
+     "change_pct": -14.79,
+     "price": 416.49
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": -14.5,
+     "price": 8.88
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": -14.14,
+     "price": 9.62
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": -13.63,
+     "price": 19.11
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": -11.81,
+     "price": 26.05
+    },
+    {
+     "ticker": "TSLA",
+     "change_pct": -11.27,
+     "price": 341.76
+    },
+    {
+     "ticker": "PLTR",
+     "change_pct": -9.46,
+     "price": 155.45
+    },
+    {
+     "ticker": "TSM",
+     "change_pct": -9.38,
+     "price": 358.64
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 689,
+    "major": 77
+   }
+  },
+  {
    "id": "2026-11-05-morning",
    "kind": "morning",
    "title": "Morning brief",
