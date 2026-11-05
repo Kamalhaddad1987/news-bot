@@ -1,6 +1,173 @@
 {
  "briefings": [
   {
+   "id": "2026-11-05-close",
+   "kind": "close",
+   "title": "Closing brief",
+   "created": "2026-11-05T21:13:18Z",
+   "since": "2026-11-05T17:30:00Z",
+   "summary": null,
+   "groups": {
+    "Tesla & SpaceX": [
+     {
+      "id": "3b7eea19bf5374e2",
+      "ticker": "TSLA",
+      "title": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNejhLZFZnQzNsN2ZiT3hUdEVLVE9LTUZ0RXdkQzBRcHR4T3o0dHM1ZTlmTmpoM3NxMkdZUm12NklFaDVxcWk4Qi16QWVQZFlzbEppaVVxSXZsYjJuVFNRQUFyLUladHpIdXM2bHAzVVVRNUhFV1RQNW9HSC1uaGtvcm9hSVRHcld0c1ZJeFZ6QS1yZ2t4MU1rS1hlaEVaakFRdHRqOHoxaHF2ajczRm1oNU51RjZKeDZZQXVYN0RpS0xHV25LRE9ya3JLbzFXWlNIOXBZdVZKWmxjRVN1ai01a3hR?oc=5",
+      "source": "TradingView",
+      "score": 84,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "58d7cb0c5385ebba",
+      "ticker": "SPCX",
+      "title": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNejhLZFZnQzNsN2ZiT3hUdEVLVE9LTUZ0RXdkQzBRcHR4T3o0dHM1ZTlmTmpoM3NxMkdZUm12NklFaDVxcWk4Qi16QWVQZFlzbEppaVVxSXZsYjJuVFNRQUFyLUladHpIdXM2bHAzVVVRNUhFV1RQNW9HSC1uaGtvcm9hSVRHcld0c1ZJeFZ6QS1yZ2t4MU1rS1hlaEVaakFRdHRqOHoxaHF2ajczRm1oNU51RjZKeDZZQXVYN0RpS0xHV25LRE9ya3JLbzFXWlNIOXBZdVZKWmxjRVN1ai01a3hR?oc=5",
+      "source": "TradingView",
+      "score": 84,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "9b532e9bbdde98a9",
+      "ticker": "AMZN",
+      "title": "Amazon launches partnership with Uber Eats",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XMFdac25GbURMQ1RWRUVqTEp2SnVhUHpxaXJFNUU1Q2JPeFB2dHIwaVo3QVJSbU1KV3hqNnBZbUtTZzJWYUtCZ2g1cHFNdXg1Zks3R2JlRjFPdFVvdjlBRklTbHZQUjJYSHpTZ2loRzc?oc=5",
+      "source": "Drug Store News",
+      "score": 81,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "aaa3fdf449c7f83a",
+      "ticker": "AAPL",
+      "title": "Apple Stocks Move Lower as Investors Revisit Earnings Quality",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVI2MEFva0FhMWItYzNMZkdJLTFDQjhOR2VYZnZjc09iZVJqRzFCUzdLTkJoOVYyYmtXdDdtVXdvVVJQQk9FbHppWG9xSEx5QmVNQmVlZXR1dndfM2YzbHI4NzlaN1NEdzNRS0d0SnFRR2taa0gtWGlibGhndzBDWkdjOFl5Z0d6dGZIRFExSkJrTzF6bkZ4T2thZkJZRXM?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "earnings"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "1c88b6e3684033a6",
+      "ticker": "AVGO",
+      "title": "Broadcom Stocks Fall 6.42% With $21.7 Billion AI Forecast in Focus",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb0tKc1RJMm1wTTJBUUFCdW1VUHBWWnc1dEM5RTJzNnFVd1JxTmw0Ykl3bElyckVYLS1xQVdVT2txdVd3YTk0R0FHWU05SzkzRWJ3UUtTalRvblFzdVRxa1RqcXpMUGNuYmRZY1dmTzBualh1OE9EZzRhOVFCd0FyQWtnV0lvLTJvWWoyNVQydDBNcHNjV004WHRMNGpLSmdTNFYyT0VwMDUwVFNNOFRNQll0azRNdWVrXzZrOW5XTU14Zw?oc=5",
+      "source": "TradingView",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "7d243601bb398af0",
+      "ticker": "AMD",
+      "title": "HSBC raises AMD target to $540 but flags a troubling risk",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-raises-amd-target-540-174205993.html?.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "f80d6db0ea950e7f",
+      "ticker": "AMD",
+      "title": "AMD Stocks Fall 12.68% Despite a $17 Billion Revenue Outlook",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-fall-12-68-193227520.html?.tsrc=rss",
+      "source": "News",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "e0aa3beb6a0c680f",
+      "ticker": "VST",
+      "title": "What is Scotiabank's Forecast for Vistra FY2026 Earnings?",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelhGUS1BMnFUOFpySzhkNXdjRUU2NDNON3p1U2dzVnFTLTJZbmVsUk5jYzRaZUU3QVg5NXZaVFFWMVZFWXc3WmZBZkUyUnFEbWVJdk9mQXdnQ3ktajI1dzc2Vm5tZEZBeC1pS3dBMUhIdGM5aUplWWxBMUlfWXB4dzY0cmJ4R0J6OWlYU0o3b3Y4Qk5qWld6Z0VrWnluQWZjZm04ek9JY08yS3BTcDJHcE5rMDViampXTnBR?oc=5",
+      "source": "MarketBeat",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "36085268a11c4811",
+      "ticker": "VST",
+      "title": "BMO Capital Markets Issues Pessimistic Forecast for Vistra (NYSE:VST) Stock Price",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNREZzUngxUEVFcWV2aDJpWXdmT1dQZUNBMm4zZ1pPNFRsWDVCVWk0WWFCV1VxSk9YajVpdFZTR0FuZkttN1RrMkRMaFNxLW4xcWpiWXl4Vk1hdXphUHN5cUZXemVBN1NOYnNIZGwyeUt1WGR2WmphZTdxNDNueEhyZVN4bjdGazc0bnBQbENhWG5ORE1aclRScjh6UWRpdEVTeFJBUnF1ZTNOMkprN0Y3UzRqNHR5Mm9YN0N6ak52MWVYNW5xbTZ5SHlLVXR0b1FmemlmbGFTRHQ?oc=5",
+      "source": "MarketBeat",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "4c8760abb160d450",
+      "ticker": "ANT",
+      "title": "Anthropic, Plaid Collaborate on AI Consumer Finance Guidance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWcxMXFmM0JRbEZCUGYxYkNVVkpGZkdhQ01MV1l1MkdRel9DYmdHbWJNTk5WWnhTQ2JIZmw5TlBLY0xGZ2ZKMV9GY3BqRjZEbjBMeXM3Zi1CZ1RBUk1ab2NTNWNqcFoxZjRiRWl2SXZoWFNmcmVCNERGVU5oYU5XRm1zOFM0NDNiVzByTFlPb19lWWIzRTNya2JHZXdoanlBT0UyRFd0TlctYjk0MWFF?oc=5",
+      "source": "Bloomberg.com",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "AMD",
+     "change_pct": -17.26,
+     "price": 404.4
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": -13.22,
+     "price": 19.2
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": -12.81,
+     "price": 9.05
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": -12.13,
+     "price": 9.85
+    },
+    {
+     "ticker": "TSM",
+     "change_pct": -11.05,
+     "price": 352.03
+    },
+    {
+     "ticker": "TSLA",
+     "change_pct": -10.77,
+     "price": 343.69
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": -10.43,
+     "price": 291.53
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": -10.36,
+     "price": 26.48
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 517,
+    "major": 59
+   }
+  },
+  {
    "id": "2026-11-05-midday",
    "kind": "midday",
    "title": "Midday brief",
