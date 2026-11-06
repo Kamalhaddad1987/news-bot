@@ -1,6 +1,175 @@
 {
  "briefings": [
   {
+   "id": "2026-11-06-midday",
+   "kind": "midday",
+   "title": "Midday brief",
+   "created": "2026-11-06T17:22:14Z",
+   "since": "2026-11-06T13:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI chips": [
+     {
+      "id": "f9c27feafc2e4a7b",
+      "ticker": "AMD",
+      "title": "After AMD's gaming revenue crashes 40%, CEO Lisa Su declares \"We are a data center-first company\"",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1JkYWJpZEJ0YzdLT3hOSDBnSTZERkIzbkl5ZGU4eTB6U0k4a01maHlNeVQ1aER5elpQYkhfMTEzZVhWbFJIZzBOMWV0OHF2WjNLY3ZremU5S2RMRjVUcGh5bDN2aDNNV0w0dDhVZ20zVm1lbjJUdWdreGVyU0lkWHFycHFMSXdXd1p4ck94OA?oc=5",
+      "source": "TechSpot",
+      "score": 84,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "a116e8d6be066e5d",
+      "ticker": "AAPL",
+      "title": "Apple Is Borrowing $7.5 Billion, Its First Bond Sale Since 2025",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0NtVmRmajJjQzRtdHlPazd1dFhDTzdVaXpydXRyVThkU3hqaHpnczNDY2pKckphSGRpSzN3T0dkekJEd2U5eDJOZGl3b0ZjQUZ3Ylc0T0NzN1drdk1odWpBV3g3NnZaOF8xUjdYM1J0YkR0MjZuWE5hcnRaQzY4ck9kWF9RQV9pNHBveHJ4REp6QkxBR0g3MHJjTnRBb1owSXJwS29lVy0?oc=5",
+      "source": "24/7 Wall St.",
+      "score": 82,
+      "tier": "major",
+      "category": "capital"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "2eedd80ccd8f88b1",
+      "ticker": "OKLO",
+      "title": "Oklo stock climbs as revenue and loss beat forecasts",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ1J5MUNSb2N1NF81TEh5OXpIWnZvMGpEdDZ3WDJJdWVyQ29VZ3FfN2RKRzBRNzMxbmJPRTJBQXB0VzdVcDhmNGgyb1M3Rm13TDBlOG1vVVpnQks2V3pSaDJJN0VQeWhyVlA3UFE3YnZCYUlzZ1p1bEZWb1hQdmZ1Wm4yTl9TTWhGZTk1M0J2NllGVkp3QlpTbGlNakVvWTFyMHBLdWpSelNTclZ5b0IzUUk1bU1qYWthb195ZWxraFU?oc=5",
+      "source": "Proactive financial news",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "43597586ea49059a",
+      "ticker": "VST",
+      "title": "Vistra Shares Rise 5% as Q3 Profit Surges Despite Revenue Miss, Raises 2026 Outlook",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUFMNnk5VkxGYnVVQXlrNWtJMTRLX3lrYXBQbTdjX01YU2lBU2p2WWZaRl96MnNPXzgyN0lsRG91d3hZTXNDQ1g0eWl6MWVVMW52WGJpM011d2puMmZIRllWNFdMbTVyNUprbXYxZS0tYzJwY19qY3FidDlNRGxWN1NXOVY3MDQ?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "0cccea9363d5b0ff",
+      "ticker": "VST",
+      "title": "Vistra Lifts 2026 Profit Outlook as Record Quarter Powers Shares Higher",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TcHZtenRmZ3I0T2twdWF6S2NYSktVMzJ2Z0VXZ3drVmNBNFMzcnowSXpvUEVadmlzMi10T0tJdGZPYmJaOVozUG9Pc0s5Q3Z6cWhoVkRTaC1fNERKVTFFNnVON3BxcWJJQjdPMGprUS1KV1lKcVE?oc=5",
+      "source": "BigGo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Quantum computing": [
+     {
+      "id": "4190f1b5f565cd24",
+      "ticker": "IONQ",
+      "title": "IonQ's Q3 Beat, Higher Guidance Supported by Superion 256 Demand, Morgan Stanley Says",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ionq-apos-q3-beat-higher-160951629.html?.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "c58ffdbf3be412e6",
+      "ticker": "IONQ",
+      "title": "Quantum Computing Stocks Rally On IonQ, Quantinuum Q3 Results, Guidance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXVJaVVhU3ZrM09HTkpwRW9ZWDUxRS1mS3RyT3BRZFIxMmVBaFpGNFVIYjNjUWJ6NUdFdVNRQVZYbTY0Sy1hT1NDak1tMVdfY1Y3ek1DSVBfbWJlMDdYT2phSHRsbEpEbHR2c2t6V192VVhQUkRDajB0eGV6N3FhZXYzMUdRaHFTNkRtRl9qY1RmejFsanR1VFRKYndLSnF0?oc=5",
+      "source": "Investor's Business Daily",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "75e3841136b59b53",
+      "ticker": "QBTS",
+      "title": "QBTS Stock Quote Price and Forecast",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45TnREUlBqSDRIbFhYWi1VOUZ0NUZnLW1INTJWaDlfVTUzWFFtSEpUOVlxQ0ozZ3BORTNYWE9Send1bnhrV3FaMWN3YW9FUVQ3?oc=5",
+      "source": "CNN",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "9046ba4e21fb1f69",
+      "ticker": "ANT",
+      "title": "TradFi News | Anthropic IPO: Valuation Estimates, Listing Date and First-Day Outlook",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ha1E4dmxLSmxtekgyWFhCTWU1anV1dDROdW54THN2UFgwRU1wcXBPck45MFhydGNOTVlSME01WlBKQUFFaHIzN3hCaU1kQy01b05oYVZhQXZRQnc3Mm9fTWpDdEo?oc=5",
+      "source": "Binance",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "c6c0997258819ee8",
+      "ticker": "TSLA",
+      "title": "How much TSLA stock does Tesla CEO Elon Musk actually own?",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHNKOXd2MHp1RWEwUFZuTkJnN1Flc2pQVDdRMU1QSUJyRVJjcFNLQU9pa3lvSXZxdklCQ24zUzNDNDBJRi1GZ0tfRkhfU21UNkVEM0N3QkZ5d29haUlHMzNrWXd4Vkg1Vy02MzZ5UmJ5eWxoVUloT2t2S1N6T0lnUw?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "score": 78,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "OKLO",
+     "change_pct": 22.21,
+     "price": 23.46
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": 17.26,
+     "price": 11.55
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": 16.84,
+     "price": 30.88
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": 15.25,
+     "price": 10.43
+    },
+    {
+     "ticker": "VST",
+     "change_pct": 10.69,
+     "price": 124.96
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": 9.76,
+     "price": 443.89
+    },
+    {
+     "ticker": "SPCX",
+     "change_pct": 7.26,
+     "price": 132.59
+    },
+    {
+     "ticker": "TSM",
+     "change_pct": 5.93,
+     "price": 374.06
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 760,
+    "major": 105
+   }
+  },
+  {
    "id": "2026-11-06-morning",
    "kind": "morning",
    "title": "Morning brief",
