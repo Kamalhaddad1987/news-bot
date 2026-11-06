@@ -1,6 +1,173 @@
 {
  "briefings": [
   {
+   "id": "2026-11-06-close",
+   "kind": "close",
+   "title": "Closing brief",
+   "created": "2026-11-06T22:02:43Z",
+   "since": "2026-11-06T17:30:00Z",
+   "summary": null,
+   "groups": {
+    "Big Tech": [
+     {
+      "id": "514bc8154ebcdec5",
+      "ticker": "GOOGL",
+      "title": "Google Acquires Crusoe’s Wyoming Data Center Site",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlF4U2xWUlNOdXRsU3pqczk5eGNLREZubzJHZ1NTNTlNbnVRZzlGTkNPaXVpeGl1Wm1wYXo2RmJrMWJ4SExoNFRkYVV6VzY2Xzd5LW9zRXpqVmNmTm0zazY0S19pLUhWTURJNVE5Qlp2RDJzckRacEc3V3NIblh4UWowOHB5UU90?oc=5",
+      "source": "Crusoe",
+      "score": 87,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "39ccc79474b1c182",
+      "ticker": "MSFT",
+      "title": "Microsoft Is Winding Down Oracle Deal to Rent AI Cloud Capacity",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXFhaDRlRjBvZktGaFM2eExYdGpJakRNazYxc2Y2UWoyMDJzS1VFb2Z5ZTNkSVhMRHBTbUdtb25kZHJUdkpRVXRQU1hQVGtIbS1maVNoeGhSZ2pHOGF1aDY3R1AwSTU4TmlmSEdEc19RYlowVXAzc0NlSzdVZ2xBZXduc2FzT3ViQ0xDS3RYdklKMzFnVzRtUkZKQnVBWlBDTWtGcGZUU01ZSktQTG5aOE9lbXE?oc=5",
+      "source": "Bloomberg.com",
+      "score": 87,
+      "tier": "major",
+      "category": "general"
+     },
+     {
+      "id": "dfa06f334930f2d8",
+      "ticker": "AMZN",
+      "title": "Amazon's CEO Andy Jassy Just Announced Huge News for Amazon Investors",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWRaT1l6VHFoLWlFNThuekNIcllxd2lQbWxZYkM4Qk5EVjNlQ0E4di13cjk4UXQ4YjdnQWRVZjg4ZWpPTGlEeHpJUW40YllHbUxQY09Gb2UzSENJam9KbEJyb3pURzdGZ3ZvbGhwcU1weUFqZk5uTlVaS1FmRHkzWTR1NlVCZEthQWxpWWFZbVdFZ1c2?oc=5",
+      "source": "The Motley Fool",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "d6982b797d8c5a75",
+      "ticker": "ORCL",
+      "title": "Microsoft Is Winding Down Oracle Deal to Rent AI Cloud Capacity",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXFhaDRlRjBvZktGaFM2eExYdGpJakRNazYxc2Y2UWoyMDJzS1VFb2Z5ZTNkSVhMRHBTbUdtb25kZHJUdkpRVXRQU1hQVGtIbS1maVNoeGhSZ2pHOGF1aDY3R1AwSTU4TmlmSEdEc19RYlowVXAzc0NlSzdVZ2xBZXduc2FzT3ViQ0xDS3RYdklKMzFnVzRtUkZKQnVBWlBDTWtGcGZUU01ZSktQTG5aOE9lbXE?oc=5",
+      "source": "Bloomberg.com",
+      "score": 87,
+      "tier": "major",
+      "category": "general"
+     },
+     {
+      "id": "54287c424ed001dc",
+      "ticker": "ANT",
+      "title": "Stock Market Outlook: Nvidia Earnings, Anthropic’s IPO, and the Fed Rate Decision",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVM5RWx2cGx4U3R0Z3pJMzRzQ1NWaURpbkhvRnRXbzhPU3dVcVRmbVBuT05DOUJ4aXduWGhWYXBzQVZSbVhpU3FHVkQxdnBIWEFLSHBzNGJuc2VWR0Exb3F4dkFSazFNM0ZvQkhrYm1jMzlQcDVGVGQ0RUlYWW5ZVUIzRng1Z3YxZFZmaC1TbWUzSVhoTUJfY3Nn?oc=5",
+      "source": "Barron's",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Quantum computing": [
+     {
+      "id": "e80b7a0e9671d339",
+      "ticker": "IONQ",
+      "title": "Rigetti Soars 17%, D-Wave Up 17% as IonQ Raises Guidance to “An Industry Record”",
+      "url": "https://www.tikr.com/blog/rigetti-soars-17-d-wave-up-17-as-ionq-raises-guidance-to-an-industry-record?ref=yahoofinance&tlnk=yf-261106-cpj55426&.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "044445be3552d888",
+      "ticker": "RGTI",
+      "title": "Rigetti Soars 17%, D-Wave Up 17% as IonQ Raises Guidance to “An Industry Record”",
+      "url": "https://www.tikr.com/blog/rigetti-soars-17-d-wave-up-17-as-ionq-raises-guidance-to-an-industry-record?ref=yahoofinance&tlnk=yf-261106-cpj55426&.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "9c7f22308a7265cc",
+      "ticker": "QBTS",
+      "title": "Rigetti Soars 17%, D-Wave Up 17% as IonQ Raises Guidance to “An Industry Record”",
+      "url": "https://www.tikr.com/blog/rigetti-soars-17-d-wave-up-17-as-ionq-raises-guidance-to-an-industry-record?ref=yahoofinance&tlnk=yf-261106-cpj55426&.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "cbe698916d1aae5d",
+      "ticker": "SPCX",
+      "title": "Elon Musk Says SpaceX Sales Are ‘Exploding’—and Forecasts Revenue Twice Wall Street’s Estimate",
+      "url": "https://finance.yahoo.com/m/33f9fc20-fa78-3956-8228-680794206f3a/elon-musk-says-spacex-sales.html?.tsrc=rss",
+      "source": "News",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "8da6881348437542",
+      "ticker": "NVDA",
+      "title": "Stock Market Outlook: Nvidia Earnings, Anthropic’s IPO, and the Fed Rate Decision",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVM5RWx2cGx4U3R0Z3pJMzRzQ1NWaURpbkhvRnRXbzhPU3dVcVRmbVBuT05DOUJ4aXduWGhWYXBzQVZSbVhpU3FHVkQxdnBIWEFLSHBzNGJuc2VWR0Exb3F4dkFSazFNM0ZvQkhrYm1jMzlQcDVGVGQ0RUlYWW5ZVUIzRng1Z3YxZFZmaC1TbWUzSVhoTUJfY3Nn?oc=5",
+      "source": "Barron's",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "IONQ",
+     "change_pct": 23.42,
+     "price": 32.62
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": 22.66,
+     "price": 23.55
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": 19.29,
+     "price": 11.75
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": 18.01,
+     "price": 10.68
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": 11.04,
+     "price": 449.04
+    },
+    {
+     "ticker": "VST",
+     "change_pct": 10.55,
+     "price": 124.8
+    },
+    {
+     "ticker": "SPCX",
+     "change_pct": 8.62,
+     "price": 134.27
+    },
+    {
+     "ticker": "TSM",
+     "change_pct": 6.33,
+     "price": 375.44
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 575,
+    "major": 73
+   }
+  },
+  {
    "id": "2026-11-06-midday",
    "kind": "midday",
    "title": "Midday brief",
