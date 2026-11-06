@@ -1,6 +1,175 @@
 {
  "briefings": [
   {
+   "id": "2026-11-06-morning",
+   "kind": "morning",
+   "title": "Morning brief",
+   "created": "2026-11-06T13:42:00Z",
+   "since": "2026-11-05T21:30:00Z",
+   "summary": null,
+   "groups": {
+    "Tesla & SpaceX": [
+     {
+      "id": "d1525da858fd313a",
+      "ticker": "TSLA",
+      "title": "RIP the Cybertruck: Elon Musk says Tesla will wind down production of its most polarizing EV",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkxvb0RxQjJFZ1FfQ1RaSWpBODJjOGcwUzNrM1BiNTRVWGxxR3ctZkV2OEV4UVFlQTYyWm9jb3A5ajBkenFhOFItd2ZrdEhJVE8yNUZCN2JlNXpPb0V5dThoUnp4SXU4TkN5VURvZ0M3aXh1WDdDejFOQk9pdXoxdmpSakg0NHUyc2hPR0QtMnNIbWc5SFEwWXpwV25TbDRRblFYbA?oc=5",
+      "source": "Business Insider",
+      "score": 87,
+      "tier": "major",
+      "category": "general"
+     },
+     {
+      "id": "84351fde067bec5a",
+      "ticker": "TSLA",
+      "title": "‘He wants the whole bag:’ A SpaceX-Tesla merger could help Elon Musk gain major control — without hitting lofty goals",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUlXM2pweXIzakUyVF83MUV6UUVMZFA5T0U0ckZuVGhidUMtUkIzX25EQ3RmM29UMVRTRmF4S21fajBIMW9uT2VIWGNVZ0hxSzlwWHRTS01xZVB6am1Yb25zcVpxSzkxWjRBN3pSUUxIUmhHNGlDYkdERXdYVDBYcjE5Y3dUcVRiUW1JeGctdmFKYVlJR3JrOQ?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "deals"
+     }
+    ],
+    "Quantum computing": [
+     {
+      "id": "c58ffdbf3be412e6",
+      "ticker": "IONQ",
+      "title": "Quantum Computing Stocks Rally On IonQ, Quantinuum Q3 Results, Guidance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXVJaVVhU3ZrM09HTkpwRW9ZWDUxRS1mS3RyT3BRZFIxMmVBaFpGNFVIYjNjUWJ6NUdFdVNRQVZYbTY0Sy1hT1NDak1tMVdfY1Y3ek1DSVBfbWJlMDdYT2phSHRsbEpEbHR2c2t6V192VVhQUkRDajB0eGV6N3FhZXYzMUdRaHFTNkRtRl9qY1RmejFsanR1VFRKYndLSnF0?oc=5",
+      "source": "Investor's Business Daily",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "430525f4eb791d50",
+      "ticker": "VST",
+      "title": "Vistra Reports Third Quarter 2026 Results",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbDVzUG11TmU3SE5ua3pmMDRZZlZJTGdtMVJiMnNZRExfbFAzeGh1bHFMYVM0bVVMWTRJZUtONGdFbW83bm5lMWJDcHJhdGJmbUZWcHRBV2VjNWJzRDdxVHFseUlPM3IwdUhBUFpURFcyZFZtMkhmYnJzQjZHUkRjeE9sQV9WZG1FT0JGZ0hFVU9tT3dDRXVDSmZiZDBHX3UxQnl3Nw?oc=5",
+      "source": "TradingView",
+      "score": 81,
+      "tier": "major",
+      "category": "general"
+     },
+     {
+      "id": "5fac102a05258a1d",
+      "ticker": "GEV",
+      "title": "GE Vernova Is Up 18% in 2026 After Three Guidance Raises: Take Profits, or Buy More?",
+      "url": "https://www.tikr.com/blog/ge-vernova-is-up-18-in-2026-after-three-guidance-raises-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261105-wg2jv6gx&.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "01b777d88d9e9d3c",
+      "ticker": "AMD",
+      "title": "Palantir and AMD Just Reported Earnings. History Says This Will Happen to Both Stocks Next.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWU9IV2Vjb0FLUTdvSjdQZ2RIOFo5S0xyaTk0S0RaWU55RWx0RUMyY1FOSURkV3ZzZFFUbWNjNl8yTzZTRnlHSHcxM1BKV3F1alp2eFRFdGdtMHFMdlNGbjJxejNlN2Z2MGZoMXlOc0c0QW1HNGtPdWVZLURxVld4XzE0eU1pZ0JtWW95MFBTdmdVeU12TG5lbQ?oc=5",
+      "source": "The Motley Fool",
+      "score": 81,
+      "tier": "major",
+      "category": "earnings"
+     },
+     {
+      "id": "25333b38590a855c",
+      "ticker": "NVDA",
+      "title": "Nvidia Stock Forecast: China Shipment Delays Put $173.69 in Focus",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOczhYWFR1YnE3VXBBNUpyZld3eFlvSzBzTXZZZzBkWUtyd1dzcGpZVVYtdk1VVFRTMkVxUzNTcmN5UEdiYnRYQmFpRnA1V1ZyZjMxcmZ5YzVuYmNibUJ1X1BnbEV1QkQ1UUFRdy16SHliUVVvUmhGT2MxZEFuTmxkVG5EQ013Tkg0S1hCZk9SVDAwQTN0WXB5cWd3WjVvR0pKQVlsWV9xYTFZc2dMakpjcy16M0pDdm1HVzBYSFdBUks?oc=5",
+      "source": "TradingKey",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "7553eb619e0e45a5",
+      "ticker": "PLTR",
+      "title": "Palantir and AMD Just Reported Earnings. History Says This Will Happen to Both Stocks Next.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWU9IV2Vjb0FLUTdvSjdQZ2RIOFo5S0xyaTk0S0RaWU55RWx0RUMyY1FOSURkV3ZzZFFUbWNjNl8yTzZTRnlHSHcxM1BKV3F1alp2eFRFdGdtMHFMdlNGbjJxejNlN2Z2MGZoMXlOc0c0QW1HNGtPdWVZLURxVld4XzE0eU1pZ0JtWW95MFBTdmdVeU12TG5lbQ?oc=5",
+      "source": "The Motley Fool",
+      "score": 81,
+      "tier": "major",
+      "category": "earnings"
+     },
+     {
+      "id": "a5086f430a0cc03d",
+      "ticker": "ANT",
+      "title": "Anthropic links Claude to Plaid for finance guidance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakNXYkNyNlBLeXFPREZxQjVRdG1FQjRMOW1NbVVmZWJDUldWUW43YXBVU0ZlcU5HcWlmWHdnVlpDbWtEcXJIOUhqUks0UGt2N1NhQklrQmgxUmZXeDZwNGEwUFUxV2ItYWtidlRLa0xjYjFTbHVHQzdMOTk1ZXRWQ2dCZTNnb0pHZ2dnYTZqZ1pFckpBdE50MXpibEtQV1NFOFc1QllYaw?oc=5",
+      "source": "The Paypers",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "f02ecc7af82b78f8",
+      "ticker": "META",
+      "title": "Dan Ives Forecasts 25% Drop In Capital Raises for MSFT, META, GOOGL, AMZN as 2027 CapEx Peak Sets Up ‘Mas",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOX1RMTE1HMnNUV2w3Tm1Rb21TcXJzbzFVcEwtTlJQMVhzVEpOdVhOUE1fd3N2NFlfSzlrLWY3TTlNQmlaMVBMUjh1MTI4bE5aS0E3cG5FbjFXbFctd2hwX1lKUFNTOTlhNnh6UnZpN1VfYTlweWxKSlFDZTZ1VGF4M1ZlSzR1MHRHOERtMFpkQ1lta0VfRzJHdzR5WktwQU9lNVFUR3JJREE1cjN5RjJCemtfZlBFMm5DWHVsVlpkM0VWdXRIQ1pXdlJqU2lXZUpPX3V3NUQxUVVXNGVpVTZ0VXVjblNWYU1IYS1uek50NmdPVEdfdFlYTWF3S3l2TXMwQ1BkcmNjOHY4S2w3UHBBN29R?oc=5",
+      "source": "Benzinga",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "AMD",
+     "change_pct": -17.26,
+     "price": 404.4
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": -13.2,
+     "price": 19.2
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": -12.81,
+     "price": 9.05
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": -12.13,
+     "price": 9.85
+    },
+    {
+     "ticker": "TSM",
+     "change_pct": -10.78,
+     "price": 353.1
+    },
+    {
+     "ticker": "TSLA",
+     "change_pct": -10.77,
+     "price": 343.69
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": -10.53,
+     "price": 26.43
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": -10.43,
+     "price": 291.53
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 882,
+    "major": 105
+   }
+  },
+  {
    "id": "2026-11-05-close",
    "kind": "close",
    "title": "Closing brief",
