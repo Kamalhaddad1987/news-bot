@@ -1,6 +1,173 @@
 {
  "briefings": [
   {
+   "id": "2026-11-09-close",
+   "kind": "close",
+   "title": "Closing brief",
+   "created": "2026-11-09T21:15:19Z",
+   "since": "2026-11-09T17:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI software & cloud": [
+     {
+      "id": "3c3ffbe9e024864f",
+      "ticker": "ANT",
+      "title": "Anthropic debuts Claude Fable 5.2 and Mythos 5.2 models as IPO nears",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzFqZVNvejN6MlpTQUxQLXhtc01LdDBTaTk4bjdQYjdrQkhTNXdpeGxMN1JYeWJEYVBia1NPWUtfbl9ldlA5QlNPaHRGT3BJOW5ITHN1M2tWQ3paN0pjUkFCejFBUmtHamx1SUtRVWxJT2cyQVIxT3BkT2NHVGI5Q09venBJYWtTYzNhYXZRa1UwNEpQQjE2TUJtb0JGd1g5alRGaVZSdzU3ZWhPc2VSRkthbnEwUQ?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "score": 82,
+      "tier": "major",
+      "category": "capital"
+     },
+     {
+      "id": "2faccaba63eab039",
+      "ticker": "NOW",
+      "title": "ServiceNow (NOW) Shareholder Investigation: Slower Contract Growth Guidance Prompts Investor Scrutiny",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdnNJNmMyWUhOeDVYUkhJa2F2aHNhRXVlOUktZWJzcFFvOGdtVlhDc2dLNVZ0dnR4ODJRRHRtcmpCYllrR1NTb2F1Rnl6X3hmU2tZRXJpRnY3UVhHT0pJNzZQa1JvcEJoNUY4R1d6cVhDV2ZEMkVua2NpMXZTZDB0b1lIb29IVFp1WlJBNTJaZk1ONzAwZ295akpjbUh5Q3pLSlBYLUhYZWtSb2RGcVZWa1dwQUdlRFNfamgyV2VqQ18yTkw1LXNtT3ZLaGFsSmJkdV9LeFNQdHg?oc=5",
+      "source": "TipRanks",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "742bbc136c88723f",
+      "ticker": "NOW",
+      "title": "ServiceNow Fans AI Fears on Quarterly Subscription Sales Outlook",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZZHZ2dmQwb2ZQN1RHMWNvbUlNcGRSQnN2cHhidWhHZlptX3JNanpGWkRsMzc2cFpVSkdpTUZqNDNXY0NxdTVxeTg5UWpORjhHYUs1OXpkckduNXF2WjBhUEc5cTJpdGY5YUxraTZnY2t6S29CemNjcGxKUko1UQ?oc=5",
+      "source": "Barron's",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "b33fedb995822a64",
+      "ticker": "TSLA",
+      "title": "Cathie Wood's ARK Invest Says Tesla's Robotaxi Cash Flow Could Bankroll SpaceX's AI Ambitions, Backing a Potential Merger of Elon Musk's Two Companies. Is This the Thesis That Finally Reprices Tesla Stock?",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM3ktWHhMOWxVdF9zWXc3cThySWRYR0g5aVdlVHFFZlh3Slctb19NTmgyTWxDZHo1TzByYmN0Nm8zYUxscm04OENOVjkxNThyNUNmX1BlV29kMi1ubjRoNURKOTNlNkxjcWFUYXVGYVc5djVjOFNWNnFIbmlBSTJxTkFmR1NKZ3ZtRzR5dWJwcE1QRl9DTlM0?oc=5",
+      "source": "The Motley Fool",
+      "score": 81,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "0f12a2dfe8d1bb9a",
+      "ticker": "SPCX",
+      "title": "Cathie Wood's ARK Invest Says Tesla's Robotaxi Cash Flow Could Bankroll SpaceX's AI Ambitions, Backing a Potential Merger of Elon Musk's Two Companies. Is This the Thesis That Finally Reprices Tesla Stock?",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM3ktWHhMOWxVdF9zWXc3cThySWRYR0g5aVdlVHFFZlh3Slctb19NTmgyTWxDZHo1TzByYmN0Nm8zYUxscm04OENOVjkxNThyNUNmX1BlV29kMi1ubjRoNURKOTNlNkxjcWFUYXVGYVc5djVjOFNWNnFIbmlBSTJxTkFmR1NKZ3ZtRzR5dWJwcE1QRl9DTlM0?oc=5",
+      "source": "The Motley Fool",
+      "score": 81,
+      "tier": "major",
+      "category": "deals"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "8be6bde6b179a8cb",
+      "ticker": "CEG",
+      "title": "Constellation Energy Soars 10% as Guidance Raise Shrugs Off Data Center Backlash",
+      "url": "https://www.tikr.com/blog/constellation-energy-soars-10-as-guidance-raise-shrugs-off-data-center-backlash?ref=yahoofinance&tlnk=yf-261109-5f9jrrj4&.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "ba0be20b3f46f087",
+      "ticker": "CEG",
+      "title": "Earnings call transcript: Constellation Energy tops Q3 2026 forecasts, shares rise",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVGZvckFOTHcwajY2dVNGOHpZVHVmWFVCVjlPT2dBSkRQVm5nMjlfYmctTEpRNnk5VVdYaGVQRVNST09aWnBGeFNXaXNkRTFBUllGeVpvVk9nTEZ3anU5QVFfMmM5Vm5zaVc4VlMyNGdpeV9meUlobjJOb2dsaEpDNkdzQzhNT2NSbFc2Z0R5amhfOVpkT0dCV2hlRmFsN2IxbTh0dkFQTGhCZW1EVjNyWlpBSGN4ZC1ldkdaQ2VqbndwOFJ4Z1JSOHFSc1hXalRDY3lXZllxMFU?oc=5",
+      "source": "Investing.com Canada",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "67e94556dcc807db",
+      "ticker": "CEG",
+      "title": "Constellation Energy Stocks Jump 6.94% After Q3 Beat and Raised Guidance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVJrcGVLSVZHQ1BhNHE5NmFmVEVvdnpwQWFQbmNpN1JIVklrWXhYMnlvR21sSkstU1Vwd1JBSjk1RTBmTUI5NkwxSkdEZEgwUXdLR2FIVW9XQXp1Uy0xcjBVOE5xcjQ4TTl2QU1PcC1wd20tWjJsTjE3ak1obk1jSWlQeFY1dktKQUxJTWZ2T29VWTk3WEE1NmM1aG9wSnVj?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "5080b799abd25f77",
+      "ticker": "AVGO",
+      "title": "The Real Winner of Google’s $135 Billion Chip Forecast: Broadcom",
+      "url": "https://www.tikr.com/blog/the-real-winner-of-googles-135-billion-chip-forecast-broadcom?ref=yahoofinance&tlnk=yf-261109-h64jj3hh&.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Quantum computing": [
+     {
+      "id": "c0c8173942f9fbca",
+      "ticker": "IONQ",
+      "title": "Weekly Recap: IonQ raises revenue outlook and completes Elisity acquisition",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalI1endybmVzNmd4RmZ2SzJjOURpaXpJR3BFc3RoU0kxWndtZFVlV18ycDhEWlJkWlU4TEZQSWczNW5hazk3SDYybS1MZlFYYmZtbVRBUHNMRGFvTURUVnVTRGdFWmg3ZmZSRXZQRnpUTEJKTm5qYXl1SThCQXVaNk1WYWtqV01CSm9xS0RrUzRoQ1ZHSGJtZXhUcXBlaDdMa0FkY05QVHhyZWtYQ0ZPdm1mamI3SFlETHhzdzVEc1RNRVpfMWw0NWxVZDgybkJyV0E?oc=5",
+      "source": "TradingView",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "OKLO",
+     "change_pct": 13.97,
+     "price": 26.84
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": 13.26,
+     "price": 508.58
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": 10.47,
+     "price": 12.98
+    },
+    {
+     "ticker": "CEG",
+     "change_pct": 10.46,
+     "price": 276.09
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": 8.78,
+     "price": 319.48
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": 8.34,
+     "price": 35.34
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": 7.4,
+     "price": 11.47
+    },
+    {
+     "ticker": "VST",
+     "change_pct": 7.31,
+     "price": 133.92
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 528,
+    "major": 95
+   }
+  },
+  {
    "id": "2026-11-09-midday",
    "kind": "midday",
    "title": "Midday brief",
