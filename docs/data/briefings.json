@@ -1,6 +1,169 @@
 {
  "briefings": [
   {
+   "id": "2026-11-09-midday",
+   "kind": "midday",
+   "title": "Midday brief",
+   "created": "2026-11-09T17:29:55Z",
+   "since": "2026-11-09T13:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI chips": [
+     {
+      "id": "0c5d37948170a9ba",
+      "ticker": "NVDA",
+      "title": "Nvidia Stock Falls on Report of CEO Probe Over Alleged Spy Effort",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-falls-report-ceo-134026922.html?.tsrc=rss",
+      "source": "News",
+      "score": 87,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "38ec331bf47ec534",
+      "ticker": "NVDA",
+      "title": "Nvidia's Jensen Huang admits to affair with suspected Chinese spy, raising security concerns",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaFdNWVk4eVg4NGtBM0h5TzJBM0J1NkhmRGZsT1ZfbEJTSmxiU2trOE9WVUlack9sMnlRM1NDUlN5LVFLdE9uT0dGNFhTb0RFbm9GVWdLZktzUDk0bzZuclo3VDFtbFo3Tk96bmpLUWFRdHh1X1FLQ0xGaHFNRDhfcjNoS2c3cEJDLU5VQUtnVGhVZHdhOGlOQlhhaWJNMTBlMjkxeUtYbFN0ZTZzVG96WURfNEJHcmlpclpNUVlUM0Q4WjU0UmN4MTYzeHc2VHp5Ukxn?oc=5",
+      "source": "Yahoo Finance",
+      "score": 84,
+      "tier": "major",
+      "category": "general"
+     },
+     {
+      "id": "f6bd83d4220d231a",
+      "ticker": "NVDA",
+      "title": "President Trump says Jensen Huang should stay on as Nvidia CEO",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM1JsZFNzLWgwOXNpTjI2bjh2T2JwUzV4cEtDVHZxTk1ZRnlqNzBleXhtWnhSVHVQREdELWhGaG9UR2xXNlpqWFoteTZnN042SnZPaWo1dFdVRkhGRTVmOThpU3cyX1RzV1hXSjZEZDFMdVFCZ3hlSmV0ZFNUSHVJcTkwYUwwTG1tdkh2eWZFdmIzUUw1R2ZBbWNZVnlSNGl4UDg5bmNnMm0?oc=5",
+      "source": "CNBC",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "14a90be42ebfa34f",
+      "ticker": "NVDA",
+      "title": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/?.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "752700e49444cf85",
+      "ticker": "CEG",
+      "title": "Constellation Energy Corporation (CEG) Beats Q3 Earnings and Revenue Estimates",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLXhvRFZSVy1IZzdPNk1zd0VjLUZJdWNONFZMNXRLdWs2TzhzaUtQNm9uOVZuSF9Sdm83b3hkSUdsTHlvWFNnS3pHVWNvX3FrLUl6czQzRkY0Z0tPSS1ncVVjNVNnUThnSjhNVEM3ZGNMTEpqOHY0azRFN295R292OVVWbWVNYkVrT1JtemZxUzUzekNXSnc?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "score": 84,
+      "tier": "major",
+      "category": "earnings"
+     },
+     {
+      "id": "e7f436e183dad933",
+      "ticker": "GEV",
+      "title": "GE Vernova Soars 7% as Constellation Raises Guidance, Easing Data-Center Moratorium Fears",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbFFYN2FRQ3BXSWRLSVk1NTJwLUJvVTBCcGxvd0hEVlN2VFp5RzJVSzZ1TnluNmxsTE4tb3JtNExBb21ETG0wUDltMVhBMmVxVVBFYkVycldud01JQVFIVUU2M0xRMXlLVGVmdWczYlBDTFRCa2xFWm9zc1V3a3hQeko2a1UwNHNRVVFwQTBZeHN3Z3NYRHFEbEpnTDByQQ?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "1c2263f860927d16",
+      "ticker": "CEG",
+      "title": "Constellation Energy Raises 2026 Earnings Outlook After Q3 Beat — CEO Highlights Growing Demand For Reliable Power",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdHo3a25iQkR5QkxpaVQ4VnZQUVFWSE1hSWJiMjAxQkdGZzR3S2VuV3d0eU1XUGIzMnNtVUZoLXVQdU5WRExlTnFKUWQ0bmZXLTJJVFI2dmJpay1TdGRJZGNvdndHNmlONm1leEFIT3YtN3BoNzJyenhJYkhsUlJWSWtKdzlkdW1jaHpLNTB1T0ViWkFBTW5DZlo3RTNESExQWnROZUtDdl9aSl85ekc0RG5oV3RIdFNlSU14YmhyME9WMmNnVXp6VWN0dFllNzVhbFprckJTb2htbXNkLVl0ejBPT1NDX0hXV3Ixck9wMm1xOENUcl94NmdqeEtfbDdxUFZn?oc=5",
+      "source": "TradingView",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "04fb48d9657952c7",
+      "ticker": "CEG",
+      "title": "Constellation Energy (CEG) Reports Strong Q3 Earnings, Upgrades 2026 Guidance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd0pQVnc4Rjd2QnZIN2M3M0lqRW9saXA0Vk52X3o2TlRIN010LUlmSEZWOWszaDl4b0lxb1REc1NiTE54dWQ4ak5nd2FkZjhRdVd2SlJfSDlPR2tMQ0hkamhQY0h5YTZ2RTNtX1pGZjMxTHowMldxOE5FX2NXeFVQc1FTUjUzdkVtenhRMmlaRkZkLURFOVF0T0RjeWFxS19OTUo3bGRRR013b2JJR0RfSkhJSQ?oc=5",
+      "source": "GuruFocus",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "4d239049286a61fe",
+      "ticker": "GOOGL",
+      "title": "1754 Properties and Vander Capital Partners Acquire 40 Jessie Street, a 100% Google-Leased Office Building in Downtown San Francisco",
+      "url": "https://finance.yahoo.com/real-estate/articles/1754-properties-vander-capital-partners-135500569.html?.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "9701651e131d6419",
+      "ticker": "AAPL",
+      "title": "Apple's Market Value Grew From $350 Billion to $4 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFoxb2lJNkRwWlJ6QzdLRTlGdWktTm1lRjIwdzZCaXpmQnJjTkFvS3owbHZxRGtXd3VLYktFd2xNN0FVME1GRGo4b0lERF93RzRGTmpWSWd2NG1xeGJqMGJ2THhoeUhjTm52Y01tRzJCYVVuR2V4VmJyOWt5VjBMOF9mOTF2TDdPMU5yNEhkXy1WZWJOTU1r?oc=5",
+      "source": "The Motley Fool",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "OKLO",
+     "change_pct": 13.42,
+     "price": 26.71
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": 11.81,
+     "price": 502.05
+    },
+    {
+     "ticker": "CEG",
+     "change_pct": 9.55,
+     "price": 273.81
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": 9.23,
+     "price": 320.79
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": 9.02,
+     "price": 12.81
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": 8.97,
+     "price": 35.55
+    },
+    {
+     "ticker": "GEV",
+     "change_pct": 7.0,
+     "price": 828.31
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": 6.74,
+     "price": 11.4
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 831,
+    "major": 141
+   }
+  },
+  {
    "id": "2026-11-09-morning",
    "kind": "morning",
    "title": "Morning brief",
