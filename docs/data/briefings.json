@@ -1,6 +1,171 @@
 {
  "briefings": [
   {
+   "id": "2026-11-09-morning",
+   "kind": "morning",
+   "title": "Morning brief",
+   "created": "2026-11-09T13:45:58Z",
+   "since": "2026-11-06T21:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI energy": [
+     {
+      "id": "04fb48d9657952c7",
+      "ticker": "CEG",
+      "title": "Constellation Energy (CEG) Reports Strong Q3 Earnings, Upgrades 2026 Guidance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd0pQVnc4Rjd2QnZIN2M3M0lqRW9saXA0Vk52X3o2TlRIN010LUlmSEZWOWszaDl4b0lxb1REc1NiTE54dWQ4ak5nd2FkZjhRdVd2SlJfSDlPR2tMQ0hkamhQY0h5YTZ2RTNtX1pGZjMxTHowMldxOE5FX2NXeFVQc1FTUjUzdkVtenhRMmlaRkZkLURFOVF0T0RjeWFxS19OTUo3bGRRR013b2JJR0RfSkhJSQ?oc=5",
+      "source": "GuruFocus",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "c836d90e533b0422",
+      "ticker": "CEG",
+      "title": "Constellation Energy raises 2026 earnings guidance after quarterly profit more than doubles",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNc0JxVFBIOU1UOXBLUVlOSjRvTVdrYlU1dk5zQW1YSkFFUjBMa3V4T3o4UnVPTG5HREdOZ1Jndk03V2lGdUhFMnpMOFlPVmdyTTFmZW5xTC1EUHIzTFRlZDhiTkNSaUpTd216TUlPS3pLSzBjbEhuMGxJaktQVWNxeXlQMG96Y0d2Ti1WaFRKSjBvZGlkeG9EVWVLTThfX1A1ZXdZM2l1aVlxWTloV2hMVFpHaklMQlZUNk9rOW5DQUpQVGt6b0Ywc0N2bFU3OEpxc2x6T2pta3ZlVDRyMlpmc0hNeFQ3aXVkMjRoMC1tZFY3N1d4?oc=5",
+      "source": "Proactive financial news",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "f1fe080c2134a664",
+      "ticker": "CEG",
+      "title": "Data-Center Moratoriums? They Aren’t Showing Up in Constellation Energy’s Guidance.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVA4VGxVaW96Rl9UNUdUTEgzTlRvc2twQzhENXBpdklicVV3MFhaQmdHVzdyVW96d0FET0ZjeElfcm51R25uVHpOOVFZTk9OOXp4cFFCX3FOWWhhRzZqNVhrcTJYQmp5VUNxUjIzeGtUcU9HREN1Uy1nX2s1MkhuR0JIQ3lwMzNJd3BZ?oc=5",
+      "source": "Barron's",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "9701651e131d6419",
+      "ticker": "AAPL",
+      "title": "Apple's Market Value Grew From $350 Billion to $4 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFoxb2lJNkRwWlJ6QzdLRTlGdWktTm1lRjIwdzZCaXpmQnJjTkFvS3owbHZxRGtXd3VLYktFd2xNN0FVME1GRGo4b0lERF93RzRGTmpWSWd2NG1xeGJqMGJ2THhoeUhjTm52Y01tRzJCYVVuR2V4VmJyOWt5VjBMOF9mOTF2TDdPMU5yNEhkXy1WZWJOTU1r?oc=5",
+      "source": "The Motley Fool",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "a8deecf924d7f154",
+      "ticker": "NVDA",
+      "title": "Nvidia shares drop after co. investigates whether CEO was 'target of a foreign intelligence effort'",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-drop-co-investigates-131519038.html?.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "Quantum computing": [
+     {
+      "id": "0a0cc5d988ea4b9b",
+      "ticker": "RGTI",
+      "title": "Rigetti Q3 Earnings Preview: What To Expect From Upcoming Report",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ2UyZEptU0RHUnRpS05XWE1vcWVhaFp3S2R0X21YamdvbXhwYy1ENkJBYWNSbVQ0X2ZWWnRieVByQ213T2FEV2tRRmhUaFRLclNDM0hzU2Q0S1Nldm8zeElBcG1MbDFoeWNBUEMxQ0lSX0ZkZk1tSXd3ZjZvVTh4RHVzOERTUThCbmNPekdfQjgtQjhxaERUOUhES1lvVkg3U1FPNzdmSHozOTVOOUV5ZXJXUENqNHotWDZvX3N0Rk8?oc=5",
+      "source": "TradingView",
+      "score": 81,
+      "tier": "major",
+      "category": "earnings"
+     },
+     {
+      "id": "125a09380be3b392",
+      "ticker": "IONQ",
+      "title": "Rigetti Stock Jumped 17% on IonQ’s Guidance Raise. Here’s What Its November 10 Report Has to Show",
+      "url": "https://www.tikr.com/blog/rigetti-stock-jumped-17-on-ionqs-guidance-raise-heres-what-its-november-10-report-has-to-show?ref=yahoofinance&tlnk=yf-261109-36m97mqw&.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "d249f3f855df5ce7",
+      "ticker": "RGTI",
+      "title": "Rigetti Stock Jumped 17% on IonQ’s Guidance Raise. Here’s What Its November 10 Report Has to Show",
+      "url": "https://www.tikr.com/blog/rigetti-stock-jumped-17-on-ionqs-guidance-raise-heres-what-its-november-10-report-has-to-show?ref=yahoofinance&tlnk=yf-261109-36m97mqw&.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "8106c388e09343f6",
+      "ticker": "IONQ",
+      "title": "D-Wave Rallied 18% on IonQ’s Guidance. Its Own November 10 Report Has to Earn It",
+      "url": "https://www.tikr.com/blog/d-wave-rallied-18-on-ionqs-guidance-its-own-november-10-report-has-to-earn-it?ref=yahoofinance&tlnk=yf-261109-5xm88h3x&.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "86edd68a058586e6",
+      "ticker": "QBTS",
+      "title": "D-Wave Rallied 18% on IonQ’s Guidance. Its Own November 10 Report Has to Earn It",
+      "url": "https://www.tikr.com/blog/d-wave-rallied-18-on-ionqs-guidance-its-own-november-10-report-has-to-earn-it?ref=yahoofinance&tlnk=yf-261109-5xm88h3x&.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "IONQ",
+     "change_pct": 23.42,
+     "price": 32.62
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": 22.66,
+     "price": 23.55
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": 19.29,
+     "price": 11.75
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": 18.01,
+     "price": 10.68
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": 11.04,
+     "price": 449.04
+    },
+    {
+     "ticker": "VST",
+     "change_pct": 10.55,
+     "price": 124.8
+    },
+    {
+     "ticker": "SPCX",
+     "change_pct": 8.62,
+     "price": 134.27
+    },
+    {
+     "ticker": "TSM",
+     "change_pct": 6.33,
+     "price": 375.44
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 891,
+    "major": 147
+   }
+  },
+  {
    "id": "2026-11-06-close",
    "kind": "close",
    "title": "Closing brief",
