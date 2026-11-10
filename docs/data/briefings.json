@@ -1,6 +1,173 @@
 {
  "briefings": [
   {
+   "id": "2026-11-10-morning",
+   "kind": "morning",
+   "title": "Morning brief",
+   "created": "2026-11-10T13:37:56Z",
+   "since": "2026-11-09T21:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI chips": [
+     {
+      "id": "877596c719f0ac96",
+      "ticker": "NVDA",
+      "title": "Rep. Moolenaar speaks to CNBC on congressional investigation into Nvidia CEO Huang's affair with alleged Chinese spy",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTTZDVmJhUTRoNmo5NG9JSVVRbmRYXzhOTkk5UmxETlhQdXdYTlhuTHNERG05eThISDA5bHJtWkZONGNmeXhodzNDS0JLWVFMcHltTWFoeWdrMWgxV252MUNyUjFucDR5YVJicjM0SHdlVm92ZlZUNkFGVUprV29DeUFaSTM1OWFrRHdyTE1R?oc=5",
+      "source": "CNBC",
+      "score": 84,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "decb5af7484af538",
+      "ticker": "AMD",
+      "title": "The AI Trade Looks Like It's Falling Apart. AMD's Earnings Delivered a Reality Check.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZFE5SmdDTWpSYWYydU93UFNidS1BX3F3NmZhZ2QyZGlpaHZIeFhMeF9QRjFwMTNqUFZJUi14cU1GWXZfS0RHSkpmOS1pTlNwdVB2dzVCcGxBTkdiYnlZcjIzb3FwOGpvN1N5ak52QXZGazJ6UjNRSFhRbEt2N0NBNloyUVZwUVhEMWRmQUY1SmFhQ25KN2Vjag?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "earnings"
+     },
+     {
+      "id": "92f2e340a260ecd9",
+      "ticker": "TSM",
+      "title": "Taiwan Semiconductor Output Forecast to Top NT$9.1 Tril",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96YzFTNll2dUg5SDFQVDVkQlROeXJyRUVCaklaUmVBanVmNVo4bThoMW1kYm5MWnJlVnZWWDc4cVl5SzZSMWlRQlNMWF80TjVnNkl0RDhkU1RvczRUb3lQb3JwUW5vd01YaGxNZVZCc1Z0ZjRnT1hvTXFxejI?oc=5",
+      "source": "SME & Entrepreneurship Magazine",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "4c18508a24d3fbde",
+      "ticker": "ANT",
+      "title": "Anthropic Targets Valuation Of About $1 Trillion In IPO",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNk1Zbk1nSGVMTmNocWxHVmo1RW9BZXEzdmdUNFRWTmUzTFlxaVlsNTNZRDJMaHpnR1ltTHBmWTFFcUx2TmNkb21IbDlZYmJ5cGU4d1l2SnFlYlp4Q1FueTJlOFd1WF9BTjhRY0dEV09ETE00bTVROUJvNjhhalVDc2lwaUVfMEpJRTF5akFtb3BKeUEzMEtPZ3Q2WnVORnJVblE4RFlJY3MyUUdLMkVXNnlIQlNmemxZT0t1M0RsSVdrdw?oc=5",
+      "source": "TradingView",
+      "score": 82,
+      "tier": "major",
+      "category": "capital"
+     },
+     {
+      "id": "565798ef7be5960d",
+      "ticker": "ANT",
+      "title": "Anthropic Sets Modest $1 Trillion IPO Valuation Target In Test Of Wall Street's AI fervor",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbGtPVkx0Vk1IaUhPcVMtelFFbF9DbEc1OWl6b1BralBGY2Iya0d4Z19OQ2t3Vm51OVFiVnFVLV9rNWJWWjVOWFRmemd3eXhsU0poOGpnNHBubEhjelZ4Q3hxMjdUT09pVm9wVlMzRzRLYllnYldYVnVTVXl1SURscFJteWZNVUl4QmfSAY8BQVVfeXFMTUd6YXNsRFpoYnJ3TkJsWFdZbTdHMkxTVTFFWXBLWWlJVzRGRjBhUmV4a0FoNEJpTUJSdG8waUZZTmxRdnNNZXNKVnhQekhnZ2ZkdlBreG1HVDU0WHV3bVVYTkJuM04xakNYU3FCYUpBMWF6RmR0TFIyR0g5T3ZxQlRlZkd6T3h2RnZOTXZDOW8?oc=5",
+      "source": "HuffPost",
+      "score": 82,
+      "tier": "major",
+      "category": "capital"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "b92bd37cbb68ad9e",
+      "ticker": "SPCX",
+      "title": "Elon Musk Just Gave the Top End of His SpaceX Revenue Forecast About a 2% Chance. His Best Guess Sits at the Bottom End.",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQnNTanNxSFJ6SXR5d1dmc1BjZVZ2Z3BDR2RCRG5sMDNsSGZraG13TkpQWlpoN01YT0pFTkwwWjFZc1phSlAwUkZQcWg4b05TNW5KM1A2RFl6dXlXX2k2UUxiWlRZZEM4WnNLQjQ5N19iZ1dVcXV4SXZhQmZnV2xuVkRMMGtrMFRXWFRPN0ZNZmdVUC1tQWhHWnVVelJqam9udk94dUpkMzNranBiVG53cFM0YS1aeEUxY2FRaUVpOFdhemZwZkl1ay1DcTVmMld6Y3lQZE9tNDlaQ1VCSUxjTVZIZk5pNFQyUUtvd0M4N19jQQ?oc=5",
+      "source": "The Motley Fool",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "caaf24c5afe3f9b7",
+      "ticker": "SPCX",
+      "title": "SpaceX Stock Price Outlook as SPCX Plans $24B Super Compute Facility in Texas Despite Regulatory Uncertainty",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxNkJyVDhhRnB4R2ZGejJmX2F0Rk1GM2cwTFBZbEZ4Z2RGTTFHdE1uYWhQZ3NlWHNSVjE5U3dBelhBSFFwRFdkTllrWFd3RTYydlIxSGxqRXN6MzQ?oc=5",
+      "source": "Cryptonews.net",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Quantum computing": [
+     {
+      "id": "a83bf61271808af9",
+      "ticker": "QBTS",
+      "title": "D-Wave Quantum Inc. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdjVkQVY3NWpYUDZIT25OU19UbzBuM043MXZ0ajV0MlI1YzhuNThuXzZPeW4zWVhXNUdvLUd3cmxvckxXMnJVZGUydTBvRk9vUXRLZ3NHZEc1enFickNrN2xtYmM5d1JzdEd2eWRubjFQNWs1MmlINmNjT0tURWduQ092RkVnQV9tZmp0QzZIR19raldqQzAtdXhpQVFjNVJSLThUVWRpbXBtVmNrTWxMQTFTNlhQT0tyaWtYZGd4Vi1aRDBUbG5SWS01ZXIyeUxnYkd6WGFuUUNPZnVSU2cxMk5sTk80Z3M?oc=5",
+      "source": "www.marketscreener.com",
+      "score": 81,
+      "tier": "major",
+      "category": "earnings"
+     },
+     {
+      "id": "6c611cf860a9b440",
+      "ticker": "QBTS",
+      "title": "D-Wave Quantum Q3 revenue beats estimates on bookings growth",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc0RhUnJPOUFKMnZmNGlPcXJVWS00NjJFd0dGcGdGYTRHZ3JYSGpOM0NWQnhTQUstZ0tJdU54Wm1nV1ZXNkl5VkRMaEcyeWhMQVBIUG1vdVFmZlY5ZDV4d3liRW5pbkdEb3dtWEJSSE5XVFdzczU5VGs2b1FZYkpQb2ROQWF5Q1FuYmlhLU5Ea2FHaGJUekRxNE5oa2l3MTBZbmdZZndrMFlLMEQ5bk5xcjRxX2lHeHhkNVFLT2hnbks4UXZzeUtVZFBn?oc=5",
+      "source": "TradingView",
+      "score": 81,
+      "tier": "major",
+      "category": "earnings"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "a99350fab2fa9bc7",
+      "ticker": "CEG",
+      "title": "Constellation Energy Corporation Q3 2026 Earnings Call Summary",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUng2TjBhUHdyakFPT2FWTkdsRWpzeG5Qby1UTVAyTExuSGZ5R1JMSkNuM3ZUbGhydnp3OEctNDdickItUFYwY2dJa1h3M193U1ZSN2c4dUFoUkNiXzVBdWtqTDEzYVM5c1NoREdMUFRsLXZFbTNaMVJMVVVxTHEyRzJHOTZGMk9NV1BwdElNaUc5TzR1VlNXRTZjYV8xQQ?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "earnings"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "OKLO",
+     "change_pct": 13.97,
+     "price": 26.84
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": 13.26,
+     "price": 508.58
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": 10.47,
+     "price": 12.98
+    },
+    {
+     "ticker": "CEG",
+     "change_pct": 10.46,
+     "price": 276.09
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": 8.78,
+     "price": 319.48
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": 8.34,
+     "price": 35.34
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": 7.4,
+     "price": 11.47
+    },
+    {
+     "ticker": "VST",
+     "change_pct": 7.31,
+     "price": 133.92
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 876,
+    "major": 149
+   }
+  },
+  {
    "id": "2026-11-09-close",
    "kind": "close",
    "title": "Closing brief",
