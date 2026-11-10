@@ -1,6 +1,173 @@
 {
  "briefings": [
   {
+   "id": "2026-11-10-close",
+   "kind": "close",
+   "title": "Closing brief",
+   "created": "2026-11-10T21:11:15Z",
+   "since": "2026-11-10T17:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI chips": [
+     {
+      "id": "1fac2bb2f581ed3a",
+      "ticker": "NVDA",
+      "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjSEVwTlRmTGhoRFhDaTJwTmZlYWtpek1vQzlrSDBLZ1RteTVDWHF4UEg3TDVKTFZ0RGl3blhtaWVpNWh2YTI2TWJuQVItN0hqYVRVMlN2VzVzRHNwYWQ1V0EtWDVoZEJpSjF3OEFsTFJDN29EdTJNcnJzQlk?oc=5",
+      "source": "CNBC",
+      "score": 87,
+      "tier": "major",
+      "category": "regulatory"
+     },
+     {
+      "id": "87912d3e0d3b5150",
+      "ticker": "TSM",
+      "title": "TSMC record sales strengthen Wedbush’s bullish outlook",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYkwtT3FIYWdhdHcyWmJPXzBjLTFuV1AxUGd2amk5ZkFxWEYwMlI4QTRVclUyTmVqTFlhYmdBVlMxVkQ2TjMyZnhVQXNSU3ZBWjVkY1RWTXdYcDgtLXNoMjAzMDNUVVNBQnJ2ZzVKSEdTRHFTeWxEOWtQbjI2bXY4OXZOSzNMLXdLZjhQTVBPYkJ6X2p2RGV6dTl4SHdac3ByeXdv?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "a274c79b63aa47a3",
+      "ticker": "AVGO",
+      "title": "Will Broadcom Inc. (AVGO) Beat Estimates Again in Its Next Earnings Report?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFdFZlBYdEJPUjV4QUQyelc5dnZvb24xZlZtZkpIMk0xUUZleFliYjMyOGZpMjZZajFtdFVnYnJmN2dHWXozMDNfWWNnSU01THJ5MldaNlAwTm10SXIwbW11VUdDZ1g1aFlHQXIxR2QzM3hoUGVxVzNIQTMtdFU5MVdaM2VJMDAwd3pQRmt3WFd2eGE5SFlSRU8yX0kwUQ?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "earnings"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "0b1b2a6d7f06005e",
+      "ticker": "MSFT",
+      "title": "Microsoft Corp. (MSFT) Enters Five-Year Partnership With Ohio State",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR1llT0NaOTJ0cXBONkpNUl9VSUpSd0R6QmZUWGc5NmhqVXZjNW1VbTZVSnVGcmJ3eWdQbUIwbTVxM3FYRTRPVkgxMWRuczJ5YVA1eGo0T18yaEFfS2J5REZSTDVhTmE1QWJMb0luTWhxSFgyTmJIR2xEbHo5YlYtODFTOGkwWkhSS2lQclpROFFncksxTUFMa01MVWdHQ2gzek5BMmtsZDJFRlVnU3BCbFJFZlIxdjVBek9lVmRXUVl2aEIt?oc=5",
+      "source": "TradingView",
+      "score": 84,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "afa41c9efbbad6fe",
+      "ticker": "MSFT",
+      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUW5MOWdTMklESkxEYTVWSFV1enJ0ZF9JNGFSOG03UjQzelY4WVBrdWo5SGJZd1BrU0NweXVUcm1jWmExNFl6TmcyLXUxc3FpUlpsLU9UYmtJdE9RWjBmZXZoTXpzS08xNmI5Sjk5bm5rRTZZV2tINU5oaHVETkhVNEdZVlM5bXpzY0RfRFpleWNvQ1kxQ2V1SXQ2WHNScllpTjFMR0p2ZjhsaVpjVjYta3NHREIzS18zUVlPT3Zn?oc=5",
+      "source": "BleepingComputer",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "460029501ab25a0e",
+      "ticker": "MSFT",
+      "title": "Anthropic Unveils Office Tools Ahead of IPO, Taking on Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZlMwX3dzdHpVbEFBcTlGVWlibGtMcDBYOGJwbVJaaWs5X2xiVWM3ZUVDZHBoM1dyM0t1NjNYdVpzTHlYVHhKYTRHbXJTSmpRSFRLZ3FENE9kcXRFcHZVVTloYVJybUJaWWJ0a0ZGcVZpWXA1U2dZNmp1ZjRtbEJWSEtSc1RRbXdsSnh3bjV2WE90SHpBeGJkQ1hfUUtnZV9ldW14RUJoRVFMMFZmVGxBemNXSlM?oc=5",
+      "source": "Bloomberg.com",
+      "score": 79,
+      "tier": "major",
+      "category": "capital"
+     },
+     {
+      "id": "7b144bcbb55708fd",
+      "ticker": "MSFT",
+      "title": "Microsoft November 2026 Patch Tuesday: Windows Search, LDAP, and Schannel RCEs, and an Exploited Outlook Spoofing Flaw — Prepare Now",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3FkX1E5ejkxLWtERE52TFZpNW1xaEFlWEkxWUdlSEdNNkh6VUlzdWF2UkZ2bHpONUNBdDhvNFFlbE02bjJMeVk1b3FpLUNWemR4ZXB4LUJmVnV4UVFqMEEyS2V4bmJSYldrTWJRSGlTZUhuVGdyMjM1M0pfUWRRQVJXZUFWV0ZpeUNYZ213OUNjSm01azRJZHhrZDVwUk5xQ2xzeQ?oc=5",
+      "source": "Rescana",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "49aa500774cb3174",
+      "ticker": "ANT",
+      "title": "Anthropic Unveils Office Tools Ahead of IPO, Taking on Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZlMwX3dzdHpVbEFBcTlGVWlibGtMcDBYOGJwbVJaaWs5X2xiVWM3ZUVDZHBoM1dyM0t1NjNYdVpzTHlYVHhKYTRHbXJTSmpRSFRLZ3FENE9kcXRFcHZVVTloYVJybUJaWWJ0a0ZGcVZpWXA1U2dZNmp1ZjRtbEJWSEtSc1RRbXdsSnh3bjV2WE90SHpBeGJkQ1hfUUtnZV9ldW14RUJoRVFMMFZmVGxBemNXSlM?oc=5",
+      "source": "Bloomberg.com",
+      "score": 82,
+      "tier": "major",
+      "category": "capital"
+     }
+    ],
+    "Quantum computing": [
+     {
+      "id": "ccd7bc4e9c6bb6fb",
+      "ticker": "QBTS",
+      "title": "D-Wave shares slide 8% as Q3 bookings fall 19% despite a revenue beat",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzBsQ3JMbW5iaWp3RW1QYl96dTktZXlPbWk3Tng2NnRLSkM0NVVBNktETHVERnhaYUJpTGg1VXlkc1pRMUNwNVRnLTE0SUZzQmRvX2JTQ2lZVXM5TzRMNVRXVmJVMUhuVENubjZBSkJhQ0hnZDhlY2hwZU5tN1RyM0hNYWE5Qy1kZ3FFYkNBdU9jQnBUWnBFZXg3NA?oc=5",
+      "source": "Startup Fortune",
+      "score": 81,
+      "tier": "major",
+      "category": "earnings"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "a2083d4e31bf5884",
+      "ticker": "SPCX",
+      "title": "SpaceX Could Profit From AI Data Center Crackdown, Deutsche Bank Says as It Raises 2028 Forecast",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63121272/spacex-data-center-crackdown?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "News",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "QBTS",
+     "change_pct": -8.63,
+     "price": 10.48
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": -6.54,
+     "price": 25.09
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": -6.39,
+     "price": 12.15
+    },
+    {
+     "ticker": "NVDA",
+     "change_pct": -5.47,
+     "price": 168.89
+    },
+    {
+     "ticker": "GEV",
+     "change_pct": -3.92,
+     "price": 796.82
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": 3.91,
+     "price": 331.98
+    },
+    {
+     "ticker": "NOW",
+     "change_pct": -3.08,
+     "price": 99.6
+    },
+    {
+     "ticker": "CEG",
+     "change_pct": -3.02,
+     "price": 267.76
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 541,
+    "major": 113
+   }
+  },
+  {
    "id": "2026-11-10-midday",
    "kind": "midday",
    "title": "Midday brief",
