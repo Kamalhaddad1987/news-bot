@@ -1,6 +1,173 @@
 {
  "briefings": [
   {
+   "id": "2026-11-11-morning",
+   "kind": "morning",
+   "title": "Morning brief",
+   "created": "2026-11-11T13:44:20Z",
+   "since": "2026-11-10T21:30:00Z",
+   "summary": null,
+   "groups": {
+    "Quantum computing": [
+     {
+      "id": "27c3d0e663234442",
+      "ticker": "RGTI",
+      "title": "RGTI Stock Falls Premarket On Weak Q3, Outlook: Retail Says ‘There’re Better Quantum Plays Than This’",
+      "url": "https://stocktwits.com/news-articles/markets/equity/rgti-stock-rigetti-earnings-miss-estimates-outlook-quantum-computing-commercialization/cNGDk2OR9B4?.tsrc=rss",
+      "source": "News",
+      "score": 84,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "1eb41138080afa74",
+      "ticker": "IONQ",
+      "title": "Raised Guidance Might Change The Case For Investing In IonQ Stock (IONQ)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbmFsQmpoTnZoZ3Y4Nks2OUhJUEN2d2pvcEh2Nk53OW5sU2hiZy1BdVFxcE9EZzhnZkQzVU15UUM4bkwwYnYyWVZsU3ljelI0T01BeG1vcXRrUFQzSGpzdUpja3BxWWhtbnU5dVJzR1JUd2d2UTczdVVjMnBKVFp5Wmg2NE1yQk1HR1VWRUdacHlVeGVpN0xTOUhiRHZtMEk?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "051cdf78db21a93b",
+      "ticker": "RGTI",
+      "title": "Rigetti Computing Inc (RGTI) Q3 2026 Earnings Call Highlights: Record Fidelity, $100 Million ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/rigetti-computing-inc-rgti-q3-130509088.html?.tsrc=rss",
+      "source": "News",
+      "score": 78,
+      "tier": "major",
+      "category": "earnings"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "273921c990bbba0d",
+      "ticker": "TSLA",
+      "title": "Tesla tuner Unplugged offers to take over Cybertruck production",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVZMTGVkc2k5MlhfV2tGRUpjVksyaGlWcDlBX3JkMG40NHNrQmVNU0JxMVRCN2R2amNxSm10U0pObVpkSUV0REE0WERaLTllLWliOGRuWG1CRkh0Q083eHE4XzNNQUU1aGU4ajJMbU9zUDdlX09TcFVFM1hsb1VZam5NR3NVT3l6cXlKQnhBc0QxT0VBVEM5elliMU1BbFk?oc=5",
+      "source": "Electrek",
+      "score": 82,
+      "tier": "major",
+      "category": "general"
+     },
+     {
+      "id": "42d27f4b39cb55cf",
+      "ticker": "SPCX",
+      "title": "Elon Musk Just Warned SpaceX Revenue 'Will Drop' If Compute Gets Cheap. Deutsche Bank Raised Its 2028 Forecast $18 Billion Two Days Later",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOEhHN0kwbEhkdmZkdXlod1ZJU1lUNkpzSVNGbG8yNnVWN2ZsOWx5SlFuMlpmLWhNdEVfUXk0SmVQREZFajVZbWVrRGlmb0dZZ2hidXd0N2RIbjJGQkJWMHRlMDdlQS1TWXlFdHhaamYxN0dUcTFoTEdRbklCTV9DcXp4d2ZSdkxqUm16Wl9nV1ZodUdPYl9JYUdQMDNadm9SR0xPVWxfNlpBdk55VDlqN0xxUTFyaFdSXzdPNFN3UDVseXM2dkhOd1YwTklYb0ZBLVdicU0wY2F0RDktd2dEMGZHZERYZ1dNTUpqR0tNMndsSFFzUEFTc1c0TmxlVklPcFd3SmZsb1k?oc=5",
+      "source": "24/7 Wall St.",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "ef619e1fa6ed91cc",
+      "ticker": "GOOGL",
+      "title": "Alphabet eyes $3 billion Hong Kong, Singapore bond sale, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVm10ZnlHTlp6eHhzZnNYZkd1MDVGZWR6TEd0MW9YTmFXaWx4cnVzTEh6ZXNRN2Z2U0dhU3I5R2RwODVZWnZXQTczdkZZM0Rya3BmUS1rWWUzS1dtMElxM0dlNEVCeEtsRTF3VkNIaGhoQ2hEX2tBTWdtX3ZKc2pQLTBFUEJhc244M0t4ZW5OeGhDWlAya3Y0Zjl1bXRyY1BpaWJjOXQ5S09ZOGw2eGlMWHBIUXZ6NkpublE?oc=5",
+      "source": "marketscreener.com",
+      "score": 79,
+      "tier": "major",
+      "category": "capital"
+     },
+     {
+      "id": "10b5b59956d1b02b",
+      "ticker": "AAPL",
+      "title": "China Renaissance upgrades Apple to Buy from Hold, sets price target at $425",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMzVLQ3Vvbkxaem85UkdSQ3d1V1poczNubGJVT1pZRDVVSHNoZWZROGlBdWNKTEJXeVhMTVR4UDdBQ3J1b0RZV2N4aWJweWktT2dwNVFjaU9SNjlVcnpKYzQ4VGQzVllrU2RhRlIxbHh6VGJBN3JadmwtQlJjX3JHMy02SU5yT3Q3R01kaFc2N2NfbFktQXc1WU1MUG5yTU5xekloQWtSaDFSUFVoZWoxV1ZWb2wtTDFGVDJ0bkV5R29JNDlDVVhIeGlrSjJFYkNjOVE?oc=5",
+      "source": "TradingView",
+      "score": 78,
+      "tier": "major",
+      "category": "deals"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "072793bbbd123a89",
+      "ticker": "NVDA",
+      "title": "Nvidia, chip stocks rebound premarket after CoreWeave lifts revenue outlook",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTnJTWFBvenp1QnlwZXZfU1FlYmV1cThsc0VzMWp2cEtDeDNNNWVSb2NTRDR6NkcwWl9PNnZvSzRXRVkwZnhJQ2RBZ3cxbTFVLUpDQ1J1ZzdGQnZ3YWZhVUc4SzgxLXJyN3JpdXMwV2RsUkg0LWNNUFBldkNNb1NEU1dqOEF1V01TYlpqV1RBdXZiY2tCV3VTSHBjVi1VV0Y2S1dQVXVKUF9vM2gwdGo2SG1pdVpWRkpDa21UbG96WVEwOFEyeUVrTVRURQ?oc=5",
+      "source": "Investing.com",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "6adf9007bb4b08da",
+      "ticker": "VST",
+      "title": "Vistra: Q3 Net Income Rises To $1.14 Billion And 2027 Guidance Is Initiated",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmI4Tzk5UC1kVm5NYXM0MXY0R0l1SkRjVkVHTDlRTkJrTnVuZmVvOWtub1NGWFRwdUlFaUdhY2h0R0RsRE9mdjg1V2xMQ0VueU84R3NkbXhldWk3V283UVczZDh1cWt5Y0xkZzZYeGVzendDT3h3UUxKTUFEdGkxdFRLVnhnUE8zZTBZa0VZZ0dENXlWUGFibw?oc=5",
+      "source": "Pulse 2.0",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "705b87c67dfc0730",
+      "ticker": "CEG",
+      "title": "Constellation Energy stock raises 2026 outlook after Q3 earnings beat",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1pTQ0JVUjFYZ054RzNpNi1kbHpKOG1fcWd2c2g1aXlndW5tQUhRaXJzaC05NlBFTVFhZzRSeDQ0WS1IYzNKZUwtQjlEVS1DYVJRSmY3dm00UUUydHcyNXRrVEtjUm5rSVZlMmQ1WktKU0E1N2FtZzFBVjl6ank2MUIzREdxamZMNlA4b2o2S2YwWGZiYjZMZ2dfRFU1Uk92NU50aVlSVUVvcE9xRmJQeXZ3Z1lxSTNyTHdIRUNqcGJIOVFoM3lMdTRoQ0k?oc=5",
+      "source": "ad-hoc-news.de",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "QBTS",
+     "change_pct": -8.63,
+     "price": 10.48
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": -6.52,
+     "price": 25.09
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": -6.39,
+     "price": 12.15
+    },
+    {
+     "ticker": "NVDA",
+     "change_pct": -5.47,
+     "price": 168.89
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": 3.91,
+     "price": 331.98
+    },
+    {
+     "ticker": "GEV",
+     "change_pct": -3.89,
+     "price": 797.04
+    },
+    {
+     "ticker": "NOW",
+     "change_pct": -3.07,
+     "price": 99.61
+    },
+    {
+     "ticker": "CEG",
+     "change_pct": -3.02,
+     "price": 267.76
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 893,
+    "major": 158
+   }
+  },
+  {
    "id": "2026-11-10-close",
    "kind": "close",
    "title": "Closing brief",
