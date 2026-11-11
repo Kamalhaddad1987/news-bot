@@ -1,6 +1,171 @@
 {
  "briefings": [
   {
+   "id": "2026-11-11-close",
+   "kind": "close",
+   "title": "Closing brief",
+   "created": "2026-11-11T21:55:31Z",
+   "since": "2026-11-11T17:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI chips": [
+     {
+      "id": "2f53292ecca8e1d8",
+      "ticker": "NVDA",
+      "title": "Nvidia Ceo in hot seat as spy probe grows",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtQUZUcDdNM3NvZGVhOGRQbVNkR25RSGxpdHI0QkhtZW1hMWZOQmlNQ3ByRHZuMVRaT1JMLXRmTENKZzU2UjR0NTd5MHBHTmFhaEhydVhfbUdEU2poeC1INU9BbkFCbVpBWVh1czFPNDExOUJiUkpvUno2NDRxc00?oc=5",
+      "source": "WSMV",
+      "score": 87,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "8aecebd15a43ef15",
+      "ticker": "NVDA",
+      "title": "Nvidia stock is pricing in 2 major risks as CEO Jensen Huang's affair fallout plays out",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblRWcW9rakVSOGNoV081cEI1U0FiZ19PN0hlNHA1VV9DbXlqUEhjdDRNNEpvNGg4NF83TDlBYUNRSnNpNGo0c3FYM3ZEODFOZXQ5YUpBTHFHRkhqc0hwemlLdVlBN2s5aDlua19kVTRPVFkxLXdWZW51STd1U1ctVmtYbGR5c01GY0EzYldiMmViU3kzR0JRelRwLVNEVWtrOUxrV202emNfcFY2SWozUVplRGdFR2NKWjVSWDhDUWdzdkhreXFJVHhVOU9wTnRvbng4T2FpOThOam9lVVhJLUZybGE?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "900d36fc503f414a",
+      "ticker": "NVDA",
+      "title": "Nvidia short-seller warned in May of CEO Jensen Huang's ties to suspected Chinese spy",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TUTFtU0c0OUs2ckQ2N2xhZzRBbUZLUzJjajZxS2dzcV9uUDlpbi04akZrdmcyZzNzR2FvQVE5UjctYnppOThIRGZnSW1laF9LRG1mOURMeTFJRElaOEplU0hhR2gtMnFxa1hya1ZNRG1sUWctUWVNcg?oc=5",
+      "source": "CBS News",
+      "score": 78,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "260609d6b034006c",
+      "ticker": "NVDA",
+      "title": "The Debate - Nvidia's Jensen Huang at heart of China spy scandal",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNHJidDJ5TmotQkhqdkR4clVnWHR4aXdSOUR4Z2psNnlJQXlGcDhzVkNnYUVOclgwMWtGU0hOd0JMZUJYcGQ1MFo4anRTX2NtbFRiSHB4SVVHWnoxNXhCTV9OMGQ1Vy1DaTRvMVVpbHpfTDRuOFJnLXZtbXp0WmRSeFlET21rQ2ZvblpMdnkwbzg3cFpianBzMmFaLXQzTm1aa3ZCRDlpeWtqOTU1?oc=5",
+      "source": "France 24",
+      "score": 78,
+      "tier": "major",
+      "category": "general"
+     },
+     {
+      "id": "dcf269bada8a2cdb",
+      "ticker": "AMD",
+      "title": "BofA Raised Its Earnings Estimates but Cut Its Target on AMD (AMD), Here’s Why",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSXJleUlRZEFkakZDN3phZjBfVTRMNWRrZ2JnQWduQXh1aVdFbm5vVzNRblN2dlQ4VkxvdVlSQ1VNRFZpcXlOd0RCYWxfSnZDa3BLNE5kZHBCYUdUbHEzcEdPVTdvandlX3VmeWdWSmgzYkVWWEo4SlRMbC1LaGRFSDJ4ZnBnZHZoREZVTkhxeXVJMTFRZDN5RnI0b0pvSjVi?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "earnings"
+     }
+    ],
+    "Quantum computing": [
+     {
+      "id": "dee72ab89bbd8262",
+      "ticker": "RGTI",
+      "title": "Rigetti Computing earnings analysis: questions answered and next catalysts By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON2hmTERiVDBJbVNzRmVFRmNqMW44MkEzTDhJMUNCMFdvbHdjZTZPa2x6cWdBcDNpZWt0MEJjWnZGU2JldWtVYTdhWVdYaEtia0JzY1FLQlIySTlFb1d0emMwRzk1WDh1QUttZW4wZ3JqbTJNdkhfREpuUG9CUUtzZ3J2WVlzM05YOGlNSFhUc09wX05KRjdJLUZlTHpuQXNiY0VweHVQaVJVOUs1OU96TWRUSkhPTHJ5dG1XZWRaelRlMG9ZX0xacEhoYm5tUlU?oc=5",
+      "source": "Investing.com Canada",
+      "score": 81,
+      "tier": "major",
+      "category": "earnings"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "423c28b98164cf19",
+      "ticker": "MSFT",
+      "title": "Microsoft Patches 1,235 Security Flaws: Outlook Zero-Day Already Under Attack",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPenpXV3diNGc3akZBeW03U3NfcU9fV0FpZXNmVk12bmo4bVQyaVlCb2xHUUx0X2RkRnAySllocG9XOHlpZnhJeFlyQW82R3J4LTJYOGlIbnlQczZmbEdkN2FsTUpuQUxBMU1jR3RQSzNQdHEyWGJNN3pWbGhqQTVVMkZldkhkeHM?oc=5",
+      "source": "TechRepublic",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "8bc7c7282d65a3a1",
+      "ticker": "ORCL",
+      "title": "Oracle Stock Price Forecast: Bernstein Says Market Undervalues Data Center and Core Database Businesses, Sees Shares Rebounding to $132",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNXpnbHdjVHNvZEI3cmlvYmVLVFozYTZCemM5bkY1ZkVlVkQzU3ZZcm9jd1BKYUdRX2hHQk03d01uR0tuTklyQld2enBCaDFmNWg5M1Z2T2J4SmFCQzVTcHhMUkdmSzJod09BTjRKT1JKTmRMTU5YcEFUbnhJX0VqMlZMNGJkcGhDOGliUUVKWVlLUExGMnp6SlY4VEt6UUZwNmJOaG5mOE5YcGx1cGFxM0hWdFhXdkpfbVR5V3M4dnNTUzVRMEl2cjJDWDB0eERMc1RiZlVObTZRTVU?oc=5",
+      "source": "TradingKey",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "ac40ab40f95159f9",
+      "ticker": "ORCL",
+      "title": "Oracle CFO Promises “$30 Billion Plus” in Free Cash Flow by Fiscal 2029 After a 70% Plunge",
+      "url": "https://www.tikr.com/blog/oracle-cfo-promises-30-billion-plus-in-free-cash-flow-by-fiscal-2029-after-a-70-plunge?ref=yahoofinance&tlnk=yf-261111-fv69mxwf&.tsrc=rss",
+      "source": "News",
+      "score": 78,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "741cc26c7ad2f8db",
+      "ticker": "ORCL",
+      "title": "Oracle (NASDAQ: ORCL) Stock Price Trades At A Discount To Peers Despite Surging Revenue Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRElmLUlzOFB6R1h6dTJLbmlJQ2xaTkxlSVFqakxPT0JYYXkzQ1dtNHEwUVdka2JITk1rUDZKU3VJdDBDUzAtYzk0eTlWN3AxY0QtUmRrSXJrMDNJejhNbnJYTlQ5cVBieGdOYnBTNGhzM3FNbHV5dkZjNnpaNnZVdVItcTRJMEtXUUZ5dmRGUFZKa1VsZ2tqLUNCVWVFYlRGdUp4Y05kSjNuWXdXUF9BVUpaWS05UjFnX3ZLaFBRZTJTb0RsOTAwc1FUc3p2RkF6Sjl3TkRKRHJGODA?oc=5",
+      "source": "Foreign Policy Journal",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "ORCL",
+     "change_pct": 8.82,
+     "price": 128.38
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": -8.56,
+     "price": 11.11
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": 7.32,
+     "price": 552.9
+    },
+    {
+     "ticker": "TSM",
+     "change_pct": 4.25,
+     "price": 413.35
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": 3.99,
+     "price": 345.22
+    },
+    {
+     "ticker": "NOW",
+     "change_pct": 3.16,
+     "price": 102.76
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": 3.07,
+     "price": 25.86
+    },
+    {
+     "ticker": "NVDA",
+     "change_pct": 2.92,
+     "price": 173.73
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 501,
+    "major": 64
+   }
+  },
+  {
    "id": "2026-11-11-midday",
    "kind": "midday",
    "title": "Midday brief",
