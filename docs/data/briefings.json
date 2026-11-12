@@ -1,6 +1,171 @@
 {
  "briefings": [
   {
+   "id": "2026-11-12-morning",
+   "kind": "morning",
+   "title": "Morning brief",
+   "created": "2026-11-12T13:46:28Z",
+   "since": "2026-11-11T21:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI chips": [
+     {
+      "id": "106634cf322ab475",
+      "ticker": "AMD",
+      "title": "AMD and PsiQuantum expand partnership to build quantum computing infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMjZXZ25SZGVfYjB4b2R0WHhfRS14R1FEcEdhMkJ0NW1sNmJYbVJJaUpsbHRxOTlLYVluOEJwd2d1QUI0WFJsX2FreWtfb3dHLWs4aVhOQXdtZ1ZaekhOUGczd2VDdS1iVXZ6V0JIYUhTV3ZZMXRwdzJzdUlCSDZjeElXVXlRVWY1VHpnVFlWS0tYMi1BMVN0MzVPVXZCR05SQ0R3clAtd3JsZWktMXloazJaV09Fa21XZ0x5Y2ROWlBQdVdZZWVpbzZkOFAyNHRyaDFybw?oc=5",
+      "source": "StreetInsider",
+      "score": 87,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "ce9066e42ebd6afc",
+      "ticker": "NVDA",
+      "title": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XcTlzd01BSWFhRWROazZzbHhQNmpWLXRjY3Ayd291bVRRNUFfbnhlRnpJekdIZnhMWDVSeng2Q19aOXQydWltRnlxMEpfLXctZVJRMFM4eFBUREhxQW10YkdRLXBqTmszWWdEYUx0U2k0OWtwUEg4NVV6Vy0?oc=5",
+      "source": "CNBC",
+      "score": 84,
+      "tier": "major",
+      "category": "general"
+     },
+     {
+      "id": "3889ae70ca2a0a14",
+      "ticker": "NVDA",
+      "title": "Nvidia board meets to decide CEO Huang's future as leadership crisis deepens",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlA5REZDN0pJYkxyUXM4YjE1Q1BLN0tKNENxM3NsV3RKblNhbWpsdEFUUVRieUtNckY4S3YwdkFUdjhvZVk4Nm1Ga1JNUmZkRzMtaEhHazhHNmZDX3Z1WUNzZnJmdEpLeVRmcngzdEMwM2N3b1I1ckQ1Q2N2a2NRNWtfa0ZTTkhYaXlqc1NqbklwWUxIdktqdzZvS0M2cGhSYkE?oc=5",
+      "source": "Reuters",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "3550c246b63d44bd",
+      "ticker": "NVDA",
+      "title": "Nvidia board weighs fate of CEO Jensen Huang after affair with alleged Chinese spy",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgyQ1hDQlhOb0JIMEptNHA2VFpUZDFuYWl5R0RwSlpjYXNIMnJ1M0dVNnFlSUxkOVF5RFE3MUNPZWtKTkR1M3pNTEI2cC15ZGhvN240YTd0QTNYZEowNFNobjdSNm1WY1RlRXoyMUdaUE41TGtzWUNGeTFENG1PY3BNa1c5MHczSzJ4V1VZbjVISmZKOHpwNFFhOVdCZnRjSWtuM0c5WTVZa0lmS3o3YnJ5Q1pvZXo3LWtfRmV3?oc=5",
+      "source": "The Washington Post",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "663a6b4b5cd0508f",
+      "ticker": "NVDA",
+      "title": "Can Jensen Huang stay on as Nvidia CEO amid second allegation?",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGVOM3IzWk9sVm9peWtvUnNSYVU1N19uTE9PMDFzVjAyNUd4TF9Ga1Fxbmw2aDlQV2pyMExmN2xwaklEMGl4MTFYd2tXVm5vcV9SSEJJVWtadEt3bTYzSUxkR1NGYlFPUXhQaE5CTDk0eGtvRzJ5bFNpcXFkS1R6NVFwRWJkNEtQZEZZLWF3a3N3MHBJLTVqa09nZTJzZ3MxVXZOYUlXdk03Qk8t?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "47d89307179d66b9",
+      "ticker": "CEG",
+      "title": "Why Did CEG (NASDAQ:CEG) Raise Its Earnings Outlook Again as Nuclear Power Demand Grows?",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcWkxYk8wOHduSk9VQkJ4UEFpSVNXdjVqaFJSam9NbkRXUXZMN0pPaHZoOGVzMXZ0SC1LRWN1TEpJTTB2bVlrRE1RLUhORGpXZHllYk5UYWQtSm1pTDBSSDRlVVliRXRVOXpwb243MFlhUGNTY0NCTDRTbDFBMG55eWxsXzUwbzRCVUxXTjhMbXlSeXloNW45dVgxX2hhZkJoWjY3X1lOT2NER1ZJQ2VNRzNoMjI2UE1aazhXOFVPU2R5aVFq?oc=5",
+      "source": "Kalkine Media",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "4c62dcd8030859ae",
+      "ticker": "VST",
+      "title": "Vistra Is Still Down 17% This Year: Did Earnings Just Mark the Bottom?",
+      "url": "https://www.tikr.com/blog/vistra-is-still-down-17-this-year-did-earnings-just-mark-the-bottom?ref=yahoofinance&tlnk=yf-261112-3r9gw5m6&.tsrc=rss",
+      "source": "News",
+      "score": 78,
+      "tier": "major",
+      "category": "earnings"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "5c545075d8ad27c2",
+      "ticker": "MSFT",
+      "title": "A Quick Look at Today's Ratings for Microsoft(MSFT.US), With a Forecast Between $635 to $680",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXdCMUtEWklDdEJtM3NwRkV2OWZVaHpXVWpHMDNidjEyQ05Mbk5PWXhKMHI5R2NmOWtNTVlPbmdEdE0xNlpZa1piRTI1enFSb1N1d1BMS2FCMFFTQi1Id2NMb1VOVGRaaXh3Smd2WlltVmZDbmw1cDMtcVlyNEhOOTFfcVJ4aGRWTm4wTFh2RnM3Z2ZsWEhscGhjQ2s?oc=5",
+      "source": "Moomoo",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "0244e3ec0aebd2d0",
+      "ticker": "SPCX",
+      "title": "Qualcomm CEO on SpaceX deal: 'It's a great partnership' that will drive 'innovation'",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN2R1ZXZTVUxhRGN2M2hqSHAwZkthTW5fZzAxRlVPLWhuREFqV3NmYnotTkxJRjVlRndlU2xFR0U3cnNnQTc5TVF3Wk15c0FBWTNUWmlOQjduN2xYNFV1czRydnNWd3gyOURsRWlOQzRBUjJfTy1ucC1LaDhfWlRTbzk3M0M5SnJxUzFacS1wNDFJZGRoQ19pYjhjMTFZSDVyQTZmUXhhaTBMMU1JeDBvYWJRWVRPV05paDdVUTZtQjF5N2s?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "d9593bfc33c79bb8",
+      "ticker": "SPCX",
+      "title": "Qualcomm CEO: Elon Musk is serious about SpaceX's cellular network ambitions",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc3ROc0haS1JUYnBpYktFSUZCQzhueEhadkFGM2pkS0IxQ3FTaE9VRnJ2dmx1SlJBeTY4WTFfWFZVdmxFSmJDSUl1RkRRT2V6M3hTdVI4LTRxQm1vM2EzSUZ6TTQ2RUV1ZTdwbDdlNC1mX1VmT1BqMzJGNi1tZ0VQTUpfd3Ridkk1bERtSGYxMGUzOGpkbjl0YjFrOUhCSTc3VjJQR2pXWndZOE12eWpRTUZwOU1rZ2ducHFpb2pxRE0?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "score": 78,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "ORCL",
+     "change_pct": 8.82,
+     "price": 128.38
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": -8.56,
+     "price": 11.11
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": 7.32,
+     "price": 552.9
+    },
+    {
+     "ticker": "TSM",
+     "change_pct": 4.25,
+     "price": 413.35
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": 3.99,
+     "price": 345.22
+    },
+    {
+     "ticker": "NOW",
+     "change_pct": 3.16,
+     "price": 102.76
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": 3.07,
+     "price": 25.86
+    },
+    {
+     "ticker": "NVDA",
+     "change_pct": 2.92,
+     "price": 173.73
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 880,
+    "major": 168
+   }
+  },
+  {
    "id": "2026-11-11-close",
    "kind": "close",
    "title": "Closing brief",
