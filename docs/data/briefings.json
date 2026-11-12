@@ -1,6 +1,169 @@
 {
  "briefings": [
   {
+   "id": "2026-11-12-midday",
+   "kind": "midday",
+   "title": "Midday brief",
+   "created": "2026-11-12T17:24:43Z",
+   "since": "2026-11-12T13:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI chips": [
+     {
+      "id": "d2bc7601aef7dbff",
+      "ticker": "NVDA",
+      "title": "Nvidia CEO Jensen Huang resigns amid investigation into relationship with alleged Chinese spy",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZENYUWtBZE5feWpKWlJSWXk4dFFRRXhETUluaEk4NjI2Vk5FUEVod0swejlIOUlGMFdqM3h1YTMwTnJXblpSX3pNc082dHhKajJTS3p2UHd4ZmIzd2k5S25uVFZha1lMcUpZeFdUaUptVU5BN19ta2tDYlhTZDlhZ1oxZDNGV2htbXY2WWVPNDFvWU1QY195SmR2cG1Ic0lzVjNKTHI0eXRLVU5HRmsxV3JQX2c3REJCbkEtdEZUUENhblJsdkhv0gHMAUFVX3lxTFBVNGlGM29zQmNDYjlWejltWTYwSFpmeWd6c0Y5eWhkX05IcGRZSUxtU3JoS01IYlo4WHBCM3Z0WTRfVVVPLVNURi1MYlBTOVZvWGQxQUJCWEo5Vmp4a0xybVcwbUpWT2w4ckhsTHFoZkhZSFVzdzI5LXlhSWpCVGEyR1JwU1VpOUJQTXJYbm43UU1OOE1ZQk1KRVNDRXNRY3hJS25zTzAxZ0RXZTNROU83VUZXQ0dvQzdkSHZDakEtckRHOHJhQjlBcS1RQg?oc=5",
+      "source": "Fox Business",
+      "score": 87,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "96cbc9dd1672413a",
+      "ticker": "NVDA",
+      "title": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOFgzVmM3SDQ0U21MM1A0bXoxaXB2NmkzZmY2NnNEVXRibVFueUptSl9KTlVlamFMVkVSNHk1VGtoQlpIWnk3MklmVjc3Y2pTZjkxY2MyQlgzZDAwOVRLT1BndzRyMXZ5RlJBU0pmcXRQNzBLemJBaGVRR25Ubi1Rbjh5M19zVUFKVzN6LWhiMlNYNzNzNFhsM3d6SEYzcGc?oc=5",
+      "source": "Los Angeles Times",
+      "score": 87,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "cde717a9a9cbec48",
+      "ticker": "NVDA",
+      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbVQwekdOVVVwRlUyVTJQTHppYko1dFRJWGVGemprSElYSWd1RU1UVXR1QUNuZ3BUUFFQN3IzNEMyWDFhV01ORnhNNnE3U0hqUHZ3Q0VMY2hpb2ttOTNzaHg5T29PZ1RjS1U3Q1ltT0pYMlBCYUZ5WEZWdlhLb1RIUkdIRGVZb3E5WWVOaS1feFh5NnZy?oc=5",
+      "source": "WIRED",
+      "score": 87,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "b033908cb3a30ffd",
+      "ticker": "NVDA",
+      "title": "Nvidia CEO Huang resigns amid affair scandals, board names CFO Colette Kress interim CEO",
+      "url": "https://finance.yahoo.com/technology/article/nvidia-ceo-huang-resigns-amid-affair-scandals-board-names-cfo-colette-kress-interim-ceo-135801377.html?.tsrc=rss",
+      "source": "News",
+      "score": 87,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "4ff379c38a3ddf11",
+      "ticker": "NVDA",
+      "title": "3 challenges for Nvidia if Jensen Huang is removed as CEO",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnlvYkRORnZxSHE3ZWdiWGdtRFNTS2Fjcko2ZTZRTU5CdWRhbUhRa1k2eTltNjRWOTZ5eXBQWFcteHRhTHBxbXBMNTczajZOQU96MEplU1FkaWctcmNFQzhlenpycXUyNXVCclpUajNNODFnaWc4LUlQZDlKcnpvZEF2aFo3TFZCakZmeDdNMVlQRnhnUENJdTgtUUd2cllrcHp3VmpkZENtc1RnTkJQOVA1bTI?oc=5",
+      "source": "Yahoo Finance",
+      "score": 87,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "106634cf322ab475",
+      "ticker": "AMD",
+      "title": "AMD and PsiQuantum expand partnership to build quantum computing infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMjZXZ25SZGVfYjB4b2R0WHhfRS14R1FEcEdhMkJ0NW1sNmJYbVJJaUpsbHRxOTlLYVluOEJwd2d1QUI0WFJsX2FreWtfb3dHLWs4aVhOQXdtZ1ZaekhOUGczd2VDdS1iVXZ6V0JIYUhTV3ZZMXRwdzJzdUlCSDZjeElXVXlRVWY1VHpnVFlWS0tYMi1BMVN0MzVPVXZCR05SQ0R3clAtd3JsZWktMXloazJaV09Fa21XZ0x5Y2ROWlBQdVdZZWVpbzZkOFAyNHRyaDFybw?oc=5",
+      "source": "StreetInsider",
+      "score": 87,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "be6056d7886c8c0a",
+      "ticker": "NVDA",
+      "title": "Jensen Huang Resigns From Nvidia After Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SV0s4M3NYaTUtT2tIVWpBRHdfTk51cUIxcE0tLU9LV3M1akRWMTRheE9qY3BCa0pRVDR0MGhxaGVIcERRakZ0LWxJUWtpeFk4aW50TlRLVWt0NUEwSzVBVWFoZGNMQ0NEUWl4eUZyR3h0YmpHRjNfVk1n?oc=5",
+      "source": "The New York Times",
+      "score": 84,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "59a7b49d66baff36",
+      "ticker": "AMD",
+      "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
+      "url": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html?.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "b51899c5731a5abf",
+      "ticker": "AAPL",
+      "title": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5",
+      "source": "Axios",
+      "score": 87,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "ca4ab1d06c555a1f",
+      "ticker": "SPCX",
+      "title": "Why SpaceX Stock Popped After Nvidia's CEO News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkIxLTRyQjNWUVhYY2oxTTVtNEs2VEEyU1B3eFBhU1J0OGc5VkNCSHpNYmg4MDZyQTZiVFcxcGFzRTFRck9IeGxLRDQ4UGxBc1RzVm5PNEpZVmp0N01pTG9jeXJBTThzUFM1bXl6ZHJMc1Q1STU3dWphRlJGa2FSQ0JnUERoN0dIdExIRHBvOWxlU2NM?oc=5",
+      "source": "The Motley Fool",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "IONQ",
+     "change_pct": -7.99,
+     "price": 31.34
+    },
+    {
+     "ticker": "NVDA",
+     "change_pct": -5.69,
+     "price": 163.84
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": -5.1,
+     "price": 10.54
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": 4.95,
+     "price": 362.32
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": -4.69,
+     "price": 10.15
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": 4.19,
+     "price": 576.09
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": -4.18,
+     "price": 24.78
+    },
+    {
+     "ticker": "GOOGL",
+     "change_pct": 2.62,
+     "price": 301.13
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 821,
+    "major": 165
+   }
+  },
+  {
    "id": "2026-11-12-morning",
    "kind": "morning",
    "title": "Morning brief",
