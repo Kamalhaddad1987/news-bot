@@ -1,6 +1,2255 @@
 {
  "items": [
   {
+   "id": "323ae02005db9e22",
+   "ticker": "RGTI",
+   "kind": "news",
+   "title": "Rigetti Releases Q3 2026 Financial Results, Reports Improved Fidelity on 108-Qubit System",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb1ZlOXJKcUJoVnpKcjlWVnFFNDJ0R1R4d2VWU1hac2hybk9yaUdzdWdUR253N2NfQ09zM2hnSjdhLWJTc3JwdVRIWU1lelNOM0lldnlYM3YzRVdYTDJFbFdpcWNwSmt4d3FiY1ZvRG1qQVZJdjZOZzNWN2I0TUlpSmJORVdIVlJKTXlvdkpVbWZsVlNpeUhGaXBONTRZVGVBSFJLNC1qTXM4VDA5UVpDZUE0eUFCdVJ5TmVYZC1MTE9oMzRO?oc=5",
+   "source": "HPCwire",
+   "published": "2026-11-11T15:33:44Z",
+   "score": 75,
+   "tier": "major",
+   "category": "earnings",
+   "reasons": [
+    "Earnings",
+    "Products & AI"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "quantum",
+   "outlets": [
+    "HPCwire"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "5df59280778611e4",
+   "ticker": "AMZN",
+   "kind": "news",
+   "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI | Amazon Web Services",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjMtUXdRbkMzdnVCelA1ZGJXZkdmWEZITXRxMkVQelJSdUJtby1ucFRTVmRsRExGbGg2RHJJV3Q3MzUwQ1B4cUNPbFpNVUhHdk13cVBveFlUclBuQ2tXbktzQjRwQlBOcF9NdzRxWU9FU0lhNFJUZm5GSFBycEd3bllQRi1JODVOTFVoNk1zQ3VBZ245LU1DSGF2ZkNjSml6dWw5R3F0ZnN4MGc?oc=5",
+   "source": "Amazon Web Services (AWS)",
+   "published": "2026-11-12T01:18:23Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Amazon Web Services (AWS)"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "c8877c12206ab661",
+   "ticker": "GOOGL",
+   "kind": "news",
+   "title": "Reddit's traffic is down 13%, partly thanks to Google's AI Overviews",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQajJnemliQ2VIcEFZbTc4ZTFRLVFiWTJOamU2dWlacktPMnRUVEhWdDRURGFvQmZ4RW0zbDFWTjE1a0hvUl9Zei1GUUk0WjhrXy1KQk1sdHhjWC01VnV5MHk0Q2w4eEVFQWUtSFFFWWdDV05NbFAwYnNzNkJxanBGWUZPQUtROFBCS2tXRy12UGl4SjdkTWtlQjc1N2o2bHdzaUF3?oc=5",
+   "source": "Business Insider",
+   "published": "2026-11-12T10:52:00Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Business Insider"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "bc9b7ac1bb7e2f09",
+   "ticker": "AAPL",
+   "kind": "news",
+   "title": "The pricey new Apple TV 4K is still the best streamer around",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LMERYTFZlYkU1dWxiZU1OMGg3Q0I0aFJfLVpVT01ocmQ3MEZoS2UtOWpaQ1BqMU9Kc3JyRjdGSmVzU2JnLS1WZ01CNjkxZk1WdGkySEJhcFc2aldvcDJoTWw2cHdVVmxxOE5RaC14Vmdxdw?oc=5",
+   "source": "The Verge",
+   "published": "2026-11-12T14:00:00Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "The Verge"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "77688de86ddd30f0",
+   "ticker": "GEV",
+   "kind": "news",
+   "title": "MS: Morgan Stanley sets GE Vernova memory-coupon note due November 2029",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOGhyV0ZxWjNTRHhTTm54VERxV2RHUTlRcHczc08tWnVhWFp1TXJGOS1ZRzFaamxsV1BMbWs3U0VyaHk3NkIwMi0yLVJhVExETU1lUWZUUEpfX1VWRGVpWTFSWjFEMXFEcl9XbmQ3MGhNUXNRTzlFR2JYQkVLSVR3Y2xJRURXZw?oc=5",
+   "source": "Quantisnow",
+   "published": "2026-11-12T14:31:52Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_energy",
+   "outlets": [
+    "Quantisnow"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "825cc4bb121deda0",
+   "ticker": "AMZN",
+   "kind": "news",
+   "title": "Amazon Has Put Four in Ten Sellers on Haul",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONmJwRzZZdFVPaExGSDhjYmJCZlJXajR3N3phd1AwVjFmeERlMHNzdGt2aWxNX3FsdkYzV19wLTAxVy03NUZFaG5DS0ZQYm00UUVaMTdBQ3hKclUxV0NmYlhTeW9HR1NsZFp6TXQ5dDQ5Rk9feC1YVmV1YlExYTFlNTlvY2V1aXE5M2hYVA?oc=5",
+   "source": "Marketplace Pulse",
+   "published": "2026-11-12T15:04:21Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Marketplace Pulse"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "ecc1dfe9e0306f7f",
+   "ticker": "ANT",
+   "kind": "news",
+   "title": "Anthropic’s Model Taught Itself to Run on AMD in “Three Days.” Bad News for Nvidia’s Moat",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR29tN3pKc25vVDRZYk1NV2VBTlRTeVE3elZYcUFQb2dxQ1RVZVNiRDBDaVprZUdBUkRSMEE5UzRHams5b3lGYlJIdlFzWjd2Yzd1NElaY2pGSmctYUdVYnh0Ny1fS0NFSVc4TTg2SDVLSFBralgtOXZLNjBvaUJfaGFtNFp1Y2VneHYtRnZhbU5TMk9xdzE4ZHRWczdtemhvb3VIcTZGa1pxeU5PUTc0?oc=5",
+   "source": "TIKR.com",
+   "published": "2026-11-12T16:45:22Z",
+   "score": 40,
+   "tier": "notable",
+   "category": "product",
+   "reasons": [
+    "Products & AI"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_software",
+   "outlets": [
+    "TIKR.com"
+   ],
+   "base_score": 40
+  },
+  {
+   "id": "6a9b2c3536f5ff25",
+   "ticker": "GOOGL",
+   "kind": "news",
+   "title": "New Google Help Doc Explains How To Identifying Traffic From Google Search",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVFQZ01JV3VzV2hibWwtMm1UN2Y1VWg2OUxyZGRWeWhCZnNJTXpMN2hjdFlVX0txQXdSX05mejBuNEI5REVPRzdPWllqNFBnSWptY0RTeW1jWnJldlpNMmZOaUlVUm5jOG9iRVBuN3hzNkF1dVpwYVgyUDBQWVlyVQ?oc=5",
+   "source": "Search Engine Roundtable",
+   "published": "2026-11-12T17:08:00Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Search Engine Roundtable"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "6d55ad1b32c2642b",
+   "ticker": "QBTS",
+   "kind": "news",
+   "title": "ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages D-Wave",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQb1VxZUN0anFwUE43ekxPOHlCVTZSOWNlVzIyQ2hWNlBfbzZZRHNac0RzdjJYSnBqRzEyZFNBaVUtYlFpa0NGVXVzNDZCS0RRZjNPVVFpTFhjUVE0eGh4LWtPc2lXb0hzbVBBZE1aTTZjaVl5ZkNNSlBwem0zYnFyZFFXZGxFVkVZZU5MTDE2QlNzU3diVGxjLTB2QkMtY1k2bXdoYlpRLWJSVDlQRmx5WTRlcGZXRjhhTDJVZS0zNGJ4bzlYa1BwS0ZMdERmRzZCaFM1SWhXWHNYempiSjUtVEQyejNfRjZpaXdCQ29KaVpBZFFTMVd4UzBaeW1takVCcDN0ajFIMWxna1RmUWJ0VFNMSzc3U0RseVdRLWt6RFZrU3VhSnRXMy1URElwOFRSbzlEUzBJWmF1VkVWMFRRcUVWZw?oc=5",
+   "source": "GlobeNewswire",
+   "published": "2026-11-12T17:51:24Z",
+   "score": 0,
+   "tier": "muted",
+   "category": "noise",
+   "reasons": [
+    "noise: (Rosen|Pomerantz|Levi & Korsinsky|Bronstein|Kessler Topaz|Faruqi|Glancy|Kaplan Fox|Bragar)"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "quantum",
+   "base_score": 0
+  },
+  {
+   "id": "ebdf32920af594d0",
+   "ticker": "GOOGL",
+   "kind": "news",
+   "title": "OpenAI Borrows Google’s Playbook and Crashes the GEO Party",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNV9oTWtycndxWEZHaldTY0tYNGNUVGo5Ukw3SGtDbHVjaVdZaVhPaUVHVXVKYXVtMmpobENaTk12bHJMX2thb01tdzgybjc3eUxycFFOZkhyc2d0UXJjbHRlZDU2M21jTzFXNVp5TG5xd2UzclNwb20zMU5pUy0yMDducXBHN0dJc0tqclBpT2w?oc=5",
+   "source": "ADWEEK",
+   "published": "2026-11-12T18:17:06Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "ADWEEK"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "1e30fdbbc8545462",
+   "ticker": "GOOGL",
+   "kind": "news",
+   "title": "Google Voice Code Hints at RCS: Finally Happening?",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2N0VHM5M0tpOS1FU1dIREotYWxUakUxaVM0d0prTlFuU1o0Q1M0UFJ0S2ZDd1FveFo3V2dzVmNZZHFueW5ZNEZWTGFBd2pkVmpTd2hUM3VNUG9Hcm9qRF9KWVpUdnViRW5UNWJCUGNHZ3JyNUNiQXhXRHJ3X3ByTktKeUNhU1NlamR4REdjcWQ?oc=5",
+   "source": "Droid Life",
+   "published": "2026-11-12T18:20:48Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Droid Life"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "7bd316161e19cd10",
+   "ticker": "AMZN",
+   "kind": "news",
+   "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVUUyWmQ2elo4ZXVzSmFBN2x5TVlFSnY2VWktYnpNRi15UmJIQ01ZU1JJeFhwdDBPeU1DU29OQjFHcHhQWDJtVEJZZkNJb09UcVRQMUZ1Z3c4VjlISDRnc01lMjR4cEpVMjdnRVpDQmd4MzMweUcxcDdUbU00enM1YUV5Rmoxd1lSWVljam1JS0FQUG5pYWcxWG90VDE4LTVHRDJNQ3pfc0o2dUdRUWxnUDhRdy0?oc=5",
+   "source": "Amazon Web Services (AWS)",
+   "published": "2026-11-12T18:41:12Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Amazon Web Services (AWS)"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "066d1ffe76d55a18",
+   "ticker": "MSFT",
+   "kind": "news",
+   "title": "ORTEC uses Microsoft 365 Copilot to turn logistics expertise into faster, trusted decisions",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03V2tVTjM4WEJoLU5rM0RILWp4Sjh3N2h3c2NORkFmUXFPQVpqVWVVWWFxRnpBMEgtYmItMW9DRXgxYW5rMUxVbmF4Z1hJd21YTzdObWdEUHJuNnNPdGtyYWlYaHE1WEQ4cXoyNmVYMA?oc=5",
+   "source": "Microsoft",
+   "published": "2026-11-12T18:45:24Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Microsoft"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "e4888a308139d12b",
+   "ticker": "ANT",
+   "kind": "news",
+   "title": "Anthropic IPO Price Range: 70–78, Three Valuations",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CVmRHbTloMkxpUVF4NjJHdzY4cDduUnY4V2JrUnVQRnpIUnZPSXNvTEJGcXJZT1FrRFprRll5NUpoQ01Xc1NhRGdzSEZwSWVsTmh5TWM5bFd6MnM?oc=5",
+   "source": "Memeburn",
+   "published": "2026-11-12T19:16:46Z",
+   "score": 70,
+   "tier": "major",
+   "category": "capital",
+   "reasons": [
+    "Capital & dilution"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_software",
+   "outlets": [
+    "Memeburn"
+   ],
+   "base_score": 70
+  },
+  {
+   "id": "5695388a2c71d982",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Experts react to Nvidia CEO Jensen Huang’s resignation and succession plan",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZF9saWtNV2pFQzlZM29Ha3BPUkpHaUtlMWhwQ29HaTVMVWxQS2hfbWotNDFxVzRxYzlxOU5uM1pwdEJ5OVcxMmpoQTdpQWtlMlFPVDBTMWptN1NjWEg1SGRySjIyR3NYQjN3U0dhOFFVeExBSmFxeC04UUNVbVdZWExIRk1vRTkzMmI5a1NHeGhYcElrT0lRQ0lSblFjYUtaZE56cjlFdXA?oc=5",
+   "source": "CNBC",
+   "published": "2026-11-12T19:18:27Z",
+   "score": 75,
+   "tier": "major",
+   "category": "leadership",
+   "reasons": [
+    "Leadership"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "CNBC"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "4af9d5dcb509d76a",
+   "ticker": "AMZN",
+   "kind": "news",
+   "title": "Amazon Photos biometric privacy lawsuit certified as class action",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMndCZU8xZWU2dmwyZUxXLXBGNVVKQ3hUV3JoWW9wM0RoX3ZMZ2tTOWdrMjVTSmpfLXVack5VR2VhcWVsVDJmcjFOVTdYV0I3elEwUlhsbU5pMF9KWGdCN2JvbV9QMHZOMFJzdGtGRWJrVHZnQUxlMjloSkhJZjgwVFpucF9WbDJVNnFOYVNxd2VNUzVxdkgtVFJHU2t1QURaQzdJdmdpWQ?oc=5",
+   "source": "Biometric Update",
+   "published": "2026-11-12T19:20:00Z",
+   "score": 0,
+   "tier": "muted",
+   "category": "noise",
+   "reasons": [
+    "noise: class action"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "base_score": 0
+  },
+  {
+   "id": "0d2958673f6c7a3f",
+   "ticker": "ORCL",
+   "kind": "news",
+   "title": "Fortnum & Mason Enables Quality at Scale with Oracle Cloud",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSEFHU2RBT0hzNlVzTkZDZ0ZBQi1jVmNKYTRxdmxFRFE1ZTNtLUJpcDJQWjYxejRtaENKQ1pTc3pSeldPaXlwbDMyTXpGUzNpN0thelRqSXlFbnkwbktianV1SmhMMzVCOHBXRGZsQjAzc0JlaTdrLXhseFZwcDUycjk0VmVjZmlsbTgxRE9fcEVjblUtdjB0RjRqWjNWUUp0MWFJWDItdGgxWW93QkdIZmFUeDN5ZXdwY0U5aFJB?oc=5",
+   "source": "Oracle",
+   "published": "2026-11-12T19:28:47Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_software",
+   "outlets": [
+    "Oracle"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "f32c553db66f48db",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Third extramarital affair comes to light hours after Jensen Huang quits Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVjFvQ3VGaE00Tk9ldVNKd2pTeVZqTXhDQU1OaWNaR3lMMWtjVXA0TENSZ0NqVE9WbnU1c2NwQ1lhR0lNV3pwUDJ3bU81Y3Bieklsb0Zqdk1SR1EyQmtLX2pLZFB6OHRfeGViTW1rSzYwakszdDNsX1h3V3RyZ3NQZGpLWHhFaWJPdG1LempMcTBSYVJCSy13OGVYTDRqT24zOXZMVTNleFNVR3Etek5GYk9iVXBDa2JUNTVKbktmNnpOUEVvSkZiNWdCRFczLW8?oc=5",
+   "source": "New York Post",
+   "published": "2026-11-12T19:42:00Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "New York Post"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "2b2dcd6ac486efab",
+   "ticker": "AMD",
+   "kind": "news",
+   "title": "AMD's Siren Halo APU Could Pack GDDR7 VRAM And Next-Gen Xbox DNA",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHhkaUJ3NDU3S1ZONFY2MzRkTG5vX3JUbFp5ZEpfT0k5OFdEMm43UXhGTXBMVGd4eXJZZDNvbElyY2JOLXJIY3pndVpOVTJkMTBqZU9FT3M2X1BQOEtraDZ3X0VnQjZITlRzVVdjT2ZOSF9RYjV6SVR4alJXRVNzRG5fQk5VU21kUXFlczNiT0JPQVo5N2RR?oc=5",
+   "source": "HotHardware",
+   "published": "2026-11-12T19:45:00Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "HotHardware"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "4855a201768015d9",
+   "ticker": "GOOGL",
+   "kind": "news",
+   "title": "Google Antigravity Rolls Out Orchestrator for Dynamic Model Handoffs",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2VVaGlTY3ZzVjNTTWxLdDNpT2o3cXVuVDBpdTBHem9GQ3pBdGI0SnYxalJ4UkhCallyTElQOXBGcmJDZXlxU2FNWVlMLWprRWQ3a1FDQ1RnTlBsZHppQU5JczUzQ3A4cEh0SzduRGNxY1RWMDloUEZvUUJFOGs2Y09UWGJZbFdhN2hvYXUyMXRNR1NM?oc=5",
+   "source": "Unite.AI",
+   "published": "2026-11-12T19:48:02Z",
+   "score": 40,
+   "tier": "notable",
+   "category": "product",
+   "reasons": [
+    "Products & AI"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Unite.AI"
+   ],
+   "base_score": 40
+  },
+  {
+   "id": "1cf8ce88d1b3625d",
+   "ticker": "MSFT",
+   "kind": "news",
+   "title": "Microsoft Outlook and other services down; company says it’s investigating",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFhNclJqVDVBWEZzTDI5UllfN2NLMVNxVlpSdVRjN09GNEk3eWJ1MDRSUnhMZUQ3b1BfR3pkNU9NbVd1YVNHdVFHT0xQUVg3MWs0TTZGRnZoZ2dOZkVNcU1Ec21ZRnQ2bUhFQTJhbTdYeU9ySndBeXMzZnlkRmF6LVBLTVBUNURHRmNmbEI3TXZpTzF5N1hPQTROYUZFaHVVa0dfazQ1U24zaVJuSnZnUUxEY0wxT2hTRHVUZ1c2R1F1MGNRakRvSENyNy03aWRGMERxdzF1SQ?oc=5",
+   "source": "Yahoo Tech",
+   "published": "2026-11-12T19:55:06Z",
+   "score": 78,
+   "tier": "major",
+   "category": "guidance",
+   "reasons": [
+    "Guidance"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Yahoo Tech"
+   ],
+   "base_score": 78,
+   "alerted": "2026-11-12T21:14:15Z",
+   "alert_channels": [
+    "grouped"
+   ]
+  },
+  {
+   "id": "3dec702cb64a71f8",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOWl5VFRGVVRzS3dKZHludzRheHZpeVEwanoyTzMwWjZScjYxcThIXzdVOTdIVDJiVktPUjFFczNaMlpSNzhuZXp6XzJHSzVuRjFYREYtby1MLVNEQ2lkQ0FMQ09JN2dxZENpY2hHTEFRMlE1aDU4ODdUbVpzQVFoakRpb2JTRUt0NVQwbld3V29vWnlucjRILTVxdmcxS2JLeEowQUVUejHSAa4BQVVfeXFMTTktWnp5bnFZaHNtMk9uOFF2QXdDZmNOOXlmM3ZIS3YtSVpyMFMza3FSYTA2VkpLaU9iM2tMS0pZalpOdzh2NFRrdnlSRUFrSE53Sm5YZE8xVlBJYlBIMjlCSG9SODFfeDVxRWpQZ3hiaXJ4VUluV3MwSWNfekJCWWpRMWxKNTRYRUNzRnhsRHptWE9NN3hVelpDZ0RCVjlPdWV4T2d2QTJqZFNZdVRn?oc=5",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T19:57:15Z",
+   "score": 75,
+   "tier": "major",
+   "category": "leadership",
+   "reasons": [
+    "Leadership"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "79aaeb516a773fc7",
+   "ticker": "AMD",
+   "kind": "news",
+   "title": "AMD: Incomplete Zigzag Pattern Forecasted The Market Path - TalkMarkets",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1oVWRkb3MxT2E1c0pxeVRYc04xZW9UeDhxWkVWVkxfN2l1QlgwVVdWdHkzbDJPblFkeFZv?oc=5",
+   "source": "Howl.Link",
+   "published": "2026-11-12T19:58:00Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "Howl.Link"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "16c27fc4d405770d",
+   "ticker": "MSFT",
+   "kind": "news",
+   "title": "Outlook, Copilot are down. What Microsoft is saying",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmRNYURwRTl6WjhvSTZMQllvQUFaWHdCdjE0VlVicFFOOEUyNTRZYmUxVU5uMDZLazBFZUlXUmN0TzZMRy1idHowcnd5al9kTkFFOGJWUEFaVG0yMkgxRFp5Slhob3V5bWlpczR3bERPVkplc0VpeUF2Z2FjbDl1OHkwZi1GSHVWWmpZSEoxbGgxbjFCMWVLMmVtUmlqd242S21RUXpUZ3RrdEVTSHh5cWFNRQ?oc=5",
+   "source": "Detroit Free Press",
+   "published": "2026-11-12T19:59:00Z",
+   "score": 78,
+   "tier": "major",
+   "category": "guidance",
+   "reasons": [
+    "Guidance"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Detroit Free Press"
+   ],
+   "base_score": 78,
+   "alerted": "2026-11-12T21:14:15Z",
+   "alert_channels": [
+    "grouped"
+   ]
+  },
+  {
+   "id": "3a35f5795cf275df",
+   "ticker": "MSFT",
+   "kind": "news",
+   "title": "Microsoft confirms Outlook is down for many users",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcFduakhRb196YWJkRE9uZGNNbHJrakMwc1hfZmF4MjN1aU5aU0E2VGRpV2dzNFY3M3E2YVhscXkyZGI5Nmo2RFR4NzNQcWd0RWdrY3RjSU5pNDFhZ3gxUHdyM25nSERXOUVacm9Fd1Jwb0l4ZktPWlM5UzdUS0JMU01XZjY4djBhMkJvUw?oc=5",
+   "source": "KPTV",
+   "published": "2026-11-12T20:00:00Z",
+   "score": 81,
+   "tier": "major",
+   "category": "guidance",
+   "reasons": [
+    "Guidance"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "KPTV",
+    "Mashable"
+   ],
+   "merged_ids": [
+    "f65f0e6e0d051288"
+   ],
+   "base_score": 78,
+   "alerted": "2026-11-12T21:14:15Z",
+   "alert_channels": [
+    "grouped"
+   ]
+  },
+  {
+   "id": "6b9a455c1ebfa690",
+   "ticker": "SPCX",
+   "kind": "news",
+   "title": "SpaceX looked to change space travel with its historic Starship 15 mission",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlpmWWV4Mko3cWlZdW1jMHJrNkpsVWo0RmtZMGVMSm5WTlRhT0tQTDJzSHU0TVB5WURxWkNjT1d2bURGM290cHhSX29xUDMtRHRkYXNSODV0a2Q4V055anhIamJBRHR2aTBpVU1NUWlZbXZBb1V4bF8tenBscGIyc2pQSjNoMlF6RGtCWlI0RG9zbWN3QVVVVXNiV2Y?oc=5",
+   "source": "ABC13 Houston",
+   "published": "2026-11-12T20:00:50Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "ABC13 Houston"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "56e7fb5ae7f122d6",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Who is Nvidia's interim CEO Colette Kress? A look at her career so far",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnNuc2xHSkhhNmhPd1N3U25JeGFFTXV0d0RKV0lvSTA5ZllLeUxCR1hqX1pUUGVZd1F4ZWduMi1ITkFCSE1LZk9MSmxxVWVGbkVUcHZKMTdQLU96Y2pxaUZPdVZURENHc3RhTVJ4T09sejVHa1dhSV9iVm9Sa3BPMWswVGk1Zi1Hb3fSAY8BQVVfeXFMUE1rZElVakRqRF8tUl9TZVROR2dhMEpVV3ZVbHBPX3JVWTdjcHp6SUtGbnRMTmw2dUE1NzliTmhraTVVd0VFZTF0NnJSeVlidU1CN00tYnZTVzFwc1J4NFZIRnJ5d0o5bUVFanJHTWpjeGhPeTJpa3V5NVZpUFlraU0teWRWQW0xTnNnazV3N0k?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "published": "2026-11-12T20:05:29Z",
+   "score": 75,
+   "tier": "major",
+   "category": "leadership",
+   "reasons": [
+    "Leadership"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "ABC News - Breaking News, Latest News and Videos"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "1e866d6697a96dc1",
+   "ticker": "AMD",
+   "kind": "news",
+   "title": "S&P 500 Top Movers for Nov. 12, 2026: AMD and AVGO Gain, GPN and NVDA Fall",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdHBxT3djUl9NUEt5cHNnLTRQYzhSWDZBckhmTmtSQW9MamxfdF9LaTM2cmw1TGkyTV9jdW51UDMtVkVrYl9ySC0zRmhUaHI3U3pGNmtmUnlWUXc1QjE1SWxNYUFTQWVPU054R2dkUmJqMGVMY3VPUG16TWxFWUNlNm1seDRLNXNVd3NNYnRIc1F1a0V3eWE3ajlOaFVkU05QVV9McGo5VmFLS2J1VndSbjhvNWtzUnoxVWhKR0dB?oc=5",
+   "source": "ChartMill",
+   "published": "2026-11-12T20:06:08Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "ChartMill"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "3dbc246f7a485ae5",
+   "ticker": "TSLA",
+   "kind": "news",
+   "title": "Mag 7 Weekly: Jensen Huang Out, Nvidia Shock, Tesla Rebound",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSTVOUWdVbGhKdWtTYmU3TnVZMlFaaC0wQWxyY3lrYWFsMDZidjRGbDNIY01pcHRIblJaZmZpZUl3XzBTS0I4WHlWdmdWZHJaYzh6Q09nWURxOHVtc01kZTRMTU5zVUNtWFVOc2dzYmQ4cVZsX0YzQ0VYbU16WlUybjhhQmRibnM?oc=5",
+   "source": "Money Morning",
+   "published": "2026-11-12T20:08:11Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "Money Morning"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "bb922b595d92061b",
+   "ticker": "MSFT",
+   "kind": "news",
+   "title": "Microsoft Works To Address Massive Outage Across Copilot, Teams",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVHl5REdIWFFFRUFCV0RlTklpQ1k2NTAwV1NKYzZqZWl2elByZ0ljdW93eFZPa1V4bHVWajZRUmFBWHFJa0FpRWQ4YWZUYVdUdDV0cnFNbDNFWlFjQk1Mb1pPc1NkMkNCdUZfdzVPV1dianoxN1FFVEJUbVVZVUJkWEJxcEdxUXM4WXcwa1h0WE84SUc1VTlqZ0pSVQ?oc=5",
+   "source": "CRN",
+   "published": "2026-11-12T20:09:00Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "CRN"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "49b981d367c5465c",
+   "ticker": "AMD",
+   "kind": "news",
+   "title": "Closing the Quantum Feedback Loop with a Composable Runtime: Qblox and AMD",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmhqQ0pRZm8wM3pMdG4wZDk0ZzBYWVhTVVJOQ0tWZmVMUkxUbERhOVNTSFZxRTFHRXZfYmxkYm5UaU1HaDY4NjM2UHNjVElaS0RzVDFKempDdmFtdVNYQUxnNDRsejZ0cEJSWTVYeldOa3dnM3poTW1rQUkzRDY2dGlKeU9oaFZlT2VqM2dtOTNkaHhyMnRQenI4cmFJMHJqYW9DQ3ZnWQ?oc=5",
+   "source": "AMD",
+   "published": "2026-11-12T20:13:59Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "AMD"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "ff8c922c1830d9be",
+   "ticker": "ANT",
+   "kind": "news",
+   "title": "Anthropic set to skew U.S. pension exposure to AI post-IPO",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXJsdjgtdEVsLTk2V21kQUlDNGhVbFVJaV9iUWZOYUFRQl9nUklYWWJyd0xfejNmUmh3S1lzRExGMGt0Qzl5NXZOd0FJRzdxRWVvZko1U2tJVkIxLVZ6M0gwcHpPSnhxVTc2bGllNWE2M1FaQVN6TUFqMG8xMTFKTnlPQmlhZnZISk9rVmgtYjJoMlgtMDEyQnYzT0pIbHAzLTktN05R?oc=5",
+   "source": "Alternatives Watch",
+   "published": "2026-11-12T20:13:59Z",
+   "score": 70,
+   "tier": "major",
+   "category": "capital",
+   "reasons": [
+    "Capital & dilution"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_software",
+   "outlets": [
+    "Alternatives Watch"
+   ],
+   "base_score": 70
+  },
+  {
+   "id": "d7620c18c913f81c",
+   "ticker": "AMZN",
+   "kind": "news",
+   "title": "Amazon Business and AWS Marketplace Combine Hardware and Software in Procurement Storefront",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcGZTeDVKVWdjSmI2XzRRZGxjbGFHX3JCZU5yczZkLWhETlpJYnVxM3hENXI5bGp5RFVMOUNDOHduVzFERXpqN0RBYXBjZmQ4a1MyTW10eXNYWDNiaUVuQWFzN2wxMWNxb1kzTWpNNVNrZVo0WTZPanhIQncxdnR1T01xLVNfODRfc2FRRk5yekl5eGVCbEhaNzBobm5ib20yNkQ2MmFZNmdkX1pQZVdDOU9jMXczQVBXaUVKaHBmNUFwVmdhZ1lXbG5pZHJHUQ?oc=5",
+   "source": "Distribution Strategy Group",
+   "published": "2026-11-12T20:14:39Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Distribution Strategy Group"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "2659630d7096e582",
+   "ticker": "AMD",
+   "kind": "news",
+   "title": "Advanced Micro Devices (AMD) Stock Jumped, What Is Driving Attention Today?",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmFaM3NDZzNScnJJSE9hY3NGd2VjUVlSRjZTR3VoUG5hMTc2ak9mRGprRUU2QUNoVjhzOUs4dlVLMk9OWWVfaHJUclBnY1FrNGZ2bDlkdHBBeWZoVHNvM3pBTHVZVkZpMmNwZkFZRkhzbWpGR0NPUHNlVlc4Q2ExNE5OUmRhdzFr?oc=5",
+   "source": "Yahoo Finance Singapore",
+   "published": "2026-11-12T20:16:01Z",
+   "score": 23,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "Yahoo Finance Singapore",
+    "News"
+   ],
+   "merged_ids": [
+    "2659630d7096e582"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "0704f18193cdf41c",
+   "ticker": "MSFT",
+   "kind": "news",
+   "title": "Widespread outage hits Microsoft Outlook, affecting Mass. government emails",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUm1CbnlnR2JXczJzakNaUUlvQWRYVXp1dy1mSEVUQ2gwTGxxbjA1WmcwanFZSDk1Z201MHh5d2pkN1NIMnU1Y0ltajBFaG96ZWxhNzgzYWtOd21iZ3pteEphZjB4U3N1UlNQZGFlWmlFOG03dlpva2tQM2d4VEduaHEtcWZmYjA2UVEyb0lseUpBTktiOFp4Um8ySTd4M1JyZjM5SGwzVUNFWmNNNWtMRFdaZVp2b2xxMHhV?oc=5",
+   "source": "WGBH",
+   "published": "2026-11-12T20:16:54Z",
+   "score": 78,
+   "tier": "major",
+   "category": "guidance",
+   "reasons": [
+    "Guidance"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "WGBH"
+   ],
+   "base_score": 78,
+   "alerted": "2026-11-12T21:14:15Z",
+   "alert_channels": [
+    "grouped"
+   ]
+  },
+  {
+   "id": "82e52df9f6ac7aed",
+   "ticker": "AAPL",
+   "kind": "news",
+   "title": "Apple now takes Samsung foldables for trade-in, but some iPhone Pros are worth less",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RZ0tMT19XSXlvWWZWNHBtRW9pcGlySGhpamdrWWNFWS1rQ0c1elhfNGdzMWRYdEZoYzcwOE1uOUE3dlVyemVxR1AtWE1HNm15T3JibFA0NWRIZ2ktdUd1NzNGWmxMSlgxbzNDdFRPYXJLVjE0MnBxMGdn?oc=5",
+   "source": "How-To Geek",
+   "published": "2026-11-12T20:18:39Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "How-To Geek"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "8ba6b91360d36069",
+   "ticker": "ANT",
+   "kind": "news",
+   "title": "Anthropic launches Claude Meetings beta for video calls",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMDNweEtYUE1RczRHa0MxYmZOV2syRkFGUEVuVUVsR25oMFMwZEJzR01pbU5UZjdaVHRUNC0wQUhhLUJhaDd0RVVQX2dWYmo2MmVPd3NPUWlPYWo0V2JkNVd0QXRJV2pQUWxDX2FGanhwUHBRbTRFU1RkTXRSQ1RLRUtwTTZJLVNYZ0IxSGVfNVoyRzRiM24tWDZncTBIcUlUYmZjQkZCZmpaTmdzbG5Ud0laV3k?oc=5",
+   "source": "StreetInsider",
+   "published": "2026-11-12T20:22:04Z",
+   "score": 46,
+   "tier": "notable",
+   "category": "product",
+   "reasons": [
+    "Products & AI"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_software",
+   "outlets": [
+    "Crypto Briefing",
+    "StreetInsider",
+    "Unite.AI"
+   ],
+   "merged_ids": [
+    "422a606fea284564",
+    "594468019185a61c"
+   ],
+   "base_score": 40
+  },
+  {
+   "id": "30badd49b0250e81",
+   "ticker": "TSLA",
+   "kind": "news",
+   "title": "SpaceX, Tesla are said to move toward merger as soon as December",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOEtxNFU4Z1M4YjMxOG5UQzdFMlRqTVdrY1ZlWFE3a2hBdmVndFQ0TEhOYW5MRFcwaXdQbkdrYzJfOXJUSFd1am8xOXB4NmM0cEZMMnZTSDM5dU5aX05WU2JIMWJSRGVYMGEzTkJicE9QWWxHMzBUM0pBX3ZQZDlOUUIzTXNmNnZ0cFVOMzNzTVNSUE5iUnZwQUprTl80b3Y4dlREMjhMa3Q4MVZBVjdDLXhVd0NLTy1ub2dSeFV5Zk12ck5G?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-12T20:22:37Z",
+   "score": 75,
+   "tier": "major",
+   "category": "deals",
+   "reasons": [
+    "Deals & M&A"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "TradingView"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "22237695b15e6511",
+   "ticker": "SPCX",
+   "kind": "news",
+   "title": "SpaceX, Tesla are said to move toward merger as soon as December",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOEtxNFU4Z1M4YjMxOG5UQzdFMlRqTVdrY1ZlWFE3a2hBdmVndFQ0TEhOYW5MRFcwaXdQbkdrYzJfOXJUSFd1am8xOXB4NmM0cEZMMnZTSDM5dU5aX05WU2JIMWJSRGVYMGEzTkJicE9QWWxHMzBUM0pBX3ZQZDlOUUIzTXNmNnZ0cFVOMzNzTVNSUE5iUnZwQUprTl80b3Y4dlREMjhMa3Q4MVZBVjdDLXhVd0NLTy1ub2dSeFV5Zk12ck5G?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-12T20:22:37Z",
+   "score": 75,
+   "tier": "major",
+   "category": "deals",
+   "reasons": [
+    "Deals & M&A"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "TradingView"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "f158cbcf8115dbf9",
+   "ticker": "ANT",
+   "kind": "news",
+   "title": "Anthropic’s Office, Microsoft’s Legacy, Filled Moats, And A Potent AI Threat (NASDAQ:MSFT)",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOay04cUhNbjZVcXAzYnNwNGxxRE1NMEt4eWFrUkZuckVzNWY4ZEQzZE5vN0JyU0VpTHJuREFtaDBCbEZpTWdMbzM5Z0E0Ul9VdlFxa0dPMFUwRHhUUC1uU2NrQTNPR1pWbUYxOGFYSG1vM2RnNzJ6Y3BINWdQQ1dBdnJhQWcwMmJqNkN0M3FXQnVxSGZpT0pEUG44UTc2bGQ0M1JxUmpQV25OTm5Y?oc=5",
+   "source": "Seeking Alpha",
+   "published": "2026-11-12T20:24:02Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_software",
+   "outlets": [
+    "Seeking Alpha"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "cf0e896f50ddd9b7",
+   "ticker": "AMZN",
+   "kind": "news",
+   "title": "Will the new gold rush push the Amazon to its tipping point?",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjZrUkR6QUxwY0RxbmY5eGpGUjF5X2NGUmprTTV6THh2RWZRdkdJbkFGa2lRdzZvNkZNbTNLNzhEVmZsQ2xQNkV0Ui1EM3pnSUVMY1RVdkNKYUtNa0oxYldHbXllNGtVRTNVazh2LU1RaGdBOTA4QjhNVzRBSmhjM19WbXhyMGp4RVlwZ0g5V2tvNFRxMWdB?oc=5",
+   "source": "Wake Forest University",
+   "published": "2026-11-12T20:24:56Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Wake Forest University"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "94c8727590d067a6",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Nvidia executive Ian Buck emerges as CEO frontrunner on prediction markets",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc2VybkpFSTRVRVVIR1BvaHkyWkZCTVRqWGJENU00b2NsVTlRT25xQWV5aVU4LWxLZnhlWEFTSW1oN1ZfbVV2dmItY1FlTk9CaXRaZFpzYmJET25mXzZGdERQWVpfRWcwc2NuY18wZmxPdDZjQzdpSVJfUUpLSkY2TXppZGxYakU1bDhkZHVNdUw1Vm5fdUYxc0QxWjFkTjY1U25GdG9naWRHaXdiRVJsUnlzbkh0ZXNxOXNyYUlubDAxNWI5V1RCWUlSQ2xUY1E?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-12T20:25:12Z",
+   "score": 75,
+   "tier": "major",
+   "category": "leadership",
+   "reasons": [
+    "Leadership"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "Yahoo Finance"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "3dd19786b1104ec1",
+   "ticker": "AAPL",
+   "kind": "news",
+   "title": "Apple HomeView Review: Who Should Buy It?",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54OFVoT1A4bDVJazdfM3ZKNTV4dXRabVJONTFJZVc3d0FNeEpDTURMdFVOZ1hvcTlKS3I0MmE2YS1tbGRjNmROeVRiTzdZa2Q3WllpSUVFcXFVNEtBWUxYU2VmRktpYkVITHhv?oc=5",
+   "source": "Mark Ellis Reviews",
+   "published": "2026-11-12T20:25:28Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Mark Ellis Reviews"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "2dcf222be3aa14e6",
+   "ticker": "TSLA",
+   "kind": "news",
+   "title": "Musk’s SpaceX-Tesla empire moves closer, but China and Washington loom large",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDhIcDZLNkF5ZWNCU01DNGdDTzhkNHAzVDlzdkRNYjZnaUQ2bGEtcFRBODNnMHFWRXQ0MTdtaDB2N292QnRCV2NEX0dzdzR0WHdONVMwaFBLX2doV3l5aFgyOTAzTFNMWHNxUG4wMzdUOUtKd2NxM0VfSEpJYWNQMGxtbDJzUGFjREx0aHNUaTVUWmlxNE1VT0RqdHFBa1dCZU5wVTNGaWVOd2h1bENTVGo5QTFpRWZzazdqcWJlaVJkd3BiZnhBMlpR?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-12T20:25:48Z",
+   "score": 26,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "Investing.com",
+    "Yahoo Finance Singapore",
+    "News"
+   ],
+   "merged_ids": [
+    "2dcf222be3aa14e6",
+    "2dcf222be3aa14e6"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "4ab6bd015dc730b7",
+   "ticker": "SPCX",
+   "kind": "news",
+   "title": "Musk’s SpaceX-Tesla empire moves closer, but China and Washington loom large",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDhIcDZLNkF5ZWNCU01DNGdDTzhkNHAzVDlzdkRNYjZnaUQ2bGEtcFRBODNnMHFWRXQ0MTdtaDB2N292QnRCV2NEX0dzdzR0WHdONVMwaFBLX2doV3l5aFgyOTAzTFNMWHNxUG4wMzdUOUtKd2NxM0VfSEpJYWNQMGxtbDJzUGFjREx0aHNUaTVUWmlxNE1VT0RqdHFBa1dCZU5wVTNGaWVOd2h1bENTVGo5QTFpRWZzazdqcWJlaVJkd3BiZnhBMlpR?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-12T20:25:48Z",
+   "score": 26,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "Investing.com",
+    "Yahoo Finance Singapore",
+    "News"
+   ],
+   "merged_ids": [
+    "4ab6bd015dc730b7",
+    "4ab6bd015dc730b7"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "d6358fd73cbf4d01",
+   "ticker": "META",
+   "kind": "news",
+   "title": "Meta, the owner of Facebook and Instagram, disabled some of Russell Brand’s social media accounts because of his 10-year rape conviction. His team announced the ban on X, whose owner, Elon Musk, continues to express support for Brand.",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSFppQVVublB1YnE3MndoOGh3emFJOUJqNEZ0aURtY1NSbUh3UEdjNTJYREJWeUxPWV9nZmF0NFpqaXViWml3Z1M4ZlZXRGg3QjhiWThmWmFmdE44em5xWDVSMDYwY2RxQnlPdVEyLUpiSTlnOC0yZHlENUxWd2x0YWFKZUpFY1VyWjdQLWY1ZUlqNWh1b1ZxWEtTQ0FGOVZMVDZEdW5yLVAtMVNITmNqZVFKc2RDUjQ1V0t4WWJmWXh4NFU0TktxVlFiQmM1dDNHVktn?oc=5",
+   "source": "Facebook",
+   "published": "2026-11-12T20:25:53Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Facebook"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "68e1e1e662389b2d",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Nvidia Stock Just Got Downgraded After Jensen Huang's Exit. Should You Sell?",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOU93dVdhWGJWMVU4Q09jeUxPSEZHd2pKREZlSzliNWNrazBJSFloRUJ2WVkzNE1zd3ZQQzRrTE9NejQtNUZlYTZDVzBsUkhaT25NT1RBaTZLdmNhZ2NmMW10ZEY1cGpYc3BjOC1Td3FHeUFkdnJOTzRvTzNRcGFTa2FrWXJ3enRiSWJYUm11cTUyeHhfQTZoS1ZDSjNjajhIeDdoRzFjck5vLTV5RVdSTVNMMjQzbC1Q?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-12T20:26:00Z",
+   "score": 48,
+   "tier": "notable",
+   "category": "analyst",
+   "reasons": [
+    "Analyst ratings"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "The Motley Fool",
+    "News"
+   ],
+   "merged_ids": [
+    "68e1e1e662389b2d"
+   ],
+   "base_score": 45
+  },
+  {
+   "id": "086a5a9d57856537",
+   "ticker": "TSLA",
+   "kind": "news",
+   "title": "SpaceX-Tesla Merger Talks Advance; Detailed Terms Remain Undisclosed",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mdTdHcTBPZmVoWjBqb0NMLXVJX01ENl9pbjdiMXp4aE9LQmtzSkE0bWxSM21SRTRkM0dIR295OV90THJtR1B3d2ZVV3RzNFhRekNVbQ?oc=5",
+   "source": "bloomingbit",
+   "published": "2026-11-12T20:27:38Z",
+   "score": 75,
+   "tier": "major",
+   "category": "deals",
+   "reasons": [
+    "Deals & M&A"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "bloomingbit"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "c0f09a8f5b6a4d38",
+   "ticker": "SPCX",
+   "kind": "news",
+   "title": "SpaceX-Tesla Merger Talks Advance; Detailed Terms Remain Undisclosed",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mdTdHcTBPZmVoWjBqb0NMLXVJX01ENl9pbjdiMXp4aE9LQmtzSkE0bWxSM21SRTRkM0dIR295OV90THJtR1B3d2ZVV3RzNFhRekNVbQ?oc=5",
+   "source": "bloomingbit",
+   "published": "2026-11-12T20:27:38Z",
+   "score": 75,
+   "tier": "major",
+   "category": "deals",
+   "reasons": [
+    "Deals & M&A"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "bloomingbit"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "533343f10e44a2f0",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Former CEO Jensen Huang conducted extramarital affair with second Nvidia employee, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MUUQtLTI0NGtaRS1yNFQzZmpmOXZqcVJhRGx1VkVkX3V6Q2JRUkVhSWFENXlaOGR4SmxGbllWZ1Rwb1FYdjRpa1pDZWpVSkxIb01rWWxZWUJOcFNqYnFF?oc=5",
+   "source": "The Jerusalem Post",
+   "published": "2026-11-12T20:27:59Z",
+   "score": 75,
+   "tier": "major",
+   "category": "leadership",
+   "reasons": [
+    "Leadership"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "The Jerusalem Post"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "d0b87871ddd862bb",
+   "ticker": "AAPL",
+   "kind": "news",
+   "title": "Apple Continues to Move Up iPhone Duo Delivery Dates",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUXMxS09jWFV6RGFab1ZTRThwWDllMDdLeXo5eGpZX3RRWllMUkM4X3VuOE05VmJySS12UDNXVkVNU1llblBDSmNaZk9xTUlFVHF6UUJCaGE5SHhGSEpDalVFUGt0Vy1abnRLdk1vTmRJVC1lbi1nWERGN2t5SmFsYkIzX0xZOGktR1Jr?oc=5",
+   "source": "MacRumors",
+   "published": "2026-11-12T20:28:50Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "MacRumors"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "28441d0dfb5e2a36",
+   "ticker": "TSLA",
+   "kind": "news",
+   "title": "Tesla, SpaceX Shares Up on Progressing Merger Talks, Bloomberg Reports",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZlRqNW93V2s1WUNDcXNxdG16Mm9qbUh4R1AtZThydlRNNUkzXzQ3Y1k4RWp4UlVqR2h0QmlURUpTMjdTRVRNRzhkT3NjeS1uVHNmLWZiRDlGQlNsRHBYbGduNW1Ld203eFd5S3FQTHhxdmVrWlhzcVNqV0dST1pab2Uwclp3TzFjTFJ5cExtbG5GLXlvUVp2MWE5Nm0tU2lKZWxhWlhEOUd2VkVQUVh0dnhR?oc=5",
+   "source": "Moomoo",
+   "published": "2026-11-12T20:29:14Z",
+   "score": 84,
+   "tier": "major",
+   "category": "deals",
+   "reasons": [
+    "Deals & M&A"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "TradingView",
+    "Moomoo",
+    "Mezha.net",
+    "BASENOR - Tesla Accessories"
+   ],
+   "merged_ids": [
+    "b8f39f2f31361787",
+    "99465fff0538558d",
+    "99465fff0538558d"
+   ],
+   "base_score": 75,
+   "alerted": "2026-11-12T21:14:15Z",
+   "alert_channels": [
+    "grouped"
+   ]
+  },
+  {
+   "id": "72e9d91fbcf0da94",
+   "ticker": "SPCX",
+   "kind": "news",
+   "title": "SpaceX, Tesla progressing on deal talks - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNem5EY213TlB2VUZLbVNhZkZyUDc4M2ZqbTZHN3ZuUHotbVNuOE5tV0hvMGNybGF3MXZiZ3lWWk1ydWxCNm5JUzgyWndNczVDZWR4MWlxZ0VSMGcyOTYwa19PNUJnUmQ4dlBSZ3VIcjYybkFBU1dSNGpCUHprZmZicGduZ0NDaTlKdDlTd19VZFRwZmNwREtPcE5SY1Nwb3hkRnd2ZWVCV1R6cVQ1R2VSbg?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-12T20:29:14Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "TradingView"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "9d354e7c664f1e99",
+   "ticker": "TSLA",
+   "kind": "news",
+   "title": "Tesla Cuts Cybertruck Lineup to Just $112,000 Cyberbeast",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX0dlX1pqNHlCdGd3d0dheTNEMjRxeHFpUVBYWTJWaV9hMFNPVC14MElBSU9CdExxbXgtcUtHZjZCM25wZTQ1QXZsVmJLU0NKblBWMC1CMUFocnowMG9WNkl1TE9qNTZldjAtcXotVGtidnhHT0pQWHBjT0JlaEtCM2YwRjNDbk5heUxaRGp5cTIwcC1Ga0I1T2xfZ3RxWmdITS1lOF9fYl83Z1B3RVJuTFR5OWQxSlluTlJYV1VuOTBjYW5ZblBpcENPSW9EQkJEVzFmU0trNGdFc3FoRjZLQmJpYXRtNlZLTk1PWkdod09WajdwZU03LTdXMFRNaEN4YUFJU1pHckdIM0t6eTNUMg?oc=5",
+   "source": "Autoguide.com",
+   "published": "2026-11-12T20:29:34Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "Autoguide.com"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "1ae94c5c55b429c7",
+   "ticker": "GOOGL",
+   "kind": "news",
+   "title": "Google, with local data center projects underway, invests $2 million into Project Outside grants",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa2lSU21qR01FWFlKV280Ykktb0lJS3B4NnJWSHVlVzlGWUoxcG1Sd19tYkFnWG5hN0lSbmpxTGoyWk1VcnhlaGZkbmxlVFhsU05PUFBlZjVBNXpTTlIxM3owWTZmZEM1QUVGODZ0NmZZUlpMQS1LbnFkRHlKOVF1blVZVHdaTXVxTm5EM1h2M3VVZmI4cUJXZnZIdmlvd1dmODEw?oc=5",
+   "source": "Roanoke Times",
+   "published": "2026-11-12T20:30:00Z",
+   "score": 40,
+   "tier": "notable",
+   "category": "product",
+   "reasons": [
+    "Products & AI"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Roanoke Times"
+   ],
+   "base_score": 40
+  },
+  {
+   "id": "092e167927dd97df",
+   "ticker": "AAPL",
+   "kind": "news",
+   "title": "Brad Pitt set to star in new Apple original movie",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbmlfeEgwanAtSEREVWtSaWJyRC1KQ2NwQ3kxdVBheThKUmJHaGs1bk9URjdFUnRKTzhHVnBMcmUxaXNSaVZEYm1ablRNejc2Ti03VVNKdUUta25HU1VsSFZFVWF4aXo3VjAyYlUtNTV1ZlhTN1RTMmZILUpnbE0xNWtwb01XN0FtUzFUNTJydnYwakVkN0M1MG5Vdw?oc=5",
+   "source": "NJ.com",
+   "published": "2026-11-12T20:32:00Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "NJ.com"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "7470c02eb857f013",
+   "ticker": "TSLA",
+   "kind": "news",
+   "title": "SpaceX, Tesla Merger Reportedly Could Be Announced as Soon as December, Potentially Ahead of Democrats Taking Control of Congress in January",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQkFQNVU2TjVhX1ZrXzdIaUZEVEJPUW83U3JHNElOeFlYSmRKSk9BZHBfMWQyWXZzWGIyQ01OVnlRcnNVdWU4SEVCNGozeVNMMnMtMWhzd2hhWkJXbkJXSzA2NUZaQTBKWkt4OUJiZS1CZjUtbkFsbFFjRVRkaDFiZFNOU1NqZUxTV0duUWtzOEE3MWZzRDhrMFZKR1NXZVB2SHRaNlctSjZhUUV4S2U5UU5WOVdRaTVYVDdpQUhmWEEwMEJwbGV6dEZfZXVFSHpwNEJQYzk2U1pqOVN3M0gw?oc=5",
+   "source": "TradingKey",
+   "published": "2026-11-12T20:33:21Z",
+   "score": 75,
+   "tier": "major",
+   "category": "deals",
+   "reasons": [
+    "Deals & M&A"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "TradingKey"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "d259475d26ad4c10",
+   "ticker": "AMD",
+   "kind": "news",
+   "title": "AMD Patches Radeon SSD Write Bug in Adrenalin 26.11.1 Optional Driver",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEVUWlRJVDdSZXZLWDg5MFNxSkx1eVpGVWpTd2RyNGhYTHNqX2tDblpvczZqamlpcVFlRVowc2lQeVc0MTBJOWRyNzN2U0NCNTh1c1prM2RrSGJTc1FibnBnUDhzS0RZOFozekx1ZUlrYU5mVlk4NmlOMkJpc0l1MmUtdVhKSlBYSXZFQjBkRlctNzNDaWZCX1VXcVM0WE8xUTBfZ1d6c9IBrAFBVV95cUxQc0gtbTFKWnVqOEllYlV4Vjk4Q3VRTDBxRjVCeXFELXd2TDJ6bWpaRlpoZDRlYk9WdE9Melo4UzZuZU1xWkdCR3VlejAxX3NCLUFINUdSSlgxd0l0ODVoZGVYVkcyQ0VWdWhpUmRhTFBkcWJDYnUxRkdJX2ljLUtTWUxJM0VkYy1KTGJTR2N2RWt6MHllNkJhR3BYVzRhWWd0VHJ2ZlZxQ01CTkJG?oc=5",
+   "source": "TechPowerUp",
+   "published": "2026-11-12T20:33:48Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "TechPowerUp"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "2f17c6a7b0bb22c9",
+   "ticker": "MSFT",
+   "kind": "news",
+   "title": "Microsoft blames server outages for widespread Microsoft 365 disruptions",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTHZGX0lySnNfYnVfbGdxQ0lWNjBXRUlxWGtIWnNHYUstd1dJcm9tWFc3M1M3b00wcHR6ODBocmtSNkNpeEF0YTloTF9mSGNBZGdTWTk1dW53b3lzaVJzN01ETmI5RXpxS1JKd0VZMTF5T0RxOHlFWVFDbkthUFFRUGtHSTVrbU4yRzYtY1MxdTRSS0JPXzl1SmQxMnVsTjJwV29MU01JaUJoTGMyWTJ0VE51dlc?oc=5",
+   "source": "Anadolu Ajansı",
+   "published": "2026-11-12T20:34:43Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Anadolu Ajansı"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "2514177cb9dd858c",
+   "ticker": "GEV",
+   "kind": "news",
+   "title": "GE Vernova Sinks 12%, Vertiv Down 12% in a Week as Data Center Backlash Hits AI Power",
+   "url": "https://www.tikr.com/blog/ge-vernova-sinks-13-vertiv-down-18-in-a-week-as-data-center-backlash-hits-ai-power?ref=yahoofinance&tlnk=yf-261112-76q6wcw2&.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-12T20:35:26Z",
+   "score": 43,
+   "tier": "notable",
+   "category": "product",
+   "reasons": [
+    "Products & AI"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_energy",
+   "outlets": [
+    "News",
+    "TIKR.com"
+   ],
+   "merged_ids": [
+    "2514177cb9dd858c"
+   ],
+   "base_score": 40
+  },
+  {
+   "id": "ee01061db10d9831",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "What's next for Nvidia after resignation of Jensen Huang : Here & Now Anytime",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTVKajZFSC1iZnhwYUhGRW1fNU5PS2VoWkhPNGI1Q255VnJxZGlOUEk2MUItRU5ZdUJtakM5TnFHak1DZFpJUFRpNXI3QWtHUkVmX3FxWXN4WkQ3MlBMcHFiYVFsTDlYbEpSNnhOMy1Ud0RlcTBCT2lWZlFMVUFTdEFSOWJoUjkzSmswUXZYV1QxaldxVEVxQVBQLTdiS0hwYnc?oc=5",
+   "source": "NPR",
+   "published": "2026-11-12T20:38:32Z",
+   "score": 75,
+   "tier": "major",
+   "category": "leadership",
+   "reasons": [
+    "Leadership"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "NPR"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "0f57c1fd2046a4f9",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Jensen Huang's exit rocks Nvidia and creates openings for rivals",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10SzlPWVQzVlB5d2FGczNUU0VIWDNDNm9JYkIwdHhXM1FZNGo3SDdELVBmaE9vU3IxeVUyOUo4cFZNRnJCbVpFTWZFbnNVV1lOZFpMLUVCWjNINUFTYzFDeTRnTTlCUnZuekR2SzE2dTZyTWY3MUVNTQ?oc=5",
+   "source": "CBS News",
+   "published": "2026-11-12T20:38:39Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "CBS News"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "72407a54395c85e8",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Opinion | The Nvidia scandal is about more than sex and spies",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ2FzMFV5TVRoTWZfLXZjdW5DU1BnUFQxcTc4R19MWW1wT294SjR1VWlEdFI0dzFlTkJJRWw4S2Nwc3dpR3VtYi01Uy00MFNMUmJqWnZGYkpEUnhKQXFEdTJGejJscWlRb1pYOU5uQ0Z6aGtDX1Rxenp1Q3ZUZ1NCbHgxeXhGZGI3LVpuZ1RTOHA4dDBibzdlX1JQV2ktYkFMdFd4anQwN3lZMGsyd3BNM3RCN2FZUQ?oc=5",
+   "source": "The Washington Post",
+   "published": "2026-11-12T20:40:47Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "The Washington Post"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "318fdbce0bb26b05",
+   "ticker": "GOOGL",
+   "kind": "news",
+   "title": "Add Us On Google Add as a preferred source on Google ATLANTA, Ga. (Atlanta News First) - A woman is facing vehicular homicide charges in a car accident that killed a Carrollton police officer. A grand jury has indicted 36-year-old Hannah Alivia Callahan o",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDZkhWbUJLTDJwbWRLdnpka3lCMDZwYWI1akdYd01oSXM5ak5ma0ZKV2FScWhIaTJzYXhqX0NYVDhKOFotV1BIUUlVMWNMZUpGakE?oc=5",
+   "source": "Instagram",
+   "published": "2026-11-12T20:41:20Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Instagram"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "ffd4999ae22c5141",
+   "ticker": "TSLA",
+   "kind": "news",
+   "title": "Finland’s green light for Tesla’s Assisted Driving supports potential European product adoption",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM3NNVXdEWVlsNlVWSWVQU3RHUHlSS3ViV0tudjl4cVlZTzJTWGppbzNtVzZrN0Iwbmt3ZUVWYi1tVFJQR2htZHNPQmQySmY2bnFwd2FPcjdFdlZySDc5bUVRMGg5N0RWVTRQVlhvUGx4bm96b1VTYTUyd0QxbGhTaTlrd254Zw?oc=5",
+   "source": "Traders Union",
+   "published": "2026-11-12T20:41:25Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "Traders Union"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "3328c10c055ba94e",
+   "ticker": "ANT",
+   "kind": "news",
+   "title": "New York Turns Up The Heat On OpenAI And Anthropic With New AI Safety Rules",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdHpUdUNpS0RDZHRCckk0OXI4R0FBaVVaOFN6ZC05dlI0Vm5fb1RySVFtbFdVWDlfNUpRUXV6WUF2NDZBT0wwWU1zSnBQMWdTME9GNDRhaVpfZnZVZFV2bGxnUlREbFM1RmhTdk94TGYzTW9CdVQzN19QX3YtaGlnVXFPQzR4ZjhxZW90c09BTVRLZ1JKYWNOclpUX0dGV2VRVzZfZlp5WDk1ZW5kX2RoQXJacjd6eF9LcnhNeVg0cXlqb3ZNMVUxRmJmRDF6N2dwRVFBSnln?oc=5",
+   "source": "Benzinga",
+   "published": "2026-11-12T20:42:21Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_software",
+   "outlets": [
+    "Benzinga"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "31613985d9b4816d",
+   "ticker": "GOOGL",
+   "kind": "news",
+   "title": "Google to donate two million dollars to Roanoke Outside Foundation for Project Outside grants",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdjRiem9xdW5RU2hEd0Y4QzlKWWQzRkZTT2dfbFRweWNSamF5cVQ1c0JKU0pFYVdrMTlXaUhMSldaaE9GeWozNzNBTjFkckdQRFhvc3hBVnpnSFNTSmNRNjVYMFpicWI1c3Q4UGdETzRaTUlPUFFUVjlLNy1BRXJwRTRjNGdlUDZhZjgwSUpxMkl5N0RzU19Wa1hWOUFyVk1DZzVpZlJwSXBHZ3BlMzZ5UllxOThLTkpKeGVJ?oc=5",
+   "source": "WFIR News",
+   "published": "2026-11-12T20:42:53Z",
+   "score": 23,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "WFIR News",
+    "WSLS"
+   ],
+   "merged_ids": [
+    "52e5485bd9c760be"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "3122f9b177495608",
+   "ticker": "GOOGL",
+   "kind": "news",
+   "title": "Your Pixel Watch or Galaxy Watch Can Control Samsung and Google’s New Smart Glasses",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlRFaWNlWlpTNmZLdlMwS19KME9oVllNQl9TcFZ4WHo0OHVBLXlmZVphWE9IMFUtMk5aWDVwai1Ga0lKM2NscWpUbHNEc1ZGS1l3bEFidFZzNTM3M0llY2FTRGhMa3NLMG96UG9YQ2QxUGtEc0FaRzM4Yk51eUZ3SzI5RQ?oc=5",
+   "source": "Gizmodo",
+   "published": "2026-11-12T20:45:33Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Gizmodo"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "b8ae3be787c5dd58",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Nvidia trading flows: pricing, levels, and what comes next",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-trading-flows-pricing-levels-204538704.html?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-12T20:45:38Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "01a6d2677797fbe6",
+   "ticker": "MSFT",
+   "kind": "news",
+   "title": "Microsoft 365 outage: Outlook is down, and the internet is touching grass",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTWtPdzlBaGRHX2otT2tZMUNFUHNKejlIcXJpdWh6N0N3bzJUME1iTWtlcmNleFdnQjRyWXVrdDlseFhyek5lVGdkOU5LRGs0bldPRGVESVVmQnBDWjBoQmdqR1Q3U3l3dUhoWE94bGw2MVhlZFdUNVJvVmVFbFZCeXV6ZVYtM2pl?oc=5",
+   "source": "Mashable",
+   "published": "2026-11-12T20:45:42Z",
+   "score": 78,
+   "tier": "major",
+   "category": "guidance",
+   "reasons": [
+    "Guidance"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Mashable"
+   ],
+   "base_score": 78,
+   "alerted": "2026-11-12T21:14:15Z",
+   "alert_channels": [
+    "grouped"
+   ]
+  },
+  {
+   "id": "b25dff2bcc831c30",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "NVDA Stock Price Forecast — Top Analysts Give Multiple Downgrades Ahead of November 17 Earnings amid CEO Jensen Huang Fiasco",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-price-forecast-top-204543429.html?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-12T20:45:43Z",
+   "score": 78,
+   "tier": "major",
+   "category": "guidance",
+   "reasons": [
+    "Earnings",
+    "Guidance",
+    "Leadership",
+    "Analyst ratings"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 78,
+   "alerted": "2026-11-12T21:14:15Z",
+   "alert_channels": [
+    "grouped"
+   ]
+  },
+  {
+   "id": "ce9ac834b223137d",
+   "ticker": "ANT",
+   "kind": "news",
+   "title": "Echo Harbor Tech Launches Three Unbiased News Products Built with BairesDev and Anthropic’s Claude",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVUo2VFJEN1M3ZmtDS3hfajM0aVQ0VFdGM1FONTFOaHV0emJCNTdxcy05OFZTUzVaaFFjMC1obXAyQU8wTUZ6SVROeEN1VWF4aEZsZElxeHlvdmRLby1sbzRYT3V1UWlaQlczWlJRVVpVSHotclRGMTVTMHRSWFBLZVlvNGVDeVZYdzhDaWh0b1dRVFdydmthMFRfYw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-12T20:46:00Z",
+   "score": 40,
+   "tier": "notable",
+   "category": "product",
+   "reasons": [
+    "Products & AI"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_software",
+   "outlets": [
+    "Yahoo Finance"
+   ],
+   "base_score": 40
+  },
+  {
+   "id": "d81ab0fea298698a",
+   "ticker": "ANT",
+   "kind": "news",
+   "title": "Stock market has a 'worrisome' focus on Anthropic IPO, Ariel Investments' Mellody Hobson says",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWUV4bFVxeVp5WDlQVVM4dTZqNVVDbDhSUTQ2YS1LMzBZQkhTemxaRndvSngxU3FueXg0TTNBOFRTU3hoNUdnakdhanMxUnpsODl3MnFwZkY4VzVNLXhEclNzX25OZS1STm1MZDVJMXdNcm02SkNWeXJkaE1NZnFmQUNVa3ZvTEF3dTlRbGRyU3ZaeFVrSFNEUnhfS0t3WnhJWWljSk1wT2d3YzZpRzh0M2ZYR3k4ODc2YVZseEFOQmRhNW5aN1FPd0xxWlMzeEtVZ0dXNlNFOFdxeGR3dU1r?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-12T20:47:15Z",
+   "score": 70,
+   "tier": "major",
+   "category": "capital",
+   "reasons": [
+    "Capital & dilution"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_software",
+   "outlets": [
+    "Yahoo Finance"
+   ],
+   "base_score": 70
+  },
+  {
+   "id": "57129d531ecb11f4",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Lutnick Under Fire Over Huang’s Nvidia Exit—Over After He Allegedly Blocked Megaspeed Crackdown",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVUZVUXdnUEFhemhBdGRnYWw3VE5QRW1jdFYtNGN5OEdNcC10NEdKWGYzQjBmdE1XVm0yS3U2U1pyRE1IMTl4OGpRYWU1bUNkd1hxUjlGcF9wcXFuOUFNczZNR0VrUWRFSnRrcnJyRmRTMVNlTjlDY2VKUHBTUFRYNVB3RlF3X1ptVUNFWktTclVZUDE2NWYtcWFFckU0QU9mRU8zeGZ3bTFXdE1xNTNWQkxmeDFWMUdLVGVKYWZCNUk?oc=5",
+   "source": "Forbes",
+   "published": "2026-11-12T20:47:50Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "Forbes"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "94820e77e4995288",
+   "ticker": "GOOGL",
+   "kind": "news",
+   "title": "“Stop Stealing Our Imaginations”: Kids and Parents Are Protesting Google’s Classroom AI",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObC1aaFJ4cThEUWlTcVo2YnJSR19lbTc0VjloT1JLc01sRFBpeDFpRGhDTUJwWm9OQWJ4aDZTTGJhVEhZWUhHQktSa1J0ZElZTzI0U3ZZQnoxbWxKOTFLM0JCVUJ4WmVHMjZWMDAtZEtQbXRISGt2MXY4UGxRMlJWYU50MG5nejI0OHNzY0tqcUdlUE4xM2JKTzhfYmcxbkZfS2dfTGpSb3lHRVQ4RkxZNFZ5TEhxVUNSamVJbkttRGRzaG8?oc=5",
+   "source": "Mother Jones",
+   "published": "2026-11-12T20:48:12Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Mother Jones"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "927ea7860bff14b7",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "This Analyst Sees Huang's Resignation As Nvidia CEO As A 'One-Time Clearing Event' For Stock Market",
+   "url": "https://stocktwits.com/news-articles/markets/equity/this-analyst-sees-huang-s-resignation-as-nvidia-ceo-as-a-one-time-clearing-event-for-stock-market/cNGCI1UR9O2?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-12T20:48:45Z",
+   "score": 75,
+   "tier": "major",
+   "category": "leadership",
+   "reasons": [
+    "Leadership"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "2410ab42f5cc3931",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Analog Devices Vs NVIDIA: Which Stock Is The Better Buy?",
+   "url": "https://www.trefis.com/stock/adi/articles/624533/analog-devices-vs-nvidia-which-stock-is-the-better-buy/2026-11-12?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-12T20:48:56Z",
+   "score": 0,
+   "tier": "muted",
+   "category": "noise",
+   "reasons": [
+    "noise: better buy"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "base_score": 0
+  },
+  {
+   "id": "b2d5b0f53d3389ab",
+   "ticker": "TSLA",
+   "kind": "news",
+   "title": "SpaceX and Tesla advance merger talks toward potentially record-breaking deal: Report",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMk1fY2oyc29IUmROTkNsUU5ocHItTnBObXZ3dkZKVE0yRmZEcW1sZF9FQUs0bGZUNUVPdnZ1OEI5UzAxSHVia0s2TUZuV3RLcnBWX3hnQkZ6dFQ5QmRwMXo2VkJRNEpweXFjdmxPaGhEZ1o4WHlEQm9veFRhTy02TlNFeEtsbDV6dGloV01SaUZ6dlVCaEU0bExKZ3R1UElNTUo4cU9uTUZSeHNkNGxHb0Q1OVNBZldzMjNQeDBCcURGa052LVE?oc=5",
+   "source": "CNBC",
+   "published": "2026-11-12T20:49:12Z",
+   "score": 75,
+   "tier": "major",
+   "category": "deals",
+   "reasons": [
+    "Deals & M&A"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "CNBC"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "707476b965d6563a",
+   "ticker": "SPCX",
+   "kind": "news",
+   "title": "SpaceX and Tesla advance merger talks toward potentially record-breaking deal: Report",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMk1fY2oyc29IUmROTkNsUU5ocHItTnBObXZ3dkZKVE0yRmZEcW1sZF9FQUs0bGZUNUVPdnZ1OEI5UzAxSHVia0s2TUZuV3RLcnBWX3hnQkZ6dFQ5QmRwMXo2VkJRNEpweXFjdmxPaGhEZ1o4WHlEQm9veFRhTy02TlNFeEtsbDV6dGloV01SaUZ6dlVCaEU0bExKZ3R1UElNTUo4cU9uTUZSeHNkNGxHb0Q1OVNBZldzMjNQeDBCcURGa052LVE?oc=5",
+   "source": "CNBC",
+   "published": "2026-11-12T20:49:12Z",
+   "score": 75,
+   "tier": "major",
+   "category": "deals",
+   "reasons": [
+    "Deals & M&A"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "CNBC"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "a378c38575e647ae",
+   "ticker": "AMZN",
+   "kind": "news",
+   "title": "Four Amazon Bedrock inference choices that affect cost",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDBxQmdGc2FjdUtJLXpEYkQ0bEp6d2pzRUxqV3lHMlQtVHZwa2ZvWWVDMV9ycmZrODR5bEQ3Q0V2dlNFNm4tQVRqOFQ2eWRxTmVYQkhDajVDeXJ6dDJ3a0F2VlZkUERTZDJJMEt5ZnpkYjZFUTJid0lrRzZkWlB6clkxQXhDUmw4RWJpdnQ3YjBzdm1EU1dwVTVjaEt0OHh6X2dj?oc=5",
+   "source": "Amazon Web Services (AWS)",
+   "published": "2026-11-12T20:51:55Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Amazon Web Services (AWS)"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "9b0043d499be5c92",
+   "ticker": "MSFT",
+   "kind": "news",
+   "title": "Widespread Microsoft outage cripples Michigan state government email",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjZjSnRfVnA5VHB1amhFMkdia3IwU2RGUFBLNUtrSEFQb00xNFJqal9TSzFOTFZ4cmV2eWhJekNrREpsbXYxRGZpbTJvbDV2VWRPSWJNdk02cUFEcGpRTEQycFlHMzV2eGhtU0lKQ3R0RE5XNENUdldEbXFRV1ZNVEQwQmhZRnVFMVZuZEMxM0xGd2NRY1REZ29VdTdmaF96NnJtUTl0WERTaE5H?oc=5",
+   "source": "MLive.com",
+   "published": "2026-11-12T20:52:00Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "MLive.com"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "f5b0c4981961196a",
+   "ticker": "MSFT",
+   "kind": "news",
+   "title": "Microsoft ‘restarting’ as outage impacts global users, with Outlook and Teams affected",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUZWOUNtNWFCM2JscG9FNzZHc1JVYzVPSmtUd2pUM05DVUNxSEtyTDBtN3IyYVpLRUJXdVhFNkFzcE0yZ1VDdUxLeWFwU2xmTkVjSGRfcUREbWVldTFoX1RibnhjUkFzRmVNcU9HOS1pVnlzOXVtUHo4TlRtMHZIcWQzZ1h4bENjN25Sd3ZOMkFRb3VqSGZBYUNQdTdjd1FYMVE?oc=5",
+   "source": "The Guardian",
+   "published": "2026-11-12T20:53:00Z",
+   "score": 78,
+   "tier": "major",
+   "category": "guidance",
+   "reasons": [
+    "Guidance"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "The Guardian"
+   ],
+   "base_score": 78,
+   "alerted": "2026-11-12T21:14:15Z",
+   "alert_channels": [
+    "grouped"
+   ]
+  },
+  {
+   "id": "b4e2440d293a36f6",
+   "ticker": "GOOGL",
+   "kind": "news",
+   "title": "Microsoft outage hits Outlook. AWS and Google users also report issues",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zWVd0VTRLTkFhaHlDLTNmZUNmLXkzd3ZLQVBULVd3Wk5GTDBPNzA1TkRGSmlzM0NlTURMX01hdmZHSHE2SW1zbE5OTE80ZjhfX1BZMTFJY2pyUGJjYktrVEJzT0VGelQxQmE5RjhlZkxEcjUwQ21KWnRTZS0?oc=5",
+   "source": "CNBC",
+   "published": "2026-11-12T20:54:22Z",
+   "score": 78,
+   "tier": "major",
+   "category": "guidance",
+   "reasons": [
+    "Guidance"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "CNBC"
+   ],
+   "base_score": 78,
+   "category_label": "Guidance",
+   "alerted": "2026-11-12T21:14:15Z",
+   "alert_channels": [
+    "push"
+   ]
+  },
+  {
+   "id": "d5d9463dbd81be23",
+   "ticker": "MSFT",
+   "kind": "news",
+   "title": "Microsoft outage hits Outlook. AWS and Google users also report issues",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zWVd0VTRLTkFhaHlDLTNmZUNmLXkzd3ZLQVBULVd3Wk5GTDBPNzA1TkRGSmlzM0NlTURMX01hdmZHSHE2SW1zbE5OTE80ZjhfX1BZMTFJY2pyUGJjYktrVEJzT0VGelQxQmE5RjhlZkxEcjUwQ21KWnRTZS0?oc=5",
+   "source": "CNBC",
+   "published": "2026-11-12T20:54:22Z",
+   "score": 78,
+   "tier": "major",
+   "category": "guidance",
+   "reasons": [
+    "Guidance"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "CNBC"
+   ],
+   "base_score": 78,
+   "alerted": "2026-11-12T21:14:15Z",
+   "alert_channels": [
+    "grouped"
+   ]
+  },
+  {
+   "id": "e6cab9180195ab8f",
+   "ticker": "MSFT",
+   "kind": "news",
+   "title": "Microsoft outage: What the company has said so far",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yMGQ2Vzd5dXB5bVVrM2lUdmRsVXV2bnBpS1pyR01VTGFmU2dKbHlIaERYZ2N3eFlYaHJPblJWSVZxQk1NbVFPTDBtb2RqVUpRSkZXeVZNNXdtM3haX1VZYTFxd295YVdpNVJnd194eGNQUQ?oc=5",
+   "source": "Mashable",
+   "published": "2026-11-12T20:55:00Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Mashable"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "9a70810e3062db76",
+   "ticker": "AMZN",
+   "kind": "news",
+   "title": "How to live stream Giants vs Commanders NFL game tonight on Amazon Prime",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM1dfZnZ2X2xqUlhOMFhEaFJKYnlDbTZrWkhfbTRrQXNEYWlVWlpVRlp0cU9tcFhlVGQtTmgwNWpJX2lxYzdwQmNzakRrTVYxTU12cm5PWG1NdXdtVnplcTQ0cGFQRG5NdGtxbDhtU2p6aDhBbUI5NzVOMVNiaWNFSXNxSGJ0RjdrVXBXTVNNWG42emx5OF9pd2M4aG9vN3pGNV90VTl0WGFTbExMT1Y0S1VmNV9mU0hGM3R0NHFuZUcyc1pFelRtWjgxS3JueE9kWFFuZnMxMkJBbm12dG1VSGV1TjU?oc=5",
+   "source": "USA Today",
+   "published": "2026-11-12T20:55:00Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "USA Today"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "a6d91c8984ecefdf",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Inside Jensen Huang’s $53 Million Property Portfolio as the Nvidia CEO Resigns After Affair with Suspected Chinese Spy",
+   "url": "https://finance.yahoo.com/news/inside-nvidia-ceo-jensen-huang-030100548.html?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-12T20:55:00Z",
+   "score": 75,
+   "tier": "major",
+   "category": "leadership",
+   "reasons": [
+    "Leadership"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "8609f85eb3080ef3",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Nvidia PE falls to 14-year low, but CEO exit and AI worries cloud the bargain",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1pCSzVXOGZaWVZyWTl6OXJiSk40TnNaMmhDUXJuN3BsdnNzZU8tSmg0bVkycVVmSG1UNGV6N0lNZ0lqRjdZZXZmQW1USXdvMWJ6MGRCUVotRmpvQTdxVWRmcjdPZmRrLVhPSDFmcjZRMFNWSk9EQjVIaDRINVl5d182b3BJb0hmTEJ0RTJrZ0dRWFBITWtMdW9ET2g4b2hCLWRoQnc5ODZvZw?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-12T20:57:59Z",
+   "score": 75,
+   "tier": "major",
+   "category": "leadership",
+   "reasons": [
+    "Leadership"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "Reuters"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "ede4d70aef811f35",
+   "ticker": "AMZN",
+   "kind": "news",
+   "title": "Grab the MGA Miniverse Holiday Advent Calendar for $10 off at Amazon",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2o5LUNxUzNLQkxTdXVGWXNSMDNxRzhRWk5ycUJKNFZvTzBPaG95WkVqLXBTTEg2SXA5Y2VjQkF3d3BNYUV1Q3d2RkVkcTBqZFItUTZkQUhDVENXR2JDelV0ZWNqU2RDb29uU29JTzA0d1JEekxqczNESWM1OGpKWUZSNzl5UDBFWEo3OWpjLXBfLTRZeDhYZjNfUWRjaGNWTlhBaUtOZ2licUt2cU9Dd1BfeV94YjVQWVU4UUx3eVZjX1VsNWttMXVwZy05NVg5cGlibQ?oc=5",
+   "source": "USA Today",
+   "published": "2026-11-12T20:58:00Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "USA Today"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "a0eeee50a277ce33",
+   "ticker": "AMD",
+   "kind": "news",
+   "title": "Meet Lisa Su, Jensen Huang's cousin, who's CEO of Nvidia rival AMD",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOejlTQVJ5OEhaeG9HMzBhekk2Vk1RYnc0eUNLN2MyOExiR21kYjR5YjIyQUo4M29zNVl6T0trSWl2Y1JmUEVSbjN1UUxHZWltRmxETzBxU0tyUlhZRFcyZ2szSVZ3SVNmbXFwUXlWOURvbmNSRDBmSnFEdkMtalE5ZVRRemduVUVU?oc=5",
+   "source": "Business Insider",
+   "published": "2026-11-12T20:59:00Z",
+   "score": 75,
+   "tier": "major",
+   "category": "leadership",
+   "reasons": [
+    "Leadership"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "Business Insider"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "63ed1d57869ed610",
+   "ticker": "SPCX",
+   "kind": "news",
+   "title": "FCC action in favor of SpaceX could have Verizon, T-Mobile, and AT&T execs sweating over price war",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV1hlRVdZSTVxZE9Ud1Bpb2xsYXVqTGFmVEdyZkRYS0gtWlRBMjA1OEhiZ3VMWENjcUM4Z00yM05WRThXb2ZOZWFxdFdLVndEZFF2b29yVkNEaWZrbldUaTRwMmFybmZRaEtma3VrelN0ajRrTGZyc203eEZfRjlBZ010bkYwVno3NFFjaVJCbVVvRDNqVG0xbVRrQQ?oc=5",
+   "source": "PhoneArena",
+   "published": "2026-11-12T20:59:13Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "PhoneArena"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "52ce1bd52fc8f250",
+   "ticker": "TSLA",
+   "kind": "news",
+   "title": "Would a Tesla–SpaceX Merger Be Bullish for Bitcoin? Careful What You Wish For",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcnRaWUFFeWNXbHFDUkhLblpmZk9fb1dGaVNubUVpRFR0aHI4aXVrLURvTVdrYngtTndtWTl1VE1xRkFieWZxY1FiZGNCOVZ6d2NBcGx4ZzBtSXgzUTZUOEdhWFFQLVFsSU00NG0wcVVKLXk5NDg0SkEzU1hmTWtKQnM0TnZTbmx5LTM3MzhPZi1PVXMyWEJmc3pTYnRJdFU3V1g0ajFQNVBNOXNBNUpXTWQwRmZLSGFFTWxaMlFvV0FtaGNudVpaN2w3MzRDZl9OMmVfcw?oc=5",
+   "source": "Benzinga",
+   "published": "2026-11-12T21:00:06Z",
+   "score": 75,
+   "tier": "major",
+   "category": "deals",
+   "reasons": [
+    "Deals & M&A"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "Benzinga"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "5f3956fa8a0514dc",
+   "ticker": "SPCX",
+   "kind": "news",
+   "title": "Would a Tesla–SpaceX Merger Be Bullish for Bitcoin? Careful What You Wish For",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcnRaWUFFeWNXbHFDUkhLblpmZk9fb1dGaVNubUVpRFR0aHI4aXVrLURvTVdrYngtTndtWTl1VE1xRkFieWZxY1FiZGNCOVZ6d2NBcGx4ZzBtSXgzUTZUOEdhWFFQLVFsSU00NG0wcVVKLXk5NDg0SkEzU1hmTWtKQnM0TnZTbmx5LTM3MzhPZi1PVXMyWEJmc3pTYnRJdFU3V1g0ajFQNVBNOXNBNUpXTWQwRmZLSGFFTWxaMlFvV0FtaGNudVpaN2w3MzRDZl9OMmVfcw?oc=5",
+   "source": "Benzinga",
+   "published": "2026-11-12T21:00:06Z",
+   "score": 75,
+   "tier": "major",
+   "category": "deals",
+   "reasons": [
+    "Deals & M&A"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "Benzinga"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "dd66e1ae3aaa39d6",
+   "ticker": "ANT",
+   "kind": "news",
+   "title": "Anthropic’s IPO Is Said to Be About Six Times Oversubscribed",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeWxnOC1MRXVQbUJwaDdiSDE3TzdIbVRyYU5qWnF5YzkycUVPTXV0bUhOWEIzWU1xejMyQXJxaGtHT2dQbk1iTExkc29hYjBpQWRsY3RTaEtsTVhVaFJjOHl5aW5nb0dDYzRwcWxjVXpkbWw1bU5lSFhwVHo4aGw4bHJZYlNZTUVoN2VwYnhBWmNDNURMbXNmN2FvaEVONS1CVG1MY004MzdMbTRJd1E2eQ?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-12T21:00:14Z",
+   "score": 70,
+   "tier": "major",
+   "category": "capital",
+   "reasons": [
+    "Capital & dilution"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_software",
+   "outlets": [
+    "Bloomberg.com"
+   ],
+   "base_score": 70
+  },
+  {
+   "id": "77759fd1bdbb6c19",
+   "ticker": "AMD",
+   "kind": "news",
+   "title": "AMD's FSR 4.1 is the game-changer that DLSS 5 should have been",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUDZCdkhFR2dOVWNqR1BUWTZlZ05VZ3JLTTNyUFFaeHprQjBvczRDWjVVMmt1a3U2TFFzYllIR0xkQ3ZRcmJ1ajBkWWd4TFNLWUxPUXhkUnhjSDlLUm4wMnBRYjZZQ2x4d3lVb0JVLTR0UFNlNU1KZjNSYkw2UzBRZU93bDF0ZC1MY3ZxdEZB?oc=5",
+   "source": "MakeUseOf",
+   "published": "2026-11-12T21:00:17Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "MakeUseOf"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "b96c56ffe628c7df",
+   "ticker": "TSM",
+   "kind": "news",
+   "title": "TSMC confirms data breach as hacker demands Bitcoin worth $215K — Details",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDVXc0dGOUtvV2FWano3MEgwaTJhZGYzazhybmRTY3hialRtcGozOEluMGpqYXZEOWhBY3k5d0k0MGZmVWJLb25ST25odUwybk9EbGNPUmNoRmxNSUg4bXFnRVZsWWtIUHhZVGJsd3F2MFZTbkVpN1I3SDBUWTlDV3JBeVZvb0RPVEJ2YVJEMmZQQXRLSzFUQg?oc=5",
+   "source": "AMBCrypto",
+   "published": "2026-11-12T21:00:19Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "AMBCrypto"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "d1b6c250143c4eaa",
+   "ticker": "AMZN",
+   "kind": "news",
+   "title": "3 NEW Disney Loungeflys Just Dropped on Amazon",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2F0Wm5Jc1BRVjN3QXpsWVk4YnlpMjY3MndHYlYxNTB3R0dDMFA4d3lCeS1ZR2YzbjRMclk3UkRQenZSUUd5cURGR1BUeWdEdmNHU1A4MkNueEJMSlZudFJHcGNVWUlhY1FyMDcxWDhGTHhpQTd3WEtPWDZTa0tOTXVfZl8?oc=5",
+   "source": "AllEars.Net",
+   "published": "2026-11-12T21:00:43Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "AllEars.Net"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "3ee7a95795217018",
+   "ticker": "GOOGL",
+   "kind": "news",
+   "title": "Google Ads Rolls Out New Invalid Traffic Overview Card",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVQtbDR1WkY5M3BHUnF4OVNicFpBaFJUSnA4QzhhY1BXRFVIS3NhSnVlaTFJTVF2WjR5Y2MyUDFfb3dDQ0IyRl80aDRTdjFWVHNNdlE5QWJyakJiN0xOd1Q3LVJVd29RWmRjcF9HTFR3czI2ei1rRkNzVUJDaFdpZE1MN3ZLOUVTU3B1RVBEMVVHZGVaTjFMLW96eHk4Vnc?oc=5",
+   "source": "Search Engine Journal",
+   "published": "2026-11-12T21:01:44Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Search Engine Journal"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "ca6dc6710e0ac8b5",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Wall Street shakes with swings for Nvidia and oil prices but recovers most of its early losses",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFFiZmRWVmxZNDlVRnR1NHVQNkprRUhWMnNLMHFLWC1qdGljTm9ON2Z3U2FuXzNUcjRwRmNqMFZVemE4TVA1RVhRdl9paUtyMXJoYWhHbVl5d1FfNWZIZTVVU0IwcDQ0eHlnWGxxWEFhZjdkVko1a1hwY25XWE9uc3Q0MkIyaHpCWkNuZk05SGs1ck5DTFV4ZktQNWo?oc=5",
+   "source": "AP News",
+   "published": "2026-11-12T21:02:00Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "AP News"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "e31a6bdca2dba23b",
+   "ticker": "TSLA",
+   "kind": "news",
+   "title": "Tesla Stock Best Run in a Year on SpaceX Merger Report - Tesla (NASDAQ:TSLA)",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGdjYnNTT08wcTZGTW5uNVNOQk12ZjVFSDlsSFpaTW1lYlY0TjhLUjZEamY4NG1uZWpjRk5ob3lpR19mX0tCdXNWNkdkTUxpa3VxQXhoZklmYVV4QldUc3k0TlpGck9JZHpjU3VHaXppMmFOTkhpcnA0Q1hieVNYYnBFSU1GVzg4QVJDek9PNzZ1bGhRU2lKTzZuQUFZZw?oc=5",
+   "source": "Benzinga",
+   "published": "2026-11-12T21:02:07Z",
+   "score": 75,
+   "tier": "major",
+   "category": "deals",
+   "reasons": [
+    "Deals & M&A"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "Benzinga"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "2cff849a2b76539d",
+   "ticker": "SPCX",
+   "kind": "news",
+   "title": "Tesla Stock Best Run in a Year on SpaceX Merger Report - Tesla (NASDAQ:TSLA)",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGdjYnNTT08wcTZGTW5uNVNOQk12ZjVFSDlsSFpaTW1lYlY0TjhLUjZEamY4NG1uZWpjRk5ob3lpR19mX0tCdXNWNkdkTUxpa3VxQXhoZklmYVV4QldUc3k0TlpGck9JZHpjU3VHaXppMmFOTkhpcnA0Q1hieVNYYnBFSU1GVzg4QVJDek9PNzZ1bGhRU2lKTzZuQUFZZw?oc=5",
+   "source": "Benzinga",
+   "published": "2026-11-12T21:02:07Z",
+   "score": 75,
+   "tier": "major",
+   "category": "deals",
+   "reasons": [
+    "Deals & M&A"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "Benzinga"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "38afd5a5fe93b443",
+   "ticker": "ANT",
+   "kind": "news",
+   "title": "Why Anthropic is a more speculative bet than Visa: Bill Ackman",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeDJ2LS1Gdm5IX3VGdnVDZ0tqb0lnSHVPUjJhcC1DSmdzSXVhWUxnWkg0eE02QUs5NE43Z2F5dUhWNWkwcjlZWTFTNXZlR0ZtSW5BODgyVlo4NTI2eU9halRzZy1DTjdrNnpBclBRR2JzZmVBOTNWVnlValA3eGhDWkFsYmdIdkN0Q2p5d1F0RGZxeGtWY2lRdzN6Y0dkeXNZSWdyMjlNekg2Rkhm?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-12T21:03:02Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_software",
+   "outlets": [
+    "Yahoo Finance"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "a557e0b1ade316fc",
+   "ticker": "MSFT",
+   "kind": "news",
+   "title": "Microsoft outage hits tens of thousands of users",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVVNnLWh2MFhsanVaRkl3ZkFlNUphQnJ1RUVOMEw4MHRsVmJkOEJTcUJyWVFRV2ZZZ3VMOG5CLUo2MFZGQmRfMnV0ZlZNNnEwUDVGN0lkMkgyUzJaVzVkWmFBMF9HenMzbFlURHpZeFBpRC1Ta0FxeDJZLXYwSnN3QXlNS0dfd0hFSG42OE9nUU1uajZJ0gGaAUFVX3lxTFB5SU5lc3F0THNKSHFxM2dXRTU0MW9WTnhrR2RmOUd6TV8yakVwR05wQkxuaV9Pd19qNmo1ekp4NEpvSWhZMjNiM0hvOGVGRDlOQ09VZlNjRTF2dk9ueF9ZdWdXLWxZaklwZW1WZUJmMklMNlJNcS1rb1JlQjc5QzkwdnFITmZFcUQ3TEY3a2Q5S1MyVWZQNDVCVkE?oc=5",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T21:03:32Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "70aaa07d5b5f16a4",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Update: US Equity Indexes Fall as Nvidia CEO Jensen Huang Resigns, Crude Oil Jumps",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-nvidia-210433353.html?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-12T21:04:33Z",
+   "score": 75,
+   "tier": "major",
+   "category": "leadership",
+   "reasons": [
+    "Leadership"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "13d3cfd06d3b6613",
+   "ticker": "SPCX",
+   "kind": "news",
+   "title": "Tesla-SpaceX Merger Could Be Announced in December, Bloomberg Reports",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHhHWjlyOC1ZdmVEcThkMkhCUEpmdnp6cDlyRnpERHI3V0prRUVLUWtEZ3hZdUxQTW5wR0lQUUJnOVBSc2E4ZGJfRnhqN25Zd1NzWFNoWGpjRjV2RjNrYXJkSjhfdFlqaWtKRlA4ZFpFSDk5RTRmcUtpNTdvaU1TUnRFNXc4UFNjVm5VeFNoYmRyRU1mb1JqWFFnLVMtbVNnZXZoSVRB?oc=5",
+   "source": "BASENOR - Tesla Accessories",
+   "published": "2026-11-12T21:05:04Z",
+   "score": 75,
+   "tier": "major",
+   "category": "deals",
+   "reasons": [
+    "Deals & M&A"
+   ],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "BASENOR - Tesla Accessories"
+   ],
+   "base_score": 75
+  },
+  {
+   "id": "551f3345ca606640",
+   "ticker": "GOOGL",
+   "kind": "news",
+   "title": "Alphabet's Wing to build $125M drone factory in Fort Worth",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS2NoQlNETjBoUmpJM2t4TGU4ZjJPS3RlRjl6czFmQ1pHWXBsQVJYcG9OekhadW9JLXhQeWdlQkJfQTl6LTRoWUt4V1hCTUFlcDlzdF9za2xBYmVwYmRiOVJRa19uRWRQOURRMTZ1R2VGMmV6aGRTZHprR3NmdUl3bWVsUTgzV1NzSHJ6cGhJLVFqRkxmOWc?oc=5",
+   "source": "Dealroom",
+   "published": "2026-11-12T21:06:27Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Dealroom"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "3c667e3e485d6d90",
+   "ticker": "TSLA",
+   "kind": "news",
+   "title": "Tesla's New 4K Photo Drop: What's in the Gallery?",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnJ3c1RsTmtpOTNzdU52SkNvWlJLRjVCeUxTWnF0cE5tRkVIYTN2aG1Gb09nSmFKbUxVTjR1bW9SdDI3M2taaWxVSkFjVDB0alRKc3JFMlFHODhiYks0UzRBU0h5TklZNTFaUDc0dEY1Mi1sQkZFcU40dEVQTUI5cGFKSzZBTUE?oc=5",
+   "source": "BASENOR - Tesla Accessories",
+   "published": "2026-11-12T21:07:09Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "musk",
+   "outlets": [
+    "BASENOR - Tesla Accessories"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "81ae641fe730e778",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Jensen Huang's Ouster of Nvidia is Roiling Markets. Stocks Fell.",
+   "url": "https://www.ibtimes.com/nvidia-shares-fall-jensen-huang-ceo-ouster-3809707?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-12T21:07:20Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "ai_chips",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "e738237637a84be9",
+   "ticker": "AMZN",
+   "kind": "news",
+   "title": "How I host an elegant Thanksgiving dinner for 12 in my NYC apartment using only affordable Amazon finds",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTVVfZ2wzcWU5YndhRU01MU1WQUdTdUpyU2kzdVppX2lyZjJrdUFwaWtlT0pRRVVfWlUyYjVQRzI5eVhJeWZ2VlhNUFVZWGtxV3ZMb3NuVzRFdEpRaDFaWl9VcFB0dnZVdzU0SjlScjBycTNjZDltYm5TNkVnYkhxM2p2enlsWGVsUzBXWEdENVU4dUpOWmRQTGdSVFNIRkpu?oc=5",
+   "source": "Business Insider",
+   "published": "2026-11-12T21:10:00Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-12T21:14:11Z",
+   "group": "big_tech",
+   "outlets": [
+    "Business Insider"
+   ],
+   "base_score": 20
+  },
+  {
    "id": "c6a6bc9c652e4b44",
    "ticker": "QBTS",
    "kind": "news",
@@ -1092,16 +3341,20 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHWl8wZ3hNWlprbGpSb2VjaWZ6bEx0UlRmcDJhdTBWbl9ZTEVsRXZzckw3TkZnZzlTM2dhVE1LRm9aLUoyTGZDSWdmV0t1cXdDMkYwQlEwdlVJX1k?oc=5",
    "source": "UT San Antonio Today",
    "published": "2026-11-12T19:43:07Z",
-   "score": 20,
+   "score": 23,
    "tier": "info",
    "category": "general",
    "reasons": [],
    "first_seen": "2026-11-12T20:24:49Z",
    "group": "big_tech",
    "outlets": [
-    "UT San Antonio Today"
+    "UT San Antonio Today",
+    "Old Dominion University"
    ],
-   "base_score": 20
+   "base_score": 20,
+   "merged_ids": [
+    "346ed7049578936f"
+   ]
   },
   {
    "id": "e31a03af145e1333",
@@ -1111,7 +3364,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82ZS1LUVo1czFOLVFRVUh2cXB5YTJka1BhRDFXcmYtc0hnQWFlTndsNzNNLWFUX1FSSXZadzh5X09Va0VJZzh3NUMwZmxNWTMwRkNxcVhzcmNjbVhLM21vcXRR?oc=5",
    "source": "Ynetnews",
    "published": "2026-11-12T19:43:20Z",
-   "score": 75,
+   "score": 78,
    "tier": "major",
    "category": "leadership",
    "reasons": [
@@ -1120,9 +3373,17 @@
    "first_seen": "2026-11-12T20:24:49Z",
    "group": "ai_chips",
    "outlets": [
-    "Ynetnews"
+    "Ynetnews",
+    "News"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "merged_ids": [
+    "5f08885712fce694"
+   ],
+   "alerted": "2026-11-12T21:14:15Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "8a40d0d7de1b475f",
@@ -1193,7 +3454,7 @@
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN1JuenhJZU9YdjlNazMtT2s0NFJTaVRsM2pvbjdnWWxnVGY0bmt6SHFWQVBkS0pRNGZHM3VSNHprVi1wZ2lZM2htS3EyY29RaGdkVC1janhUZnFySzJmVW9fVXV4S1gybHNINnE0QVpsdGVGaVhVSlRJMURudk1pYThSM3FEMHJGalhhb0VDMjhfZ3BHbWZjUjg5RzdJOHdiY05kMDJEclZlZ0xSbTZyUzFMaWM3TDREQktpM3BLamZVRHlLdHpwZk1NdFpDelc1?oc=5",
    "source": "TradingView",
    "published": "2026-11-12T19:44:30Z",
-   "score": 40,
+   "score": 43,
    "tier": "notable",
    "category": "product",
    "reasons": [
@@ -1202,9 +3463,13 @@
    "first_seen": "2026-11-12T20:24:49Z",
    "group": "big_tech",
    "outlets": [
-    "TradingView"
+    "TradingView",
+    "Seeking Alpha"
    ],
-   "base_score": 40
+   "base_score": 40,
+   "merged_ids": [
+    "f824b77eef842ee3"
+   ]
   },
   {
    "id": "dc8df8626bda14a8",
@@ -1958,7 +4223,7 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOem5ZNlhPS0NvU3hVb2lCRXZzZWhQM2pzSHh1ZDdDZFJWcjdhLU00Tmw2WHhKWGRFTzVSTXNmUER6dkFGc2syQl9PSlg1Wk16YjM2U0hXMnU5NUJ3UFRUS21qTHFObTFRRlJWcmJ6Y3VEeW9hUTJEQWFmYVBwN3Z2dklERU9xRVU3dXZpNW9HdDFLV29pTmp3cXlTeGRoMGViQlBzSFlrLXkzbWdUeGZZ?oc=5",
    "source": "San Antonio Express-News",
    "published": "2026-11-12T20:03:45Z",
-   "score": 78,
+   "score": 90,
    "tier": "major",
    "category": "guidance",
    "reasons": [
@@ -1967,12 +4232,24 @@
    "first_seen": "2026-11-12T20:24:49Z",
    "group": "big_tech",
    "outlets": [
-    "San Antonio Express-News"
+    "San Antonio Express-News",
+    "New York Post",
+    "Ball State Daily News",
+    "WFTV",
+    "The Tech Buzz",
+    "San Francisco Chronicle"
    ],
    "base_score": 78,
    "alerted": "2026-11-12T20:24:51Z",
    "alert_channels": [
     "grouped"
+   ],
+   "merged_ids": [
+    "9fe01a86bfcbeec4",
+    "28d1893bc48e57b0",
+    "11443754ef0d3523",
+    "56b1451065078402",
+    "54fb88d0d01acd8e"
    ]
   },
   {
@@ -2149,7 +4426,7 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhjTWZjYS1paVVuVHpOVmJRaFpkclFuVmtDZ1RYQS1tUjI3YlNoTURnMWwyMUNxRlJEdXVYVHZoNUxRTUVOT28xS0JzS2thUmQ4WE5jMEgtajNlRWhCc1UzRkxBZGRuV2tRZWlmQjFBbmxPbk1ZVjI1Vy1wVy1fRTFaTXgxMjFpNDNKeDg0alZTLUhzZXNKYmxkNlNrMFZwdHBkTEJFTEhrQmNZdE40ZQ?oc=5",
    "source": "Bloomberg.com",
    "published": "2026-11-12T20:09:05Z",
-   "score": 75,
+   "score": 87,
    "tier": "major",
    "category": "deals",
    "reasons": [
@@ -2158,9 +4435,31 @@
    "first_seen": "2026-11-12T20:24:49Z",
    "group": "musk",
    "outlets": [
-    "Bloomberg.com"
+    "Bloomberg.com",
+    "TradingView",
+    "marketscreener.com",
+    "U.S. News - Money",
+    "Central Oregon Daily",
+    "Reuters",
+    "Investing.com",
+    "The Lufkin Daily News"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "merged_ids": [
+    "0df60828210a43c4",
+    "90802edc5811e4f0",
+    "90802edc5811e4f0",
+    "90802edc5811e4f0",
+    "90802edc5811e4f0",
+    "8ac4898bffe676e2",
+    "90802edc5811e4f0",
+    "bd746f713845bc2c"
+   ],
+   "category_label": "Deals & M&A",
+   "alerted": "2026-11-12T21:14:14Z",
+   "alert_channels": [
+    "push"
+   ]
   },
   {
    "id": "813bf028bfdf1dc0",
@@ -2170,7 +4469,7 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhjTWZjYS1paVVuVHpOVmJRaFpkclFuVmtDZ1RYQS1tUjI3YlNoTURnMWwyMUNxRlJEdXVYVHZoNUxRTUVOT28xS0JzS2thUmQ4WE5jMEgtajNlRWhCc1UzRkxBZGRuV2tRZWlmQjFBbmxPbk1ZVjI1Vy1wVy1fRTFaTXgxMjFpNDNKeDg0alZTLUhzZXNKYmxkNlNrMFZwdHBkTEJFTEhrQmNZdE40ZQ?oc=5",
    "source": "Bloomberg.com",
    "published": "2026-11-12T20:09:05Z",
-   "score": 75,
+   "score": 87,
    "tier": "major",
    "category": "deals",
    "reasons": [
@@ -2179,9 +4478,30 @@
    "first_seen": "2026-11-12T20:24:49Z",
    "group": "musk",
    "outlets": [
-    "Bloomberg.com"
+    "Bloomberg.com",
+    "TradingView",
+    "marketscreener.com",
+    "U.S. News - Money",
+    "Central Oregon Daily",
+    "Reuters",
+    "Investing.com",
+    "The Lufkin Daily News"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "merged_ids": [
+    "df9e8e7cca478f8f",
+    "025e6af1827e19fa",
+    "025e6af1827e19fa",
+    "025e6af1827e19fa",
+    "025e6af1827e19fa",
+    "dac2441c9805d57a",
+    "025e6af1827e19fa"
+   ],
+   "category_label": "Deals & M&A",
+   "alerted": "2026-11-12T21:14:15Z",
+   "alert_channels": [
+    "push"
+   ]
   },
   {
    "id": "d282c6ab21ad96f9",
@@ -2307,16 +4627,20 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR0NRaXpUMlFqVFZla2xfOGo4Z0JlMDc5NlFPRjdHcm1xb1pwRjR0cEdtbm1jeVBCZkp6SlNRR3J1UmY0QnM4bVRnbjZTSmJSbzNERnVDLVcyUVZOV3VmWm5fdGRjM0M3cERPTmJjSW85bTYyVXFkYXhYaWNlMXNSTjFPejF0NEg0VzRpNlNJMW94UQ?oc=5",
    "source": "9to5Mac",
    "published": "2026-11-12T20:12:00Z",
-   "score": 20,
+   "score": 23,
    "tier": "info",
    "category": "general",
    "reasons": [],
    "first_seen": "2026-11-12T20:24:49Z",
    "group": "big_tech",
    "outlets": [
-    "9to5Mac"
+    "9to5Mac",
+    "AppleInsider"
    ],
-   "base_score": 20
+   "base_score": 20,
+   "merged_ids": [
+    "effaf8a92a7898b9"
+   ]
   },
   {
    "id": "ee0d9cb83ec17347",
@@ -2326,7 +4650,7 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0V0SXg5ejZFckFtd1E2cXdVVlVGWmgwdXMtcVhibFoyR3VfY2pQNzg4cW1kbnpuN1BWcU1XU2trZmJaSGFTdVlYUlVBdl80WmlHTVgweDdxV2c4d1FuRV9KdEh0TGdYYS1UN2xqZFBzMFlHQUJLQWk0TFdDeTNsc3cxVzBmcmZzaGRNeDRXdDA1MnJtVmJ3ZGMybmRaMTM0OW9J?oc=5",
    "source": "Oil City News",
    "published": "2026-11-12T20:12:12Z",
-   "score": 78,
+   "score": 81,
    "tier": "major",
    "category": "guidance",
    "reasons": [
@@ -2335,12 +4659,16 @@
    "first_seen": "2026-11-12T20:24:49Z",
    "group": "big_tech",
    "outlets": [
-    "Oil City News"
+    "Oil City News",
+    "Nevada Appeal"
    ],
    "base_score": 78,
    "alerted": "2026-11-12T20:24:51Z",
    "alert_channels": [
     "grouped"
+   ],
+   "merged_ids": [
+    "abb6c08d74e224b0"
    ]
   },
   {
@@ -2374,7 +4702,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGw2QmZDd29iRC1hR3NBaDlMYXhJdTYwMFYwS29yem1NdHJHd2VPdHlUbWhLTWRnNjNhZENqaTlYcnBrcFg2eXBRSm9GU1V5OTQ1bXNscDBIV2J2NHhaZE5fOE1IWUwwdXg3SGJ2ejBYODNsSFpkUDI2cnlBelk4dmZXY2xER1Vs?oc=5",
    "source": "Crypto Briefing",
    "published": "2026-11-12T20:13:58Z",
-   "score": 75,
+   "score": 81,
    "tier": "major",
    "category": "deals",
    "reasons": [
@@ -2383,9 +4711,19 @@
    "first_seen": "2026-11-12T20:24:49Z",
    "group": "musk",
    "outlets": [
-    "Crypto Briefing"
+    "Crypto Briefing",
+    "Breakingthenews.net",
+    "Electrek"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "merged_ids": [
+    "40a04c98380e8578",
+    "eaf6473c90c57e0c"
+   ],
+   "alerted": "2026-11-12T21:14:15Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "8233320f6e159587",
@@ -2416,7 +4754,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGw2QmZDd29iRC1hR3NBaDlMYXhJdTYwMFYwS29yem1NdHJHd2VPdHlUbWhLTWRnNjNhZENqaTlYcnBrcFg2eXBRSm9GU1V5OTQ1bXNscDBIV2J2NHhaZE5fOE1IWUwwdXg3SGJ2ejBYODNsSFpkUDI2cnlBelk4dmZXY2xER1Vs?oc=5",
    "source": "Crypto Briefing",
    "published": "2026-11-12T20:13:58Z",
-   "score": 75,
+   "score": 81,
    "tier": "major",
    "category": "deals",
    "reasons": [
@@ -2425,9 +4763,19 @@
    "first_seen": "2026-11-12T20:24:49Z",
    "group": "musk",
    "outlets": [
-    "Crypto Briefing"
+    "Crypto Briefing",
+    "Breakingthenews.net",
+    "Electrek"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "merged_ids": [
+    "cfb4952d80f725a5",
+    "62e98c36a5c31a28"
+   ],
+   "alerted": "2026-11-12T21:14:15Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "2baa76608304fed4",
@@ -2458,7 +4806,7 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcU9QR1hUYkdjaWp0M2hIMlcybE5kRzN3cUM4SXpoMm1ic2U1TGViQ0sxYlhrMmhkakFveE02U1E4WHR6X2E5bXR6WnNkR1pyQ1hHR2FRZ0UtNENnTjcyamcyTmdlNGR5OTAxQXNrQzdHdlZkek5SWXE1TjdGR1BlMzR5WWtRWmtyM1lSajhqVnBZT09oaFEwVGhLRldibGdqTE95dm9GSGhpLXFDQThtODFR?oc=5",
    "source": "news.lavx.hu",
    "published": "2026-11-12T20:14:56Z",
-   "score": 75,
+   "score": 78,
    "tier": "major",
    "category": "leadership",
    "reasons": [
@@ -2467,9 +4815,18 @@
    "first_seen": "2026-11-12T20:24:49Z",
    "group": "ai_software",
    "outlets": [
-    "news.lavx.hu"
+    "news.lavx.hu",
+    "The 420.in"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "merged_ids": [
+    "fb523b50ea870b28"
+   ],
+   "category_label": "Leadership",
+   "alerted": "2026-11-12T21:14:15Z",
+   "alert_channels": [
+    "push"
+   ]
   },
   {
    "id": "3c24a7bfa67d94af",
@@ -3905,7 +6262,7 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOamJTeGJYcWRQQlVJNHhORUZ3QV9vOHRNV0g4bktwdnRZem9CUVd4YVh6TkltUTNrSGp5U0VEVThqWERtWXlKb3lFbEF5TFJXMjlHeE1xREZKN0R2ZGVmZEE5RVdSaVdtU3FVbHJWWkY3SnhBdGJHZ2Q1NGJ6a1lNY1RuMA?oc=5",
    "source": "WKYT",
    "published": "2026-11-12T18:32:00Z",
-   "score": 84,
+   "score": 90,
    "tier": "major",
    "category": "guidance",
    "reasons": [
@@ -3916,11 +6273,15 @@
    "outlets": [
     "WKYT",
     "WLKY",
-    "News 9"
+    "News 9",
+    "KGW",
+    "WKMG"
    ],
    "merged_ids": [
     "ab3c822aa311d589",
-    "7d4e020928da5666"
+    "7d4e020928da5666",
+    "9f4976ae3a3d706c",
+    "2bd41a1a46f8b347"
    ],
    "base_score": 78,
    "alerted": "2026-11-12T19:28:42Z",
@@ -4279,7 +6640,7 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORmZXeUh5WVpBSVppZ0ZUbHpaelh5M2cxbThXbndOVFRUZEdMMm5yT3VPQ0V1VXFwdWZPSlEzalRWODJKZmVwaTNOVXVrTURGY3puQjRQYUJZUWs2QUg4NE05T1RueXpIZXlXX3d3VXFKWjlTeHhwaExIM2RmN3BIUWlSNEl2N0ZZbEs2Rll4cFc?oc=5",
    "source": "MySA",
    "published": "2026-11-12T18:40:32Z",
-   "score": 81,
+   "score": 84,
    "tier": "major",
    "category": "guidance",
    "reasons": [
@@ -4289,10 +6650,12 @@
    "group": "big_tech",
    "outlets": [
     "MySA",
-    "Tri-State Alert"
+    "Tri-State Alert",
+    "Franklin County Now"
    ],
    "merged_ids": [
-    "d95b1ace4f182e3c"
+    "d95b1ace4f182e3c",
+    "a08515d8ec56c7d3"
    ],
    "base_score": 78,
    "alerted": "2026-11-12T19:28:42Z",
@@ -4308,7 +6671,7 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHdVbkFtSDRITWl6bWw1XzIzS2VYSmkzZXM5Rll1d18zNUcwTWhtaHNRanppUzduSXhIaHcyM1ppbXVpUGIxWGVCUlJtR0JvaGp4ekQzTUVDSHZmMGJKUlhlbmhpc1FzTkdVc2pYN3JnS1gwaS1UVEczYlZOcURqQWJSLURzRTJuVENKU3VnLWFBZVhfSXFSZ0ROTkVmTTVOZldwRnM3a1YzZWlwcTdZZDhRc0FoSE5QVEhn?oc=5",
    "source": "Click2Houston",
    "published": "2026-11-12T18:41:24Z",
-   "score": 84,
+   "score": 87,
    "tier": "major",
    "category": "guidance",
    "reasons": [
@@ -4319,11 +6682,13 @@
    "outlets": [
     "Click2Houston",
     "FOX13 Memphis",
-    "Cleveland.com"
+    "Cleveland.com",
+    "Facility Executive Magazine"
    ],
    "merged_ids": [
     "5ceba7b4abdb799c",
-    "ad676121f368fadf"
+    "ad676121f368fadf",
+    "c6d81c909d60d2ce"
    ],
    "base_score": 78,
    "alerted": "2026-11-12T19:28:42Z",
@@ -4521,7 +6886,8 @@
     "NewsNation",
     "WTMJ",
     "Euronews.com",
-    "USA Today"
+    "USA Today",
+    "BleepingComputer"
    ],
    "base_score": 78,
    "alerted": "2026-11-12T19:28:42Z",
@@ -4533,7 +6899,8 @@
     "f6ef672c5e43b46d",
     "cce6ae53a3331967",
     "c7c4de2274a77e28",
-    "4fff2660ffbdd7d4"
+    "4fff2660ffbdd7d4",
+    "f8c4ea422e9e97a3"
    ]
   },
   {
@@ -7029,7 +9396,8 @@
     "Reuters"
    ],
    "merged_ids": [
-    "54a4cce75450b701"
+    "54a4cce75450b701",
+    "411643869dece448"
    ],
    "base_score": 20
   },
@@ -9802,7 +12170,8 @@
     "WSJ",
     "Investor's Business Daily",
     "News",
-    "The New York Times"
+    "The New York Times",
+    "www.trendingtopics.eu"
    ],
    "merged_ids": [
     "fa8011b8846ed9c3",
@@ -9811,7 +12180,8 @@
     "0fc5541a62d31654",
     "7549766b72d74ced",
     "7549766b72d74ced",
-    "cebd5e45b14efac0"
+    "cebd5e45b14efac0",
+    "cb873c010b02a0de"
    ],
    "base_score": 40
   },
@@ -16549,2269 +18919,6 @@
    ],
    "first_seen": "2026-11-12T16:18:46Z",
    "group": "ai_chips",
-   "outlets": [
-    "News"
-   ],
-   "base_score": 75
-  },
-  {
-   "id": "a0de174e83585e31",
-   "ticker": "ANT",
-   "kind": "news",
-   "title": "Anthropic targets $1.4T IPO amid AI valuation debate",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWHE2MGcwbThZbk1ZTmlBRGpoTlZoRUQ2Zk1Cc2tGNG9WMHJ0U2dBenJYUllWeWpXRTQxRHM4UGpodS1MemtXakNQSkpocWlZSlYyTGltSXlxRFdYVXNoWFFFVzJBR3l4VkZDTU9GUnBFMEJMYkFIaTNLNGR0bVc3VzVMMHI?oc=5",
-   "source": "Crypto Briefing",
-   "published": "2026-11-12T16:09:46Z",
-   "score": 70,
-   "tier": "major",
-   "category": "capital",
-   "reasons": [
-    "Capital & dilution"
-   ],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "ai_software",
-   "outlets": [
-    "Crypto Briefing"
-   ],
-   "base_score": 70
-  },
-  {
-   "id": "b558038493966302",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple Notes adds a powerful new advantage in iOS 27.3",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWE1fRGdzNklyUDltNkpSYndpb3duSUhNNHJlU1M4OC0tcnNVZHJaOEl1LUFyZU9EbFR5TlRmamlDd0pLZGJJMUVBazB4eWh3TDVMVEVKWlItSGFIOHV6S2Y3ODNJTUpVY2F3MTVSNUdBWHFoRDMtRVJxcEdWQ3dLT0VjZG5hYlBUOEZ6SVlR?oc=5",
-   "source": "9to5Mac",
-   "published": "2026-11-12T16:10:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "big_tech",
-   "outlets": [
-    "9to5Mac"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "780c7bd5c5749659",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple TV's 'She's Fine' premieres January 27",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUMwYWg4UGdnQmhaYnppUFh6LWx0S3NyS01xUXdWSzE2WngyOUlYWXZ4UnB4Qml4NVlQR1RDOTBnRUcyX1VhVWtHRmxJSktWdXVzTEdGcXZOLVo1ZDZqTHNldm5jNGQxT1FQV0ZGSWdDRGN1eDBLMkN5SVEzWFZyVEZvSUtIVlBQWlF5aUd5VTFmbHBUUC1YZDhfeFFJU3pzaXFVMldDSEg?oc=5",
-   "source": "AppleInsider",
-   "published": "2026-11-12T16:10:00Z",
-   "score": 70,
-   "tier": "major",
-   "category": "regulatory",
-   "reasons": [
-    "Legal & regulatory"
-   ],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "big_tech",
-   "outlets": [
-    "AppleInsider"
-   ],
-   "base_score": 70
-  },
-  {
-   "id": "1d6b318da4def504",
-   "ticker": "NVDA",
-   "kind": "news",
-   "title": "Applied Digital Sinks 8% as Nebius Outlook and NVIDIA CEO Exit Hit AI Data Center Stocks; Cipher Digital Falls 4%, TeraWulf Slides 3%",
-   "url": "https://247wallst.com/investing/2026/11/12/applied-digital-sinks-8-as-nebius-outlook-and-nvidia-ceo-exit-hit-ai-data-center-stocks-cipher-digital-falls-4-terawulf-slides-3/?.tsrc=rss",
-   "source": "News",
-   "published": "2026-11-12T16:10:11Z",
-   "score": 78,
-   "tier": "major",
-   "category": "guidance",
-   "reasons": [
-    "Guidance",
-    "Leadership",
-    "Products & AI"
-   ],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "ai_chips",
-   "outlets": [
-    "News"
-   ],
-   "base_score": 78,
-   "category_label": "Guidance",
-   "alerted": "2026-11-12T16:18:48Z",
-   "alert_channels": [
-    "push"
-   ]
-  },
-  {
-   "id": "e02af88301f1dd97",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Donald Trump calls for former Apple CEO Tim Cook to replace Jensen Huang after scandal",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xVWViMk5pZDVGRVNxSG14TDVya2NYVll3aU1USGpLQm5pVzJKZDRkSV9FQ1R2RzRTTjVfd3k5aEhwQjdneEpSQ3JxMmZQMDNnMzV1c0swMWtEci1WNmdLd3h0RHM2UV9tWURBVw?oc=5",
-   "source": "The Jerusalem Post",
-   "published": "2026-11-12T16:10:45Z",
-   "score": 75,
-   "tier": "major",
-   "category": "leadership",
-   "reasons": [
-    "Leadership"
-   ],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "big_tech",
-   "outlets": [
-    "The Jerusalem Post"
-   ],
-   "base_score": 75
-  },
-  {
-   "id": "daf921a424a3cb7c",
-   "ticker": "SPCX",
-   "kind": "news",
-   "title": "Breaking: SpaceX Stock Soars 5% As Elon Musk Confirms Interest To Hire Nvidia’s Huang",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYXVIckRVSDdlQnA5UV9NQWhPRG9uUXB1YlZrVDg4ZXY5N1dWN0tDMWxvdFpOcm9JZGpBdGRlSGZVWWkxQmhLWE8wOGpwZ3FzcTVxSmx5aGVjSzhKeUhUQlFrQVdjeEJQcG5uUFFfbWFEUGQ0cFVaRnZJR2tOVVF4aWQ4UXBhZ3g3X3plTHoxVWZUbmt2MFVyaDNB?oc=5",
-   "source": "CoinGape",
-   "published": "2026-11-12T16:11:20Z",
-   "score": 18,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "musk",
-   "outlets": [
-    "CoinGape"
-   ],
-   "base_score": 18
-  },
-  {
-   "id": "896d593e4820fc33",
-   "ticker": "META",
-   "kind": "news",
-   "title": "BRAZIL-ELECTION/META PLATFORMS",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JYm5OOG5ZTGhobm9vWktyMmlkT2gxd29BMW9YdzRCV0RmMFFfQmw2a1gtZ2k5YjNiNzNURi1JQ2tyalBrYzk1d0RfRmFsM0V2U25WdGNXbVY1dnlnd0NzMGJ5UG14UDlRTnc1b3Y4UTZsWkU?oc=5",
-   "source": "SCNow",
-   "published": "2026-11-12T16:11:24Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "big_tech",
-   "outlets": [
-    "SCNow"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "bd95c6a861e6fd29",
-   "ticker": "ORCL",
-   "kind": "news",
-   "title": "Oracle billionaire Larry Ellison’s medical institute set for mass layoffs in Los Angeles",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcWdlZHFrYzloS2IwRU1RUUJ3czV0bnhDSlZ0SWNad0pkbERfbFNIXzRGRjFUNFdhNTJEOXJySXA1eEZEVkVCNUZGT3dNbktFS3g3NmRjWDlmUHJqUmxsQm4wbjRucDFjZ3dES0RENXpxQm85WWZiYnM5UnZoZTlzZDczblFTMlAtRG1rLWFTRWVnVngyZXB4Wl9WRmI3YzNqQ1l4amQzdm5YNnFTY3NNZ2pnSTVaMkVraXEwUGlnWjgzaTNR?oc=5",
-   "source": "New York Post",
-   "published": "2026-11-12T16:12:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "ai_software",
-   "outlets": [
-    "New York Post"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "3d27edec6dfc1465",
-   "ticker": "AMZN",
-   "kind": "news",
-   "title": "How Amazon is building an internet network 400 miles above Earth",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUmNEUGFRcHZ2UnQyY1VsOFI2QVZaNFlNNEhkaEJxY3V5TEhRRzI1RnJrU2Y4WWNsMnpzY0xJdWpudEo0aUNCUFBva1BudUZiSVpXS01TZjlfamZTUXB0NFAtek82d2hNSmNFR1JZeUpHY1FKaHl2WjVNcVNLWkZHUA?oc=5",
-   "source": "About Amazon",
-   "published": "2026-11-12T16:12:51Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "big_tech",
-   "outlets": [
-    "About Amazon"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "4812d4bdd64c894d",
-   "ticker": "TSLA",
-   "kind": "news",
-   "title": "Deutsche Bank Sheds Chinese Carmakers as Tesla Stake Hits 7-Year High",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdS12aU54elk1cERyLTJJWkVSaHVuN2I1YTZiaEhtaGIxaVNZNWo4Tmp1RGljZjFzRWNILU1xR2FrRkV0YTU1Z2dsRkdBWG1QaHFqTXBYSTEwNlVfYXNGSUdYT0hDZWtraUJDNVRGb1FKUjJJMWdZMlV5azM0VzhkaWlNT09WYlZsdHhGZ09fRWJaa2RnWXc0N2tCZHVyTGhKN0N1dGxteVg?oc=5",
-   "source": "eletric-vehicles.com",
-   "published": "2026-11-12T16:13:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "musk",
-   "outlets": [
-    "eletric-vehicles.com"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "1d54d6bfda28a4cd",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "These early Apple Black Friday deals are worth buying",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcS1LM3R3QWZ4NjZINTdlQmxETEVWR19LMkw0X2Q0Y25kc2YtSzhiR0JLNjdQeVA5ZElvUm9aOHNvMUdNODMtNVJjX295R3lvdjdRUmNIT003RWV5ZE11TTh5anlBZ09TaktjMHQwRVBYZFJ3ZXZVVUdEOWtGYnVBS0ZHQ3dCVms?oc=5",
-   "source": "Macworld",
-   "published": "2026-11-12T16:13:01Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "big_tech",
-   "outlets": [
-    "Macworld"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "b44704f785863885",
-   "ticker": "SPCX",
-   "kind": "news",
-   "title": "SpaceX plans $74B supercomputer campuses in Texas and Arizona",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa1ptLS0yZS1rQ0t0MlVFRnVMZ3Vzb0RKbUFFVWhTOHZXQkp1bTVyR1V4bGYzeVVRendicVdXRUVaTjlSVzRBTjFFd0tpdHh4X0tkZzk1ei1ITkZnUnNyLXNraUZkT0lSNHpHS2JocWYwdThrQjlfUER0RHhtMDBoSHFGWUhNbWFleWVLd2p1S0w5My1yclRzSk8zV05BVmZWNnlZOVlYV1FDQllLSXpDc0dDTU9PbkRCQkRZSVBQNA?oc=5",
-   "source": "StreetInsider",
-   "published": "2026-11-12T16:14:29Z",
-   "score": 29,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "musk",
-   "outlets": [
-    "StreetInsider",
-    "The Next Web",
-    "Benzinga",
-    "News"
-   ],
-   "base_score": 20,
-   "merged_ids": [
-    "41df38c8c7b705ce",
-    "9d2ee1c8a99d4476",
-    "9d2ee1c8a99d4476"
-   ]
-  },
-  {
-   "id": "477269a653913bef",
-   "ticker": "SPCX",
-   "kind": "news",
-   "title": "SpaceX to invest over $74 billion in supercompute facilities in Texas, Arizona",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTkx3Q2FYQm5mQ1ZfSGlTZC1lbnN2dFhIVHVoaDFTRW91alh0TGhIeERTbm1aa2Vsc0hGdUtMV1RxakcyZjRGVEUxQjZkX1JZeUpTMUY1QzJmWU5SNjFxZ1NLMGdvNFZ3UjJvaXZoNG9pdUlBNjVfZzlwaklXdWU1aDd1RXA1NGZ3d0V3WUkzalNKa1Baclg0QWpxSkczR2hicHZLV1lIVVQ5d1FKT0Nycl9VYkRtM1JPQ1R4cktiUzN6cnZKd20yMEYzYlN5WDg?oc=5",
-   "source": "StreetInsider",
-   "published": "2026-11-12T16:14:37Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "musk",
-   "outlets": [
-    "StreetInsider",
-    "Investing.com"
-   ],
-   "base_score": 20,
-   "merged_ids": [
-    "35f4d962bdb5280d"
-   ]
-  },
-  {
-   "id": "fe3f3c3f40ed2367",
-   "ticker": "NOW",
-   "kind": "news",
-   "title": "Researchers flag AI identity flaw in ServiceNow & Salesforce",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXRlLXhtTXZHcGY2MzdaQ203NlUxeno1bHJBWlVoT2JLNkp1WHFWLXp1elZiZENNZ3F3NHZrdlVDQUtVLUxRNlNaUG5jS1E2SFhHLVg2MGlUT0NhUlNyQ0R4N2pQLVRGckFpNEltQ1RQaWRmR21IU01XYUhjc2hQUlVCWTB5REMzZDdQbGlGem5OMnA0d0g4?oc=5",
-   "source": "SecurityBrief New Zealand",
-   "published": "2026-11-12T16:15:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "ai_software",
-   "outlets": [
-    "SecurityBrief New Zealand"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "86c69dc1d10d46d6",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "Alphabet vs. Broadcom: the best AI stocks for risk and reward",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU0ZmdmhHYjdEWUc3SEdadHpELWJRbXJkMktoeFRfcVp1cDhCd0hhdlRPUHRHMGwtMWFjelJrTGFFLUduSW1oSzAwY1l2d1U5ZXZSX3RMNUtWSWZxNXY1a3dORF9ZdVF5QTJmakVGRlhDMlU2QlFCajBvVUQ2MWpXYkRhVmMxT3NnTWRUR0pQVE00VlFjNTRSdlNoR0Jyc3JTY2RGbW8yWjQ0NG9pSkxsWHZlSTBkZjhpV2JpdEh3?oc=5",
-   "source": "Investing.com",
-   "published": "2026-11-12T16:15:31Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "big_tech",
-   "outlets": [
-    "Investing.com"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "90a25c13653f4f7f",
-   "ticker": "AVGO",
-   "kind": "news",
-   "title": "Alphabet vs. Broadcom: the best AI stocks for risk and reward",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU0ZmdmhHYjdEWUc3SEdadHpELWJRbXJkMktoeFRfcVp1cDhCd0hhdlRPUHRHMGwtMWFjelJrTGFFLUduSW1oSzAwY1l2d1U5ZXZSX3RMNUtWSWZxNXY1a3dORF9ZdVF5QTJmakVGRlhDMlU2QlFCajBvVUQ2MWpXYkRhVmMxT3NnTWRUR0pQVE00VlFjNTRSdlNoR0Jyc3JTY2RGbW8yWjQ0NG9pSkxsWHZlSTBkZjhpV2JpdEh3?oc=5",
-   "source": "Investing.com",
-   "published": "2026-11-12T16:15:31Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "ai_chips",
-   "outlets": [
-    "Investing.com"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "246667230b5a245e",
-   "ticker": "AMD",
-   "kind": "move",
-   "title": "AMD (AMD) is up 7.3% today at $593.32. Likely related: AMD and PsiQuantum expand partnership to build quantum computing infrastructure",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMjZXZ25SZGVfYjB4b2R0WHhfRS14R1FEcEdhMkJ0NW1sNmJYbVJJaUpsbHRxOTlLYVluOEJwd2d1QUI0WFJsX2FreWtfb3dHLWs4aVhOQXdtZ1ZaekhOUGczd2VDdS1iVXZ6V0JIYUhTV3ZZMXRwdzJzdUlCSDZjeElXVXlRVWY1VHpnVFlWS0tYMi1BMVN0MzVPVXZCR05SQ0R3clAtd3JsZWktMXloazJaV09Fa21XZ0x5Y2ROWlBQdVdZZWVpbzZkOFAyNHRyaDFybw?oc=5",
-   "source": "Price move",
-   "published": "2026-11-12T16:18:48Z",
-   "change_pct": 7.31,
-   "score": 76,
-   "tier": "major",
-   "category": "move",
-   "reasons": [
-    "move ≥ 5.0%"
-   ],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "ai_chips",
-   "category_label": "Big move",
-   "alerted": "2026-11-12T20:24:51Z",
-   "alert_channels": [
-    "push"
-   ]
-  },
-  {
-   "id": "1baf6ff198e8c89f",
-   "ticker": "AVGO",
-   "kind": "move",
-   "title": "Broadcom (AVGO) is up 6.8% today at $368.58. Likely related: AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
-   "url": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html?.tsrc=rss",
-   "source": "Price move",
-   "published": "2026-11-12T16:18:48Z",
-   "change_pct": 6.77,
-   "score": 76,
-   "tier": "major",
-   "category": "move",
-   "reasons": [
-    "move ≥ 5.0%"
-   ],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "ai_chips",
-   "category_label": "Big move",
-   "alerted": "2026-11-12T20:24:51Z",
-   "alert_channels": [
-    "push"
-   ]
-  },
-  {
-   "id": "88fadb0371dab20d",
-   "ticker": "GEV",
-   "kind": "move",
-   "title": "GE Vernova (GEV) is up 4.0% today at $840.87. Likely related: What Is Behind Record Orders and a Raised Outlook at GEV (NYSE:GEV) as Power Demand Grows?",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHp2OUpvek5QRE9lT2tjZHMzSUdzT29hYmlMMnlWMmo0MDRNNExOYXc2cEVjQzl3bjlTUnZObWx0OVR5R0t0ai1GM21fUFlWa1RaRzBtRWpuRTdZQ3AzN0t4dzlUTF9nem96ZnBvem5HSjRqTGxZWDVIZzJFc2Nmc3gtVWU2TU9rdGI5eW5OSFVUNnFPNzJ3VlgxaXcxZWNyUnFpbWNXTVBieFJUNFp0NVYtck13c0ZxdnlWSlNRU1cySmxYRXVB?oc=5",
-   "source": "Price move",
-   "published": "2026-11-12T16:18:48Z",
-   "change_pct": 4.04,
-   "score": 76,
-   "tier": "major",
-   "category": "move",
-   "reasons": [
-    "move ≥ 4.0%"
-   ],
-   "first_seen": "2026-11-12T16:18:46Z",
-   "group": "ai_energy",
-   "category_label": "Big move",
-   "alerted": "2026-11-12T20:24:51Z",
-   "alert_channels": [
-    "push"
-   ]
-  },
-  {
-   "id": "207068acf64effb3",
-   "ticker": "NOW",
-   "kind": "news",
-   "title": "Form 4 Servicenow Inc: William R. McDermott (Director, Chairman & CEO) For: 6 November",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdmJEYzBvVFFaai1wTXVUSnFabzg0WllELThoeGFUbmNTNEJlMzlrU096N0N0aXNveUV4RDU3WWhBQVhTalJjQ3FLeEZGZmJqQ2JKZFpHaWJ5NjZiN2hsbXJVSlpGNnhLUVV6Q0I0a18xQkFuNG50djRfbmZrQzJISTNaRkh3cTRKcGNENmRoTmpsd0dvQUpBTWNRNy16VERUcTdhMy1tTGlTb2trQVQwMmduWmpKaWM5Yjl5Q0hsS1lzTWwyNGNxSGlLVUxzM1BFTjdtUTkxcw?oc=5",
-   "source": "Investing.com UK",
-   "published": "2026-11-11T01:16:00Z",
-   "score": 75,
-   "tier": "major",
-   "category": "leadership",
-   "reasons": [
-    "Leadership"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_software",
-   "outlets": [
-    "Investing.com UK"
-   ],
-   "base_score": 75,
-   "category_label": "Leadership",
-   "alerted": "2026-11-12T20:24:51Z",
-   "alert_channels": [
-    "push"
-   ]
-  },
-  {
-   "id": "b00ca57ec881a252",
-   "ticker": "NOW",
-   "kind": "news",
-   "title": "CRWV, RGTI, NOW, COST, NVDA: 5 Trending Stocks Today - CoreWeave (NASDAQ:CRWV)",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPS2M1b3Y1TDhXZmRvYXZ4dnF4M0ZUWTZ5RldpbW5OUVVoS3RVUzdMa25YTUo5TmNVNXBVRlk1WWZrbU9aeGFsMU01d3VvcGZtRmc4M3R2Q2Ntd1ktTzV5ZlE2V1RqSlNhSkVTQlp5a1ROek1rRjVMWmhUVXBFV0pNbF9EVVJyQkx5V0xDUFVvWG5oZjk1Qm9FcDJmZ2xkTEhuc0lBMTVRR1F5bENQY3doZ2JQOGVhZ0hSTGNYakhJbGpsQ3Y4VHdKeGRHUkdXMzBEUEhvWWIwTGJkTkEwY3F1VnJBaFF1NDdSZWcxQkxLMnJ4dldQ?oc=5",
-   "source": "Benzinga",
-   "published": "2026-11-11T01:19:15Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_software",
-   "outlets": [
-    "Benzinga"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "399ee8ee6fd2b9bf",
-   "ticker": "RGTI",
-   "kind": "news",
-   "title": "RGTI Stock Dives Toward $10 on 60% Revenue Expectations Miss as Rigetti Computing Reports Third-Quarter Earnings",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMWQ3dnVDbG8tV2YtaXZ4LTN1bHFLbXJOeVppU20zVWVtaUgyYVBlQjFwRnJmWXV0YVlpMnR4YWd0aUlBbW00VjMzSUpVS29xenY5dnRTR3kwVDdIcms0ZTVRRFhpa0NWZks5VDBRbG0yWmZJLW10ZVEwM1JyUmtGY25wTVBkZGFRcDFualR0UjZPWE5vVUU1X3Y1V3NNZF91NHE5YUZ5LS1Ra1lzQ0E0d3gtZVM1SUlOWndRbDZWQTVyOFh3YXEtRkZjYTZJWlBUb0ZCRWZoTkFJNF9OdFhQX29mLUVQTHBG?oc=5",
-   "source": "FXLeaders",
-   "published": "2026-11-11T01:33:57Z",
-   "score": 75,
-   "tier": "major",
-   "category": "earnings",
-   "reasons": [
-    "Earnings"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "quantum",
-   "outlets": [
-    "FXLeaders"
-   ],
-   "base_score": 75
-  },
-  {
-   "id": "e164a5c67190e966",
-   "ticker": "QBTS",
-   "kind": "news",
-   "title": "RGTI vs. QBTS: Which Quantum Stock Is a Better Buy After Q3 Results?",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjl0LWlHaWRFNWtacW9hLVRSS1RYT1RTcDJsekNNYWtxd0RWRDNvd3E3WklGN3lka1dFVlpuaWxfeW9ocUVaNzh3OGNlX3lBaTFzdm5hSUE4Z01MX01pY2gxLTF3NGlreDNWQjhFQUZrWXdmTmowZi1aQ0VvelZnTm51RHp3aVFPSldWV3Z5UnpnZWg4dXJKZW05NENJX2pRNk55cWdR?oc=5",
-   "source": "TipRanks",
-   "published": "2026-11-11T13:55:15Z",
-   "score": 0,
-   "tier": "muted",
-   "category": "noise",
-   "reasons": [
-    "noise: better buy"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "quantum",
-   "base_score": 0
-  },
-  {
-   "id": "4355679f82e24952",
-   "ticker": "QBTS",
-   "kind": "news",
-   "title": "D-Wave Quantum: 611% Bookings Surge Meets a Wider Loss and Two Trims to Price Targets",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZDM0cUlvX0YtQUFaVDlDQVRLc25oYU9zX2RqcFgyR2UyTGVTaGxjV2plM0dCRzlhamNaYWdnNWxHMkxUTUNKdzNoQWd6RmhxYjlKeTZ2akpmZExNV01vM0thV0tScXFScUtUSHZfNHZoUndCcFNnX3lBanpyMU9uaEJ6LWVOVHdPbVh3OWFuTUdTXzNpbFc4cHVydlozaWhNMTVRTVVUbUdnN1pmWG5pVWZMQVBndVhkeVNLVTJzaFdpV1JyRmJZbzRUOFVBT2FOckVKMHZKazVLTndCY2d6SUFzNDZFWm1pU1dR?oc=5",
-   "source": "ad-hoc-news.de",
-   "published": "2026-11-11T19:52:02Z",
-   "score": 45,
-   "tier": "notable",
-   "category": "analyst",
-   "reasons": [
-    "Analyst ratings"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "quantum",
-   "outlets": [
-    "ad-hoc-news.de"
-   ],
-   "base_score": 45
-  },
-  {
-   "id": "6544ab06976353fe",
-   "ticker": "IONQ",
-   "kind": "news",
-   "title": "IonQ stock rises as DARPA Stage C win validates quantum roadmap",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXhrd3lGLUZ5NjdSNC1BSlNxY3EtNzd1Nm9ZSkdYVEd0NVhvVnZWWGxHMlhXN3pJcGR1NlFGYzUwajYtV1NLZ2VwWjlQeVc1MEgzVFdNczVJVXVhOWFBTjlQdGZYMEg5YXI0bkxxSUVmTUtHUkhqcWxRMDItakU4MEJhcURHMFJpWlNMd19TMlYzYUtoTnl3NUJ4R1BQQ01nLUs1M0hralRnaE9NdEd3TjZ6YUFNTDBHSU5ZLQ?oc=5",
-   "source": "scanx.trade",
-   "published": "2026-11-11T19:54:57Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "quantum",
-   "outlets": [
-    "scanx.trade"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "5d2b5772a2e36c4f",
-   "ticker": "QBTS",
-   "kind": "news",
-   "title": "D-Wave Quantum: Revenue Mix Erodes Margins as CHIPS Funding Awaits Milestones",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmFuY2EzaVlmMTBzQmpQTC03bHB3WHFYcVlCbUtEejlJSmFaMDNaamc5cFNHeGxyeDFhaXBmb0RqUWpfbm00anBHZ1hEeVdZMnZYZUt3ZkZKT1JZdUdDYWo5UWVOaHRmdWQ0RHJFYjZWMmhDeURGdDBvYUU3bVRzTE4zSEFaa3JacXNBUWgxcDY1ejU4RDlfVDBDbnl6YW0zTjhtTGdYOHdlWmQxb2xzR1l2NG9uNmhBN2hSVnA4ZmllOUJldlJUaGw0eGFSd1VoNlFnaVR4Vk5aMFM4OWFERlNn?oc=5",
-   "source": "ad-hoc-news.de",
-   "published": "2026-11-11T21:20:51Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "quantum",
-   "outlets": [
-    "ad-hoc-news.de"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "27c3ecb5fb5662be",
-   "ticker": "NOW",
-   "kind": "news",
-   "title": "ServiceNow (NYSE:NOW) Shares Up 3.3% - Here's Why",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTZYUURQQXBMVHRGaFZVU2lMemlSVTNwWHlvS2lzMk9XMHBycVNaaVN3Z0x4aC1mRXA1Y0FfbWRYblBvdjVhd1FoUGd5cWhYWmpQVm1GYUJ2dkgtZkt3VHJQT3V4dTZjV2pKYlFKVU9xQmZIb0NabUtuNlB0aWp0cmNQSDh0Yl9MZWM1NmpTamh1SEJUckFRWktQLXd0Qk5BQktOdw?oc=5",
-   "source": "MarketBeat",
-   "published": "2026-11-11T22:22:31Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_software",
-   "outlets": [
-    "MarketBeat"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "8e3eb6437accf9ed",
-   "ticker": "QBTS",
-   "kind": "news",
-   "title": "D-Wave Quantum: Solver Upgrade, CHIPS Milestone Funding and a Split Quarterly Bookings Picture",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUHVCaXV3LWtaMlVUZkJPV0o0QURZRTVNdHZ5c0FNYTRDcDJyN0xvTWNxcVNwa2xvSEE5R0s0OUtSSmVUQ1lEYkRZT2k1dGp6eHE0VS1CNVF3cTlSY25HNU0wQ0h6dWtVWkpQOVNaMEVyMndicHhTamtDZnV6QUtqSXh1UTBwZXlWN1hPa01yXzJYVi1tVUNzSUxtU1BQTlhJcFZKREV0MnNxYmd0YUJYa18tREY5Y1hIeXlUUFhzaG12bDJWa0YxOWFVYUtLRE1aVEU5OGVxUVBPT1NwU0R5alB3M0tDNkxyR3VvWlpLTGVOSWdMdWNr?oc=5",
-   "source": "ad-hoc-news.de",
-   "published": "2026-11-12T02:41:21Z",
-   "score": 45,
-   "tier": "notable",
-   "category": "analyst",
-   "reasons": [
-    "Analyst ratings"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "quantum",
-   "outlets": [
-    "ad-hoc-news.de"
-   ],
-   "base_score": 45
-  },
-  {
-   "id": "5c5d20443d2a6018",
-   "ticker": "PLTR",
-   "kind": "news",
-   "title": "Palantir Grew Revenue 96%. Its Stock Fell 7% Because Bookings Rose Just 6%",
-   "url": "https://www.tikr.com/blog/palantir-grew-revenue-96-its-stock-fell-7-because-bookings-rose-just-6?ref=yahoofinance&tlnk=yf-261112-h664ccgf&.tsrc=rss",
-   "source": "News",
-   "published": "2026-11-12T04:33:56Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_software",
-   "outlets": [
-    "News",
-    "TIKR.com"
-   ],
-   "merged_ids": [
-    "5c5d20443d2a6018"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "101f4d4e36b77ae2",
-   "ticker": "GEV",
-   "kind": "news",
-   "title": "What Is Behind Record Orders and a Raised Outlook at GEV (NYSE:GEV) as Power Demand Grows?",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHp2OUpvek5QRE9lT2tjZHMzSUdzT29hYmlMMnlWMmo0MDRNNExOYXc2cEVjQzl3bjlTUnZObWx0OVR5R0t0ai1GM21fUFlWa1RaRzBtRWpuRTdZQ3AzN0t4dzlUTF9nem96ZnBvem5HSjRqTGxZWDVIZzJFc2Nmc3gtVWU2TU9rdGI5eW5OSFVUNnFPNzJ3VlgxaXcxZWNyUnFpbWNXTVBieFJUNFp0NVYtck13c0ZxdnlWSlNRU1cySmxYRXVB?oc=5",
-   "source": "Kalkine Media",
-   "published": "2026-11-12T07:58:00Z",
-   "score": 78,
-   "tier": "major",
-   "category": "guidance",
-   "reasons": [
-    "Guidance"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_energy",
-   "outlets": [
-    "Kalkine Media"
-   ],
-   "base_score": 78,
-   "category_label": "Guidance",
-   "alerted": "2026-11-12T15:10:54Z",
-   "alert_channels": [
-    "push"
-   ]
-  },
-  {
-   "id": "47d5dfd9aef9ea6c",
-   "ticker": "META",
-   "kind": "news",
-   "title": "Meta AI Glasses Can Overheat When Wet: 5 Models Need Update 130",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa2hnX3hzaTlUbVNyS2NYREEtM3FDbHllN2pBZER4WFJPY1p1X01BSGFTdW9OOTNIZ1lkaEJEbEs0cXZoVEprZW5rVmZvQW9XZVdZMmJZRzVQOUcyckZUNGtVNG9QZUI5Vm5xZDY5dm16UW9ySmFoakxSOXNkaUc5dmlYc2lmNXd2?oc=5",
-   "source": "TechRepublic",
-   "published": "2026-11-12T08:33:13Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "TechRepublic"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "d873b323f39f623a",
-   "ticker": "NVDA",
-   "kind": "news",
-   "title": "Nvidia stock falls nearly 10% as CEO Jensen Huang announces resignation",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVFBOVnFZT1F2M3oteUktWm1qb29oLW5DLW9MZ2pBRzhEenlNZWFERC1NRXJlSV9saDN5MmNRZzdzQm0xQ0hWSzVpSktBSy00aDZlUTcyQzd2Vmlia1F1UTlEdE11anNMVE10RDNEVlc4cUlMcW5CRlpxaWFEbDh2Mg?oc=5",
-   "source": "CNBC",
-   "published": "2026-11-12T09:02:10Z",
-   "score": 75,
-   "tier": "major",
-   "category": "leadership",
-   "reasons": [
-    "Leadership"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "outlets": [
-    "CNBC"
-   ],
-   "base_score": 75,
-   "merged_ids": [
-    "1e3e69f54ce4690c"
-   ]
-  },
-  {
-   "id": "c041191024788b97",
-   "ticker": "SPCX",
-   "kind": "news",
-   "title": "Zelensky reports new Starlink disruptions in Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdkdnalAtTzF1Sk9Qc2o1N1Y1MVpiOVczYUZWdDRQMFFUNzBRQWE4Y0d6QnNvN25nSDV3eE1NUFdKMTJyZGJJand6NHhFQmNUQ0RzbTFMbjdfZlhoZFNoTnQ5WTRsYkthVEN0WEs2MzBsb183dEx3U2cwR2hJUzhXclNySHNVekpMMkNYLTBrT3NXMUlJYkdqc1VEcmJPdw?oc=5",
-   "source": "Breakingthenews.net",
-   "published": "2026-11-12T09:16:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "musk",
-   "outlets": [
-    "Breakingthenews.net"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "f75015041f5da669",
-   "ticker": "AMD",
-   "kind": "news",
-   "title": "Nvidia slid 7.7% after hours while AMD and Broadcom rose — the AI trade changed hands, it didn't break",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMDZFeWZjbExHQmxaQ3U4MUdObDBXVktmZkJMcTRsU2Y3cVI5RkNGcGFXMnRQSnp1eHhFalVKV2M0anBvVnhzYVVaNkt1NGZkUkxUOGxWUHRtQnUzTDFvbWkyTjF6QXVmRHpkejNIMlMxb1dicWVMQmlBUHFiYmJFaF9GUmhteUljbUNvbjA4TmZ6NVdIVDBXc21qVQ?oc=5",
-   "source": "Mitrade",
-   "published": "2026-11-12T09:45:56Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "outlets": [
-    "Mitrade"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "c548057a104512be",
-   "ticker": "SPCX",
-   "kind": "news",
-   "title": "Zelenskyy: Starlink again facing restrictions in Ukraine, hampering Russian drone interceptions",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZUlEQnFJbnlMVTdfRjFLQUJ6XzM4QkFpLWhMNTJ1aE0tbmNHNWVvbzhxU3VBWWNsXzFiNTg2Z0czVzNVREN0TTVUdXFBeVdhOVpBLUk3ZENZWHZEYkdXTXRRWExIYUdhTWdqdWRQZTFfMEdsS2Jta1VtT1VkSmd6U0dkeFZmSzdzdDd1Qy1B?oc=5",
-   "source": "Yahoo News Singapore",
-   "published": "2026-11-12T09:49:15Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "musk",
-   "outlets": [
-    "Yahoo News Singapore"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "295a8dd94f549e98",
-   "ticker": "TSM",
-   "kind": "news",
-   "title": "TSMC to invest up to $1B in Anthropic, OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNakVWUnkyUTBncDhlUmdXUnBlUUdWZHdvbTU3R1l3cGpIUExRUUlBR1ViUXRBZUdKSmpEd1Fwbi1LMjhPVlRjX3pnNjNyT0FvS2QxWllPZHhaMzI1eVNWSS1JcFhPazhXd3J5bTVMcmlUVHlkc0VkWFFYLUdBR2J3V1RxY0RjSHNJaUE?oc=5",
-   "source": "Communications Today",
-   "published": "2026-11-12T10:48:59Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "outlets": [
-    "Communications Today"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "dba5182090cf944b",
-   "ticker": "SPCX",
-   "kind": "news",
-   "title": "SpaceX Can Have a Public Beach Closed for Its Launches. The New Land Commissioner May Ground It.",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkJFTzk4ZVpYVU1EZ0VuN0tuLThpLUE5NWJWc2VXdnhlcHFrdHh1SGZTWFJlQkZ5YnQtaW1rczYyNGVHZmYzRlNpZTkybld3WVZrMmRMNU1sLV9VbTJPLVNQT3JNZG5CbHJPUWdGNmxiT2IzQ2J3ZjZqUUp5bldVMGw4cw?oc=5",
-   "source": "Texas Monthly",
-   "published": "2026-11-12T11:53:49Z",
-   "score": 40,
-   "tier": "notable",
-   "category": "product",
-   "reasons": [
-    "Products & AI"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "musk",
-   "outlets": [
-    "Texas Monthly"
-   ],
-   "base_score": 40
-  },
-  {
-   "id": "d6c0b70c5742bfb4",
-   "ticker": "AMD",
-   "kind": "news",
-   "title": "AMD rises as William Blair upgrades on potential benefit from Nvidia fallout (AMD:NASDAQ)",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEI4VjhPd0VZdTlNRk1sRWRwUDJWVFNNQV95YjdGU28yb1ZfWlRhMEFEQkFCYXhTbHpuelVKVnh3Z2lUQjlWQ1hiYnBDUkRneVRFdWliMFZleFY0SF9CYTdfUmxjcXlEVTdwcmFUWF95QzAyRURMNVliUm13QVhxSFZIUTE3MTNyZ3ZJZUNGQnZNRjA5dVRfQ0U4UzlONDFvNXFQN3dnb0xLQm5BeUtYeVRJbkY?oc=5",
-   "source": "Seeking Alpha",
-   "published": "2026-11-12T12:36:49Z",
-   "score": 45,
-   "tier": "notable",
-   "category": "analyst",
-   "reasons": [
-    "Analyst ratings"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "outlets": [
-    "Seeking Alpha"
-   ],
-   "base_score": 45
-  },
-  {
-   "id": "4fdb5313dbd40650",
-   "ticker": "NVDA",
-   "kind": "news",
-   "title": "How Jensen Huang's scandal unfolded - and what's next for Nvidia?",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50NEdXOVhlTlpjSUhXVTVSa0hNWkRPZWdzZHJSMDlHRUZlVlN3SE5iS2pGM2FKRDdkblNoMWEwU3VFZUVrWm1rQTkxTWFuMXY0UWlmbUlTM1Q?oc=5",
-   "source": "BBC",
-   "published": "2026-11-12T12:42:44Z",
-   "score": 78,
-   "tier": "major",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "outlets": [
-    "BBC",
-    "CBS News"
-   ],
-   "base_score": 75,
-   "merged_ids": [
-    "18765b2f923e1b58"
-   ],
-   "alerted": "2026-11-12T20:24:51Z",
-   "alert_channels": [
-    "grouped"
-   ]
-  },
-  {
-   "id": "ae5599fcbb20c496",
-   "ticker": "AMD",
-   "kind": "news",
-   "title": "Exascale Was the Beginning: AMD Instinct™ MI430X GPUs",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRGR1aEN1SElGY3l4ZlNJN3pSdVRIekVaYjNOTEltTUZicWhZcWxxRVpGSEFyWTBYNVpaTG4wRkN0TlJXVWU5ZjRYbzM4engtcE8tLWdQSGRiU0pPdThySHBLdVhhU3NVd1BwZUdQLTN1Qi1oUGZwMGFGaGstQ0NlSjZEQllqWTV4Mmd6TFZidGltWVRsOUE?oc=5",
-   "source": "AMD",
-   "published": "2026-11-12T12:53:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "outlets": [
-    "AMD"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "ecf3ba67564e7892",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "Alphabet Inc. (GOOG.TO) Stock Price, News, Quote & History",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NV3FZVjdwVWdNLXdPNnloYnhERTVRVzN0WWIwekFTbnVLZ3BaWEpGT3NKUmE4ZUVGS3MxV2NHcUdDODVEZ1hJdGoyc29fSE5leHhGQ0Z3?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "published": "2026-11-12T12:54:25Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "Yahoo! Finance Canada"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "e5756be2f3c3c786",
-   "ticker": "ORCL",
-   "kind": "news",
-   "title": "Investors Heavily Search Oracle Corporation (ORCL): Here is What You Need to Know",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzQ3LTJQZ09jbTB1MGhxb3Z1YW5jN292NzZWc0pQMGphTDktOGlTX2V0S0FXd2dUR25OQzFsM2ZRVDlBa00wNTRjUDlmUmY0bk01LUJfd0djcFZaeENObWUxOTItMG9YblBVREwwYlYyYTNtbnJreThQQmRrMTFSU3lqY0hGMG5uWHdFQVEycFByc2tobkVjV3F3WV9hN21tLU9ScnBZSFJOck1l?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-12T13:00:04Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_software",
-   "outlets": [
-    "Yahoo Finance",
-    "News"
-   ],
-   "merged_ids": [
-    "e5756be2f3c3c786"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "9c5e2d5e9edf0e1b",
-   "ticker": "TSLA",
-   "kind": "news",
-   "title": "Mercedes Tops Tesla In Car Survey",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYzMxQjV2M0VOUGR2Ujk4alVtWXJKZ1BSVnpkdk1tNVFUMkpXcmZTYkVCWGtycEc2LUVpZkRKZV83bEo1eVlIclRndWdVdDBhb0pIcDJ5OVJpMTQtWkFkRUtKbUZ4NGFWS0pnR0MwV3pPa0wyZ0hEVnRsOFl2cUZUTnpDMnRldw?oc=5",
-   "source": "Yahoo",
-   "published": "2026-11-12T13:16:51Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "musk",
-   "outlets": [
-    "Yahoo"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "0af0b1573bfcd98e",
-   "ticker": "MSFT",
-   "kind": "news",
-   "title": "Microsoft Edge Explained: 2026 Features, Privacy & Verdict",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XRzZBd3FBSlJUeUxmbTVWdkNSYWs4STVsXy1xQWxmSmxaUldCM0NaemRKRjRmSXZDTUphUlJVSnhFT1otUUlsU2NWd1FkcGdySi1oMmVaNkNkNnVCMTBSRUxMcUY?oc=5",
-   "source": "BetaNews",
-   "published": "2026-11-12T13:20:52Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "BetaNews"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "e025561b3fe01c3b",
-   "ticker": "AMD",
-   "kind": "news",
-   "title": "AMD Stock Gets Upgrade. What It Says About the Future of the AI Trade. -- Barrons.com",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbFdwblpVLThWUTFCaGZSNFY2c1ZOMGlEdkJUakdnM1BKQlF0WUdHOE5uLVgzd0ZjdVl3UUJWWTc5UHZNTnFyVWItVGlsRkhUTG1scjFXTG1aQ2g2RHotb2dhQUZPVWFfbDZMc3lRZEhSSGhBczI2SDAzNkg4WjRDbHRrdEFDVVJ3WE9mc3hlWWJzRnZ4WDBxSE1NTQ?oc=5",
-   "source": "富途牛牛",
-   "published": "2026-11-12T13:25:47Z",
-   "score": 45,
-   "tier": "notable",
-   "category": "analyst",
-   "reasons": [
-    "Analyst ratings"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "outlets": [
-    "富途牛牛"
-   ],
-   "base_score": 45
-  },
-  {
-   "id": "598256acb88edc5e",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "Meta Jumps 5% as JPMorgan Picks It Over Alphabet While $60 Billion in New Funding Lands",
-   "url": "https://www.tikr.com/blog/meta-jumps-5-as-jpmorgan-picks-it-over-alphabet-while-60-billion-in-new-funding-lands?ref=yahoofinance&tlnk=yf-261112-w69r47hx&.tsrc=rss",
-   "source": "News",
-   "published": "2026-11-12T13:35:37Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "News"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "0c00f527d5387e6e",
-   "ticker": "META",
-   "kind": "news",
-   "title": "Meta Jumps 5% as JPMorgan Picks It Over Alphabet While $60 Billion in New Funding Lands",
-   "url": "https://www.tikr.com/blog/meta-jumps-5-as-jpmorgan-picks-it-over-alphabet-while-60-billion-in-new-funding-lands?ref=yahoofinance&tlnk=yf-261112-w69r47hx&.tsrc=rss",
-   "source": "News",
-   "published": "2026-11-12T13:35:37Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "News"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "59a7b49d66baff36",
-   "ticker": "AMD",
-   "kind": "news",
-   "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
-   "url": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html?.tsrc=rss",
-   "source": "News",
-   "published": "2026-11-12T13:39:10Z",
-   "score": 81,
-   "tier": "major",
-   "category": "leadership",
-   "reasons": [
-    "Leadership"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "outlets": [
-    "News",
-    "Yahoo Finance",
-    "Investing.com"
-   ],
-   "merged_ids": [
-    "59a7b49d66baff36",
-    "df130d79443c477d",
-    "d5f654b846455fbb"
-   ],
-   "base_score": 75,
-   "alerted": "2026-11-12T15:10:54Z",
-   "alert_channels": [
-    "grouped"
-   ]
-  },
-  {
-   "id": "b97a3d115dd914dd",
-   "ticker": "AVGO",
-   "kind": "news",
-   "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
-   "url": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html?.tsrc=rss",
-   "source": "News",
-   "published": "2026-11-12T13:39:10Z",
-   "score": 81,
-   "tier": "major",
-   "category": "leadership",
-   "reasons": [
-    "Leadership"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "outlets": [
-    "News",
-    "Yahoo Finance",
-    "Investing.com"
-   ],
-   "merged_ids": [
-    "b97a3d115dd914dd",
-    "0491b792fb3898fe",
-    "2c1a411141e57122"
-   ],
-   "base_score": 75,
-   "alerted": "2026-11-12T15:10:54Z",
-   "alert_channels": [
-    "grouped"
-   ]
-  },
-  {
-   "id": "7b8d3987ae8a3215",
-   "ticker": "TSM",
-   "kind": "news",
-   "title": "The Zacks Analyst Blog Highlights iShares Semiconductor ETF, NVIDIA, Arista, TSMC and Micron",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-ishares-134000412.html?.tsrc=rss",
-   "source": "News",
-   "published": "2026-11-12T13:40:00Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "outlets": [
-    "News",
-    "Zacks Investment Research"
-   ],
-   "merged_ids": [
-    "7b8d3987ae8a3215"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "564a5ef5b7572cef",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple’s Johny Srouji reportedly on Nvidia’s shortlist to replace Jensen Huang",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yTXhxTnBOSWNQT0U5X2xNZ0ozTlAyeGNSeEhSX2F0elExU2dkaUtjRzNwSDkzdWdSUEZGdFk2UXU1WWJkZlJKejNmVGctNXNRb0JuX01TemYwVzJfUFRGNXFGZjYyTi10eDN1eDNfaGZ0V1o4UWc?oc=5",
-   "source": "The Mac Observer",
-   "published": "2026-11-12T13:41:35Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "The Mac Observer"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "b79e369052e9c48b",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Why Michigan Apple Trees Drop Their Leaves in July—And Why You Shouldn’t Cut Them Down",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMko1UWpIb183QVBwWTY4TEI2UHJUZ3M4YmJsSENlclNVbXN0NWZuUmphM05yRE1wb3FlUGR1MzJoWlJqS3NCTjZIVlU5UGNuVUtsMUROVWtram8zZEp1Q1hKMkFOWDdjUV8ydDBiRmg0QTc4NUp1emVidkhoVl94V2RJczFhT3ZlWWZyUEZqSXoyUFY4VUQ4N1U4MlRGZ2JGRUNVenR2SHRscjJOYzJF?oc=5",
-   "source": "Vocal",
-   "published": "2026-11-12T13:49:55Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "Vocal"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "ed794b828f5eaa74",
-   "ticker": "AVGO",
-   "kind": "news",
-   "title": "Broadcom and Qualcomm Each Lost at Least 9% Thursday. Only One Is Guiding for 93% Growth",
-   "url": "https://www.tikr.com/blog/broadcom-and-qualcomm-each-lost-at-least-9-thursday-only-one-is-guiding-for-93-growth?ref=yahoofinance&tlnk=yf-261112-5c69f2v8&.tsrc=rss",
-   "source": "News",
-   "published": "2026-11-12T13:50:37Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "outlets": [
-    "News",
-    "TIKR.com"
-   ],
-   "merged_ids": [
-    "ed794b828f5eaa74"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "0a6f041388504d1f",
-   "ticker": "NVDA",
-   "kind": "news",
-   "title": "Meet Colette Kress, the finance chief steering Nvidia through its first CEO transition",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVFBZWEVndHlqVFZvWDB2RFZpRldQT0dhTXhBTk5SaFA5ZmJjT2lwT0h4cTVSWHRhajlZc042Y2UwYW5uZHFPdWdzRktqcUVtY1NsRG9CSTR1c2x6cVhKci1Ob3hYZ0pvWVU3aE1nbkw4S1ZOanJXUGJEdWRyV3pHajdNdGVyczlIQ2pQUlA5c3B2VmZGaXAtRnF4QmxiUQ?oc=5",
-   "source": "Business Insider",
-   "published": "2026-11-12T13:54:00Z",
-   "score": 75,
-   "tier": "major",
-   "category": "leadership",
-   "reasons": [
-    "Leadership"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "outlets": [
-    "Business Insider"
-   ],
-   "base_score": 75
-  },
-  {
-   "id": "dfe04c29eb92dfe8",
-   "ticker": "TSLA",
-   "kind": "news",
-   "title": "Tesla driver found asleep on Highway 417 during Ottawa rush hour: OPP",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXhmNTFZeGQ4amFtSHZUR1VDbjhVaEszOGNyb3VZNWFnZTlCWjhsRWR1UzhMOXhFNkRoeTZSVE9RYWNHVi1FVGtZR0pTZjRWbzlYOHlGTW1vcHg5WXUxNXFGQTg1eWpIcEF4V1p3UUZHdVpWN2hVdFBSSE1QZHlTNGlnQQ?oc=5",
-   "source": "Global News",
-   "published": "2026-11-12T13:54:23Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "musk",
-   "outlets": [
-    "Global News"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "8f500e7c569bb5ae",
-   "ticker": "TSLA",
-   "kind": "news",
-   "title": "Tesla to keep producing Cybertrucks until the end of next summer",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSm14d09zX0hzTVJ3aV8zRGY0NjVYckZXUWtINDdOV2s0TzRCLTFHbk90a1FsTGlxcFYzclI3UGx0SDVJVGJxRlRJdmNEd0stZ3RFRDd1UldCQ0otU3BmMFdZbHRwS1VEeTRIU3lzNjZfNEEzOEI2VjJDTkJkQzZYZUpvNVNDNVlXOWZVWkdsRTZDdTZKNVlLZlBoeWxoRUl1T29ZSUphempFR3BYcGk0?oc=5",
-   "source": "Mashable SEA",
-   "published": "2026-11-12T13:55:09Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "musk",
-   "outlets": [
-    "Mashable SEA"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "54142bb86a8d7764",
-   "ticker": "NVDA",
-   "kind": "news",
-   "title": "Nvidia CEO Jensen Huang resigns in wake of affair with woman suspected of spying for China",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZT1ZmbWY1Z3Q4cE5KVWVRcWtIVkZwbFZIMzA3THRlTU1tUkM4Zi1ESHpicTFjYjlWblR0MW5TMUZMNy1MWFVzZGxPdXJzU3BIM2g4aGRSaXU3M3VHWVRfZGV5SWJLcjd2WXA3UUxn?oc=5",
-   "source": "CBS News",
-   "published": "2026-11-12T13:57:00Z",
-   "score": 75,
-   "tier": "major",
-   "category": "leadership",
-   "reasons": [
-    "Leadership"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "outlets": [
-    "CBS News"
-   ],
-   "base_score": 75
-  },
-  {
-   "id": "279c0a5c7edecf09",
-   "ticker": "IONQ",
-   "kind": "news",
-   "title": "Quantum Stocks Slide as Rigetti, D-Wave Results Disappoint, Nvidia Turmoil Overshadows IonQ",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd3NpVXh2a2RTRHhLTW1meUtvMUdyaVFNRzBuejJBZzBqNXdVdzU1QlhFOV9SS254RFVSUXVUcHEyLWlLanFWbS1xbG9MQy1kUEhfYkQ5N1RpTTM1VEozUkY1akI0WHp2LTY5WF9kcTZ5RVFnU0dRNWYxR2V2RkhydzNRSW5nSmZPYWNGdmF6dndjZ3pZY1FNRkY4MTBTcWIyRUFSaUw2aEVHQzQtOVNXcUtpMHdZdzAwaUhKRER2WTNyZFp0YXpvT2JUaHVpY3dIVWNxQjhsWUxWMHJ2ai00T2Q5aW8?oc=5",
-   "source": "Benzinga",
-   "published": "2026-11-12T13:57:54Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "quantum",
-   "outlets": [
-    "Benzinga"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "6f89303ef9e8b1ee",
-   "ticker": "RGTI",
-   "kind": "news",
-   "title": "Quantum Stocks Slide as Rigetti, D-Wave Results Disappoint, Nvidia Turmoil Overshadows IonQ",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd3NpVXh2a2RTRHhLTW1meUtvMUdyaVFNRzBuejJBZzBqNXdVdzU1QlhFOV9SS254RFVSUXVUcHEyLWlLanFWbS1xbG9MQy1kUEhfYkQ5N1RpTTM1VEozUkY1akI0WHp2LTY5WF9kcTZ5RVFnU0dRNWYxR2V2RkhydzNRSW5nSmZPYWNGdmF6dndjZ3pZY1FNRkY4MTBTcWIyRUFSaUw2aEVHQzQtOVNXcUtpMHdZdzAwaUhKRER2WTNyZFp0YXpvT2JUaHVpY3dIVWNxQjhsWUxWMHJ2ai00T2Q5aW8?oc=5",
-   "source": "Benzinga",
-   "published": "2026-11-12T13:57:54Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "quantum",
-   "outlets": [
-    "Benzinga"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "14559863f26ef1d8",
-   "ticker": "QBTS",
-   "kind": "news",
-   "title": "Quantum Stocks Slide as Rigetti, D-Wave Results Disappoint, Nvidia Turmoil Overshadows IonQ",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd3NpVXh2a2RTRHhLTW1meUtvMUdyaVFNRzBuejJBZzBqNXdVdzU1QlhFOV9SS254RFVSUXVUcHEyLWlLanFWbS1xbG9MQy1kUEhfYkQ5N1RpTTM1VEozUkY1akI0WHp2LTY5WF9kcTZ5RVFnU0dRNWYxR2V2RkhydzNRSW5nSmZPYWNGdmF6dndjZ3pZY1FNRkY4MTBTcWIyRUFSaUw2aEVHQzQtOVNXcUtpMHdZdzAwaUhKRER2WTNyZFp0YXpvT2JUaHVpY3dIVWNxQjhsWUxWMHJ2ai00T2Q5aW8?oc=5",
-   "source": "Benzinga",
-   "published": "2026-11-12T13:57:54Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "quantum",
-   "outlets": [
-    "Benzinga"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "885b351fce3a6ef4",
-   "ticker": "NVDA",
-   "kind": "news",
-   "title": "Nvidia Massacre: Fire Jensen, Buy The Dip (NASDAQ:NVDA)",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVzQ0QkJiV2ptQjNIT2lMYmxoUnAzeE9sTGg0b28tNlB4T0U2Z1RYdGgySkh0bTBqQVBFT2xMUUNmRHRzUXN3Ry1rSFVfd3E2NVBYd3J1U3NzY0kzQWgwSHh0ZXZIdjJCOTREZ1gwNmVyblpXRU5MZV9Sbk55M3dCRE5FbU9Pa2M?oc=5",
-   "source": "Seeking Alpha",
-   "published": "2026-11-12T13:59:47Z",
-   "score": 0,
-   "tier": "muted",
-   "category": "noise",
-   "reasons": [
-    "noise: buy the dip"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "base_score": 0
-  },
-  {
-   "id": "21b0444ad2257e57",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "Google AI Mode gains local retailer ads after Search growth slows to 12%",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUVhuZVhhYWFpYjJFNjl3WFhWQnNxVi1sQ0t4clpDdGZxSDdoRzJWeFV1cFpDa09LOHFTVFBtUlNzcFJWdy1jQzRfejJTY0xJUEdNdzE1QS1CY05yVFFIM0ZRQmxHNjlSTmhvUld0bXRpTlkzcUsyY1dXM2VfZ1VSZm15UVhVc1gxUEtOTmhlbHo3VU0?oc=5",
-   "source": "PPC Land",
-   "published": "2026-11-12T13:59:57Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "PPC Land"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "db4176695993e8fd",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "I tried Google’s AI glasses and Meta’s finally got real competition",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWY2bS1iWjBpaThyc1hBeHc1UWdETUk0UDlDRnQyMTh4cXVwSVpMRUhhMWE2bFpOLV9mRFNlMUtmWTdNUlZYNnIxdngtczh2N19CNzkxLWwyVFBMcm81WU1wdzRwM2RVcU41U1plWXdSNTVxUkFEQmRqSDd2YmFlc3FmbjNfcVBpOEE1VFRtdFBqeUxoMEM4?oc=5",
-   "source": "The Verge",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "The Verge",
-    "Gizmodo"
-   ],
-   "merged_ids": [
-    "4a552fb6a6615c34"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "9cf188eac3fa4348",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "Google and Samsung’s Android XR Smart Glasses Are Finally Here",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkdqekZoTjN6QnRSZWg0RTQyd0IybW5iRU80WnFpb0ZtZ0FHd282bVNaYURRZnVoRTlUQmlYSXR1ZVBwR21VbHBvQ2tzSEM2UnVPdTJORzdzdkVGY0NmTWFkUnpoUzNQSmp3ZVVQN0M1OVlyLUkybG9HZl9jazBmVk5KcC1hakRzT29mZGNzeDQtSnpDRWVIWkNCcGpwTFYzVnFITFRXTWNUbl9lc09wdEN3?oc=5",
-   "source": "WIRED",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "WIRED"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "f759481086409abe",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWl9DeC02NW1qaHFmZEdLdGwyelF1VnExdEN3eXhPMTV4VFQ2QUxyQzYtNVZaVjI3dWlwNmY5QnoyTlZ0RkZPdURyWUJuZVdXMmN5YUY5SHNuUjhaVmlWZElBRE41ZkFkTEFwN3B1VDZDRFdYc2otdEJFVDh5NDR3Yy1jTlRkVms?oc=5",
-   "source": "WIRED",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "WIRED"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "0fa0e88bf83c5902",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "Tigo Energy and Google Cloud Pair AI-Powered Tools for Solar Installers and Utilities",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXNGUEhzR3FVdTJWaWRqZWtheFdvWFlrTVBGUmRHQ2xuekRnTkpHNlBTX0Ftdi1VR2dXZ09xVHdmQWtnN25SZkZHNW1FOXVXNFp5TlVIMkZLVmRSSm5BM1NEQmhwVkw4TlZwV1N0ajV6Yk9nLWJ1TFI3bUw0Tkp3bEdjZW43NGQ5SklWelVNMA?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "Yahoo Finance",
-    "News"
-   ],
-   "merged_ids": [
-    "0fa0e88bf83c5902"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "b34d2cec6e3a89e8",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "Google Really Needs You To Know It Cares About Smart Glasses Privacy",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRXRMc0I5ZnowOWFUbzZWVTRNX2hfMTBLQlpTRDhnYkpqSzlCSnhudXVOZWhjTnRSVFVQajduX2I5Q1RFMWV4eGxWdGt4RVJnaWkzdlZZTW1wWkk1c0FuM0ZkV1I2MWl4Zzh5UFJvUEtqVEhXVTdvbEVSQWhrcEhsOUFpd2FWa2Y5QWg4LUtnRWFSbzFuQXlEUXJveUFPNlpwWVF3TQ?oc=5",
-   "source": "Engadget",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "Engadget"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "74a7b7db67ac2718",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "Google launches Intelligent Eyewear glasses: $395+, pre-order today, ships Dec. 10",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDTHNpYUlmZUx4cncxVDVYdUZ0SnJlY2pIR0F1bExUZFJuMnRSZXZROWlvVm4wQTYzeFNUUTdXNGlDT3JKVTVhbGtJb096dDdDbU5QeFJvN1FLUXR0WWREa19LamU3NlptdkFNQkM4Y2M1Und6WEQ2NQ?oc=5",
-   "source": "9to5Google",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 40,
-   "tier": "notable",
-   "category": "product",
-   "reasons": [
-    "Products & AI"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "9to5Google"
-   ],
-   "base_score": 40
-  },
-  {
-   "id": "16a498c5f9f51426",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "I tried Google’s new smart glasses — and a 5-minute conversation changed my mind about intelligent eyewear",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX01FMHo3bnp5dnUzWEdITjhOU0RWNkF4VWhBc1VJQmR0M3k4NWJmbzJwUDFzd0ZoOHkzc1drbEZvVWdJYXlNSkpCdWk5S212bzB6ZzRCMGRwYVNTME1vUnBsUHZaaEh3MGVUYUVWNHJ5QTg2WW80UlJvQW9ibzFld093V3VEb2EwclM3bzZja2ZIZklJRUVGV0d0SzNhSW9OREh5WHhVdnU1cGVWa0RmNGpXbEx0WnpnRDVra2lJX25iaHh4X2h6ekFCUTVHenZqUUtXejV2Z3l4T1hjRC0zN05lTFo5bF9v?oc=5",
-   "source": "Tom's Guide",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "Tom's Guide"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "b55ce2c8ab687d7e",
-   "ticker": "MSFT",
-   "kind": "news",
-   "title": "DuPont Announces Collaboration with Microsoft and NobleAI to Accelerate R&D Innovation with AI",
-   "url": "https://finance.yahoo.com/technology/ai/articles/dupont-announces-collaboration-microsoft-nobleai-140000849.html?.tsrc=rss",
-   "source": "News",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 26,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "News",
-    "TradingView",
-    "marketscreener.com"
-   ],
-   "base_score": 20,
-   "merged_ids": [
-    "dd398d5684422191",
-    "88f99e55bd82405b"
-   ]
-  },
-  {
-   "id": "4df0c9d50a49246e",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple TV 4K (4th Gen) Review: Still Great, But Drastically More Expensive",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kMHo5M1pKN2J3Z0VGUFc4YkVYVFVZemg2cmx0Ty1jblpqT2JIdkVwMmVZMzA3d01TQkt4RERLeExoN19jNXpTMnJrVU1lYm9xLUNjN01HWVo0clpDNy16Y1QwbEw5bk9xVTBRbw?oc=5",
-   "source": "Engadget",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "Engadget"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "6f5a118d7964dbf0",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "I made Apple’s HomeView display the center of my home for a week. Is it worth $299?",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12RUZCVjVCS1lINS05Q1g2Uzg2U2x1TVNDdTJ4TEFjYzlGZ3lndnl0ck56dWV0aFJYWkp3dEV5UGdZbU9nNzczZFVKQ0VldGhJcDhmY05BbUJJU1Utb0JmOWJjX0VHa29pNGc?oc=5",
-   "source": "CNN",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "CNN"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "e3e108db0841e27c",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnMzQllmTDdlUGhubkcxWVRsYVBndVNNUEtadnhIcmlYNG1WV1R5T1gtU2JoOHRZd200UlE3V0VEU3U5YXVqME9ZaTlHVnVtRUQ5SVFtN2VXTDJYT1hpMHE5ZjhUZk1MOWItaUlOUUhqWVJqRndULTR2STFDV2w5X3RZWk8yVF9ZWEJFVHNn?oc=5",
-   "source": "WIRED",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "WIRED"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "11d6aa1f832111d6",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple TV 4K (2026) review: Speed, Siri, and seriously expensive",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeDF1Qm1DdmFlVjZLbXUzZVYtSDVPZTdvNTJHY01ROHJxTklaYWVXb2piME5UQWRFTWRjQmRXa001Y0JYWkFtcTc2SGRqR0Z6RzFhb1lJZU4tTmoycmV5Q0ZDbGRYLUREeXhoSnRpaS05SFZmRW5ZVlFtanBTREhtcFJFYlVzUXMzSUVDbnVHVGJ1eU9UZXZzX3I5ZUtoTXpJYmZv?oc=5",
-   "source": "AppleInsider",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "AppleInsider"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "422f9110f2c52e30",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple Home Collection: Select Accessories Available to Order This Friday",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02azdvSEM5TU81VmtvMFF2S3dPMFZNWWQ5c1dheDd0QThUMTl3ZUp5QmF4QUsxV3pVTWs0VmRINjJZZ2NWLTRlQlhmbzA2THduSlNYNGtXcUdhb0RaTkNsbFdLbWJFZDQwUzBtZ09MOENvSDFt?oc=5",
-   "source": "MacRumors",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "MacRumors",
-    "9to5Mac"
-   ],
-   "merged_ids": [
-    "11752e998678aa1d"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "4d5f941a0612f8f8",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple’s HomeView is my new favorite smart display — but not my daughter’s",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPenR5MUJiTTQxQ3J3RV8wbFBvaTNkbG5mZWZlZlVHWTlBUU10OXIwVkdTcmFNWU1UdWVMUHlIYWZkOTBvczhqaEtnNWwtUjI2aGJVanNWakMzdmZfQjVqV3BPck1kdzdjeElWLVZOSHpnYWpaY2oxaUFYVkFoSWRiakdMakp3aDc2?oc=5",
-   "source": "The Verge",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "The Verge"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "dc0303b75094821d",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "The new Apple TV 4K is great, but expensive",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LMERYTFZlYkU1dWxiZU1OMGg3Q0I0aFJfLVpVT01ocmQ3MEZoS2UtOWpaQ1BqMU9Kc3JyRjdGSmVzU2JnLS1WZ01CNjkxZk1WdGkySEJhcFc2aldvcDJoTWw2cHdVVmxxOE5RaC14Vmdxdw?oc=5",
-   "source": "The Verge",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "The Verge"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "7139fe8ebc19b5fe",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "HomeView Review: 4 Reasons to Upgrade to Apple’s First Smart Home Display",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hS20tdmdkeTFiYi04VHlWYmtCNXpXdXJ3SkZqTUtKUXNMbWFWWGFEWTZ0cWI3aklZRUVYQmdZV0Fuc0lPdEIyelFza0szcUkySll6ZWpweV9zcE1YbnhjOVRwQmlKU3VpR2FwOF9wRENxc25sak9YQTJNQldIZw?oc=5",
-   "source": "Gear Patrol",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 51,
-   "tier": "notable",
-   "category": "analyst",
-   "reasons": [
-    "Analyst ratings"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "Engadget",
-    "Gear Patrol",
-    "Man of Many"
-   ],
-   "merged_ids": [
-    "c7df6ca1b1f61b42",
-    "85c7a9333775959d"
-   ],
-   "base_score": 45
-  },
-  {
-   "id": "3ccd5cbfd996a187",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple HomeView review: An adorable smart display that earns its place",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMllLd1BadXRtSjBRS2hOOVRCelNPRVVOaGJJMGpZbHdlMUN5ZmdhQnJKT2tHWDBqMzhqWDRHaXpDRTlqZlRYN3FKR01ESFl3Qk9KOEtvQkJwY0RJYUl1b1Z3VXNjRm5saDZQZXZJS19ULW9Pb1RvNTE0cGNZQk9RNjlNTHFFOUhjYkJIRWRnVTl4RnRrQU9RVC1oVWdCOWcwRkE?oc=5",
-   "source": "9to5Mac",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "9to5Mac"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "ea688f02a29f133f",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple TV 4K review: The best streamer comes at a cost",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNckFuVDJYV3JiMmh2cnYzWURCTWFFbUUtZnN0aDRxUDY5bTc5NjNubkdnN1ROYi1qV2FTdjg5cEg2LVNibE9mV250OVBYd29heE02SUdydDN4WU1PUkhsd3RKaFpkZVVCY2pHcl9XTGFjSUxCTFJpRkFnMF9NMDFyb21ZRll5M3JXdTRNQg?oc=5",
-   "source": "9to5Mac",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "9to5Mac"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "b289c8a3ff88a0ea",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "The New Apple TV 4K Unlocks a Key Feature for Home Theater Enthusiasts",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVVhpN05xNmFYTmVlc0lDVkpLdGJZTWY4a2cwS3VuS1dFbW5MeHJob09iVEVHbUVkaW1ZVHJxb0hMLWdqS0U4aG1seUZZZDdsSjJiQnk4M3FQOThBQnpuX25LRmJkdjh5MGtaMEp6aTFzTjNGU3RsLVpZdzVVcDZrX2Q1UWxNN1oyNmc?oc=5",
-   "source": "Gear Patrol",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "Gear Patrol"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "842b2d74a6e007b0",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "I lived with two Apple HomeViews for 8 days — and I think Apple got the most important thing right",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTcTVDd3RQODk2Zkg5dHV1Sjdlc1N5ZWVIYUw0NGg1WTRic01RVVRQaHlVMHBEck5HeE5QTGRHMUxfSmc2MHBWc2ctN25acGpwM3JkY2tub0VacjF3REdvTXNmWkFIWUdQVFp5S2FZd2RfQWR4WXZv?oc=5",
-   "source": "TechRadar",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "TechRadar"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "12f1be13109e6317",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple will open preorders for some of its new smart home collection tomorrow.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUNfMnVGdU1hc3kxWUJqLTlrTWVKcDFud29SRzJSTnI5UFhKRlhPQlI4ODI2Z1BaZjhLNER6VjR0Vk5wdDE1aDc4UmJHWHIxeThCT2VsOEF0OUl1UGxUb25BdzQ1Tm5NNFdHeUpSMEN4cVNFa3JoSXJSZlYxM0puaG9ZckhFR0dGQ0xLbEFudHQxUVJCQ3NpMWNFc01pb2pWZFFGWlZBNzdMV2dkNEtiejBINWM?oc=5",
-   "source": "The Verge",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "The Verge",
-    "Engadget"
-   ],
-   "base_score": 20,
-   "merged_ids": [
-    "aa5786db0a4556d3"
-   ]
-  },
-  {
-   "id": "60bc57c2b6287eeb",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Mount Thor Raises $45 Million to Bring Apple Hardware to Agentic AI Infrastructure",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWUtaWlId09QS25OTFJaZl9IS0U1WFJxTzI5QlFxQ3lyQlBwMW1YZ3RjM2dXV0dBNXhRZGdpejhnVllIdFpkWjRwZVo2NUtmWGZubGtscnZaWk9pbkVGWFdicEk0d0ZJSGRGV0VTUldjNFdXNUZJazJfRnFWWmk2T3VxWkFGaVNVeGk5ZA?oc=5",
-   "source": "Unite.AI",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 73,
-   "tier": "major",
-   "category": "capital",
-   "reasons": [
-    "Capital & dilution"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "Unite.AI",
-    "News"
-   ],
-   "merged_ids": [
-    "e0543c5db1dc159c"
-   ],
-   "base_score": 70
-  },
-  {
-   "id": "1d878d0c27487d57",
-   "ticker": "META",
-   "kind": "news",
-   "title": "I tried Google’s AI glasses and Meta’s finally got real competition",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWY2bS1iWjBpaThyc1hBeHc1UWdETUk0UDlDRnQyMTh4cXVwSVpMRUhhMWE2bFpOLV9mRFNlMUtmWTdNUlZYNnIxdngtczh2N19CNzkxLWwyVFBMcm81WU1wdzRwM2RVcU41U1plWXdSNTVxUkFEQmRqSDd2YmFlc3FmbjNfcVBpOEE1VFRtdFBqeUxoMEM4?oc=5",
-   "source": "The Verge",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "The Verge",
-    "Gizmodo"
-   ],
-   "merged_ids": [
-    "f690f0de07ce5606"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "3a8aa38a3deff0a7",
-   "ticker": "META",
-   "kind": "news",
-   "title": "Warby Parker's competitor to Meta glasses is here. I tested them out.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0c2dDlVZ2hkaW9PdDhNQ1R4STRCYl9GLVJlclB5R0drRUcwSkZyYllpb0REQmJOSU9YLUNfSXFqbFdxOGE0eEdJY1NSdFVoMlRNYmpMMWVqdGZGRzdsSUNpWi1hdkowVU9kbFp2Q1JJN2NQaVh5Zk5UdGljNFpBaF96VEpVYnJ6LVdyYzY1aWw2VC1feTc3ZTY1RWc3Zw?oc=5",
-   "source": "Business Insider",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "Business Insider"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "40be16df2744cdd9",
-   "ticker": "AMD",
-   "kind": "news",
-   "title": "AMD Advances the Instinct MI400 Series for AI",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVWI5SXBFYkUydDFOZGxwQ195RGVQMG9uemVuZWx4aHhpRFR3QXFBZDBrODZaZDI0MU1vYWZseVNJSVFwdjRpTDkyeFRhZmNxcjlQSWczRS13MUoteTI4STdYYlJzTkhpb3FXQ1A5X1pvNUNhZDV5T0JDOVlBa3JFbFBQWi1HLXVRVzZ2SkVJbGtxXzg?oc=5",
-   "source": "AMD",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "outlets": [
-    "AMD"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "0dea5e8858aca06e",
-   "ticker": "AMD",
-   "kind": "news",
-   "title": "Premio Expands On-Premises AI Infrastructure With New AMD-Powered 2U and 3U Edge AI 19-inch Rackmount Servers",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeHMtTkE5b1ZoOWRWQndQajBUZEJaVFlrMkNQOEZ0VlhFNFlINjNHRC1XOE1IUG1QVzNZNzQ1SkVQVFMwN0JMMHY1ZDBmTlhKOFNDcVFnVkVMVTNnUmJzdmljck1PbTBvSGdvNmREZzRZelYyNVFCSTUwNkdaQ3hla3ByRlBDS2NMV1lHTVRLUmt6N0ZJSW9hOTBFX2dVcUxpOHVXT0Y1T2NEc2FJelNBZVNwZXFIUEZndkhubnRaVHJUaXlVbXFOSXpoc0NzMGhiZmxMbnFHdWNnMXVhQkxOOXJ3Z1NFdw?oc=5",
-   "source": "EIN News",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_chips",
-   "outlets": [
-    "EIN News"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "9834be29150c5f93",
-   "ticker": "NOW",
-   "kind": "news",
-   "title": "ServiceNow launches AI-powered engine to accelerate migrations from CRM rivals",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUUpCTC1yRzBPNzVCVXhwX0RqSnpITmMtQUtpX1dNb0MtQURiSGhOVEdyZ2JFVDBNeFVTRjdmOU84eXA2Y0VZLU9mRU1TcmxTYks1QUd1bnRjMEpvR2hST08zMVdRRGVBVUY3TzE3MFJvNV84dHE5VHZSX2dyM01pYmNFMnh3ZzduZ1d2NnlnNzZUb29fcWdFeU9tY1JHX21TSWl1VWRyclhNb0tNcjRjd1pQbVZDZw?oc=5",
-   "source": "SiliconANGLE",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 40,
-   "tier": "notable",
-   "category": "product",
-   "reasons": [
-    "Products & AI"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_software",
-   "outlets": [
-    "SiliconANGLE"
-   ],
-   "base_score": 40
-  },
-  {
-   "id": "09425c203817615b",
-   "ticker": "NOW",
-   "kind": "news",
-   "title": "ReSource Point of Sale nearly doubles support volume, cuts resolution time with ServiceNow CRM",
-   "url": "https://finance.yahoo.com/technology/articles/point-sale-nearly-doubles-support-140000222.html?.tsrc=rss",
-   "source": "News",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_software",
-   "outlets": [
-    "News",
-    "Finviz"
-   ],
-   "merged_ids": [
-    "09425c203817615b"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "35663219f2ff2ef4",
-   "ticker": "ANT",
-   "kind": "news",
-   "title": "How To Assess Anthropic's Aspirational Valuation (ANT)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWnV4NlFaSDRRUGhhY1lieVdiajZRTTd4Q3VobmV2a1NSNkk5cmlwQ0JVNWgwb2lxaTlSTzRNWUFZaFdhZ0M3QnU3RzVGc2lCZFBySmhVUzN6STMybHM5UHlVQzBzeHNTeGJESUVNZFFZU1VuWGM3MHV5eUgyREUzMTJVazk0M2drWVRXS2xlWjVvdw?oc=5",
-   "source": "Seeking Alpha",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "ai_software",
-   "outlets": [
-    "Seeking Alpha"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "fecd9ac32228d85c",
-   "ticker": "RGTI",
-   "kind": "news",
-   "title": "Quantum Elements’ Constellation Platform Leveraged by Rigetti to Project System Performance at Scale",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY3BCLXptbk9TemUxTUFxdWZWUE83RktBX2dhLXlmdnFMLS1vU0tmdktmVW1QNTh4NUZUMm0wVXBJREtZWnh4NE85amxRY0Vmb01DY1pjRjAxOTJmMlVnRF9NLWljWmgxeTU4aVhHZkRFNUtnbUtMRGRBajJwWVA1M3g4TVlBb05NOGVBRGRhVl9Cc0VCSU1ieFBlQVYtVEtXOHRlYVlHNV9pRmxnVVYzdnJEOEg5NExrLVhXdlpQdWNHc2xwLWp4RnJOd2hiSy1uRXhoM1U4NHU?oc=5",
-   "source": "EIN News",
-   "published": "2026-11-12T14:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "quantum",
-   "outlets": [
-    "EIN News"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "13b7a3e2b26938f1",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "You Can Get Google’s New Smart Glasses Next Month. I’ve Tried Them Out",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS1J2MXY1b1FwU0IxOXdTejVrR29iaWJfLUJySzVpa3BpQUhCeDQ4RTBYZm8zZEtTc0ZwUXpPMFNEWUJ2UUlyOTUybWZFMTh3dUE4SGtvVXkzVG1UdGkxelQxWWtBTUxDclhEWUZNUVNIaGEwRFBSZ0pKUVpnUk9jMzFNMm9TTmNEcXRoeU5tbUxYMTd0dUNfeVQwYWZwdVhBSTFueUFIMDNIdlZxcDJJ?oc=5",
-   "source": "CNET",
-   "published": "2026-11-12T14:00:06Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "CNET"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "227153d70744e753",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple HomeView Review: Lovely Display, Won’t Fix Your Jumbled Smart Home",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVR4SU1DcGk4NjN3aEE0R3Y3Vlh3QjVRbnFiQllzcTN6UmVrYlVfQjZEOFlpYkFodUxwZXlDemFZT2RnUjN2XzlwS2JLNXNXcXJqYXE0NFBtWnlxX0NTMG1UZHE3XzlHRGVuVk8tNTJiODlVTFVnOHBYR2VwWWF5ek5YMHQ4akI3bzdCTk5kMnp5WVVzVk56eUJwNURHVzlhTW1iN09uV1dRemM?oc=5",
-   "source": "CNET",
-   "published": "2026-11-12T14:00:06Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "CNET"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "2e47451a704d283b",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Review: Is Apple's All-New HomeView Smart Home Hub Worth $299?",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sb21BVmxjOUhmNHZRVXRWOS1kbWhBXzJEZ1dkSU5nOGN5NFoxeVMwMnVpM2FONkVwS180TTBCcUlMQzBNbHk3SHhxeTlZYTBWNVotOHIzaVJLOE5WVXBUVGd0Rm9fTkpqbG53?oc=5",
-   "source": "MacRumors",
-   "published": "2026-11-12T14:00:12Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "MacRumors"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "29953e5fd071adf5",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple HomePod Mini 2 first look: Siri has improved, but it’s a fierce AI assistant race",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NNGRnU1RsSDVXTF96NDRQdDE1V3dRaDd5OGVIb1lyUHlCM2ZPRnk1YWJhN1pXaGl0U2FnSVBTaFFXSkpWQ3VWM0o1alA3aXQyYWp0bEhyNndfb1lHdUkzNkNzM3plWkxRSHhVUlRTdW9qdFFRTlduSzlR?oc=5",
-   "source": "ZDNET",
-   "published": "2026-11-12T14:00:13Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "ZDNET"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "f158950fd3d0bc07",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "Google and Samsung to Release AI Smart Glasses in December",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVksxWWMteVJxMEtIa0tBcjdZUXY0MGlvbGlNQWZVMGtESVliVFlwODlpWUJESHNLYmlMOFpvV3lEeVNoREdheHpDS3JQUjVqWkNYT0I2RzRrS1I5ckY3MGJqWXRrc2dEVEZhUEFxVXpxRzBvVE5ONEZhZldCbndjY1d0LVFPaEpqaGRWQmFET3lJRWlmZ1ZNQk01RFpGLWZsX0I5eDhTTm5CTWRqQXpoZ29EWFZPMURyMVFFSi1Uc3ZCT2hXeDdr?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-11-12T14:00:14Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "Bloomberg.com"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "6a4a3c02ef38062c",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple’s HomeView Makes Up for Late Arrival with Ecosystem Perks: Review",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN2wwbUI0bVhHZ0c4NVQ4QVV0emVnOTRzODJIbjU5eV9GSXUxVnZ0N2UzaE1wQmh5M0ZZWlVITEZXZEtHRHFPNG5idUZ1TVFudEZvT1A5QlNMQnpIamZ0c19WR2VnTHlfbnp6WXpNaEFRVUctQy10SEM5SmNpZTRKc051a1VJSkRNSGZhY2dYdERFVTJSaWF4UldoMDZ0NkpuZEZDUWVidDdPdm9Uc2xiZlp1WXFvNEJlUUlrNjlMQkZ2Sk9mR3NPRA?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-11-12T14:00:16Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "Bloomberg.com"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "a04072390015fc8e",
-   "ticker": "AMZN",
-   "kind": "news",
-   "title": "The best books of 2026, according to the Amazon Editors",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVhKMDVRX2lpWWpFakFzUGNuUzVadXlOb3M5cUdmYUlGcnlQeXdWTG1uQnBpelU0S0d3QVUyaWJVMTlGay1Ya1Uyb0c2WHlZR1lqM0gtUTZzdG05aFF4T1dkYWpBeGdneGZSV1ktN1JDYWNQNW1ObEJfZ0cyeGc3S19EOFg?oc=5",
-   "source": "About Amazon",
-   "published": "2026-11-12T14:00:17Z",
-   "score": 32,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "About Amazon",
-    "USA Today",
-    "Good e-Reader",
-    "Book Riot",
-    "Mashable",
-    "KYMA",
-    "Deseret News"
-   ],
-   "merged_ids": [
-    "37acd447a1c74fe6",
-    "ab371688af8420b7",
-    "daa38dbe510c65f1",
-    "21aec49a4ef9b802",
-    "2b86073b73e79658",
-    "b6063c42e2f09bf3"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "307fd16c714504ed",
-   "ticker": "MSFT",
-   "kind": "news",
-   "title": "Microsoft Office Pro 2021 for Windows Is Down to Just $25 Right Now",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTNrQzd2cHdvWHFEVXQwVHRZNXBkTWlUYWxHY19UZGd4ZXN6eTlOMFQ1aThha2RENDBSRktoVzk3N0Z0NTBlV1BuajhnMlBZUTBobGdUaWk4MXBCR3lqZGpFclpFdE9LdEMzMjc5ekVBSjBxSG9WaDlrNFpaVmRZaTJoYWpGS0dSaHZaZEhWT2ZvWGZza0lxSUR3?oc=5",
-   "source": "PCMag",
-   "published": "2026-11-12T14:00:26Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "PCMag"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "007f1dad1d5a63a0",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple HomeView review: The deep ecosystem integration wins again",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55dE9RejNHNkFqS2NjaExJRW5RQTJKVFRXUVVoZVlRSlhZbDlhSHRlbjhuYmE3aXdETTE2bXMydE5YbmsyTHZTVkMwZW05ZXJIeGxLcmtNbjJJM1hfOWI1ZU02Z1FMZzkwbW1NWA?oc=5",
-   "source": "ZDNET",
-   "published": "2026-11-12T14:00:28Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "ZDNET"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "56454f6a89177bff",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "Google’s new Android XR glasses are stylish with a lower ‘creep factor’ than its competitors",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PTmpYX0diNUtHRU0tNDByR2hBNzZ2ajB0dExEUUNDaEtEaTlndDdCU0czZGxHU0dUdDhWbGNiRExFaEtoOUpLQkNPWUkzOWVwa19WWDhta25zd1dCOFl3OEU2aVdTV1VoaDN2V3JRZU02MF9Sd1psYTRUa2c?oc=5",
-   "source": "ZDNET",
-   "published": "2026-11-12T14:00:29Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "ZDNET"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "bd559379cc6c96df",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple TV 4K review: The best streamer for Apple fans, but I wouldn’t rush to upgrade",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yMXBaYlY0M0JPdi1fSjZTa2tROU1RQlBCUi1JSXJ0eS1vb3R3Tm54X0JHZjhFekZRYVd3TGRFNDZ4WGZVWURBbHBKMHktOWtZalJIc21RTjFQcjZjM2hfMF9SNVZyWEVI?oc=5",
-   "source": "ZDNET",
-   "published": "2026-11-12T14:00:29Z",
-   "score": 45,
-   "tier": "notable",
-   "category": "analyst",
-   "reasons": [
-    "Analyst ratings"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "ZDNET"
-   ],
-   "base_score": 45
-  },
-  {
-   "id": "12ba331d2fabb2aa",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "Google knows smart glasses have a privacy problem. Here’s how it’s trying to fix it",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DU1JhZ0VYTU9ZT0toTjE2Yk9lR1JvZ3l2ZkpQLVBhNkZLRmlBaEt0RmRXQWxYdEczY19GQTN0U09yRGl0Q2dfUTRkc2djN01XaXJSYW1jNGFNX2tZemtYV2RDTnZ5Wk5YbU02cVg1aG1nRUlZQk1DeENFaw?oc=5",
-   "source": "CNN",
-   "published": "2026-11-12T14:00:35Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "CNN"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "20ed4d56566a88e3",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple TV 4K (2026) Review: Does a Streaming Box Still Justify a Spot Under Your TV?",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qeU5PMHpyT0NMSTQtNEZBeEp6Slp5clJBdzRaY1FlczZEaV9HREVCTzhPLTRRWm1nSEE5MEdVUDRUbEU3QUE1dmlFUllGYW1FcHYxLVRTdmo4Rjg2aDZR?oc=5",
-   "source": "Man of Many",
-   "published": "2026-11-12T14:00:58Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "Man of Many"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "da0d7e461fbaf09e",
-   "ticker": "GOOGL",
-   "kind": "news",
-   "title": "Hands-on: Google and Samsung’s vision for Android XR glasses is 20/20",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sVGZHZnRPX2p4Wm5OMkZPSUloc3VnaHVsYVVKRUNPQ1o5MGJVR0VjWEl1dnhhS0tlTmttMDdISGNJdWRJT1hmVlpHVXM4ajBNOC1WOTgwaDJ1TVA0VmVYMkJWLS02LU5qZWc?oc=5",
-   "source": "9to5Google",
-   "published": "2026-11-12T14:01:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "9to5Google"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "9a2fc7c2443ce62b",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple HomeView review: Shallow launch, but incredible potential",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQzNCXzdSQjFfM29EYTVBbFRvc0JJbFlCZjBhOEJpeGc0TFlYVnVRTklUVF9RM0cwVUdTakw5cUVfQS1BTkF3eVI0UVpmRXZKVTZpSDhRSXZXclA1MkNJdTJ2dENuSVF5TThnOVlyYVU5TXZleGZsQktza056NFNwMl81cl9PbkZXSmxWVVBQOWlrVHJsWk5YdFFjcTJmTl9JZ01uSElHWQ?oc=5",
-   "source": "AppleInsider",
-   "published": "2026-11-12T14:01:00Z",
-   "score": 40,
-   "tier": "notable",
-   "category": "product",
-   "reasons": [
-    "Products & AI"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "AppleInsider"
-   ],
-   "base_score": 40
-  },
-  {
-   "id": "9ce3b7ccc8a5ea59",
-   "ticker": "AMZN",
-   "kind": "news",
-   "title": "Cloudinary and AWS Deepen Partnership to Bring Cloudinary’s Image and Video Platform to Amazon CloudFront",
-   "url": "https://finance.yahoo.com/technology/articles/cloudinary-aws-deepen-partnership-bring-140100383.html?.tsrc=rss",
-   "source": "News",
-   "published": "2026-11-12T14:01:00Z",
-   "score": 75,
-   "tier": "major",
-   "category": "deals",
-   "reasons": [
-    "Deals & M&A"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
-   "outlets": [
-    "News"
-   ],
-   "base_score": 75
-  },
-  {
-   "id": "231d4c69df095679",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Nvidia’s Jensen Huang Resigns As CEO With CFO Colette Kress To Step In: Analyst Compares To Apple’s ‘Steve Jobs Moment’",
-   "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-s-jensen-huang-resigns-as-ceo-cfo-colette-kress-to-step-in/cNGzUFDR9aS?.tsrc=rss",
-   "source": "News",
-   "published": "2026-11-12T14:01:15Z",
-   "score": 75,
-   "tier": "major",
-   "category": "leadership",
-   "reasons": [
-    "Leadership"
-   ],
-   "first_seen": "2026-11-12T15:10:51Z",
-   "group": "big_tech",
    "outlets": [
     "News"
    ],

@@ -1,6 +1,167 @@
 {
  "briefings": [
   {
+   "id": "2026-11-12-close",
+   "kind": "close",
+   "title": "Closing brief",
+   "created": "2026-11-12T21:14:15Z",
+   "since": "2026-11-12T17:30:00Z",
+   "summary": null,
+   "groups": {
+    "Big Tech": [
+     {
+      "id": "371d2a9be60bd1be",
+      "ticker": "MSFT",
+      "title": "Microsoft Outlook, Teams outage disrupts thousands of users across Texas, U.S.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOem5ZNlhPS0NvU3hVb2lCRXZzZWhQM2pzSHh1ZDdDZFJWcjdhLU00Tmw2WHhKWGRFTzVSTXNmUER6dkFGc2syQl9PSlg1Wk16YjM2U0hXMnU5NUJ3UFRUS21qTHFObTFRRlJWcmJ6Y3VEeW9hUTJEQWFmYVBwN3Z2dklERU9xRVU3dXZpNW9HdDFLV29pTmp3cXlTeGRoMGViQlBzSFlrLXkzbWdUeGZZ?oc=5",
+      "source": "San Antonio Express-News",
+      "score": 90,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "931ce23dce2ee27c",
+      "ticker": "MSFT",
+      "title": "Thousands report outage with Microsoft Outlook and 365: Downdetector",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFNDM1liaEZYYjBaMDlWTkV3TGdWOHlLeGxVQ0VTbm1xblFUTUUzMzJrSUN5QnM5RWRZWHpRXzRiNlpxN2ZaZmR0aTNEMlJqY1ZIbk0yZGhxUFA0Rk5PQllfaFh2dzNkRldrVFRteHM0VlNFZEhUMTVKRXBwVzVEVDdPZXoxdHQxblJHVlRWTE1ZOWU3TmFzY0hxc1puQjRqbEtNadIBqgFBVV95cUxNYzRHek5jTjhGOGZvNGM1dHE1UXhmVjlTR3Rzc0VGQVBFZVRnT2EwRVlMWmhzZkRpS21jS19PY1dDQ2V6aFRiTTVCUXBaaktnaDZtcjdaRnNZMnRXVWpjMjYtVWlDSW1TZHdtQWgzZkN2OUZzWFF2SV93X2tfSklfQzB5SW5kdE13SUY4N1V4WDlsMkRXUzEwckk3TDNZQ1p5b2l0SHBxdzc1Zw?oc=5",
+      "source": "PIX11",
+      "score": 90,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "aa8d1e243e1d98b9",
+      "ticker": "MSFT",
+      "title": "Microsoft users experiencing Outlook outage",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWhwSjJ0UE9hTThmeDJzb0RZVjlnbmszay10a1Nfb2ZEWm9BWmtuZWRpVk1EcHVQTk5FUnY0d3RkNjE0SVVMRkRjdWNZWTFCaFZjVTh0OElnSTFPZEFWb0RIWGpUN01tbjVMYzdsRmg1XzRZLXd5Z3YteXJ3WVhNWGZTS2FRNFE2VnBOZU5YS2dvUQ?oc=5",
+      "source": "Breakingthenews.net",
+      "score": 90,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "bcafb17e05bb4964",
+      "ticker": "MSFT",
+      "title": "Nationwide Microsoft Outlook outage reported",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOamJTeGJYcWRQQlVJNHhORUZ3QV9vOHRNV0g4bktwdnRZem9CUVd4YVh6TkltUTNrSGp5U0VEVThqWERtWXlKb3lFbEF5TFJXMjlHeE1xREZKN0R2ZGVmZEE5RVdSaVdtU3FVbHJWWkY3SnhBdGJHZ2Q1NGJ6a1lNY1RuMA?oc=5",
+      "source": "WKYT",
+      "score": 90,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "8fedfa0a3b0b72b7",
+      "ticker": "MSFT",
+      "title": "Microsoft Outlook down: Widespread outage hits users nationwide",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VQ0l4VFA2U3gySks0amdCcmNJcF9mb2Y5eWUwd1FaU2lOdHdvZzJzeWxocC14eWFBaVFoZEZvTkFUdkxJdzVvckk4RGtwa0Q0NDB3V3E2V29EQWVVNzE5Y0hqM3hoY1E?oc=5",
+      "source": "FOX 13 Seattle",
+      "score": 90,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "d77eb99a85ce5975",
+      "ticker": "MSFT",
+      "title": "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaTVjT2hmZEFUQ1N3QUFZZVhlRHA4RU9uLVpRZDlCZEo5QmRNaGJNY0N6b2doVDZ2ZDBCYXBYMmRFd2xhX0NaSExsc2xKemRSaE1IMFBQNmVlclRCNzFNN3U5TV9Mc1pvWk1NeFhJNWVvTEZkSUE4TlUtdkJ3UmNGaDU2dGFSMmg5VWJjUGc3QmhVUWIz?oc=5",
+      "source": "Mashable",
+      "score": 90,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "0dd4e8a26b0314dc",
+      "ticker": "MSFT",
+      "title": "Is Outlook down? Thousands report issues with Microsoft email app",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeVRIQ1l3U0xRUk5rb1BHMmNwUER1TUZyUzJ3a3pSUTlOZEhROUdlZjFkWTFQLTR1Zno1UFdiQVp6LWthdDQtTVg3OU5NQTUtR3Nhd3NXS192a1VFVmVscnByb1VGbGpTekZmajMzSjg4REFVY3ppSm9CSDBDUlk0T3lsdGFvQ0NGbEFGby1jMk1pa2FXelY40gGcAUFVX3lxTFB3eWNtbkhIOUpxWmNZZVFjbW9VOWtzMFhkSFhlOUpaM2NhcDZYZTVyZ1NnaXM3Ym5IOXVZYXFqVXNOdklUUmRFQzFwWS1XVm40ZnZNNVplZXVKYmhCTkZJUXRLZ0xrcURDbDdReHc1LTU5NlZKYS0tbEdESnpzUVZxemx5U0ZtQ1ZwN3RFMGxvNkJkS2hNLU9DVEs5Zw?oc=5",
+      "source": "Metro.co.uk",
+      "score": 90,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "a5a99ae05bc2cebf",
+      "ticker": "MSFT",
+      "title": "Microsoft Outlook Down for Thousands of Users, Downdetector Shows",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMUpwcTRweUJ4SkJVdmEtUzdRektKUFpZWHFZdFUzNDlZd2w2SHl5VFlmN1JnX3Y2UkVkSXBFZHhlcExTbXlLVTcxb2dJT0xxanhiUno1eDNBYkpSdFZWaTNHSEd2MDVlTi1lQkdaanU3UndDbU1Ic1hnSG5qVnBJSnc0N2xLZFQteW4tMzBnM0xlQ1BmTHBwMnRGVQ?oc=5",
+      "source": "GV Wire",
+      "score": 90,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "7be245f016c642be",
+      "ticker": "TSLA",
+      "title": "SpaceX and Tesla Talks on Record Merger Are Said to Progress",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhjTWZjYS1paVVuVHpOVmJRaFpkclFuVmtDZ1RYQS1tUjI3YlNoTURnMWwyMUNxRlJEdXVYVHZoNUxRTUVOT28xS0JzS2thUmQ4WE5jMEgtajNlRWhCc1UzRkxBZGRuV2tRZWlmQjFBbmxPbk1ZVjI1Vy1wVy1fRTFaTXgxMjFpNDNKeDg0alZTLUhzZXNKYmxkNlNrMFZwdHBkTEJFTEhrQmNZdE40ZQ?oc=5",
+      "source": "Bloomberg.com",
+      "score": 87,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "813bf028bfdf1dc0",
+      "ticker": "SPCX",
+      "title": "SpaceX and Tesla Talks on Record Merger Are Said to Progress",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhjTWZjYS1paVVuVHpOVmJRaFpkclFuVmtDZ1RYQS1tUjI3YlNoTURnMWwyMUNxRlJEdXVYVHZoNUxRTUVOT28xS0JzS2thUmQ4WE5jMEgtajNlRWhCc1UzRkxBZGRuV2tRZWlmQjFBbmxPbk1ZVjI1Vy1wVy1fRTFaTXgxMjFpNDNKeDg0alZTLUhzZXNKYmxkNlNrMFZwdHBkTEJFTEhrQmNZdE40ZQ?oc=5",
+      "source": "Bloomberg.com",
+      "score": 87,
+      "tier": "major",
+      "category": "deals"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "IONQ",
+     "change_pct": -9.45,
+     "price": 30.84
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": -7.61,
+     "price": 9.84
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": -7.02,
+     "price": 10.33
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": 5.86,
+     "price": 585.3
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": 5.54,
+     "price": 364.36
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": -5.49,
+     "price": 24.44
+    },
+    {
+     "ticker": "NVDA",
+     "change_pct": -4.34,
+     "price": 166.19
+    },
+    {
+     "ticker": "CEG",
+     "change_pct": 2.79,
+     "price": 282.4
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 535,
+    "major": 144
+   }
+  },
+  {
    "id": "2026-11-12-midday",
    "kind": "midday",
    "title": "Midday brief",
