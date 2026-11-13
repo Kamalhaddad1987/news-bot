@@ -1,6 +1,173 @@
 {
  "briefings": [
   {
+   "id": "2026-11-13-close",
+   "kind": "close",
+   "title": "Closing brief",
+   "created": "2026-11-13T21:14:11Z",
+   "since": "2026-11-13T17:30:00Z",
+   "summary": null,
+   "groups": {
+    "Big Tech": [
+     {
+      "id": "f3626510421f1687",
+      "ticker": "MSFT",
+      "title": "Microsoft apologizes for outage affecting Outlook, Teams, and Microsoft 365",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNOUFLeTVSYmJJcjdPektYY2VhRy1FaWRodWRUU0ZCaVVXNGJsc3ZRZ0Z2aUJjMG9sNFJ5Qk9LR2M1LWpSNkQ0dEt2elVKYnVtbDdkWVQtajRreEFXTzgxMXotcVMtR2xsSnZSWDJkS2N3MFk5d2pYNjktUVNidVBsWFRXOElWeHJvMGFPMG1nNGR5a1Z2ZF81TklUUFNTVFM4anE5ZFRYbUpRLW1VeVlnNXhmS1BzSzBNajczMm95SHZiM0NkSWxzM3hYNFlaaTNEeWNtUVVYc0xGaFZWUU5hcWh1MURWeEFZTkVoV1UxZmxrNDd6NjVFMTNQMVhnQWhGNzNncUREQnk5Q1UyU29wOWFzLXBZeURmUW1iYW55RjhoT1hBMUE?oc=5",
+      "source": "Windows Central",
+      "score": 90,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "9d184fec97b65daa",
+      "ticker": "MSFT",
+      "title": "Microsoft Outlook Has Us All in a Chokehold, Apparently",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01Z3FNRlZ2QUlBUjUyQXB4Wk1RRktpN2hVRGwzZ2FKVTIwOGd3cncycDBOOVY2dU9heERuVjQtN0dhd1UtNDRXODFBYlU3ZkJ6eThxd1NUVjlsc2JlZ2Y1U0ptRjhTZ0dNMURzZ3JnMkxlc0RGRnVBMDV3?oc=5",
+      "source": "Barron's",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "f4912a9137f3d481",
+      "ticker": "MSFT",
+      "title": "Microsoft Outlook, Teams outage eases after over a day; recovery timeline uncertain",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQm5IRTJURXFEMm1NR3otS3gwbFcwU3FMNHpBSHo2a0M4MDV1RzZXeGRnRXA2SXRXczZDYnZMZjhlZW5iZm05aS1qV3JpMU5wN1l0N3p6YlRqVU83YWNEcm8tQTZNRmg5eG05YVlldTM1VDFUMURTTXM2ZTNUY09lZk1RMEJ6d1dTZVRtcmdwTnRUS0F2cGlBMTc2aUdqbElEWEFfTEdMcmtqb3BZQ0xpVjFmRnlWdW1MNUVXODhZQkVSZ1d1QXRRVDUxNC1FQnVpRDRDcDBETmRfV1cyUDRKaUw5YUxzMXNBZTdvanlxMjR5dHdYQXBJaTh1XzZSQm1TVWhjTnQxeXhxVV9o?oc=5",
+      "source": "Central Oregon Daily",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "de982691ce938f6f",
+      "ticker": "MSFT",
+      "title": "Microsoft’s massive Outlook outage might be over",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TSVRGYVNXOVAzaVNzdTAtX0NxUWJyQjZfQlZ1LTJWazdpRjNKeGpOSFVQWnNBQ2VfM25VMjk4SlRBRGlPelRqdmN4akQwZ0czWGxnbllQc29aTW5lUlhIVlhIRkpIeHA3R2REdlV6WnlJZkNQOUE?oc=5",
+      "source": "The Verge",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "f6cea49ea45b034a",
+      "ticker": "TSLA",
+      "title": "SpaceX’s Big Day: A Historic Starship Launch, a Tesla Merger Under Scrutiny, and a $74 Billion AI Bet",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWDZJMHVySTJIZTlCX3hmeHIxWEJCQTZUblRPU0poOENiY0xsVEgxSkt4UEh5Zm9qc2pJcmRsZWtWT0lpYXM3aDVUZEw1d2JQMGZiYjhISUE5V0Ezc0owLWhSY281cVp6bjRFV3VybHZKaDRPc1hBaXVsV01yVlNpajgwSXRSbEx1M0twS0J4akZBX0FyZ0tNMm1kTS1LenB1UXdUMnZkRGwtc2NEWGU3U0J5S0dzazFkbnh2U05hYWxVem5iRFQ5UGpiMjhWQnZzS0R0cndR?oc=5",
+      "source": "The Motley Fool",
+      "score": 84,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "2b11b9e92d832b52",
+      "ticker": "SPCX",
+      "title": "SpaceX’s Big Day: A Historic Starship Launch, a Tesla Merger Under Scrutiny, and a $74 Billion AI Bet",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWDZJMHVySTJIZTlCX3hmeHIxWEJCQTZUblRPU0poOENiY0xsVEgxSkt4UEh5Zm9qc2pJcmRsZWtWT0lpYXM3aDVUZEw1d2JQMGZiYjhISUE5V0Ezc0owLWhSY281cVp6bjRFV3VybHZKaDRPc1hBaXVsV01yVlNpajgwSXRSbEx1M0twS0J4akZBX0FyZ0tNMm1kTS1LenB1UXdUMnZkRGwtc2NEWGU3U0J5S0dzazFkbnh2U05hYWxVem5iRFQ5UGpiMjhWQnZzS0R0cndR?oc=5",
+      "source": "The Motley Fool",
+      "score": 84,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "d71570ca567bb5c8",
+      "ticker": "TSLA",
+      "title": "America's Greatest Opportunities: The Earnings Gap That Put Tesla Stock At Ludicrous Speed",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNajU4VEdXY0RXNUVhSDhROGxVWFZEWmloNGtfR2M4SkhRa1hKd1NWSjhWOE41MjFNalp3MUlHcjhPZGVGS3dNVDFDUUNEWkVvMHhSQVdyNTZYbHhQdnJpN3lVWXhvYTRYOHZxNFctZWw2Y2lMMld1MUVQU2p1T2VmWWpPbEwxX0Q2WjhMNWZGb0VHWlU?oc=5",
+      "source": "Investor's Business Daily",
+      "score": 78,
+      "tier": "major",
+      "category": "earnings"
+     }
+    ],
+    "Quantum computing": [
+     {
+      "id": "e8cd667fc3234d63",
+      "ticker": "QBTS",
+      "title": "D-Wave Quantum: A 21% Revenue Gain, a 19% Bookings Dip and a Loss Four Cents Wider Than Forecast",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSFJWTkZuMVpOTW52RG0wNXU3S0szNzdLU2hPVzRCVHFRb2R2Ynh3WFFnQjNjbmFQM1JpbG92a1N2WlAtbHlUU3AwYVduX1pfUm5Wa2d6T3ZJVmVBWHhxWkh6d0g5czZNTDVTWW5ZNHBLalVyLUVkRFRrUWpNclVhaU9yVUdwV25BOUNJUTdnVTRCRngwVGxzZDh5R2dXMDRTUl9NOGFtLVBRMEwzNnRTM3VWZWhpTXc2QVVrTjhHanNTSE9RMk1wam5qS0poeG9OZmx2QlB1RldnZW95NDZLdUJrREVzeWN4WXJCM25JS2VfcG1xSWtR?oc=5",
+      "source": "ad-hoc-news.de",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "94fc587d446b0bf3",
+      "ticker": "NVDA",
+      "title": "Arm Stock Took a Hit Because Investors Fear Nvidia Might Poach Its CEO. Is It Time to Sell?",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOVZUTkhxUUdDcXpKNGVObFZieVZnSUtZUGwwUFgxNDBQcVlWWU1FRUVJR3M1NEItMEN5MWJtWThTVEsyTVpvWFF5SjFGcV9naDdoYzhDUWlRUUkybDloX2tNZDlPd0pUcnRrSlc0OWxTYnk2RkdSbVBuSWhYX2Z6bVhabmxVZlJXeTZOVER0eGNKMEREbmZodGwtSTluR3VsN0V4Q3FIOTBMMkV2S3ZQd1RPXzVwRkx5eXFoM0wzZERXdy1GbzN4aGoxRTk?oc=5",
+      "source": "The Motley Fool",
+      "score": 78,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "cd8128b4ef99f0f1",
+      "ticker": "VST",
+      "title": "Vistra Holds Steady on Growth Outlook After Texas Election Shakes Shares",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQk42UW5OcUZLaV8zNDBjQi11N2xkTUxhWUFzYllUekNKQXVaSjYyYkhEdFhnRmt3d3lMeEFpenQ5bndscXI3S2tTR2VRM0JMNFF1NGpBRXVvcDVlRGR6VzZzOXJtZnNFdUk4ZnlNa1BsNWFoQlVYdHJIVU5MVWJqdjRsdnAtd2t4eGtxTU1BVVRnQQ?oc=5",
+      "source": "Hart Energy",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "AMD",
+     "change_pct": -8.75,
+     "price": 534.06
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": -6.87,
+     "price": 9.62
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": -6.48,
+     "price": 28.86
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": -4.76,
+     "price": 347.01
+    },
+    {
+     "ticker": "META",
+     "change_pct": 2.9,
+     "price": 641.69
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": -2.85,
+     "price": 9.56
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": -2.11,
+     "price": 23.93
+    },
+    {
+     "ticker": "PLTR",
+     "change_pct": -2.09,
+     "price": 167.99
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 563,
+    "major": 124
+   }
+  },
+  {
    "id": "2026-11-13-midday",
    "kind": "midday",
    "title": "Midday brief",
@@ -4789,171 +4956,6 @@
    "counts": {
     "stories": 877,
     "major": 179
-   }
-  },
-  {
-   "id": "2026-11-01-morning",
-   "kind": "morning",
-   "title": "Morning brief",
-   "created": "2026-11-02T02:09:27Z",
-   "since": "2026-10-30T20:30:00Z",
-   "summary": null,
-   "groups": {
-    "AI software & cloud": [
-     {
-      "id": "b067a073b1aedaab",
-      "ticker": "PLTR",
-      "title": "HD Hyundai Robotics Expands Physical AI Partnership With Palantir",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SREp0QU5YWkYxQ3dEZDBPaEppOTdIeDJYek93YUI0LXRaZ3MyMUhIcmJyZ2ItN1pSTWJTNW80YzNMX3Rpb1FxcXZtd0R6MXJrYTdxZ0dZanJWLVFsaEh3NVJucjNzdVU?oc=5",
-      "source": "THE ELEC, Korea Electronics Industry Media",
-      "score": 84,
-      "tier": "major",
-      "category": "deals"
-     },
-     {
-      "id": "61f0a96550ef6a30",
-      "ticker": "PLTR",
-      "title": "What to Expect in Markets This Week: Apple, Palantir Report; October Jobs Data Lands",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcHVUNXU2OWdlcHRHQ2V0b0pBSXBzZ0l1YVl4UkZ0cHhtSkhOcmpFcXN2QlRSamVnWHlaSUs3TTZjVG5jX3c0Yms0dGlob19pWFQzUzBReUZiNUYxaWFiOGtLRmMtandOdWc3VTZfN2pFN1JmbmF0RTA1UGtSVXVGX0tqVUtROUstNDJKMlBEZWFwcEw4dTBDWkxLWS1JQnN4RW5JdWJyTi1yOWxqME1vVS0waGdBTzZjSnVV?oc=5",
-      "source": "Investopedia",
-      "score": 81,
-      "tier": "major",
-      "category": "general"
-     },
-     {
-      "id": "e3c3477703e22d07",
-      "ticker": "PLTR",
-      "title": "Palantir Technologies Inc. (PLTR) Stock Forecasts",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWhqYXp6STNPNElVa0NHQTRoUlNCNE1EaXoxMW1fVjZWOVpjT3ZUdGtRQ2xDRWs3NVdYQ2l3cmRxaVgwSXFPNVNGVjdrZTJIZkdmbTkzV3N6cnhtZU1OUjVpTy1TR1N3UTZKdGdHclZjSUpJU1pqNGZqMEsyRENQMm1xU2FvdHlXMHM5bU93?oc=5",
-      "source": "Yahoo Finance",
-      "score": 80,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "1001ca5d33373264",
-      "ticker": "ORCL",
-      "title": "Oracle Corporation (ORCL) Stock Forecasts",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3A2bDNnSEtLOFhZT2ZCNU10QjlqV0NTWXQ4eGc2Z0lxcERZVUZxNHl4ZWFtWGNwaU5DbGxIRVh1eXZvSkFxcjlKSVM5WFE3N0pEOEJkVGphS29NSUJkLTY5Y0xIVVdiNWpONlZwdDJJTjBDSnJQV051ZVAxY0twRUNSVXgtcTRHNWVRRVlZWmU?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "score": 80,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "726b6327a8715d31",
-      "ticker": "PLTR",
-      "title": "Palantir Stock Forecast: PLTR Breakout Eyes $173.89 After 93% Revenue Growth",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRmNDZHJUQUttdjZFVENNd2dYTUhONkxNdFZVV2tkenVWRURtb0dOdkxVbzNLTHdxRFZ6ZWZ5RmE4YzdER3ozMVJwaE9WMFBId3J4SEpPU0psQmN2czJ0ai1jRnhWLVVkMUtldzB4WW45NDQ0Nlo0SGFkNlFRZHJjSDdaSVF3Sy1aUHpybFlHVFlCRnYyUlJkcHBqd0V1WFNCRDVhUENtVTl2QldnaVphTUt3VUVILVBNUFJ3X1FZLVdiTjNtQmtPemlyVC0?oc=5",
-      "source": "TradingKey",
-      "score": 80,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "AI chips": [
-     {
-      "id": "ac78e186addec9db",
-      "ticker": "NVDA",
-      "title": "Trump says US looking 'closely' at report Nvidia CEO target of China spy plot",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNFFMaDhscmpJQlJVYmJOaG0xR09yT3Ryd0w4RUxwNVdoQVNDb2s3OHE2YXdOMWEwTG1NSUhEeWo0QU4zdmdyZzZNQ1VwdDJaUDJEcV9DZ3dXZjR5M2tlck90WG5qV25XcG9yMkpQNFZ4aHVlUHo2UUYzUUQxdUJHcDBzT0FodXBrYm1PcUJTSWxBMG1udHIyQmRzcFNxOFNvQUpvT1hnMTdhMHdTenVPY2ZZVllGS28t?oc=5",
-      "source": "Bangkok Post",
-      "score": 84,
-      "tier": "major",
-      "category": "leadership"
-     },
-     {
-      "id": "9170ff63d25e5094",
-      "ticker": "AMD",
-      "title": "What To Expect In Markets This Week: AAPL, PLTR, AMD, SMCI, SHOP, Earnings, Jobs Report And More",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmZ5cGgyMng4WjBIQ3UzZnFQdXRDOExSaHQ5bEFEOGVGa2l2N3g1WGV0U1VmS0lOcUtmanBQNG9HeFRfYWd6MjJZdC1DUFF1QVNGZEZ6SWdqU1Q3V3otM3RMOXBxenItWTFTMjFvZnRpVDBaRDZ3a0dfUkhKZEdmZjNJSE9QRkx1MFYxMHpNNTNoRzJ3WWd6Qkx3?oc=5",
-      "source": "Yahoo Finance",
-      "score": 81,
-      "tier": "major",
-      "category": "earnings"
-     }
-    ],
-    "Tesla & SpaceX": [
-     {
-      "id": "b71acb7460280115",
-      "ticker": "TSLA",
-      "title": "A SpaceX and Tesla Merger Will Only Be Successful If This One Thing Happens",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS21aQUp4Ni1KUWNoVE10V1czTnhIZEE5ZXhfc2JIQk9paDBtTTdmYThMdTZvUlFBM1l4VDZJN3lwR0lRTTFQeDBxRVdpN0lxTHZvVjhqNVFZb3RFcUMySWI3VWp2VXcxV1ltelZ0TnUtekxidXNCbEVVRm5SWkFFWjFISDBYR3FwWW5qdV9BRnVVUjlGdDFmS2ozLU9GOFlJSUE?oc=5",
-      "source": "Yahoo Finance",
-      "score": 81,
-      "tier": "major",
-      "category": "deals"
-     }
-    ],
-    "Big Tech": [
-     {
-      "id": "d42e9ea77d3022e7",
-      "ticker": "META",
-      "title": "S&P Cuts Meta Credit Rating Outlook to 'Negative' on AI Spending Burden, Warns on Cash Flow",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YYjh0Z1gyM2hidWlEQy1QTTMyYjR5UU9neFJHb0lqSXFjNUhLQ0k5dDlZd1ZUNk1neFN1MndmLTdsUU5ubTVuRmlpZE9WUDRCaHlQcVRUM0F0S1dFVjJkcC0xRkU3Z1c4Nm9ZczdzcnppT2QxOUE?oc=5",
-      "source": "BigGo Finance",
-      "score": 80,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "bf21b33a93745eee",
-      "ticker": "META",
-      "title": "Meta Stock Fell 15% in October, Then S&P Forecasts a $71 Billion Cash Flow Deficit. Here’s Where the Stock Could Go by 2030",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV0NCSzFjRVBDYmdaRnhtNlBqQWlrOU1ZTUt5SU94aUxQQW1JeW9YemJuQ1Vld2ZlSGpKN2xlNlItckM5S1JmSHotMklUZFBCTHZoVTEtZml3UkljT29lSzVQUURmeENob0VDeGQxeHVkYllPMXJSeFNpMFJKcmRuYVg4WUlyY3gwa1ppa3JhQk1CSFlkMUE?oc=5",
-      "source": "Yahoo Finance",
-      "score": 80,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ]
-   },
-   "movers": [
-    {
-     "ticker": "AMD",
-     "change_pct": -10.88,
-     "price": 504.8
-    },
-    {
-     "ticker": "QBTS",
-     "change_pct": -7.87,
-     "price": 10.65
-    },
-    {
-     "ticker": "RGTI",
-     "change_pct": -6.72,
-     "price": 11.25
-    },
-    {
-     "ticker": "ORCL",
-     "change_pct": -6.37,
-     "price": 130.67
-    },
-    {
-     "ticker": "SPCX",
-     "change_pct": -6.37,
-     "price": 134.72
-    },
-    {
-     "ticker": "PLTR",
-     "change_pct": -6.27,
-     "price": 184.11
-    },
-    {
-     "ticker": "TSM",
-     "change_pct": -5.95,
-     "price": 406.13
-    },
-    {
-     "ticker": "OKLO",
-     "change_pct": -5.82,
-     "price": 25.25
-    }
-   ],
-   "filings": [],
-   "counts": {
-    "stories": 884,
-    "major": 144
    }
   }
  ]
