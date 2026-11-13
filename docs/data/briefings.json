@@ -1,6 +1,169 @@
 {
  "briefings": [
   {
+   "id": "2026-11-13-morning",
+   "kind": "morning",
+   "title": "Morning brief",
+   "created": "2026-11-13T13:43:27Z",
+   "since": "2026-11-12T21:30:00Z",
+   "summary": null,
+   "groups": {
+    "Big Tech": [
+     {
+      "id": "2ab8419946577af7",
+      "ticker": "MSFT",
+      "title": "Microsoft struggles to fix huge outage affecting Outlook and Teams",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUZWOUNtNWFCM2JscG9FNzZHc1JVYzVPSmtUd2pUM05DVUNxSEtyTDBtN3IyYVpLRUJXdVhFNkFzcE0yZ1VDdUxLeWFwU2xmTkVjSGRfcUREbWVldTFoX1RibnhjUkFzRmVNcU9HOS1pVnlzOXVtUHo4TlRtMHZIcWQzZ1h4bENjN25Sd3ZOMkFRb3VqSGZBYUNQdTdjd1FYMVE?oc=5",
+      "source": "The Guardian",
+      "score": 90,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "1706314beb237352",
+      "ticker": "MSFT",
+      "title": "Microsoft says still attempting to fix major outage hitting Teams, Outlook",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZnNVQWRsN0NzQ2ZHOXN1Vnd3N0x4Rnk0NngwS0pDaThVRTFWbHdNYTFTOFFwajhleC0zWEZUWm9fdGpZTWotUGdGYll1SUZVZFpGeEFtZDNXTUVxU3JJcFpVLU9yYnkzNDlETkJCYVgtOGJCSFByeUwwUldSVUlRMlJyU0NKN0JUNG1aYmFMY2pQR0ZCT1hybzF5WlNYYmNlZHZPU2lqcG0wMGM1SXhZM3dGODNMdE1uNnBaX1RndkxDU01SdXdOckZB?oc=5",
+      "source": "Investing.com",
+      "score": 87,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "dcfe6dcfdb5a6a49",
+      "ticker": "MSFT",
+      "title": "Is Microsoft Outlook, 365 still down? Here's what Microsoft has said so far",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORFZvRVpnaV9vU2VMS0FSa0N1eWVWMDFBbXhQV3lyQzJvLTdJdUhwMURsYlhOdWoxOWxnVFpGLVYyOHJHdDcwRG9IeXN1ZUk2N3ZEeDRwVkZicUFMdHdZdm10T2ViOEs3TDI4VTZjZnV5eHdNWm9hSWhjcWRaVFkyRl9WR3l1ZzNXbGM5QndyX3B0NjhGcnlvY1VtalMzYkFBYmhZTEl5RFBuZzh0SlNvQVNldmxBUGMweXBKWE5OQ0Y4U3l0ZnZyTHp4N0lYSTQ?oc=5",
+      "source": "WFAA",
+      "score": 84,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "ffcf4e6faa7df004",
+      "ticker": "MSFT",
+      "title": "Microsoft ‘seeing encouraging recovery progress’ in global Outlook, Teams outage",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWTVJSUNFa200d0tYRGRQeFVBcnlOWW9vOWpkbzB5Q3p6ek1fSUtoaDlBZjVXUzRFa3BuSUp2R1R3WWxjaWFqdm5OaDMyOWxOTzBlOFpNeVRxaDY1c09UVHF5R3J5MzI3OUZDV1BkQWJBTWZtM2VVOTBqSkJkQ050VjRUWTRLZVHSAYwBQVVfeXFMT0pVV3U4ZXB4Z0RHZWNDT1JOSExuTTFjZ21IbWdYMURlRDcxZW9VUVJncC02ZkpEQk1QTG9pNWljcks4Y1ppQnlmQm9YazZwdGJmNzhFTHc4ek5tY2FoMUFlT1l3M0w3R3RjYy11NlpTYXJQNFpEeHBuNERrdXc5SVFLQjhVbTJSUmk4ZHg?oc=5",
+      "source": "The Hill",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "f57aac221029130d",
+      "ticker": "MSFT",
+      "title": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY0JFUTJScHhIMVptc2RwLTZLZUoyb2xzZ1hFbDVWMnhUWmpWaDVqUU84UzA0a2JHd1Rkb2t4cG1LdXQtejM0Y29iZDhxZ1FvQ0ZnSXFsMzNBUG92NWVaVmV3ODA2RVBGc2o4RXJxVDA4Y2xFUjVhd0dxTU9KcThfSlp1Z3l4dXI1b1hqTm1oS01mRUdqNFUxeC1sQ3BnaWVrZTdqVG1wY1p4N3A3eHpZNmNLcjVOdmJ2TDdVZm1BUUhDeU0xeENlampwcFZ4Zw?oc=5",
+      "source": "TradingView",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "d8d66c226f80c70e",
+      "ticker": "MSFT",
+      "title": "Global outage hits Microsoft Outlook, no malicious activity seen",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb214TGNILW5uYnhhVkxrQ2s2cXRZNTUxNXFlM0hObnZZOTVrUUJOYkZNRWdGYjY4MXZzZ3FTR1k2bFFxWDdjWERoODl5WVVRNkxGa1dHWWxIZTlNWkdkdThfMDBheVVYcDhmbGRJRklDM3FwaFdBQjZjNFNXdHNOdXBaRjNZS3poaUxqdmZnTWd0T25fbldDZ25NaGFFdHRBUm5SaQ?oc=5",
+      "source": "Arab News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "99c232f5ccc68bde",
+      "ticker": "META",
+      "title": "Mark Zuckerberg and Priscilla Chan buy 440-acre Irish estate for about $57 million, featuring a Gothic ca",
+      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQZGNDTkNYMDliRll1bmVkMXV5UlUxcjBwaTBfbXJ2UV9kODZCTFRheGJUdmpVTGpFNlFuX21GdVVkZHFCWlR1eXlvQ0ctWm92RFotVko5RkxDY2M2VVF1VU55QTBYdXBITDFfUjZNSFFkXy1qak5PcllpQWw3dTBSYWhGU3l1SExpR1Y5M2ZaekJCTy1GblhYMEpvXzBfV0NYa3BOU3MyQjctdXR4YktGUElrUHZqYWZRU2JLUWZ0RjhpbEtTbXlIczdKXzlhenR4NFVDMzBqMkJlVUt1a1Q5WF80YVpYRFdFUHNfbi1IOC1yQWdHalk1RmI5RHd3MXI2UHhpR1lNaElDVkF3aU5IVzJIaXFhX2lNT1RCVVlrM3BUQmQtaUJRMHFrZC1Jb3BSeG1xRDd4aTR3WUVxQS1qcFFwLUtXTTc0TTNXZGluQ1ZIVE85SmZOV082V0poTW5YV3FDMU95SlUxU3RXRWdSaHM0djNTYnFBZlBSOHlYYjJjWXNHWHMtRmp30gGPA0FVX3lxTE13cWY0eFZ5NDRVT3VuclZMakEtdFlkdWpFZjQtZGJTblE0czdkdmZsSDdfMndkTlZhdThIbWp5S2xUaEtFYVY2TDBOR2UycGdsellOWmhTdzFVbEJaRjUtVUhWcjVmbjZuTWVfcTdXN2J4YmQ3dDQ1RDFMMEZOQnZxY0FEc0tPUVNmU0xRcXpXU1lyamtmeVVJT2QzNFVoM2ZNSF9KTmpYZE9GYk1pYWp0SklyU2xKQ3c2SnowcmVWOWVjQmNLLUdic0NkNHFmTzh1N0hsVzdsVWo2dG1nNTI1UnFzVUdlM2dUamF5SDU5S1BRRVpuU2VCUUkyWWRQT2ptVG9nWFlkc2xkbEs3VmI4b0EyOS1id2w3aHgya2NVMDdnRENqS0lZUFdINnoydUYwanJRZ0JhWFFwS1RLaFBPdjBDVlhCWXYwVWI5M3lZX3FwMm1fd083N0RVMnlKSEdDT3JITThHQVJfRk12Q1RZSkRNRzF6cUdxbXNrcXc2OW5oSmNjYjlnekk5SGNIRQ?oc=5",
+      "source": "The Times of India",
+      "score": 81,
+      "tier": "major",
+      "category": "general"
+     },
+     {
+      "id": "206b1d867cfa9342",
+      "ticker": "MSFT",
+      "title": "A negative Outlook: Microsoft scrambles to fix email outage",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb1JtQ3dsN1JhZ1BqbjFabnQxaHdpLWYwNU1ZMEJuZkxVOUtwd0pucDRUUzlkUDBBNmJQbGlyNjhxRVpxUFpVdzByU04zN25QcFFTMThaR0dFT1h3ODZEMzV4aEExaFdTLUZ1RzdVRjFfeGhpQUZWQnM3c3J1V0cwWlUyYkpsb1M0Tl91YUpZMmN6TnVaLUE?oc=5",
+      "source": "NPR",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "da6362ee4010f180",
+      "ticker": "CEG",
+      "title": "Has Constellation Energy (CEG) Fallen Below Fair Value After Raising Earnings Guidance?",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUTZQZ0t6RVI0SFB4cVNycHlCQkhkdmZoc1VHcnRLdUlDRGFMY2dkVDl5dF9oX3pWSE9HMjZEcG5HR0VPNjExQkJFanVfSV94VV9udmVJUzZuMUhUcnZxb0ktVjFtaFY0NElqVUNKVzdmRHFCMlk0NEdOakI3anVQc2JRaGRoM2JiREthbzN3QQ?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "f37745a6ad9b0f35",
+      "ticker": "AMD",
+      "title": "PsiQuantum and AMD Expand Partnership with Equity Investment to Co-Design Utility-Scale Quantum Infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY3prajN1NG9YRWNjems5RU1ySXdIcXhJY0czNElJV2dWYlp4bE1CQ0hDVVBzQmZBT2d5eWo5TVB2WmRMZG1uTGtMRm9LQmtiTHlYYlFEQl9HUjE2eVVDbmV6bjR3ek9HTDd2bDVMeUFzTnZyeFF0dGdhankzQjMxc1JBdERLQko3WEwtbjE4MnRrYlpkczdIZHoycGRmWldSSDZaeUpJcGdwWk5fblA4LWxpdS0wblRqX21IR1F2Ynd1cG4wN2tPZzB3QUZKbkh3cDczZjNtV0Z1M09SZkpv0gHkAUFVX3lxTE9BYWtSdHk0UXRwOUx6YUdWd29GMmtLSlFRV3VVUklJcUY1NjFYV21YRzJLeC12bnFReXRjb0x6aWNCbTV6N0k0SVAyZVlSaWFLdHdQRzh3VDNQWFFiQlBiMEoxX0hnaG1jZmJrSktrYVZfd0xZYTBMa2dKMEk5NmFEbDlZTXhlT2tDYlZqakFTZHdpRnJERFAySC15MTdlekxPeG5jdFJoeDRFME9jUk1uZUhPZ1BwcDdaY2hRN29VUXJjdDBmdk5hN2V3UlVmVGh3MTdHR0tqc0twc3dMdW52VGd1Vw?oc=5",
+      "source": "Quantum Computing Report",
+      "score": 81,
+      "tier": "major",
+      "category": "deals"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "IONQ",
+     "change_pct": -9.4,
+     "price": 30.86
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": -7.61,
+     "price": 9.84
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": -7.02,
+     "price": 10.33
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": 5.86,
+     "price": 585.3
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": 5.54,
+     "price": 364.36
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": -5.45,
+     "price": 24.45
+    },
+    {
+     "ticker": "NVDA",
+     "change_pct": -4.34,
+     "price": 166.19
+    },
+    {
+     "ticker": "CEG",
+     "change_pct": 2.79,
+     "price": 282.4
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 894,
+    "major": 163
+   }
+  },
+  {
    "id": "2026-11-12-close",
    "kind": "close",
    "title": "Closing brief",
