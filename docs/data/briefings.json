@@ -1,6 +1,171 @@
 {
  "briefings": [
   {
+   "id": "2026-11-13-midday",
+   "kind": "midday",
+   "title": "Midday brief",
+   "created": "2026-11-13T17:24:25Z",
+   "since": "2026-11-13T13:30:00Z",
+   "summary": null,
+   "groups": {
+    "Big Tech": [
+     {
+      "id": "429ae0a278942ed0",
+      "ticker": "MSFT",
+      "title": "Outlook still down? Latest on the worldwide Microsoft outage",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3h3TzFJazZPbHV6aTZmYTdFUU1RdjNkaENPb3ZHMlY4SEpET2JLb0VGLUxkRVAwM1NXcnVjbzJvUVE4aVY2b0VsR2p6Wm1DaXRTU05JQWlZZTlMWjZoU0NTVnZQcUlLQzJ5dm5jbm1Fa0xLdWFaZXQyMTFmWEh2bHhmTVZsdzgxWFNBU20yY3NNUEtpaEE?oc=5",
+      "source": "WTOC",
+      "score": 87,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "dcfe6dcfdb5a6a49",
+      "ticker": "MSFT",
+      "title": "Is Microsoft Outlook, 365 still down? Here's what Microsoft has said so far",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORFZvRVpnaV9vU2VMS0FSa0N1eWVWMDFBbXhQV3lyQzJvLTdJdUhwMURsYlhOdWoxOWxnVFpGLVYyOHJHdDcwRG9IeXN1ZUk2N3ZEeDRwVkZicUFMdHdZdm10T2ViOEs3TDI4VTZjZnV5eHdNWm9hSWhjcWRaVFkyRl9WR3l1ZzNXbGM5QndyX3B0NjhGcnlvY1VtalMzYkFBYmhZTEl5RFBuZzh0SlNvQVNldmxBUGMweXBKWE5OQ0Y4U3l0ZnZyTHp4N0lYSTQ?oc=5",
+      "source": "WFAA",
+      "score": 84,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "0ef6c7de348b2639",
+      "ticker": "MSFT",
+      "title": "Microsoft Could Owe Your Company Up to 100% Back for the Outlook Outage, but There's a Dec. 31 Deadline",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa2duQUtVZHh5dDFWcVRzM25vdGFFNVFab213Uk4wM2lQc0dLckowQ1F4VjVlMXVnY0RQQ2JXODg5TFh1UTBna3NKM2MtaHlhMzlUM0JlWXpXcHVuY052SjlGTms5ZExSUXNWS3pRYnBqcXd1WUUtWWtNbndMTlBPT2pURXFfam1BUjJNRVBJdGZwREdZZDZQd2QtRjZiVEs3NkxWSFFDTjZXdnQtdWRrbEpDTUE1TFh0S3ZVeGdlN1Z0em9ld3M4bW14dWo?oc=5",
+      "source": "Men's Journal",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "e5c6b1b7885f8c39",
+      "ticker": "MSFT",
+      "title": "Microsoft Services Are Returning After An Outage Took Down Outlook, Teams And More",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHBsc2FrX2NkWEZoOUM3QTRNNVEzQXZMZTFrUlQ4Rm5IWEIxSU1Qa2Z4VW9ndmVBc2RuSTk2RC1MUDBuUzhlQVJfWVMzYjUtdDdHNXlocW1GTmNIal95U0VXYXN0U3hWLUIwNWFSRU1Nci1aYTNBc1VmV2NDU3V2QTdZSzROVUFLVk5RTHJfbjBmNkIyREVmZ1c5cmpSaVhaeVVYd0l0U09BQk10ZVpSbnF2OHNrdw?oc=5",
+      "source": "Engadget",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "23dd2dcb0be6dba6",
+      "ticker": "MSFT",
+      "title": "Microsoft Outlook Slowing Recovering but Effects Continue Impacting Customers",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQlF2NUFwM18zLTRhQ2NyUG80ZzNoNEJXd3p5c3g0SDBOOUV1M2tmTWxueExMRlJRaFRodUVNXy0yUzRHTkdmYnBGeThJazkwMEQ1ckJ5QnlCQmRCN0JRYnpyYWRGdFNoMUZHWkdJZHctWTYyeGZhdWZmaWFNM0ZQdzB4c3psRUZfcW4tdmJiV2ZyWk1UdTduX3E5ZllUbFdKd3BOMkpMZUpaXzlZR0wwcHdaV0VaVWFCb2Jr?oc=5",
+      "source": "MyNewsLA.com",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "d9cb7e78683601fc",
+      "ticker": "NVDA",
+      "title": "Nvidia scandal: What’s next for the US tech company?",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMW1FaTlaLXMwLUFWN2lxU202ZW9veTlQd1dCbF9KYlBnMWlTT0Y3Zi1BaFowMU9YT1h0M2JGd0xxM1l3dm9rS2otT1hpa0pwR0xjY1AxMTBld1pXcmFsMTl6UFJVV0VtYWk4bmNva3E1dlVLcVhlOWVlUy1aR3lKVUwwZm1LS0h3aEtEc1dHX3RxRERzaHfSAZsBQVVfeXFMTUdEVDRnMzVUQi1YdWl5V0MxcHVlM2pldTZrVTA2X2xzX2hhNEpaVnVlWlE0M29fSHU2Wm1EMjVBZ01LdlhJaThHV0JPcTVldEd5UFg2c1AtdlhIVVBCNF9ZVEpqaEhsOFc0cE80c216Yk9UWFVmbDFCV3ZiRURGUnFvOC10T21iZFhMS2dvc3BDVFE0Vl9fRGsxb2M?oc=5",
+      "source": "Al Jazeera",
+      "score": 81,
+      "tier": "major",
+      "category": "general"
+     },
+     {
+      "id": "ac79585f5baff4f6",
+      "ticker": "AMD",
+      "title": "AMD Stock Price Forecast: BofA Sees Agentic AI Driving Server CPU Growth, Shares Could Reach $600",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY1g1ZTBwM0lqbG1BX252bkZMeURYRGhTMEJjSFV0aXA3c0g0YXEzNEpKZkZxczhzUzFobkdCYW9VNlAwRUYzM0Y0V3RRTEZzVzRqeHI2RkJDWjhJV3BWd1ZvOVhyUEdzVUlVbmRYVDdCMDlDT3lrMUNhYWQ3YWFlR0VIZ1lFblJxcFJuTHRsN0RqS2I4VERzRHpIems1a1g0eXZwcWV5RUtiZkY3b0piT2EzUVRueGs4c1RVQkV3ajRBdng4VmI2Q3QtRWhOSTVoN1ltSHdkZGhGOU0?oc=5",
+      "source": "TradingKey",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "da6362ee4010f180",
+      "ticker": "CEG",
+      "title": "Has Constellation Energy (CEG) Fallen Below Fair Value After Raising Earnings Guidance?",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUTZQZ0t6RVI0SFB4cVNycHlCQkhkdmZoc1VHcnRLdUlDRGFMY2dkVDl5dF9oX3pWSE9HMjZEcG5HR0VPNjExQkJFanVfSV94VV9udmVJUzZuMUhUcnZxb0ktVjFtaFY0NElqVUNKVzdmRHFCMlk0NEdOakI3anVQc2JRaGRoM2JiREthbzN3QQ?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "107f370d4dc2e5ba",
+      "ticker": "TSLA",
+      "title": "Investors Just Got Big News on a SpaceX-Tesla Merger",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3RrX1FWSGhfdWUxRm5zNmFFZ093dHBoS0lCcWFxOXJ6VUlwclFTN3ZOMU43eGNSVWxJbWdISzB4WGREN2dhOXp1dWxvOURtNDhQZVV1dnEybHVaV3hjdjd5M1haUnZXblU5VDZvcm5vVTMzeGNIckxZLUF2aWtzeUpSX3g3ZFh2SUxhZXp2UlppUHltTVJ3dG1sMkNXWVgzZ3lkZjZLZm1IWUlVUjk5N2F3?oc=5",
+      "source": "TradingView",
+      "score": 78,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "4cd2aba8edd8dbbe",
+      "ticker": "SPCX",
+      "title": "Investors Just Got Big News on a SpaceX-Tesla Merger",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3RrX1FWSGhfdWUxRm5zNmFFZ093dHBoS0lCcWFxOXJ6VUlwclFTN3ZOMU43eGNSVWxJbWdISzB4WGREN2dhOXp1dWxvOURtNDhQZVV1dnEybHVaV3hjdjd5M1haUnZXblU5VDZvcm5vVTMzeGNIckxZLUF2aWtzeUpSX3g3ZFh2SUxhZXp2UlppUHltTVJ3dG1sMkNXWVgzZ3lkZjZLZm1IWUlVUjk5N2F3?oc=5",
+      "source": "TradingView",
+      "score": 78,
+      "tier": "major",
+      "category": "deals"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "AMD",
+     "change_pct": -10.66,
+     "price": 522.89
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": -7.21,
+     "price": 9.59
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": -6.9,
+     "price": 28.73
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": -5.48,
+     "price": 344.39
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": -4.83,
+     "price": 9.37
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": -4.52,
+     "price": 23.34
+    },
+    {
+     "ticker": "NVDA",
+     "change_pct": -3.24,
+     "price": 160.8
+    },
+    {
+     "ticker": "GEV",
+     "change_pct": -3.22,
+     "price": 792.1
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 880,
+    "major": 160
+   }
+  },
+  {
    "id": "2026-11-13-morning",
    "kind": "morning",
    "title": "Morning brief",
