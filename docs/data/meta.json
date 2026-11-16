@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T20:35:35Z",
- "session": "open",
+ "updated": "2026-11-16T21:13:17Z",
+ "session": "after",
  "repo": "Kamalhaddad1987/news-bot",
  "groups": {
   "big_tech": "Big Tech",
@@ -124,11 +124,12 @@
  },
  "health": {
   "errors": [
-   "SEC ticker list: GET failed https://www.sec.gov/files/company_tickers.json: Invalid header value b'Kamal Haddad\\nKamalhaddad86@hotmail.com'"
+   "SEC ticker list: GET failed https://www.sec.gov/files/company_tickers.json: Invalid header value b'Kamal Haddad\\nKamalhaddad86@hotmail.com'",
+   "RGTI news: GET failed https://news.google.com/rss/search?q=%28%22Rigetti%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error 42"
   ],
   "counts": {
-   "fetched": 1559,
-   "new_stories": 92,
+   "fetched": 1538,
+   "new_stories": 77,
    "alerts_sent": 6
   }
  },
