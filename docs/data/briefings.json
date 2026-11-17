@@ -1,6 +1,169 @@
 {
  "briefings": [
   {
+   "id": "2026-11-17-midday",
+   "kind": "midday",
+   "title": "Midday brief",
+   "created": "2026-11-17T17:32:13Z",
+   "since": "2026-11-17T13:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI chips": [
+     {
+      "id": "91b5581b57c89ae6",
+      "ticker": "NVDA",
+      "title": "Jensen Huang signals openness to return as Nvidia CEO (NVDA:NASDAQ)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZE5NeGhULUc1UXpnOWprMVRmYkdacVBNcmF5VE9KNWQ1aXJYaEtfNmVjX2lIVlNNSHNoUlAxVnZaMnVGaEVJci02V0x3Nm9vdTVqNUhqZm1zMlgzRV8xMVByc3RzV0tsam9LZktXeS1GTXBTZURaUHM0SlFXVVRUVll3dEM3VXEtODNDUlNIWlRWZ0hp?oc=5",
+      "source": "Seeking Alpha",
+      "score": 87,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "6a3853cf3c355f7a",
+      "ticker": "NVDA",
+      "title": "Ex-Nvidia CEO Jensen Huang acknowledges ‘serious mistakes’ and signals interest in returning if company board chooses",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wZE5menJPMzZIRnZOYzJETnlqRjdvc2VDemJmY0FVUkphZDUycjJ6bVJWcW5WTWdZbFB0bEVyR0tBQ1RKWFM1bk1nWTgtcWVucXhWbHFPSFQyeVlaMVdFZUZKNGh6MXhMTkE?oc=5",
+      "source": "WSVN",
+      "score": 84,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "daccadda617c9410",
+      "ticker": "NVDA",
+      "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00X1l4ajFNU1dZYW1jQ2hLNFpqTnZDVlRKTUIwMDhLcTUxaHlOMW1ocmVmak9lMGVfVS1BODhITXZkR2YzYy1wOUM0eHp5OVY3TDBKRTdhZHpYWFFGTWhXNjBSX3RFOVpBMlkxVEE4VWVneHNV0gF6QVVfeXFMT3ltYllINzFFS0NrMm1xdTVYS2pRU0ZpWnNaS2UzREhaZW15aEh5dm5HOU13a0l4TWlDOEZaU0Q1ZFJ0VXZVSzFNb1JJWl9EMXkwQjJMMWdsbnV4U0RCU3ZBWmNkT0x4RmZyT21nU3ZDMlU0NzU4S0V4ckE?oc=5",
+      "source": "CNBC",
+      "score": 84,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "74240c0caff30b6b",
+      "ticker": "NVDA",
+      "title": "Former Nvidia CEO Jensen Huang to appear before US House panels Dec. 1",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOHR3ODM4MG1kSzlHY1RGSi02Ym9yeFdxalBIZVhlQThiU3ZJUVB6ZVAxZUhnTEhfZkhQOTR5akxkb0RVSWtuTjVkX0xuRmRMNXZzNElLZTFSeDk2TVNlNGNNeUFTYkJ0Rm5oQXVFa0I5UnAwUmxzdXJRVmNxNFk1WXRmRXNzY1NkNmh1UGhmRlFrVDdtSmM0RFpiZ2wxeVdzRHNrYUdwd2xPblk?oc=5",
+      "source": "Anadolu Ajansı",
+      "score": 84,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "fb69098e2441a006",
+      "ticker": "NVDA",
+      "title": "Ousted Nvidia CEO agrees to testify before Congress over national security",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5",
+      "source": "AP News",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "f23aed7101d3b857",
+      "ticker": "PLTR",
+      "title": "Palantir Raised Guidance 3 Times This Year. 1 Number Explains Why the Stock Fell.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdUhNeWhNN2paQ0pCOWRqb09HNWpWNEU0eFlFd1RoLVk0MkVlbHpUNzFCcW53THRYT0dORnFWeVI4SDJubXVIYlNJRVJRcWxGVHNjVFlFalJJZmFVbXVQakYtZ2JxMkZwamNnSVZLV0NOT3JBRVIySW1vZ05mN2tLRDJ3UU9Ec0hUSy1xMVhyVU9MN0FQMTVNaldmWGpwUXdoZldlbVh0OEFDY0V1UXNDYmJvY3hIdGtWcGpEZVNB?oc=5",
+      "source": "The Motley Fool",
+      "score": 84,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "bba2e92da8f35eca",
+      "ticker": "NOW",
+      "title": "ServiceNow Sees AI Usage Surge as It Raises Annual Contract Value Target to $1.7 Billion",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLW9iamtUdHdtVUtoQmF0cUk1RzJROHRfY1hycWxQZzU3TnZ0WmV0T3dmeHNpQ2o1bm5lSEt1VW0xRXJlZ1FJVXp3Y0R0OHpRc0Fld1ZWME41dnZucERFVkExWUdXOG9HNmJKUDFfblFOdG8xdV9BcFlZVzNUZU9vcUtZb0pZMTZscWZlUmRWTnhGY2FScVlWR1dB?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "ba5cf17c727fa879",
+      "ticker": "PLTR",
+      "title": "Palantir Is Down 10% in 2026 Despite 3 Guidance Raises: Time to Sell, or Load Up?",
+      "url": "https://www.tikr.com/blog/palantir-is-down-10-in-2026-despite-3-guidance-raises-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261117-vm456628&.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "45fe752f1fc0084f",
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation (MSFT) Rose on Strong Fiscal Year-End Results and Robust Outlook",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUctNExwQ2VPbVZTWGdBdjZWTnNhU1hjZUxQZWdUSzhhVWRKRUt2ZHZORkZ3V3dxc3RCbE83Ny1JX2o4NkxhZ2RxblFuTFdNUjJJaWZhT3VfQWxkZFN2RlVXclZlVU1Ua3FJbERLbHRkc1pFbjRpNlNZUHlKS2xYR1BNVDI3bWtUOXd3RmV6RjBwUWptb1ZiaVJsTkVyVGN4TENHR0pn?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "6f4e71afcea7c7d5",
+      "ticker": "MSFT",
+      "title": "Inside Microsoft’s giant Outlook outage",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lNmJPNzh3SlFOeFc5dVJpU3pxVG5JRWRoRS1hek9IR01XMXd2ZmtrRjRPdGRFUUY0ZXNES05aa3ZOUlhna2ExRDVEd3kzbTJMeHpzUWk5cUtlUmdwTF92Rlhjdkt1NFNvZnMxTHc1Y1owdXF4OFE4aDhB?oc=5",
+      "source": "The Verge",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "RGTI",
+     "change_pct": -7.01,
+     "price": 8.43
+    },
+    {
+     "ticker": "NOW",
+     "change_pct": -6.48,
+     "price": 92.93
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": -6.34,
+     "price": 8.12
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": -6.16,
+     "price": 24.82
+    },
+    {
+     "ticker": "ORCL",
+     "change_pct": -4.1,
+     "price": 114.21
+    },
+    {
+     "ticker": "TSM",
+     "change_pct": -3.64,
+     "price": 359.87
+    },
+    {
+     "ticker": "MSFT",
+     "change_pct": -2.96,
+     "price": 502.68
+    },
+    {
+     "ticker": "PLTR",
+     "change_pct": -2.91,
+     "price": 155.72
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 812,
+    "major": 173
+   }
+  },
+  {
    "id": "2026-11-17-morning",
    "kind": "morning",
    "title": "Morning brief",
@@ -4799,167 +4962,6 @@
    "counts": {
     "stories": 887,
     "major": 179
-   }
-  },
-  {
-   "id": "2026-11-02-close",
-   "kind": "close",
-   "title": "Closing brief",
-   "created": "2026-11-02T22:03:15Z",
-   "since": "2026-11-02T17:30:00Z",
-   "summary": null,
-   "groups": {
-    "Big Tech": [
-     {
-      "id": "7497de8e220a2f6c",
-      "ticker": "META",
-      "title": "'The Hunger Games: Sunrise on the Reaping' to Screen in 3D Through Lionsgate, Meta Partnership",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSlJObWozNUtyZ2hKaVAzdi1WbjFpS3dCODlSMklVaU5LS2h1Y1ZWdC1SMDM3NVJBWGQtaTJFQW1jQ3pVVDdab1dFY0pJd1FhZ2Q3WTFFOUxKVEtFZnhIMGt1bTVPMGdueXhFMER6dGVvVkNkcmo3bGN4dmRYaWN5M3JkaHc5OVdCNjg4a1Z5YVliQnk5R3FfUEFlVThtRVhRM3ZBZg?oc=5",
-      "source": "TheWrap",
-      "score": 87,
-      "tier": "major",
-      "category": "deals"
-     },
-     {
-      "id": "938f4d9873fc5355",
-      "ticker": "META",
-      "title": "Meta Targets at Least $20 Billion From Potential Cross-Border Bond Offering, Bloomberg Reports",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM3dYU1RxSUx3RnBCejF3M1ZKMU9JV19FQmwyRW55YVkzTnJyeEVBdzJQdjVvSjM5TlEweFpyTHJMaGZEN3o0VnRrU3NvZmxvTmE4SUtGQmFET09DTWhzU1J0eFplV2p1MHJYS0Y4dDY3WThDQno4UUFOcUQ5V2dUNWltbENJcmZWXzI4Q1AxMWtyVl9JbnhiWHg1Q1R4cWpRV3BIZ1hwdGpMOUNNVUxaRUstMXBwYnRFbVZfWDdUVUVHcHR6TXNSMjZZMlk5VDc5TThvcGlpd2ZVQVZrLVE?oc=5",
-      "source": "www.marketscreener.com",
-      "score": 82,
-      "tier": "major",
-      "category": "capital"
-     }
-    ],
-    "AI software & cloud": [
-     {
-      "id": "e76ed9a075ea9176",
-      "ticker": "PLTR",
-      "title": "Palantir raises full-year revenue outlook as US commercial sales top US government revenue for the first time",
-      "url": "https://finance.yahoo.com/markets/stocks/article/palantir-raises-full-year-revenue-outlook-as-us-commercial-sales-top-us-government-revenue-for-the-first-time-211408839.html?.tsrc=rss",
-      "source": "News",
-      "score": 84,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "4caba6a12dbdb893",
-      "ticker": "PLTR",
-      "title": "Palantir Reports Q3 2026 U.S. Comm Revenue Growth of 148% Y/Y and Revenue Growth of 96% Y/Y; Raises FY 2026 Revenue Guidance to 91% Y/Y Growth and U.S. Comm Revenue Guidance to 143% Y/Y, Crushing Consensus Expectations",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-reports-q3-2026-u-210500819.html?.tsrc=rss",
-      "source": "News",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "1346acaf9f26989e",
-      "ticker": "PLTR",
-      "title": "GUIDANCE: (PLTR) Palantir Expects Q4 Revenue Range $2.649B-$2.653B, Vs. FactSet Est of $2.46B",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3o5ZlV5VVR3YWthV043ekNleGZQdzVJcWpkTHAybnp2dEh2UHc3ZVdqUjUtN3JJSDZ6WUtDOWFjdDhlUWRqUl9Ga2dkSmZnYjZ1bW9BdXdOQmpBX1BjclB0ekwxRWdaWnFhajdUdFFhaEVIVVBOM2w5RWtiUWZJVFhDRHloaHJZSVRIYWM1TGg2ZWNaR0dUejdoYWFCbjZFaEE?oc=5",
-      "source": "Moomoo",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "debbcc4b1592f65d",
-      "ticker": "PLTR",
-      "title": "Palantir Lifts Outlook as U.S. Commercial Business Overtakes Government Business",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOEpWOXlxcGpIbUFqZy1OMXZJSU9fUldSdm10eHU2eFZKaGNPOUZIZ0dfckNSZU56UUtqVlFVc1NIeHgtbERKY2YtOFdnMFNsVDE2N3MybFZma2w4UHVZZS1KNEhrX1lpa2xLNndLS0lHQ1YweWhKNzBtWlZqNVdGZEw1R0JwRjFSWTVYSXFyWjF5d3JOMXQ4WDBnSkFhM0hKX2hlRHdLbmw4enpSZUZjS09rMHh3X3A3Z1VmOFBYU2ZuTGUx?oc=5",
-      "source": "WSJ",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "eb646e06d404419f",
-      "ticker": "PLTR",
-      "title": "Palantir raises 2026 revenue outlook after quarterly revenue nearly doubles on AI",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSGtfbEFxVTA5TGNnYkcyUDBuQllYT09WYktSZ1J2TlFKSWpYbGdNRXBkLWZBTURxOC1xZzhxVjhGemNLYlAwU3loVzF3YTB6OGU5TnFnajJFdVhkYnVQUFBKRURGc3lOVFZWNWhyeWpCQlA5SDVVb1pZS3JTV3ZsamtTcVVwNVhLcTV5Mi10WU9IVGlOLWdockdtU2p1UFpBQVVXTGhKeC0xcFlvU2pKNkJBbE5LdElFdEJDSnlidno1eHEtNFlDaw?oc=5",
-      "source": "Investing.com",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "cbbde0328caf3d8b",
-      "ticker": "PLTR",
-      "title": "Palantir raises full-year outlook after third-quarter revenue jumps 96%",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdHhrYlZYeklrZWt6RTBrSk1MZnphcmxuOEw5OFlFZDZaUmpORFBYZkhjVnYyR0llRDNoSDBWYUpTUXR5cml0bm5FSlZxNnJiSFA1VFFMWGpvMDlWNTRvb2JKUnB3OTlMbklnMUY5SGFrOXFOYzJDM3FqU1h4dXU4d0lfbmlPeXJlRkJwZ2UzUFVfMjViZThnS0JKM2J4YjBaTFpqanNtV2g4TmlmdThBRnR6M2lXUTlUeE1xeGdrYXZLSkVqc3ZWN2EtdjdlWDNFVnoxZ1VWR0M?oc=5",
-      "source": "Proactive financial news",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "c74c6565acefb0fa",
-      "ticker": "PLTR",
-      "title": "Palantir Grows Revenue 96% as New Deals Slow: Rapid Earnings Reaction",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2s4dDY0aGs3NVhCQ2s4RmhTeDVaekl3LUg5Zlg3SnBYMWtDdDdTMGRLVFdyZERNMVlmVW1RdmdaZEtCRkp2eHhsTlEyYVVrd1pzVTBUYm1ZRVhBYnlEZ0ZIU082TEhDS1lkYTJfS2xKV1NwLXo4MEtYSzNSWDlDdkloU1BwN0xwdUlIdWlUcTZ3MUcyNGw5RmpkVDJ4ZXNlMElhMjBuVENfOVY0M0Rz?oc=5",
-      "source": "The Motley Fool",
-      "score": 81,
-      "tier": "major",
-      "category": "earnings"
-     },
-     {
-      "id": "67029962320deb97",
-      "ticker": "PLTR",
-      "title": "Palantir Technologies (NASDAQ:PLTR) reports bullish Q3 2026, full-year sales guidance is optimistic",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWElMaEhSN29hN3dBejNMeFJqTFVMTFZ2T01tWllrQ2QwSjZGVUd2akEwSWhmRU5KeWZ6ZThMM1ZiSndOSXNKNVJDVi1qVTlxdlhsbFl4XzFobWg0TlduZkYwZU50aFBqSjB0bXR2N2I3VEVHcktFdGVwUTlncTBoV1dmdE43N3RoMl9LaTZ0U2hYaVJUc2stV09rXzU3TkEtYl9ES25zZkxUMFJ3andXYVEzS2ZSaWFhWkV2b3B3VlhpREllMjRBRG5jWGFyR0NWakJiM1VXRkx4TGlxbDdhLW02dHdpdE9Za0d0YVhKd3p4enFPV0RCLUpjVV8tZ2RyRDhiN09oaEw?oc=5",
-      "source": "The Chronicle-Journal",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ]
-   },
-   "movers": [
-    {
-     "ticker": "ORCL",
-     "change_pct": -8.76,
-     "price": 119.22
-    },
-    {
-     "ticker": "AMD",
-     "change_pct": -7.52,
-     "price": 466.84
-    },
-    {
-     "ticker": "OKLO",
-     "change_pct": -6.85,
-     "price": 23.52
-    },
-    {
-     "ticker": "IONQ",
-     "change_pct": -6.23,
-     "price": 28.17
-    },
-    {
-     "ticker": "QBTS",
-     "change_pct": -5.26,
-     "price": 10.09
-    },
-    {
-     "ticker": "RGTI",
-     "change_pct": -5.16,
-     "price": 10.67
-    },
-    {
-     "ticker": "PLTR",
-     "change_pct": -3.13,
-     "price": 178.34
-    },
-    {
-     "ticker": "MSFT",
-     "change_pct": -2.83,
-     "price": 507.12
-    }
-   ],
-   "filings": [],
-   "counts": {
-    "stories": 580,
-    "major": 137
    }
   }
  ]
