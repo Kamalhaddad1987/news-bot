@@ -1,6 +1,173 @@
 {
  "briefings": [
   {
+   "id": "2026-11-17-morning",
+   "kind": "morning",
+   "title": "Morning brief",
+   "created": "2026-11-17T13:44:51Z",
+   "since": "2026-11-16T21:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI software & cloud": [
+     {
+      "id": "f23aed7101d3b857",
+      "ticker": "PLTR",
+      "title": "Palantir Raised Guidance 3 Times This Year. 1 Number Explains Why the Stock Fell.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdUhNeWhNN2paQ0pCOWRqb09HNWpWNEU0eFlFd1RoLVk0MkVlbHpUNzFCcW53THRYT0dORnFWeVI4SDJubXVIYlNJRVJRcWxGVHNjVFlFalJJZmFVbXVQakYtZ2JxMkZwamNnSVZLV0NOT3JBRVIySW1vZ05mN2tLRDJ3UU9Ec0hUSy1xMVhyVU9MN0FQMTVNaldmWGpwUXdoZldlbVh0OEFDY0V1UXNDYmJvY3hIdGtWcGpEZVNB?oc=5",
+      "source": "The Motley Fool",
+      "score": 84,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "ba5cf17c727fa879",
+      "ticker": "PLTR",
+      "title": "Palantir Is Down 10% in 2026 Despite 3 Guidance Raises: Time to Sell, or Load Up?",
+      "url": "https://www.tikr.com/blog/palantir-is-down-10-in-2026-despite-3-guidance-raises-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261117-vm456628&.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "cb6b8cd875df8055",
+      "ticker": "ANT",
+      "title": "Nvidia earnings, Anthropic IPO put AI trade to the test",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14VklWemM5WkFMc0NybmdVekdtVTRIblpKNkNTLUFtTU9rNi1nQ21wWlctV1hiSW9DdDhLRU5mY1RGOExTeG9WYklFckUxdzA2V25vUUhRazdVajQ?oc=5",
+      "source": "Fox Business",
+      "score": 81,
+      "tier": "major",
+      "category": "earnings"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "ff06b3a8157916ac",
+      "ticker": "NVDA",
+      "title": "Nvidia forms board committee to oversee national security, export controls",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTFHVE42V3FIZzBXbWhKLVR3bWRrZ3dRWGpCRm45dlktYkpveDBveW1IRFc1aDltUERHLURBUFdSUW5KMVVaZ2w2NGRuQVhmZmtyb2ZpUGZuZncyVXR3cFYxX2FUcmFyQVRBSHVnbWFsVFFTQ1lPS0lTdmZUMDktbTBUbndQdzhxc2JnWVctSF96QXdVb2JUeUpqYURha25FMEZhU3VqbWFTZDA0Q3lqanRUaGdMQ2M?oc=5",
+      "source": "Reuters",
+      "score": 82,
+      "tier": "major",
+      "category": "regulatory"
+     },
+     {
+      "id": "94e80a393a2416ff",
+      "ticker": "NVDA",
+      "title": "Nvidia Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNkZtLTBmbWZlWWROT05ZbHdEZFZ4QmRUdm1LQmRwcG85UWdwZ3NmX0VjRlJOTHByTklNalprNnBydWdxRVpBQ0RMS0Q3cXp1ZVM4TUxUaFpIWXA3Um1ibG93MDhjRXBUcVZDQmFHR3ZkRjVtRHRsc0tYeXgxczhUeEJBZktacW52N2tCZ2Z4dXZqSzg1QzFwNFg2cU9DNjBaNk9xazZaTlFrZVBlSF85U1FyYkF4eGUta2RqaE9jTmlnQ2FYd1RNZUU1WXd4dDMtSTJWV083cllQM0E4R092dXNILUgwb1RXRXBVUEJfSEZLeGUzRVRyblNrUWhwWER3UC1jag?oc=5",
+      "source": "Benzinga",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "92b1cc041be94eba",
+      "ticker": "NVDA",
+      "title": "Nvidia’s first post-Huang earnings loom large. Here’s what it could mean for AI.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2toNkdad3hPdVQ4cWZmZjhZUGt0dHpmakljdndjeXhvRm9XZW1ja1RUZnM3TThtRHRzczY3ekpIeElRVjZDWV9TWThKVmJZSVhMVzF5ekFDaFhTRzItM3Fnc1BXbXhvZmJuZDlKWnY1WmN4ek53WDJOeUtJbjlHY2JtRC1ZTmt2cV8xX2c4R1hScG5fNGFzd09YVVZMU2JGMXlxR2Z1eDFCTmRfVkxPUVR4WDBjOGtoN1pDaDNxTWdXU0FYRklJZE1rZjI?oc=5",
+      "source": "Investing.com",
+      "score": 78,
+      "tier": "major",
+      "category": "earnings"
+     },
+     {
+      "id": "f0bdc8d5a7fa84df",
+      "ticker": "NVDA",
+      "title": "Nvidia establishes committee to oversee national security after abrupt departure of CEO Jensen Huang",
+      "url": "https://finance.yahoo.com/technology/articles/nvidia-establishes-committee-oversee-national-115834618.html?.tsrc=rss",
+      "source": "News",
+      "score": 78,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "6138144d7b43ab28",
+      "ticker": "TSLA",
+      "title": "Tesla stock tests 50-day SMA as Cybercab expansion supports long-term outlook",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaTJlckJsT25GVTdOTGVDeHptV3l2allVa2ZtMUdsb3N1Q09kZVAwQjFmQThXdUUyRlBUcTRMUzFydm5uSFVDdXdidm5XdkVwWXhMYXNtb1l1bl9KdTNNeFUxY1pQY0xnQ3kwblplU0haV2JVUFNFTlRkTm1NS3p2OUFhdkdVSkctcEE?oc=5",
+      "source": "Traders Union",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "0d077a4fa174bad5",
+      "ticker": "GEV",
+      "title": "Aegis Congratulates SEETEL on GE Vernova and SK On Partnership, and Receives First Payment on 14 Unit GGV Energy Order",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQblAyMnBySk9iU3R5bk5ramt0cTJRNWZBbkxpeTlVdUNic3NYWkVra3R1RVh4cUpjekRlb0k4ZEVGMTNmVEc5R2NTeWZUWEJYMFFDcWZ2a2ZKUVY2Vmx6QWZFa0Z4LVVYa1ZteFFYRC1pU0xvSjRhOFdVZUVjaHBLTFFxU1J4eWlCUWtaNDI5WDFTTkE0dVVQeTNB?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "deals"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "185e0b1041a64b24",
+      "ticker": "MSFT",
+      "title": "Bernstein Maintains Microsoft(MSFT.US) With Buy Rating, Raises Target Price to $722",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzZHSjhXallicmUwZVJ4TW41T2ZBTmZhMnlKVTlRb2txd3JTVVJOS2FqOFU2dDVSRWhqMzQtOFVuVkJvWFM1MFR1NTBFcE91WmVIVkoweXpBRXNsMlBTMFVhZzB3c1VzRkozZU5wR1hoV1NCOFdzaWREYVVzNDhYZi1GODdTY1gxME4xWGN2SWFlUUdkX25ncXVETnRFWUJzVDU5RlJQRktiSmF1OXcydjRQT3lkMTQ?oc=5",
+      "source": "Moomoo",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "QBTS",
+     "change_pct": -9.31,
+     "price": 8.67
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": -8.41,
+     "price": 26.45
+    },
+    {
+     "ticker": "TSM",
+     "change_pct": -6.34,
+     "price": 373.45
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": -5.82,
+     "price": 9.06
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": -5.58,
+     "price": 504.28
+    },
+    {
+     "ticker": "ORCL",
+     "change_pct": -4.99,
+     "price": 119.09
+    },
+    {
+     "ticker": "GEV",
+     "change_pct": -4.93,
+     "price": 763.57
+    },
+    {
+     "ticker": "PLTR",
+     "change_pct": -4.52,
+     "price": 160.39
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 877,
+    "major": 140
+   }
+  },
+  {
    "id": "2026-11-16-close",
    "kind": "close",
    "title": "Closing brief",
@@ -4793,171 +4960,6 @@
    "counts": {
     "stories": 580,
     "major": 137
-   }
-  },
-  {
-   "id": "2026-11-02-midday",
-   "kind": "midday",
-   "title": "Midday brief",
-   "created": "2026-11-02T17:26:08Z",
-   "since": "2026-11-02T13:30:00Z",
-   "summary": null,
-   "groups": {
-    "AI software & cloud": [
-     {
-      "id": "43124d05f2a51962",
-      "ticker": "ANT",
-      "title": "Anthropic's quarterly loss shrinks, revenue jumps ahead of blockbuster IPO",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalN1b2NwcllWRkRjRUNmOVBjSDMxWDNzdjZIclhDNTdMMFlaVUx2eWN1U19acllfTk0xX0JIbkJma21jVDFhZUR1czFjbVdLbThjMHVQZ0F4MkFvNmc0cURPN05FMkE3VFNyMTktbmNzWVIxN3c1YVFhSXpBTmZSQk1DZ013aDVRcXE5OEplekFkZWFJbmQxUEhDSVJ3RVVrZWJUd2ZRYWRfWUJhMVMycEZRRk8?oc=5",
-      "source": "Reuters",
-      "score": 82,
-      "tier": "major",
-      "category": "capital"
-     },
-     {
-      "id": "04d03c1def3f9a38",
-      "ticker": "PLTR",
-      "title": "Cantor Fitzgerald maintains Palantir Technologies at Neutral, raises price target to $207 from $156",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZV9QRTdyMVRyb2pCS2tGLWNpSlhCTTRDSFpGYkZnM2xYV1hpS1lvVmN5NTg2SGp6T0h2ZU5Ld2l1MFowSVNaNEFrMElyXzg2TTZ2OEVSVGVweDBCdmhZbTFUVkpaSDBtWlNoaHFOMTdHejduSG5MTGpsM2RfaElzZzBJSHp1aUswcldmSm9lV1pHZGJJNVhreGdJdDlKNnJfa25TMHliZVQwdkVzaGdkQ09QTTZyRHJsTjZLS19RRTRUTkQ3bE5qUmprT3Njekd2ZE1PVlpZRWZwb0dnODAtOUJuN0NxNk1mOGZIblI3Zw?oc=5",
-      "source": "TradingView",
-      "score": 80,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "fd5f60e9df8d9f26",
-      "ticker": "ANT",
-      "title": "Anthropic posts $17B quarterly revenue but losses continue in fresh IPO filing",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjMwakpTZkd0OWRSU3RHa3NYbVNWdGtSMnN0czBjNWduUUJqaHhYMTctaHlZSU9aNUE4cU1sZHpzaUFXemxRbVNyLUs4djVkYW5maXZRU3hfb3dYX3gyMTEyUUJPRmJ6SUQwZ3F0b2RyRDFyMC1ZM1pDTl9FTFQ3S19Vb1JlWHBzbi1DWVVKSVVqQjBPcS1xRE5aTHZ0SEhRMXlMdXpVaFJMUURyakF0c3lzTnZOcDDSAbwBQVVfeXFMTU1kYi00QWRNLXhiY0lsTmtyWTU2cVVBVUJDTVhEMmNzTlhpQTBBWUdWeXRhNE91azdtRHhvOUwtbktEVG02V3ZKaXl4SGFIcmVyNDJ3N0N3Wl8teEY1bERFSWNaTGpvWGw0eXlxbW5fc0lHS0lhVGI1QkF3SDZHbnF4cGRjUW53QzVSZUp5ZVgydGIycTVRLTZJRUZxQjBXcDk5dXdmcWNyeXFPZHNxT3YwYmVmc3Z4bnRaUHc?oc=5",
-      "source": "WJTV",
-      "score": 79,
-      "tier": "major",
-      "category": "capital"
-     }
-    ],
-    "Big Tech": [
-     {
-      "id": "0337cff23338d234",
-      "ticker": "AAPL",
-      "title": "Apple Earnings Put New CEO John Ternus in Focus",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ19raXctR0QzMVNDanBoa0VPSkdlQmp4Y1RScDl0S0dNQ1ZxWmZwUTcyRGUzbDNTYVZzMkpwVWRlbkVscTNJQ0FjeHB6STN6WnhZZnVmdl9FUFhQaUYtWXJ2NXRrTGhtNUxqQzVTOFNqYXh2NDRSdWtlVDRWUS1KaW1Gd05OcG1UT1BYOGZVRnZDSDZlLVpR?oc=5",
-      "source": "Yahoo Finance",
-      "score": 81,
-      "tier": "major",
-      "category": "earnings"
-     },
-     {
-      "id": "0949632ab7925d71",
-      "ticker": "GOOGL",
-      "title": "Wells Fargo cuts Alphabet stock price target on AI Overviews impact",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQejJvZk5uS3BpU3ppaURwVC1kQWVuVWd2eXlBQmNhbFg5a05BbWRSUzBJaHpSLTJvNkpCWERYSDNETElkdnlRbnc4TlVoWWMzdm5FZ0NTVmJ2UnFsMmxibDZWZVZPZFRrN1NJSWZPNEdTc0ZVbnB6Tk1lYno0eHlxQk9ZeE9HQTRmMy11TUVQZ0paaGx4VjZDdTNxUWxuVDFuZW1YZXhkb0xmM3cxdFl6TFdNclA2MUJNYktiN2hfaDF4ZHBNeHc?oc=5",
-      "source": "Investing.com",
-      "score": 80,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "68de867adbf1fbd8",
-      "ticker": "META",
-      "title": "S&P’s negative outlook on Meta underscores the risks of the AI spending boom",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZV9uOTN1MXpBQ1VZTDNodTI1SFJSNXJHMkRQVFNDM3daN1h0RmFJa0otUjJoUldRaFh3MkVTTzdBbGs4NjBCY1U3U2hvdW5xZzQwNDRsYVUzeUNJSkRHdkcxZ2dXbE1aakxNOEhreUNBOXpZVHR4N1IwTUNOOXJJZTZFaE1Cd3pfTUhZc3kzUFpNdHdrNEQ0LWln?oc=5",
-      "source": "Fortune",
-      "score": 80,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "cc48404f26fb1ce4",
-      "ticker": "AAPL",
-      "title": "Taiwan's apple imports forecast to rise to 150,000 tons in 2026/27",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaVY2a3NTd3lYUHZtZHQyTEdQZDR3R0poUHlKYU13NUtPRnVwQ3RXV0xCTFZwRU1LRWduZjBITWJ3R1BndjFSZ002bllZSGVjMXhyN2FsWnZWcmtDU01NWVpGNEN6WEYyVDI2Y2JSenNNVlJhNXhySFBvZTFfRkJzR3RXUWJGQldYNktKZWN5eFkzRFd2dXpTZVQ0WWQtOEhRMHNBWDg3cEV3bkpCUVR5WnlROTVMay1FZzF0Z0NDelJXUQ?oc=5",
-      "source": "FreshPlaza",
-      "score": 80,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "fcbe72af9afe83c7",
-      "ticker": "AAPL",
-      "title": "Mexico forecasts 5% rise in apple harvest and 7% decline in table grapes",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcVZHNU45UF9tRVc0WjFWelBZSzdtTUtqQVRfZERTcjFtYWIxeDhuNGZIZW01alBtR3k2VWZ0RUxDTUdPdURIRXo4eG5EQkxUQVVybDd3ZDZtU3NnaW5qcGw0UXAxWkMyNnlETjZVTDNqbDhwbVRQaTdNaWhJQWNkZUZ1dzJPemh4am9tZ1NEVURFMmpidlV1YTZCVllwUkhhU0FYbkxnWWZhYlVMRWVmRDM5SlBkU09kZU5IUFVGbjhPUEVZS2Fv?oc=5",
-      "source": "FreshPlaza",
-      "score": 80,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "AI chips": [
-     {
-      "id": "481b3fa4ee2a8a6c",
-      "ticker": "AMD",
-      "title": "AMD Stock Falls 10.9% After Intel Q4 Outlook (Oct 30)",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81QTlEX2VUQ2tYQTRBZmZDMDdXVUF5TWQtRFFvdmozc3hwdTdpam1tdEMtU0dFdll3Yjd2V3V6M3FlUHg2Z2ZTWk5tcnR1OXVDSUlubGRvNjVYbmUxNkI0OUtIQ2ZjZ1BlMjRjbGJhZ05Oc3I3cndsdnBB?oc=5",
-      "source": "Gotrade",
-      "score": 80,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "Tesla & SpaceX": [
-     {
-      "id": "3724d29196a3b4a6",
-      "ticker": "SPCX",
-      "title": "SpaceX Stock Price Outlook as Hedge Funds Erase Nearly 2 Years of AI Buying in 5 Days",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRENwcW9XZmRPRGxremNwZ0MtZjFNMU1DX25GYnc0ckd2TzN0VUxpeE9xR3prc0NsQ0RkcGZ4ZHpXdVBnSnFKRWR6TlFaVFA0MXhDZ3pRMGplODJNdmVSVE5uU3I5VmxnT09pUXpRa3puTzF1Z3BDSFpVanVwX1RwQkMwSFl0SlprMGhXQUYwaHNNdkE4U1ZnN1RTZXJteWwyR2paeS04aU1hYXVL?oc=5",
-      "source": "CoinGape",
-      "score": 80,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ]
-   },
-   "movers": [
-    {
-     "ticker": "ORCL",
-     "change_pct": -6.17,
-     "price": 122.61
-    },
-    {
-     "ticker": "AMZN",
-     "change_pct": 4.42,
-     "price": 250.97
-    },
-    {
-     "ticker": "SPCX",
-     "change_pct": 4.2,
-     "price": 140.38
-    },
-    {
-     "ticker": "NOW",
-     "change_pct": 3.81,
-     "price": 109.12
-    },
-    {
-     "ticker": "AMD",
-     "change_pct": -3.28,
-     "price": 488.24
-    },
-    {
-     "ticker": "TSLA",
-     "change_pct": 2.73,
-     "price": 410.74
-    },
-    {
-     "ticker": "GEV",
-     "change_pct": 2.69,
-     "price": 880.92
-    },
-    {
-     "ticker": "OKLO",
-     "change_pct": -2.34,
-     "price": 24.66
-    }
-   ],
-   "filings": [],
-   "counts": {
-    "stories": 783,
-    "major": 158
    }
   }
  ]
