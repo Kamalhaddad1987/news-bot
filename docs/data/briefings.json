@@ -1,6 +1,163 @@
 {
  "briefings": [
   {
+   "id": "2026-11-18-midday",
+   "kind": "midday",
+   "title": "Midday brief",
+   "created": "2026-11-18T17:29:12Z",
+   "since": "2026-11-18T13:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI software & cloud": [
+     {
+      "id": "d81a22181d5bfaaf",
+      "ticker": "ANT",
+      "title": "What investors should know about Anthropic's unusual IPO",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTS00RnZlY2c5ZXZQcUxsWGUtNnpwczN6ekNTZndScEdNbkRwRElqbFJ5SEs4WjBGMkhhZjQyMXd1Y1RRdS1rVFN1NVlESEtCOGJ5b1dGdG54eXVZeHZJcS0xaUhtUDhwRHF2dVhjTzhJb3BHWDNSbEhRbXNEcG5kUTFqcFV0a0tTRm56TU1TXzBXMThkV2Y0UHI0empVd21YNl95aQ?oc=5",
+      "source": "Yahoo Finance",
+      "score": 82,
+      "tier": "major",
+      "category": "capital"
+     },
+     {
+      "id": "ce12d81550f2b84a",
+      "ticker": "ANT",
+      "title": "Nasdaq gains in choppy trade after Nvidia outlook; Anthropic pricing awaited",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
+      "source": "Reuters",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "2b43074200955bc8",
+      "ticker": "GEV",
+      "title": "SoftBank Puts Ohio Under “A Thorough Reassessment.” GE Vernova’s $16 Billion Cash Outlook Rests on Buyers Like It",
+      "url": "https://www.tikr.com/blog/softbank-puts-ohio-under-a-thorough-reassessment-ge-vernovas-16-billion-cash-outlook-rests-on-buyers-like-it?ref=yahoofinance&tlnk=yf-261118-g9w7hhc4&.tsrc=rss",
+      "source": "News",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "8bccbb6428c6e808",
+      "ticker": "GEV",
+      "title": "Erste Group cuts GE Vernova stock rating on 2027 order outlook",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDgzZnF3c3ZvTWVxWnBwWkFsVmhpRkxWaVBtdElaUVllU3YwQkxJbmd3cW5Nb1hZRTUtWDdQLWJUR2R4cVJnUkp1ZzhINUVoU1phMldFN1JTZnVMQjlxS1dUYUpnb1ZkaW9TLUszZ0VlTjNZTlREd2pXRGhCY295ZmdlOHRlanVJQ0tNZE5sVGNKRmk2SUNNcW9DY0xxa2lxRHRNekR2Z2JDWFdiMHhYSEJVRkc0cmVzaU5sUDBmMjA?oc=5",
+      "source": "Investing.com UK",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "1b7245daec95fc93",
+      "ticker": "MSFT",
+      "title": "Conga Brings Its Commerce Suite to Microsoft Marketplace, Integrated with Dynamics 365 and Copilot",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFFtSlRKVWx3TjZlUmc2NnNYOW5XUi1BcG1NY0UwbDJCQjhxSjZqT1hEUE5MN3YxcjJpMVVQZlVUakstQUFibXI5WTU3ZUZRY3hQMEVIV1hOTlVQN0lEVnB0emRGQkRMcUhONnNJZWItaGswbWlpX0xHeWxWT1RicTZDcU9lcnFtb3h3VGIwNXBpU2NBbjVYTTl3ODNzUHM?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "general"
+     },
+     {
+      "id": "44fa88996ac9552b",
+      "ticker": "AMZN",
+      "title": "Amazon’s CEO Says Pulling Back on Data Centers Would Be a “Historic Mistake”",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN1g4SDNaZTNsZll6R01uZjVGckhZb1B3M2p0Q2dKa0NPQ1oyYUFaRnpFSFMwSTNINWNuS3VSZThkOEE0b3ZFTTB6RGtnb0VLanQwZ25ibmlCem13NS1rbFdCZkR2TWZ0dDZPZ2Fya1BLMVpTaThHa1ZTWllpa25yM2NQN1dYLVBIY0V1MDNJVVVWdFd5eTdJ?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "32b70ab4edfc81f8",
+      "ticker": "NVDA",
+      "title": "Nvidia Is in Turmoil, But Earnings Are Still Rocketing Higher. Is the Stock a Buy?",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONERSMnRxdG05MXVTSWFneDg5dFhpcnJ6REZ4R05Ick5EaHM4Tm5UNmZMOTRIbURuQzc0M3NVcFpwanZKcGxRd1ZzNE8tNXUxQUNmdmROamVCNGVBb2JZVVhpdFY5QUJRd05YQjlYb29Ld2tHZXZDU3dJazdGZGxuQ0tiVGtIRlc1R2lwVzY5MjlOMjluUzJWc1dfVS05WnhQZ3c1cG1lVzZLR3RwR0oxSmI1dUtneEwtRTVXaFhVQQ?oc=5",
+      "source": "The Motley Fool",
+      "score": 81,
+      "tier": "major",
+      "category": "earnings"
+     },
+     {
+      "id": "dd66d7b1383b61de",
+      "ticker": "NVDA",
+      "title": "Nvidia Interim CEO Kress: Board Rejects Huang Return",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGowZVl4YUFETWlkTUhLZEduR1Y0eE95NTlrOEt6ZFdTaUJodWxzTl95cUNqX3dJY3ZvS2NFRDlnNW8tMDNpTkhTU0VJWGVmXzBkZkNabGdacUZXOTA2QWRRTWN5TGpGU1ZQV1laT055WWZSaFdORWF0VmxmdUNXWTVWSHhwem5ieGdVRlpPbE9DSzN5?oc=5",
+      "source": "shattered.io",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "ecec2c0f5daa7cff",
+      "ticker": "NVDA",
+      "title": "Nasdaq gains in choppy trade after Nvidia outlook; Anthropic pricing awaited",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
+      "source": "Reuters",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "3a93b02d4f957bac",
+      "ticker": "SPCX",
+      "title": "1 Major Lesson Anthropic Investors Can Learn From SpaceX’s IPO",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTC1ocy1nMi1SWi1DZlFGY0dtQXNKUVBpb3h2bUhqT3JsRS1RbHdZN28yN0NkX1FocXlVRjloSHB6X2hZSkkzUi1sZXliMFkzOTdaWjVHbDdTMHptYWNmQlZFUHNoVktLVjltdzl3bWNnYUZVOC1sY2l1d0loWGJZMnh1VGhwN3UtbnhoeGJ0bDh4NThxNkNMbndTMmVKZw?oc=5",
+      "source": "The Motley Fool",
+      "score": 79,
+      "tier": "major",
+      "category": "capital"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "AVGO",
+     "change_pct": 3.67,
+     "price": 354.15
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": 3.66,
+     "price": 521.81
+    },
+    {
+     "ticker": "AMZN",
+     "change_pct": 3.27,
+     "price": 266.32
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": -3.14,
+     "price": 24.06
+    },
+    {
+     "ticker": "SPCX",
+     "change_pct": 2.25,
+     "price": 144.89
+    },
+    {
+     "ticker": "NOW",
+     "change_pct": -2.23,
+     "price": 90.83
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 767,
+    "major": 165
+   }
+  },
+  {
    "id": "2026-11-18-morning",
    "kind": "morning",
    "title": "Morning brief",
@@ -4801,169 +4958,6 @@
    "counts": {
     "stories": 885,
     "major": 114
-   }
-  },
-  {
-   "id": "2026-11-03-close",
-   "kind": "close",
-   "title": "Closing brief",
-   "created": "2026-11-03T21:11:45Z",
-   "since": "2026-11-03T17:30:00Z",
-   "summary": null,
-   "groups": {
-    "AI software & cloud": [
-     {
-      "id": "86fc362368e1c0de",
-      "ticker": "PLTR",
-      "title": "Palantir’s CEO Just Sent Wall Street a Message It Won’t Soon Forget",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOFRzaV9jeWtKd2ZuRE5pbE9GZEdwOEhuTTFOMmt4anlkNlVHNVFsSnY5bWoyRUJxcUhLQ3BubHpIQXN3WGY4ZThNczBwa0toZjI4RkFhNl83dHdQOUM4RGlscHIyN0hXZE9ZaEJtM0t2TVdPUm4zNHlrTWotWG4tcFRmcjNqT0xpdGNxbnlac0Z6YlFuMG5IQUo5Q0FtMjRjd1FnbnExY1ZRc2JEOVE?oc=5",
-      "source": "24/7 Wall St.",
-      "score": 81,
-      "tier": "major",
-      "category": "leadership"
-     },
-     {
-      "id": "7700a06511d81db1",
-      "ticker": "PLTR",
-      "title": "Truist Securities maintains Palantir Technologies at Buy, raises price target to $250 from $223",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQclMtZGg1VU5YRmJmUmpqa01tVldwZjVneXgyMVk1Y2F3LXFjMWRsTF90N2tBelZXSDNwaV9xSEc0M0FZWF9CRVpxVDY3Zi0xMVFDTVUyd1AtamVBdFMxR1JrcDRnZHNvc3lhTng4ZmVWeWFqUXVfWXRicHlhOFh0eEtra1hzU1B3SGFEakJ3TG1ITzFkeVlwaUtFN3lKVkNXeEtvSmtwcW5mV1NDQnhDcEsxQzJKVTJQb3JmOGZtU3RuM2R3blBvRFZnRE9CRTVnRmVodTc5QUxKMzRNWXhFdlYtbVBJa3NNWnc?oc=5",
-      "source": "TradingView",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "6bced55a2e384306",
-      "ticker": "PLTR",
-      "title": "PLTR Beats on Q3 Earnings and Raises Guidance: Is the Stock a Buy?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pltr-beats-q3-earnings-raises-173200200.html?.tsrc=rss",
-      "source": "News",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "69955aea8ff85fe5",
-      "ticker": "PLTR",
-      "title": "Palantir earnings analysis: questions answered and next catalysts",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGxDZnJIWkl0UTZSakFZR180eHFTSVdqenB0OU1oTWZ5cUtqUUdkaU55WnRQLXE1X1ZUOHBnZXk4bEdEMFF0eWYzcTVsRmQyOVFDQTlBcEl4MkFHenVPWWxVb2NHaUJnWU1yWm5YMS1md0V1eWpNOGMwN013Mm1vaURvUnJCc0RzcE9GUm5pZVJzb2huWGktWEp3?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "score": 78,
-      "tier": "major",
-      "category": "earnings"
-     },
-     {
-      "id": "a84d74cb92ecb6e8",
-      "ticker": "ORCL",
-      "title": "Oracle (ORCL): A Top 10 Cheap AI Stock Trading at Just 11x Forward Earnings",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR1pXZWxYRnFYYm1GekdKWjdveHB4dDRNS1VLUWZXcW90RjNYN0JWaWl3NjNMdmxrSDRVdmc5T0JtZDVMYy1QRDkyUkY0c1FIRUN4WXp1T3VEQTkzaWNPQ2l3N2pzdVFXWlV5WVVSUUo4dlhoTmFmYkU5YzY3cjVJTXR0TGt2TU1YQl9BVGxDWU9HbGc?oc=5",
-      "source": "Yahoo Finance",
-      "score": 78,
-      "tier": "major",
-      "category": "earnings"
-     }
-    ],
-    "Big Tech": [
-     {
-      "id": "eccb7082e5f54f88",
-      "ticker": "AMZN",
-      "title": "Freedom Broker maintains Amazon.com at Buy, raises price target to $330 from $255",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSmlseUN5RjJsSjA5Wk9iY0l4RkFyMkhNNTNKU29sTHp1YXhITlphUFBlemNOd0o4cWZ2eHFQV1ptN1ZyeFpvdmJPUnpFMFVQalE5ckE0TEkyTkM4RTVaWXRiVG5KZ2tETXRXQ3RUbTY4QTdRS0hwOG5ybnRKYmdrMXdMZUVXN1dwam9rMkNqZG9MQmFsV3p3UjRKSGVwaWZVeWpobUNOemtRWUFwN1ozMXRHNEZLMlJWbUkzS1c3NGQ4RGlUSXQxa0FUR0FjdUw4Xzh0dnl1OA?oc=5",
-      "source": "TradingView",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "18fe44e08407f8db",
-      "ticker": "META",
-      "title": "META Q3 Earnings Call Put Spotlight on Muse Growth and AI Spending",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUVlxSzZrOS1VMEFqX3FuY283dDVwSmNIVHNBR3MybVZ0ZEhha1FONWRnNEljVmV6RXNydXNHVUl6cWYxVGcxOUZ0RWZBcnQ4OUpELVROS3YyX1I3OGIySnkxOVRvNXJyeVhWc1FKZUFaYTFKU0ZPMHhTLUp5R1huSzZqRFo2MXh4NXBndmxaRFVFNW8?oc=5",
-      "source": "Yahoo Finance",
-      "score": 78,
-      "tier": "major",
-      "category": "earnings"
-     },
-     {
-      "id": "b3d2a0c928ae24bb",
-      "ticker": "AAPL",
-      "title": "Watch Apple's Happy Holiday Forecast Overshadowed by Shrinking Margin",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2VqcUUtOF9abEtKNmZZWmh2WkxSSjMyaERydzdMTk1odklEVC1ublRDQTFTMHRZTm1jQkFDSUk0OGVKbEdNdkhvbUNiNDNuQUg3bXFVaUN4MkNfX2VRcmQ2M3pmNHlKYjJOU0ZUNl8zR19BcmpkWkM3YWZPQkJ6dDEzR0hFVjQ?oc=5",
-      "source": "Bloomberg.com",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "5abd60ac8b89bbb6",
-      "ticker": "AAPL",
-      "title": "Apple earnings analysis: questions answered and next catalysts",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcV9tdVhYV2F3bWhqMUZadW1iTEFCZXRpS2hVQ3UzQi05MW45RzZoNDdQTTNsWG9jTU9VVGNELXJBb21JNl9jbU1Bd0NpNzZOM3Z4Njh5cnB5cWhTZGZxSTV5Mkc0Yk5KRDI5RVFWVlFqNjlIc0tXX3Jsa0xIcUFZTmNDV0VJcXRBbnJsV2JOaEMyVkotQTBVcE1OQ19JZzNkTnRneUk5Ull3OE0?oc=5",
-      "source": "Yahoo Finance",
-      "score": 78,
-      "tier": "major",
-      "category": "earnings"
-     }
-    ],
-    "AI energy": [
-     {
-      "id": "5053a5e1a7b12cf8",
-      "ticker": "GEV",
-      "title": "GE Vernova stock outlook: Mixed momentum as buyers struggle to overcome resistance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcGVpLVRXcTlCb3U5QjNwblJkVHE4YWg0RWM2cm95ZFV6Q3d0bW9MYXpuVmRGbHFTa0h5ZWJBNGJiWXlZX2loODRwS3lTNFRCdEk1M2J1b2lXMVlvTkNqODVDcFl0QVNDbWstUlVqSWQ0Q096NmxtNE9jcGRjR1J0bGtteTVlOVQyRHc?oc=5",
-      "source": "Traders Union",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ]
-   },
-   "movers": [
-    {
-     "ticker": "IONQ",
-     "change_pct": 6.48,
-     "price": 30.0
-    },
-    {
-     "ticker": "GEV",
-     "change_pct": 6.47,
-     "price": 918.04
-    },
-    {
-     "ticker": "ORCL",
-     "change_pct": 5.86,
-     "price": 126.21
-    },
-    {
-     "ticker": "RGTI",
-     "change_pct": 3.89,
-     "price": 11.09
-    },
-    {
-     "ticker": "VST",
-     "change_pct": 3.69,
-     "price": 139.58
-    },
-    {
-     "ticker": "AMD",
-     "change_pct": 3.65,
-     "price": 483.9
-    },
-    {
-     "ticker": "SPCX",
-     "change_pct": 3.62,
-     "price": 141.31
-    },
-    {
-     "ticker": "AVGO",
-     "change_pct": 3.07,
-     "price": 332.13
-    }
-   ],
-   "filings": [],
-   "counts": {
-    "stories": 455,
-    "major": 65
    }
   }
  ]
