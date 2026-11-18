@@ -1,6 +1,44 @@
 {
  "items": [
   {
+   "id": "8eecfbbca50d9632",
+   "ticker": "AAPL",
+   "kind": "news",
+   "title": "Apple iPhone 18 and iPhone Air 2 production said to start soon, but with Air 2 cost-cutting",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVWR4YkhVZEJIZ2hvclZMOEpIR2xpTnJtZ2JCdzBSa25jSzlxSU5va3VmbFZZb0ppSVVybng2SzdvLWRSOGRfTng4TEFFTWlQSzlrX19fcFpMekxLSHVCR3R4dDdJTmVkY0RHbVpRZHZ3TUlzRVNwS3l2b3Z2SGQ0X0FQOUtKNnhGSFhreGV5aHpQNnEwUVF4UmNMZExiR2J6Q19DcXlWNTdQd0FjVXhJV2hnVWYxUmwxT29rckdfRHVici1MZnhma3JQOUZwUHho?oc=5",
+   "source": "Notebookcheck",
+   "published": "2026-11-18T20:40:00Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-18T21:17:19Z",
+   "group": "big_tech",
+   "outlets": [
+    "Notebookcheck"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "412923c7aa539be1",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Nvidia reports ‘solid’ quarter, says RBC Capital",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTRYNHZRWThwSk9fYUp6MmllWEwwYUN4MGt2TEtnU3N6dTZYbXdVdzVqNGVTYjhJclV5TUkzcFhlTG15VXFGenByX3JMdnRrLW1wY3BYWWlhN3BIRXgyRThwSGhzRmZTY0hyY0ZJLWxNclctT093dGFGV2xVTXd5VTdJTkhIdUZhMTVlTTFEbVRXVmg4dWpGOGNlOW9BUE0?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-18T20:50:53Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-18T21:17:19Z",
+   "group": "ai_chips",
+   "outlets": [
+    "Yahoo Finance"
+   ],
+   "base_score": 20
+  },
+  {
    "id": "8b8d836993106fe4",
    "ticker": "AAPL",
    "kind": "news",
@@ -1074,7 +1112,10 @@
    "outlets": [
     "Bloomberg.com"
    ],
-   "base_score": 70
+   "base_score": 70,
+   "merged_ids": [
+    "31421a508c1e9655"
+   ]
   },
   {
    "id": "1742c256cb1f2518",
@@ -4762,7 +4803,11 @@
    "outlets": [
     "CNBC"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "5cf4fce8f83fa6bf",
@@ -4943,7 +4988,11 @@
    "outlets": [
     "CNBC"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "c9b1df1e51afb987",
@@ -5151,7 +5200,12 @@
    "outlets": [
     "www.tokenpost.com"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "category_label": "Leadership",
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "push"
+   ]
   },
   {
    "id": "93b3ea4ae80a1d0c",
@@ -5229,7 +5283,11 @@
    "outlets": [
     "The Times of Israel"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "ca7698bd0f28c1de",
@@ -5812,7 +5870,11 @@
    "outlets": [
     "Yahoo Finance"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "0f3449f84bc0652c",
@@ -6018,7 +6080,12 @@
    "outlets": [
     "News"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "category_label": "Deals & M&A",
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "push"
+   ]
   },
   {
    "id": "ec304c8c6d7c7db1",
@@ -6426,7 +6493,12 @@
    "outlets": [
     "The Business Journals"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "category_label": "Leadership",
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "push"
+   ]
   },
   {
    "id": "48d6f9afce85910b",
@@ -6777,7 +6849,11 @@
    "outlets": [
     "The New York Times"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "5a6a868b48bcb378",
@@ -7017,6 +7093,10 @@
    "base_score": 75,
    "merged_ids": [
     "6826d2cafe8be534"
+   ],
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "grouped"
    ]
   },
   {
@@ -7136,6 +7216,11 @@
    "base_score": 75,
    "merged_ids": [
     "648b0ec5dbc985a9"
+   ],
+   "category_label": "general",
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "push"
    ]
   },
   {
@@ -7886,7 +7971,11 @@
    "outlets": [
     "Investing.com"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "0b1a527a86773c44",
@@ -8421,7 +8510,11 @@
    "outlets": [
     "Yahoo Finance"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "ad0539169d454165",
@@ -8442,7 +8535,11 @@
    "outlets": [
     "News"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "50d9988eab5c450d",
@@ -9442,7 +9539,11 @@
    "outlets": [
     "Yahoo Finance Singapore"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "200dba28e1323951",
@@ -9503,7 +9604,11 @@
    "outlets": [
     "Barron's"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "7dabde1376472825",
@@ -10836,7 +10941,12 @@
    "outlets": [
     "Bloomberg.com"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "category_label": "Leadership",
+   "alerted": "2026-11-18T21:17:21Z",
+   "alert_channels": [
+    "push"
+   ]
   },
   {
    "id": "9d288096d43a08b6",
@@ -11223,7 +11333,11 @@
    "outlets": [
     "Benzinga"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:21Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "6dddccb791b5cc10",
@@ -11431,7 +11545,11 @@
    "outlets": [
     "Business Insider"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:21Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "9bb998c298cd873f",
@@ -13381,7 +13499,11 @@
    "outlets": [
     "The Motley Fool"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:21Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "475cb969db2e1690",
@@ -13746,7 +13868,12 @@
    "outlets": [
     "BASENOR - Tesla Accessories"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "category_label": "Leadership",
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "push"
+   ]
   },
   {
    "id": "d81a22181d5bfaaf",
@@ -13812,7 +13939,11 @@
    "outlets": [
     "News"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "3489a79ff4a0a8a4",
@@ -13833,7 +13964,11 @@
    "outlets": [
     "News"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "174990324ed7a3b7",
@@ -14344,7 +14479,11 @@
    "outlets": [
     "The Motley Fool"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:22Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "70ba5bbd6735779e",
@@ -17956,7 +18095,11 @@
    "outlets": [
     "NPR"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:21Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "4b1881df9b72da25",
@@ -18178,7 +18321,11 @@
    "outlets": [
     "WSJ"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-18T21:17:21Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "341d560f54dae56f",
@@ -18354,43 +18501,6 @@
    "group": "ai_chips",
    "outlets": [
     "Fortune"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "db1daf7d0e1a5cce",
-   "ticker": "IONQ",
-   "kind": "news",
-   "title": "IonQ Stock Price Prediction: Record revenue meets a weak tape as analysts pull back",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnhublBWdF85LWZJSlZCX0tTRnRBNk1yVUQzRm1rdHFYdlBfTHVPUERMVl9xQmh2aVBaVmJ5SWEtcXFwV0tWOW5ZanR1cTFvRjBrTzhtN0dWQW1wUkZGNldnMWlfM19nYnduSGZZY0VSR0JMWmFKR0RXdG9RWDd3Q0pKUzBua1owTDc0SEc4MjltemV5a0c4?oc=5",
-   "source": "Blockchain News",
-   "published": "2026-11-18T15:36:12Z",
-   "score": 0,
-   "tier": "muted",
-   "category": "noise",
-   "reasons": [
-    "noise: prediction:"
-   ],
-   "first_seen": "2026-11-18T15:58:14Z",
-   "group": "quantum",
-   "base_score": 0
-  },
-  {
-   "id": "9206964dc2cfc8d4",
-   "ticker": "META",
-   "kind": "news",
-   "title": "CNN talks to the former President of Global Affairs at Meta",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUktrS19QWU9XOGJmdE9RcC05aXo5NU5ia3c2bFVTLXN1TTZfWXZhb0tXSDFqMEM2OU9OUzl6ajFMUGY0WG9IMTV4akhHMjM0VUpPVDY5ZVFuaTM0d1NfbkoxaDVpOUtxTVNwS3hkZFc3M3ZlRkQtdXZWRWRIN25icERtbnJuN0NOVHlad2EtZnVlMDhuVDNadGNxMU9vQU1zTUJSRHd4UmRwWGFGdVNUUDlzZmk4ZW5QVGxISjREbEZNVGhXTjBnZThKZHBMek8ta1U0UURjRmZNN2s?oc=5",
-   "source": "CNN",
-   "published": "2026-11-18T15:36:25Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-18T15:58:14Z",
-   "group": "big_tech",
-   "outlets": [
-    "CNN"
    ],
    "base_score": 20
   }
