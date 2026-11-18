@@ -1,6 +1,171 @@
 {
  "briefings": [
   {
+   "id": "2026-11-18-morning",
+   "kind": "morning",
+   "title": "Morning brief",
+   "created": "2026-11-18T13:47:49Z",
+   "since": "2026-11-17T21:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI chips": [
+     {
+      "id": "5742bd40ae174fe8",
+      "ticker": "NVDA",
+      "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EalRiWEJJQlhHY1VhazRNalhHZm9tZ2dQdFB0U3VuT2hJa1hQNXpuZEY0YnlOV3J5ajEyczd4N18ycjhDZ1B4RHpiTVhYTjlhWTFrdUdrUEhiMXJndlRzMU95VG9PazdzRGNyMHd4WWdsOGtqSWxrX2NNcG1FZw?oc=5",
+      "source": "NPR",
+      "score": 87,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "d396c43d6d6eaa47",
+      "ticker": "NVDA",
+      "title": "Nvidia beats forecasts and rules out Huang’s return as CEO",
+      "url": "https://www.euronews.com/2026/11/18/nvidia-beats-forecasts-and-rules-out-huangs-return-as-ceo?.tsrc=rss",
+      "source": "News",
+      "score": 84,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "46d0d1977683acb0",
+      "ticker": "NVDA",
+      "title": "Nvidia beats Q3 earnings expectations in first report without Jensen Huang",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeEpWNERSTTdwVkpCa01NN1NKM2lieHBiLWNGYkxSbXZzdEQ3cElyaElfY3gwY2x3NVVLWDVyR1V6ZnBqX29HSDBSaXA4Z0lhc2pRZmVkNnlJeWVIYk02bUdsVHVRUlAwOGROWmNiOEdqUTNUWEJVaEdqMC1iaDBEc0pnenhsc3hvNWpPdDRtbXJPVS1TZFQ2OXBxZUlIYS12TExYYnNGUThOWFdVRmpxZmdCRHVySFlqeGdVS0J3?oc=5",
+      "source": "Yahoo Finance",
+      "score": 84,
+      "tier": "major",
+      "category": "earnings"
+     },
+     {
+      "id": "32b70ab4edfc81f8",
+      "ticker": "NVDA",
+      "title": "Nvidia Is in Turmoil, But Earnings Are Still Rocketing Higher. Is the Stock a Buy?",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONERSMnRxdG05MXVTSWFneDg5dFhpcnJ6REZ4R05Ick5EaHM4Tm5UNmZMOTRIbURuQzc0M3NVcFpwanZKcGxRd1ZzNE8tNXUxQUNmdmROamVCNGVBb2JZVVhpdFY5QUJRd05YQjlYb29Ld2tHZXZDU3dJazdGZGxuQ0tiVGtIRlc1R2lwVzY5MjlOMjluUzJWc1dfVS05WnhQZ3c1cG1lVzZLR3RwR0oxSmI1dUtneEwtRTVXaFhVQQ?oc=5",
+      "source": "The Motley Fool",
+      "score": 81,
+      "tier": "major",
+      "category": "earnings"
+     },
+     {
+      "id": "f114bb764655338a",
+      "ticker": "NVDA",
+      "title": "Nasdaq futures jump as Nvidia forecast lifts AI trade ahead of Anthropic pricing",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWW5jUWw3eWpMVDFtWWJvWUxCOWVfblVVMmt1Vk45aW82c0M3dkswaHVNalpCM3dDWHdBM0lwVUhLMGhVUldUT0lYVmNNek4xNlJmVkJVdzBQYVM1Ni1IbklGTjVZUElxYy12dG1uWUJyb2NQbHE5bUlMdXpwdkhqZTJGb0lCWlBha3ZqUHpkb3ZCdmtEYlAzLWRhVjFtZ0tlWHc?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "78e3b81d832b71dd",
+      "ticker": "NVDA",
+      "title": "NVIDIA To $230? Here Are 10 Top Analyst Forecasts For Wednesday",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSk5LSmhITU1ob0g1eFdrb2FtWE1CY0lpeU1ZRFVaa2VydW5nMWh2aERvZGxTTlJfUzFxeWFDN2t3REowSkdpMVljRE5Hb1AzRHVFQzJGUXVBaktoRnEtdnphX3RIY213YVVlVXdnQVJkOWhCSlIyQUY3dVdPZFFGZUpKQ0xFbUFuVE9wcEZTSFFfNDRoYjN1dU45cGxTSjVkTWQxTHFwQXdSb2l5WmRwNV9xYVFQcWhxdHRRSFNwZlpXUzJXdDFucUNDenBEZmRXX3c?oc=5",
+      "source": "Benzinga",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "976c1b0c9f17177b",
+      "ticker": "NVDA",
+      "title": "Nvidia Shares Rise 3% as Revenue Doubles to $115.84 Billion and Company Raises AI Growth Forecast",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjBZU3FwUGNuMldpcXlpckdrM29IRkNuQ2tadTBGdVp3UmlnT2J0aE5ZMVhvb0VEY0xQNTEwOVAxS0VZYWlfQUVCSzl6X05QY0Y1UnRfWGMzMkhZV1JJTndyVkcwVE5GUFNuQUdGV2FfRlBJVTZTemRFV1JPci1vWTZfUnpHSFBPSDl5YTJZTE1uTms0QXp3?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "751aef36dd078476",
+      "ticker": "ANT",
+      "title": "Nasdaq futures jump as Nvidia forecast lifts AI trade ahead of Anthropic pricing",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ1NnMzRzZWcxVVBQVENnT2NDVzlTMGQ0b0wzMjBfb3hoYW96NXJfTUYzVlJ4Tl8yS1RadEYzUDZYbUhSTGQzODlXOWZYWlcwMmNjbFR5ejVsQkZEaWJxM1NUMnVhTm9PQWVyREdjU1ZUdklXSXAzNTlqS09PSV9mcGJ3R1lfa09LWS1ZZlAxNWVhanJUVWdQSVo2ZHQtSjZkSGFZZWhoU1RDWnl6Z0FSQVdpUUpTTHlvMkhDZGk4T0NmYVVQd3p2aGJHOExIS3diR0FRTlZUTG41cnRMWU56TXZZVGk?oc=5",
+      "source": "TradingView",
+      "score": 84,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Quantum computing": [
+     {
+      "id": "32fa511ca42b5dee",
+      "ticker": "QBTS",
+      "title": "D-Wave Quantum (QBTS) Stock Forecast & Price Prediction 2026–2030",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SVEpXb19PbTFqX3NlYWNHZDliazhwUE1KWjBjLVJIUnRUTnc1NTJzenNFSTBZeGE5dVVHVHU2Q2Z5Y2xDMURCa2o2UHA3NWVId0hyZDVmTEZFQmRYTUFz?oc=5",
+      "source": "CoinCodex",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "8bccbb6428c6e808",
+      "ticker": "GEV",
+      "title": "Erste Group cuts GE Vernova stock rating on 2027 order outlook",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDgzZnF3c3ZvTWVxWnBwWkFsVmhpRkxWaVBtdElaUVllU3YwQkxJbmd3cW5Nb1hZRTUtWDdQLWJUR2R4cVJnUkp1ZzhINUVoU1phMldFN1JTZnVMQjlxS1dUYUpnb1ZkaW9TLUszZ0VlTjNZTlREd2pXRGhCY295ZmdlOHRlanVJQ0tNZE5sVGNKRmk2SUNNcW9DY0xxa2lxRHRNekR2Z2JDWFdiMHhYSEJVRkc0cmVzaU5sUDBmMjA?oc=5",
+      "source": "Investing.com UK",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "QBTS",
+     "change_pct": -6.81,
+     "price": 8.08
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": -6.62,
+     "price": 8.46
+    },
+    {
+     "ticker": "NOW",
+     "change_pct": -6.51,
+     "price": 92.9
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": -6.09,
+     "price": 24.84
+    },
+    {
+     "ticker": "TSM",
+     "change_pct": -3.68,
+     "price": 359.69
+    },
+    {
+     "ticker": "CEG",
+     "change_pct": -3.51,
+     "price": 268.07
+    },
+    {
+     "ticker": "ORCL",
+     "change_pct": -3.43,
+     "price": 115.0
+    },
+    {
+     "ticker": "SPCX",
+     "change_pct": 3.16,
+     "price": 141.7
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 888,
+    "major": 171
+   }
+  },
+  {
    "id": "2026-11-17-close",
    "kind": "close",
    "title": "Closing brief",
@@ -4799,169 +4964,6 @@
    "counts": {
     "stories": 455,
     "major": 65
-   }
-  },
-  {
-   "id": "2026-11-03-midday",
-   "kind": "midday",
-   "title": "Midday brief",
-   "created": "2026-11-03T17:26:03Z",
-   "since": "2026-11-03T13:30:00Z",
-   "summary": null,
-   "groups": {
-    "Tesla & SpaceX": [
-     {
-      "id": "f4e2e48f70b6811b",
-      "ticker": "SPCX",
-      "title": "How a SpaceX-Tesla merger could hand Musk majority control",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2ZLTFotSFpIcXNockdTX0wxZjJDTkp6cE1VNTN1c1A3NUpUREdPMjUyamFRTUQ3RUh1YkJwdWdrdElIcWlSdEhHS1NRZnp4SWw1TTQtXzJOTlF3RWNsLUJpSTBKcmxSQUlLVThyZW5kWEdwc1F2T3loLUg3THFicFlLNkhjdw?oc=5",
-      "source": "Yahoo",
-      "score": 87,
-      "tier": "major",
-      "category": "deals"
-     },
-     {
-      "id": "6864dcba413e0818",
-      "ticker": "TSLA",
-      "title": "A SpaceX-Tesla Merger Could Hand Musk More Control",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEV6LW9HOGlOYVhQQ1RfckpNRThzZjVjeHpvUVlFM29EUFJTR01ab1pwVGNLM0lTLS0yYzFMODVRRWg5TVEwWUdwS1BxSTVRRUNERUtpSGNzMXhOdHpJSm93eWRSb1ZFVGVjZDduSjRSLUh4X0ZsOUZEX01lTXdGQ1FxaXNRUQ?oc=5",
-      "source": "Finimize",
-      "score": 87,
-      "tier": "major",
-      "category": "deals"
-     }
-    ],
-    "Big Tech": [
-     {
-      "id": "71e606848ca83364",
-      "ticker": "AAPL",
-      "title": "Apple Retreats 4% Despite Earnings Beat as Memory Costs Squeeze Margin Outlook; Microsoft Dips, Meta Holds Steady",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVUZrNC13VW5lN2g0bnB4bzBYQjBBcy1DQUt5ZUdWVjRqQ243ajBvX1JraXZkMkxUa01JRW9iOEphMGFlVy1DTXhPWTR4S1V5UVR1b3U0LVdGTlF5V0ZMdUhPUUZfRmNobmRKN0tKM1lFdmM0Q2V6Wi0xejNLTGF4T1lERjZlSmdlLTZhTDJSdUEwNUhRMmZhWnl5TElTVUg5TnJwWWJQMk1iTmlmRkdzWVRvdHh6Q20xa0NFdFNkeHN1cjVhVm1nZ3plWGV1cmpLSnQ0cFJxNDg3TDJ2UVpJTWViRmxCN2hHQ1E?oc=5",
-      "source": "24/7 Wall St.",
-      "score": 84,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "80ab27c4cf8c47b7",
-      "ticker": "AAPL",
-      "title": "Apple Services Unit Faces Near-Term Pressure as Memory Costs Weigh on Margin Guidance, Morgan Stanley Says",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTJ1QmZUaGdwSkVJZW9IcURKM09xakt5dGpzazlEUTNLTXJXTWlabjRVOWxIaDNYRFpwdkxTTmktbHp3eG10MGpBVGhKY2U1bVN0bURieXk0VTZiQkZaM0FGWWdCaE8zWHY1dFc2bzBfaTFhQm5TTldNQ3VBWWQyaWdmZ2RUNVlndXloM0R5RVVVSlkydmstM0trdw?oc=5",
-      "source": "Yahoo Finance",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "c27dcd19325c0c99",
-      "ticker": "AAPL",
-      "title": "Apple 2027 Growth Outlook Faces Scrutiny — Analysts See iPhone Upside, Flag Services Slowdown And Margin Risks",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWW01ZUZ0UlRKbVl5cTRyS2tXUmc2S0Q2ampkSnpGX2NBdGtOdjBycnV3V2pYUWYzZ0Fmel9SNjdYTm9KejVCQlowQk9Gb1RWNmFCZVBfUjNjVGlEaGViNnp1TmVVdlNpVUVVNXlWa0VMN21mVWRseFBaMGtfOEhjMHpTTTZOQXVVdTQ3UEduaVpzOXNMenJVc1dubmM?oc=5",
-      "source": "Yahoo Finance",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "91fd34697c09314b",
-      "ticker": "MSFT",
-      "title": "Apple Retreats 4% Despite Earnings Beat as Memory Costs Squeeze Margin Outlook; Microsoft Dips, Meta Holds Steady",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVUZrNC13VW5lN2g0bnB4bzBYQjBBcy1DQUt5ZUdWVjRqQ243ajBvX1JraXZkMkxUa01JRW9iOEphMGFlVy1DTXhPWTR4S1V5UVR1b3U0LVdGTlF5V0ZMdUhPUUZfRmNobmRKN0tKM1lFdmM0Q2V6Wi0xejNLTGF4T1lERjZlSmdlLTZhTDJSdUEwNUhRMmZhWnl5TElTVUg5TnJwWWJQMk1iTmlmRkdzWVRvdHh6Q20xa0NFdFNkeHN1cjVhVm1nZ3plWGV1cmpLSnQ0cFJxNDg3TDJ2UVpJTWViRmxCN2hHQ1E?oc=5",
-      "source": "24/7 Wall St.",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "bba9349876ffa8ee",
-      "ticker": "META",
-      "title": "Apple Retreats 4% Despite Earnings Beat as Memory Costs Squeeze Margin Outlook; Microsoft Dips, Meta Holds Steady",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVUZrNC13VW5lN2g0bnB4bzBYQjBBcy1DQUt5ZUdWVjRqQ243ajBvX1JraXZkMkxUa01JRW9iOEphMGFlVy1DTXhPWTR4S1V5UVR1b3U0LVdGTlF5V0ZMdUhPUUZfRmNobmRKN0tKM1lFdmM0Q2V6Wi0xejNLTGF4T1lERjZlSmdlLTZhTDJSdUEwNUhRMmZhWnl5TElTVUg5TnJwWWJQMk1iTmlmRkdzWVRvdHh6Q20xa0NFdFNkeHN1cjVhVm1nZ3plWGV1cmpLSnQ0cFJxNDg3TDJ2UVpJTWViRmxCN2hHQ1E?oc=5",
-      "source": "24/7 Wall St.",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "AI software & cloud": [
-     {
-      "id": "4b167cc87b15dc64",
-      "ticker": "PLTR",
-      "title": "Palantir Falls 6% Despite Earnings Beat and Raised Outlook; Datadog Drops 3%, Snowflake Slides 2%",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVWdLenNZWFNrY1dwLWpmUFh0M3NqVTlDc3RHRzdpR25BR05kZ05JWVpZdG4yYUN6MDlwdGdISHlwUXg4cm8xcjBIWlVJN0JyVWJsMHpPQkYzSEdkNnVyOHRjRmNQaFZTRV9pbUtSVjlEUlE3LV91a2dWdE5MRC13cWYzLURTLXFDSVYwbFFwTF81SUlvZDgxSEh3MmVpZW5IX3JxUEc0SUJyNXFRakh1Q2NROGtIM3VYR0ZBTDZfRU1SOHVNalZBQzlKeUJaMkFlUEE?oc=5",
-      "source": "24/7 Wall St.",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "1a31438c68fcd48f",
-      "ticker": "ANT",
-      "title": "Anthropic Touts Claude’s Chip Design Skills to IPO Investors",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnpwS0FzRk9KWUhPNC1rT3JnNWdLN1NhTWM0VU5zWHkyZEo5NVR1dXJhTWdVY2R0ZGEwcVhDTGZ3TkR5SGRIemoyenlCUU1TV2xMTzNBa0xtZDJSb1hGeUVqVlhBVmJNRVFkVS1qb21LdmtqOUxmWEtVOEgwd3JnRnNJMHJIQXdfYndBMUpjZWNPaGRwSW55ZWJsdEk?oc=5",
-      "source": "The Information",
-      "score": 79,
-      "tier": "major",
-      "category": "capital"
-     },
-     {
-      "id": "bf2d7ee94cfdc079",
-      "ticker": "ORCL",
-      "title": "Oracle set to price $10 billion share sale at reported 11% discount",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3ZjT3N3Ni1HcjdIWWRNSmhaY2pQLUVyZHlJMDNDeDgyZTZIYWN5Z3hvV1R5R1c2Mk5sYmF3T210eGNaeGJQMW03R2RiOVZDTi1aVDhTRlZFRElVY1lTVTNqNTRmYmRoY3h1ZEdLRXhPLW5rdWJIeTdNZ2FXdWs3X3JNX2QzMl93MEVzMHhGZW9sOFJGVy1SQnpQeG5TYTl6?oc=5",
-      "source": "investingLive",
-      "score": 79,
-      "tier": "major",
-      "category": "capital"
-     }
-    ]
-   },
-   "movers": [
-    {
-     "ticker": "GEV",
-     "change_pct": 6.59,
-     "price": 919.09
-    },
-    {
-     "ticker": "ORCL",
-     "change_pct": 6.24,
-     "price": 126.67
-    },
-    {
-     "ticker": "IONQ",
-     "change_pct": 6.12,
-     "price": 29.89
-    },
-    {
-     "ticker": "AMD",
-     "change_pct": 5.48,
-     "price": 492.44
-    },
-    {
-     "ticker": "VST",
-     "change_pct": 4.74,
-     "price": 140.99
-    },
-    {
-     "ticker": "SPCX",
-     "change_pct": 3.92,
-     "price": 141.72
-    },
-    {
-     "ticker": "RGTI",
-     "change_pct": 3.47,
-     "price": 11.04
-    },
-    {
-     "ticker": "CEG",
-     "change_pct": 3.3,
-     "price": 265.74
-    }
-   ],
-   "filings": [],
-   "counts": {
-    "stories": 872,
-    "major": 163
    }
   }
  ]
