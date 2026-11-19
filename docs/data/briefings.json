@@ -1,6 +1,171 @@
 {
  "briefings": [
   {
+   "id": "2026-11-19-morning",
+   "kind": "morning",
+   "title": "Morning brief",
+   "created": "2026-11-19T13:48:27Z",
+   "since": "2026-11-18T21:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI chips": [
+     {
+      "id": "7da34a138128bf6e",
+      "ticker": "TSM",
+      "title": "TSMC and Samsung suspend some chip shipments to Chinese customers",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmdYLWxyejBmNWE2ZmVSbk93M0w2ajJMbzZvWE54bG5QU2JqYzNqYUhobnJVX1h6bkcyT0JZX1VLMHNYZG4tM0Q4Vmd3dGJIRG9yS2dYcjIyLVpvV3RwUHFpRXU2cU51dXdWTTBRcy1wNHBJZEYtYURQcVhOTXlZRU5nLW8?oc=5",
+      "source": "Financial Times",
+      "score": 82,
+      "tier": "major",
+      "category": "product"
+     },
+     {
+      "id": "6e96dae06b401852",
+      "ticker": "NVDA",
+      "title": "Nvidia: Overblown Fears, Strong Outlook, Rare Buying Opportunity (NASDAQ:NVDA)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1VtdXBHaDdxd2djSkh2RDdtNU1QWmpXSmhZeGRWdmlLMzRINk1ORDNtRmtBRnA2bnBiWG1HVVRTcnBZRG10ck0wM1RyZzl4dEViT2ZZby1JQmQ4S1pIQWNKMVJXMWRrTmFBMzFtNzFPbm5qRjVOWWZfMWdiRmVQYWlhaXNzbmZuUXJtV29STnpCNXJEZmZ3OGViVXd4TFBWZnUwNQ?oc=5",
+      "source": "Seeking Alpha",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "4f5043c4168a27ee",
+      "ticker": "AMD",
+      "title": "AMD stock targets $570 as Anthropic debut boosts AI growth outlook",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOGNMMFVJWjBpU004VUNPU3FPV0praHZ4aFBSRzFoSDRtVHpDTWpmcEFGSU83bkV5alVPVFQtd2ZKUTVlSnBOTlRaam9FUTdFbThoS3RpQ1ZYZzYxRzhhRldJaktpOVFTRkF6N2lYVkd5VUpWMk52MWlrSENfMWxLc3F3?oc=5",
+      "source": "Traders Union",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "337b5ec5dbf57ed2",
+      "ticker": "AVGO",
+      "title": "Broadcom Stock Forecast: AVGO Rallies as AI Revenue Guidance Beats Estimates",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWjVpV29WVnpRSjBKVjE5VUJnQUdhaWwyWTVUbmlTbVNYSURqTmlGMkNEVFZPQ1czajBFUk16N1lGd05HMl9tX3VpSEZRNkdhaThFSFRBMjhBejhxZXJBcWdFNk1XQk04THBxQXluT294X19NczN4VmJMWlV3dTNuWkdIeXlWUkRlZjJmNHpYczNtNW1pSjRtRy13?oc=5",
+      "source": "FXLeaders",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "58c7f9bde6c8aec2",
+      "ticker": "NVDA",
+      "title": "Nvidia Slides After Blowout Earnings As Investigations Line Up; Is Nvidia Stock A Sell Now?",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVDN0OTZ2VUpyYWZPcDFwa2dsSWJtakNDQ0dqM2lrdEgwd0dKOXdzM3MwNTlVUDNZMmg0V0hOcVY5WDRaWEVteDNUdTdzSGEySmZmYWd5MWliZnVKOU8ySnh2TVp4MTJvWkpERTJNclF0OW1Ic0F6M2FVMjN5ajluV1BqVWg4OGtHWndWYQ?oc=5",
+      "source": "Investor's Business Daily",
+      "score": 78,
+      "tier": "major",
+      "category": "earnings"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "47dcc0433d2bc8e5",
+      "ticker": "MSFT",
+      "title": "Microsoft’s CEO Says He’s “Extremely Sorry” for the Outlook Outage",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQU5mb3lfUm10QlcyU0hXTjA0dXVDdXlIVHRET0ZMd1ZyTWhSSENKa01wM0ctR194NE4zdmdfLVhSTkRZRXpseDlUVVhRZ01mZWY2LVZIbTBXMDJOdHhIUG9KNUMwN3VvTTRNNzBzVVFVZlRCclFlbENPNHJJWVh5Z3Rmd0NKYVJhXzg4eGtEZnRZRjc1N2dnel9Va2JtcTZFbkdCQzMtbHNvQQ?oc=5",
+      "source": "24/7 Wall St.",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "6ba64b268e0c8305",
+      "ticker": "MSFT",
+      "title": "Satya Nadella 'admits' Microsoft should have caught Outlook bug before global outage",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObGk4bnNDNjFDT0kyMWdBZTRWc1ZrbmpBa01MaGprWWphcjZJTnVRZE1qWkhUVWFjcmE4aDVXZEotV2hRU1RXdGhBeVMzSEFtakdIWTU0LURFU3VJeWVaZVhENXR0T0hhcW02dWp2ZWFwSHp5QnhQZkFGY1g3SnpFMEN6MUJMNmx0UC1IV2gyMGZMUUtmbTFXeDhBMWJOU1VKYUNYaVk4SHBZX09xUnZQdDJydG1GZ1RKOUtsTnY4YXFFWDZ4cC0xVWx6UWRDQU5hc2w4QlhoemdpUEhXVUxqTXNPMFdDV3FpZmxNRXJ4NjdINVpzamZ6ZNIB_gFBVV95cUxNNkpaREh6eEdsbG9IU1VTYWttSWNMeXZXZEFJcnB1cWQ5OXE5TmotRV81WHlzeGRHQURkZ25md0wwbkhGWXhjQzFVQ0U5a1NZVWNMU0NQbFZMemJ1WW8zdWJvOVB0WElkcWdyeC1FVWdNbGN1Z0QyemFnendnQzRmNHc0N0c5bWR5WlZPMEh5OE0wQ1ItaTRGS2FGQi1QVERDeE9jWjBkVTJTdUlIYTBETlFFeDdRbjVJMS1fVDNXR3E1VGRVb2t2dHFaT1A5Z2VKQWItb1FqaU5GOEdMTFdoMUhfcnFqM0t6VDNhMHZlUHo1OWIzN1BRX3hNS0poZw?oc=5",
+      "source": "The Times of India",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "d999ce3c2748761e",
+      "ticker": "VST",
+      "title": "Vistra (VST) Could Be 23% Undervalued After Fresh Guidance And Earnings",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRllxemtqRXpHUVYzNVNXaTlZTExGdk1Na1ctRndHZXQtRlVxckdaVkM4NHExbDNJbGprQVpqa3Y5Nk90QXh2aFhheE4xVWEtNUZoeTJtQnVWSWR1U0NpaW92YkdiQ0IzU1JjeW80WWZjZjA4TkhsUUlFTXVzNXBJQnR6dVBoN0JZd0F1X0xVZm50dlpBOFBZLUhJeFM?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "8c42eb1b95170931",
+      "ticker": "VST",
+      "title": "Vistra Corp. (VST) Stock Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNWJRYnhYLXlDZWZJMTZWdlZFQ0tBdVJGeDEwdEp3U1pIRWkzZHc5YXIyYUhoa3dkVGswdmpRRUo0TUZaRjBCdDRtb05IeUl2Ny04b21Iam1lVkdSTE1DX3pxdFoyNEQwV3ZrY0VKTHBNMXF2N3N6Z2N1ZGRNcmlvMjFDeXFLb0ZPZ3l4WGtXTDg?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "a2e848a29e8fa4f0",
+      "ticker": "SPCX",
+      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fN2ZOWVZ6YkV0emdTaWU3MGlkTzhwcFNGRl9pYXN2d2kwcnRoZW9HS0luWlp4clhWSXk3eExTeEljd1N4SklrZ3lTVkdRUzRCZE9sUFpOaDFyYTNYa19kTHNZSzVKaEV0RXl5YmJwQk9NRnRxR08w0gF8QVVfeXFMTlZsNHk0MjhxNTE4MVdnY1M5clBUYkJkX1ZONlRRZExmbF9LeU5JN3JSWk83Zkc1QUVUNlZCRDVFeExRQW1ZUUlWeVE0NVVvVGJ1MEtUYWFhSVNXX2I5bGlfb0lCSzlkaExmeXNnSVpFLTdpU0ozN0VpTmdXNA?oc=5",
+      "source": "CNBC",
+      "score": 79,
+      "tier": "major",
+      "category": "capital"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "IONQ",
+     "change_pct": -5.48,
+     "price": 23.48
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": 5.31,
+     "price": 530.14
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": -4.83,
+     "price": 7.69
+    },
+    {
+     "ticker": "AMZN",
+     "change_pct": 3.82,
+     "price": 267.74
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": 3.64,
+     "price": 354.05
+    },
+    {
+     "ticker": "NVDA",
+     "change_pct": -2.89,
+     "price": 150.96
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": -2.55,
+     "price": 21.8
+    },
+    {
+     "ticker": "NOW",
+     "change_pct": -2.49,
+     "price": 90.59
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 890,
+    "major": 178
+   }
+  },
+  {
    "id": "2026-11-18-close",
    "kind": "close",
    "title": "Closing brief",
@@ -4787,175 +4952,6 @@
    "counts": {
     "stories": 400,
     "major": 32
-   }
-  },
-  {
-   "id": "2026-11-04-midday",
-   "kind": "midday",
-   "title": "Midday brief",
-   "created": "2026-11-04T17:23:37Z",
-   "since": "2026-11-04T13:30:00Z",
-   "summary": null,
-   "groups": {
-    "Quantum computing": [
-     {
-      "id": "a84262d6014bed11",
-      "ticker": "IONQ",
-      "title": "IonQ Announces Partnership with QuantumCT to Expand Quantum Computing Access",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ionq-announces-partnership-quantumct-expand-140000229.html?.tsrc=rss",
-      "source": "News",
-      "score": 87,
-      "tier": "major",
-      "category": "deals"
-     }
-    ],
-    "AI software & cloud": [
-     {
-      "id": "76c6d41e5b74c5c4",
-      "ticker": "PLTR",
-      "title": "Palantir Stocks Decline 4.36% Guidance Requires Another 15% Sequential Revenue Step",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcE1lZW5GSDU5TVYzcWw4WWlwZG5KNi11YzNOSGtmY3dLU3ljWnNZeWw0OFMwbUl2NzU2NXcxYUhGdThZQ3RLRXlUdnprVms2U2JkblB2U3dhSlFPZXV1bXVZM0MzbmcyVjZSbkNaZUlOMnhPOXhnM2VnU2N5UXJBX29HNm8wbFdhYmpxalE1OFpveGdHRVNRRA?oc=5",
-      "source": "Yahoo Finance",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "52f688413991e5ba",
-      "ticker": "NOW",
-      "title": "ServiceNow Q3 Earnings Call Highlights AI Growth and Outlook Risks",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQREJka05oRVl2SzhZaU9BZGVWZUl6c3FkNWVxYm5NTzh1NHN2X3NRYk5VMkdET0gwMlFYeXJnYVpBVm93QlpGLUhxUHBuNlExbk1WOTdPTGdsaGtWZVFhNmlXLVYzWlpfY0ZHQ1QtT3JhMC0zYjRzZmp0U3JVNG15S0dTSlpmbXhxQmxIRmFzU3IzUEFXcWFJbVZ1bFdkWWVLQkloXw?oc=5",
-      "source": "Yahoo Finance",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "a39a040f31e95f34",
-      "ticker": "NOW",
-      "title": "ServiceNow stock raises AI target as enterprise demand accelerates",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSjR2LU94Vl9XelVQSmhCbG5ybmJQRHBXc3lfTWx0b3RobWotRmk5WVRKS014c3k2bkk4TWh6bjNDdzRmTHdnT2lwTlQtamp1VldYSDVIdTV4UWJNQktVM2R1U3lxZDE1NXEySG0wWW1NSG9EcERZYklMRVVVNnkyQnFvd2pRRDVkcWExWURmd3dTQmEzRUEtdk95ZjVRQVN2VV9uYzhWcmREOXVtOW8wRXRfWURSX29IcFJ0MzE5ZXZzMHNSbVBRdA?oc=5",
-      "source": "ad-hoc-news.de",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "Big Tech": [
-     {
-      "id": "feaa00aace2c827d",
-      "ticker": "AMZN",
-      "title": "Amazon Stock Fell After Earnings. Should Investors Be Worried?",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOW1KVXVGd19MVzNXMDFCZl9IRUFsZ1A4UHBqbFRNdzhWdV83V2JocFYzaHZoWjRlaXIzTjhCSUNubF8tTFhHX2paRUFLU1VCZmFzZ09lbFlmTGhGdGxFUl9ONWZHOXhpU2E0Q1RrTmhRQ0hwdGVTbF9HVkpSZFpEMWh3RzRpaGo3ZFlpSktvR2FXVUtBTkJR?oc=5",
-      "source": "The Motley Fool",
-      "score": 81,
-      "tier": "major",
-      "category": "earnings"
-     },
-     {
-      "id": "a274d1e21ed696ae",
-      "ticker": "META",
-      "title": "Meta draws record orders for debut euro bond sale, Bloomberg News reports",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOclIxSG9rZm1QNjJmV1I2N0hxY1V1RXl3NEpPQTF2ZF90RWlBdWhpTXd6bFB0UDdUbi1IenJFNXB0ZGNHM05JUDRzYmo1MEU5ZTlJbk1sVnRCY1BXcjF3WjBxS1VISDRvY1hqMFJaOS0xWkVUVFE3cV9TdEFDQ3I0TXRfbmhfV0xfd3VtYThyaWhOSWpmbGJNbmloTXJockNqMXYzNUxhUWhyOEkxekJjT1BiMA?oc=5",
-      "source": "Reuters",
-      "score": 79,
-      "tier": "major",
-      "category": "capital"
-     }
-    ],
-    "Tesla & SpaceX": [
-     {
-      "id": "3ed7b7b066386542",
-      "ticker": "SPCX",
-      "title": "Strategy's CEO puts his Bitcoin company in the same league as SpaceX and Alphabet",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcTdtWDdQS2FQXy1PTllFMlg4Y3k4dEhGMVpYRHBkYURaRGdxY25GWUJMZXlTcDBHaUJja1UxMWZBMkMwSVd5ZFNKQzBIUXNEYzRtM0JGMTdzQWNRV2J1RUh3aEJUWVRXU2p1VDh2a3hCRWs4ajY4MG85dlo4dHRTSDJZbnNabWlOZ0I5LVJ5TzViTTRoVzZ1UVo0NTgtSUpsRnVv?oc=5",
-      "source": "TheStreet",
-      "score": 81,
-      "tier": "major",
-      "category": "leadership"
-     }
-    ],
-    "AI chips": [
-     {
-      "id": "14e0eda6ba05788c",
-      "ticker": "AMD",
-      "title": "AMD gains 4% as revenue guidance top estimates amid strong AI chip demand",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRG43Ym5NZlcwNFlXa3FGTTAyazdIZkh0Wjk4M00xNHhSXzh1ajRhbE45cG40U2RBNHZydEJ6Y3NrY0tsS3ZyQ3hqTW9XU2Nab3NiWTVzVk5EVUktZW5RU3pObXdCTmRSVk9WM2ZYWVBtdWl0RHZHeVowVHFsYzdZYVdiYmUxS0xORGIyTTdXNUdIOWp4TlVlVk5Da2V0ZFpOR2JBaWs1VVhaOVhBOWxGSVAwbTJjUXdBeDVEM3lydVRMdlFycktj?oc=5",
-      "source": "Investing.com",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "6ed2a0ea794fe011",
-      "ticker": "NVDA",
-      "title": "Intel Drops 5%, NVIDIA Retreats 2% After AMD Earnings Beat and Strong 2027 Outlook as Intel Falls 3%; AMD Stock Goes Nowhere",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVnlhSjhhcGtkM1VvZ1BqMEVhR0d0QWNlaXNfYXNBS3ItR3dIX0k5SS1mQjlqUFBTM0tqa1F6SExNWndUeC1VSzZDNmtwYjVzb0piU3c4MFdlQ0MwdUZBVHVRbTZaT0QwX3llODFMc1A0M1pyLXNJRkJ5MkZRXzJCWUJYUG1RSm9ySVZfb2lhRGtzQVV5ZHBHWk1MQlJRcHZkaGJjNnNEZWpWUDZsbkxJSVZpUWw3Z3FrUEF0cG9hclZwdE1YTHYtNlFndW5pNWRiajlJUTVIcXNNeU93NWJPSWZFSTdUblp4cXVfRUpZM2FIZXV3T3c?oc=5",
-      "source": "24/7 Wall St.",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "AI energy": [
-     {
-      "id": "af0c16cd0a7d2a22",
-      "ticker": "VST",
-      "title": "Vistra Set for Q3 Earnings Release: Is the Stock a Buy, Sell or Hold?",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQXzdaN3JvZHBHQjk2R3J6c2g1MWFTOElILVVpcWZsaHZYcklHZHdJZGl2NDlHQk1lLVhqdUQxWG5kQmFTUk9aQTRHSndHR0pKZmQzYVR2cTFGRm9zYXZMTFg5QUFnMmRnTVhWWG83VVF1a2dPbEhsVnBNaDEtTjhDak9NaVpBZHR4bEl6YnI5aTNnTzRab1dmZERnQQ?oc=5",
-      "source": "Yahoo Finance",
-      "score": 78,
-      "tier": "major",
-      "category": "earnings"
-     }
-    ]
-   },
-   "movers": [
-    {
-     "ticker": "VST",
-     "change_pct": -13.52,
-     "price": 120.72
-    },
-    {
-     "ticker": "GEV",
-     "change_pct": -10.55,
-     "price": 821.34
-    },
-    {
-     "ticker": "AMZN",
-     "change_pct": 6.94,
-     "price": 268.1
-    },
-    {
-     "ticker": "MSFT",
-     "change_pct": 6.68,
-     "price": 555.79
-    },
-    {
-     "ticker": "CEG",
-     "change_pct": -6.55,
-     "price": 246.14
-    },
-    {
-     "ticker": "AAPL",
-     "change_pct": 6.53,
-     "price": 353.56
-    },
-    {
-     "ticker": "OKLO",
-     "change_pct": -5.81,
-     "price": 22.12
-    },
-    {
-     "ticker": "GOOGL",
-     "change_pct": 4.19,
-     "price": 291.76
-    }
-   ],
-   "filings": [],
-   "counts": {
-    "stories": 770,
-    "major": 83
    }
   }
  ]
