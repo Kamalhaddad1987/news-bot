@@ -1,6 +1,171 @@
 {
  "briefings": [
   {
+   "id": "2026-11-20-close",
+   "kind": "close",
+   "title": "Closing brief",
+   "created": "2026-11-20T21:15:04Z",
+   "since": "2026-11-20T17:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI chips": [
+     {
+      "id": "6be3f88e8e2bd4fa",
+      "ticker": "NVDA",
+      "title": "Trump calls for Nvidia's Huang to be given 'second chance'",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcFE4TFZEZnQ4XzJielJtMnJpV19xNGR6NkcxcFFHQjhKcTVRd0N6WGxkUnNtRUp1X1pjdk14UHdZQjhlbS00MTZ3VVlNUW9BR3JaVVA5Z0NyTFpiWGd2OUNKbzRPSnR1X1N1MEdlSUV2ZUh0czlyekJDRjRxbFk0enREVk9LRU1kNXZsR3dxZV9mX1g0SWk1N3ZIN2o1OFJ2ZVBlLWV3?oc=5",
+      "source": "France 24",
+      "score": 84,
+      "tier": "major",
+      "category": "general"
+     },
+     {
+      "id": "b1a516fa1033b509",
+      "ticker": "NVDA",
+      "title": "Former Nvidia CEO Huang Agreed to Testify at Public US Senate Hearing, Senator's Aide Says",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU1pmSXhPWlNiWTl2MXNxRUR5cWJJRFdSdm95MWt4dGJJdnZrVVVIajdramhVREFHTkllNTdGTnNNMWlpQnJhNUlTb2lCV1NWaDNoanpsdXc3MV9YYklIakFaRnFhc3hPZVlkM2lIUy1JTjFXR1RCcXhoLXBvc3hfVkdoWkYyV0hGRGZhMXVaYkg1WC1BdFJIQlgzMWJ0NVVKWE41cml0X204a1VoQzIzeVNJQmVfZWQ1dFFLcG1ORE5jbnlib0RpUk9VTnBpNkpXU0F4SFZLSVpaUQ?oc=5",
+      "source": "U.S. News & World Report",
+      "score": 84,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "631b504304663ffe",
+      "ticker": "NVDA",
+      "title": "Trump Says Huang Should Return as Nvidia CEO After ‘Big Apology’",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFdfWGphRTBrWWxRT1M4bm1uMmZ2cHh4UmFJNEJFXzVxRXh3aThLVWtsMjBNRVVxV2J1RXAyTTh6NkpmMExOZkR5ekNmcHh0bFBzcGFvT21DQWVsVEdXRUcwT1NCTWI0dWtVbjcwaDJuT0F1bnUtY0wzWHVRUXNCR2U2dWFrTmxOaGFzaVZXQ004OFVYUjd6cmJQUmRfdVNubXc5V0tfd1FpMURubnU4bzZTNA?oc=5",
+      "source": "Bloomberg.com",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "76db8309016fd885",
+      "ticker": "NVDA",
+      "title": "Market Hang: AI Reset? Anthropic's Outlook, Amodei's Future, and Who Could Dethrone NVIDIA?",
+      "url": "https://finance.yahoo.com/video/market-hang-ai-reset-anthropics-outlook-amodeis-future-and-who-could-dethrone-nvidia-210048852.html?.tsrc=rss",
+      "source": "News",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "4787b418825eb5d7",
+      "ticker": "MSFT",
+      "title": "Microsoft Investigates Reports of Attachment Issues in New Outlook",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUk5qcm1ObHAzaUlQNlhOVmlFSU1Md1ZMSkdBaVJIdXBIMDdzN0lpbGsyeENEQmZFX2tpQ1BNZXFIWDZNcERMNENZbWx0c1dLbzVnQ19YTWc2YjhaS3pMREJJZWVKY1lXMFljSFFCRHpVT3ZPZEdyUVVJOVF5WFNsMmN4bTU3Y2tUZlhraXRjd3M4TDFKNVpPSzB2SVQ2ZEFjeEtOZVhEWGtPUkRyQW1wQlh4aHpzWFY0djNj?oc=5",
+      "source": "marketscreener.com",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "afeaf062f825903a",
+      "ticker": "MSFT",
+      "title": "How Microsoft’s (MSFT) Valuation Crashed From 75x to 10x – Even as Earnings Kept Growing",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdmtjd3Z4UGFpS2c5OUNDX3FkMlFzNGo1WVROYThDcmVIZlRjRXBmbGluTmlrNERVNTRqYXk3UHpXZUxLM0lmUGttbV9rQVpKR3YyUnFMcXo0RV9iam9IRzFnTTk3cTV6dC12a2FDZmoyUEhJR09EUDBlUmIyS19zUVljQW45SnB3RUQtVE9ZLTEwWlVzaEx5cXJxbld4LWFrQmpV?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "earnings"
+     },
+     {
+      "id": "905fc9c9acbd506e",
+      "ticker": "MSFT",
+      "title": "Microsoft's New Outlook is having problems with attachments. Here's what to do",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNHctOXBsYVd4bUZ0R2M0UkNiNENucnk4cDVlVjhqdXZZQWU2YjlmanZUT05NbzFRZG15OFV6cnB6RnliRmdxX1pFMUk2NHJrZnB5elJQYVprWHR6Z2tyaV9CVW5lSENRMXRoUWlDLUp2c3hWd3hvRVlBMEQwcDRYZVJmM3ZyeWc?oc=5",
+      "source": "How-To Geek",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "d0b62e557280744c",
+      "ticker": "ANT",
+      "title": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
+      "source": "StoneX",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "cb45742b18386397",
+      "ticker": "NOW",
+      "title": "ServiceNow Sheds 13% in a Week as AI Enthusiasm Cools and Bookings Outlook Disappoints",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPM25XS1hZTlNPUGl4bDhaN2NWcm5rTUNIbDdCUFM2TmtZTm9La0VId1BOQjFSUjlLMWVxYVFibmJwYlRuN0FsRERGWXFZTWN3RlJDUjZ2OEEzM0NEa3plOFdDM3h4amYtbDk0Mi1IeXhxU2llVDBKNEZ0ZjgyWlNPbmZ6a2RtVmVPNGpZRF9XODQtanIxQkpTeWt4NTBPMDg4T0dXZXpuRmNhcUQ3SExnc0hPSXY4MXN2TXQ5M0tOYU1ndjdsc196MWtPejJTcVphSXNPN2hjYV9za1lhNG4tT3BNUWFHRlFhYUFtcnhR?oc=5",
+      "source": "ad-hoc-news.de",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "53b4eb1c45296814",
+      "ticker": "CEG",
+      "title": "Barclays maintains Constellation Energy at Overweight, raises price target to $371 from $345",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdkdzMUpQUDNtaVdFc3had1p2TW9XOFRId2xMdndaUlRfcjFZcXBBUXZCNEJDNUFTeWlEM0ZnekFPdUV0aHlhQUJjRHhDRnZnQWFIaE1MMG92VlZOUHBaZF9zaF9tNjRXOTNNNkhlWkx4RGljX0Utd2l5MEJSN1BHX2ZnMk9ZMVhlYzlWN1gwM01scUgzblFabVl2eEkteEFFeXM4THZDcWJRNHBPQ054aEJUeklNanB6WGRNTHExVEttMEJub1FJaW9ycC1ydkIwVUNNaVRZT1JhcXVaNFhMMlk0bjJEQQ?oc=5",
+      "source": "TradingView",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "NVDA",
+     "change_pct": -14.01,
+     "price": 125.53
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": -13.25,
+     "price": 424.39
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": -12.19,
+     "price": 304.41
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": -11.17,
+     "price": 7.16
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": -10.81,
+     "price": 6.52
+    },
+    {
+     "ticker": "TSM",
+     "change_pct": -9.3,
+     "price": 319.33
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": -8.59,
+     "price": 20.76
+    },
+    {
+     "ticker": "ORCL",
+     "change_pct": -8.5,
+     "price": 101.17
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 499,
+    "major": 79
+   }
+  },
+  {
    "id": "2026-11-20-midday",
    "kind": "midday",
    "title": "Midday brief",
@@ -4755,175 +4920,6 @@
    "filings": [],
    "counts": {
     "stories": 760,
-    "major": 105
-   }
-  },
-  {
-   "id": "2026-11-06-morning",
-   "kind": "morning",
-   "title": "Morning brief",
-   "created": "2026-11-06T13:42:00Z",
-   "since": "2026-11-05T21:30:00Z",
-   "summary": null,
-   "groups": {
-    "Tesla & SpaceX": [
-     {
-      "id": "d1525da858fd313a",
-      "ticker": "TSLA",
-      "title": "RIP the Cybertruck: Elon Musk says Tesla will wind down production of its most polarizing EV",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkxvb0RxQjJFZ1FfQ1RaSWpBODJjOGcwUzNrM1BiNTRVWGxxR3ctZkV2OEV4UVFlQTYyWm9jb3A5ajBkenFhOFItd2ZrdEhJVE8yNUZCN2JlNXpPb0V5dThoUnp4SXU4TkN5VURvZ0M3aXh1WDdDejFOQk9pdXoxdmpSakg0NHUyc2hPR0QtMnNIbWc5SFEwWXpwV25TbDRRblFYbA?oc=5",
-      "source": "Business Insider",
-      "score": 87,
-      "tier": "major",
-      "category": "general"
-     },
-     {
-      "id": "84351fde067bec5a",
-      "ticker": "TSLA",
-      "title": "‘He wants the whole bag:’ A SpaceX-Tesla merger could help Elon Musk gain major control — without hitting lofty goals",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUlXM2pweXIzakUyVF83MUV6UUVMZFA5T0U0ckZuVGhidUMtUkIzX25EQ3RmM29UMVRTRmF4S21fajBIMW9uT2VIWGNVZ0hxSzlwWHRTS01xZVB6am1Yb25zcVpxSzkxWjRBN3pSUUxIUmhHNGlDYkdERXdYVDBYcjE5Y3dUcVRiUW1JeGctdmFKYVlJR3JrOQ?oc=5",
-      "source": "Yahoo Finance",
-      "score": 78,
-      "tier": "major",
-      "category": "deals"
-     }
-    ],
-    "Quantum computing": [
-     {
-      "id": "c58ffdbf3be412e6",
-      "ticker": "IONQ",
-      "title": "Quantum Computing Stocks Rally On IonQ, Quantinuum Q3 Results, Guidance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXVJaVVhU3ZrM09HTkpwRW9ZWDUxRS1mS3RyT3BRZFIxMmVBaFpGNFVIYjNjUWJ6NUdFdVNRQVZYbTY0Sy1hT1NDak1tMVdfY1Y3ek1DSVBfbWJlMDdYT2phSHRsbEpEbHR2c2t6V192VVhQUkRDajB0eGV6N3FhZXYzMUdRaHFTNkRtRl9qY1RmejFsanR1VFRKYndLSnF0?oc=5",
-      "source": "Investor's Business Daily",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "AI energy": [
-     {
-      "id": "430525f4eb791d50",
-      "ticker": "VST",
-      "title": "Vistra Reports Third Quarter 2026 Results",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbDVzUG11TmU3SE5ua3pmMDRZZlZJTGdtMVJiMnNZRExfbFAzeGh1bHFMYVM0bVVMWTRJZUtONGdFbW83bm5lMWJDcHJhdGJmbUZWcHRBV2VjNWJzRDdxVHFseUlPM3IwdUhBUFpURFcyZFZtMkhmYnJzQjZHUkRjeE9sQV9WZG1FT0JGZ0hFVU9tT3dDRXVDSmZiZDBHX3UxQnl3Nw?oc=5",
-      "source": "TradingView",
-      "score": 81,
-      "tier": "major",
-      "category": "general"
-     },
-     {
-      "id": "5fac102a05258a1d",
-      "ticker": "GEV",
-      "title": "GE Vernova Is Up 18% in 2026 After Three Guidance Raises: Take Profits, or Buy More?",
-      "url": "https://www.tikr.com/blog/ge-vernova-is-up-18-in-2026-after-three-guidance-raises-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261105-wg2jv6gx&.tsrc=rss",
-      "source": "News",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "AI chips": [
-     {
-      "id": "01b777d88d9e9d3c",
-      "ticker": "AMD",
-      "title": "Palantir and AMD Just Reported Earnings. History Says This Will Happen to Both Stocks Next.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWU9IV2Vjb0FLUTdvSjdQZ2RIOFo5S0xyaTk0S0RaWU55RWx0RUMyY1FOSURkV3ZzZFFUbWNjNl8yTzZTRnlHSHcxM1BKV3F1alp2eFRFdGdtMHFMdlNGbjJxejNlN2Z2MGZoMXlOc0c0QW1HNGtPdWVZLURxVld4XzE0eU1pZ0JtWW95MFBTdmdVeU12TG5lbQ?oc=5",
-      "source": "The Motley Fool",
-      "score": 81,
-      "tier": "major",
-      "category": "earnings"
-     },
-     {
-      "id": "25333b38590a855c",
-      "ticker": "NVDA",
-      "title": "Nvidia Stock Forecast: China Shipment Delays Put $173.69 in Focus",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOczhYWFR1YnE3VXBBNUpyZld3eFlvSzBzTXZZZzBkWUtyd1dzcGpZVVYtdk1VVFRTMkVxUzNTcmN5UEdiYnRYQmFpRnA1V1ZyZjMxcmZ5YzVuYmNibUJ1X1BnbEV1QkQ1UUFRdy16SHliUVVvUmhGT2MxZEFuTmxkVG5EQ013Tkg0S1hCZk9SVDAwQTN0WXB5cWd3WjVvR0pKQVlsWV9xYTFZc2dMakpjcy16M0pDdm1HVzBYSFdBUks?oc=5",
-      "source": "TradingKey",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "AI software & cloud": [
-     {
-      "id": "7553eb619e0e45a5",
-      "ticker": "PLTR",
-      "title": "Palantir and AMD Just Reported Earnings. History Says This Will Happen to Both Stocks Next.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWU9IV2Vjb0FLUTdvSjdQZ2RIOFo5S0xyaTk0S0RaWU55RWx0RUMyY1FOSURkV3ZzZFFUbWNjNl8yTzZTRnlHSHcxM1BKV3F1alp2eFRFdGdtMHFMdlNGbjJxejNlN2Z2MGZoMXlOc0c0QW1HNGtPdWVZLURxVld4XzE0eU1pZ0JtWW95MFBTdmdVeU12TG5lbQ?oc=5",
-      "source": "The Motley Fool",
-      "score": 81,
-      "tier": "major",
-      "category": "earnings"
-     },
-     {
-      "id": "a5086f430a0cc03d",
-      "ticker": "ANT",
-      "title": "Anthropic links Claude to Plaid for finance guidance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakNXYkNyNlBLeXFPREZxQjVRdG1FQjRMOW1NbVVmZWJDUldWUW43YXBVU0ZlcU5HcWlmWHdnVlpDbWtEcXJIOUhqUks0UGt2N1NhQklrQmgxUmZXeDZwNGEwUFUxV2ItYWtidlRLa0xjYjFTbHVHQzdMOTk1ZXRWQ2dCZTNnb0pHZ2dnYTZqZ1pFckpBdE50MXpibEtQV1NFOFc1QllYaw?oc=5",
-      "source": "The Paypers",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "Big Tech": [
-     {
-      "id": "f02ecc7af82b78f8",
-      "ticker": "META",
-      "title": "Dan Ives Forecasts 25% Drop In Capital Raises for MSFT, META, GOOGL, AMZN as 2027 CapEx Peak Sets Up ‘Mas",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOX1RMTE1HMnNUV2w3Tm1Rb21TcXJzbzFVcEwtTlJQMVhzVEpOdVhOUE1fd3N2NFlfSzlrLWY3TTlNQmlaMVBMUjh1MTI4bE5aS0E3cG5FbjFXbFctd2hwX1lKUFNTOTlhNnh6UnZpN1VfYTlweWxKSlFDZTZ1VGF4M1ZlSzR1MHRHOERtMFpkQ1lta0VfRzJHdzR5WktwQU9lNVFUR3JJREE1cjN5RjJCemtfZlBFMm5DWHVsVlpkM0VWdXRIQ1pXdlJqU2lXZUpPX3V3NUQxUVVXNGVpVTZ0VXVjblNWYU1IYS1uek50NmdPVEdfdFlYTWF3S3l2TXMwQ1BkcmNjOHY4S2w3UHBBN29R?oc=5",
-      "source": "Benzinga",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ]
-   },
-   "movers": [
-    {
-     "ticker": "AMD",
-     "change_pct": -17.26,
-     "price": 404.4
-    },
-    {
-     "ticker": "OKLO",
-     "change_pct": -13.2,
-     "price": 19.2
-    },
-    {
-     "ticker": "QBTS",
-     "change_pct": -12.81,
-     "price": 9.05
-    },
-    {
-     "ticker": "RGTI",
-     "change_pct": -12.13,
-     "price": 9.85
-    },
-    {
-     "ticker": "TSM",
-     "change_pct": -10.78,
-     "price": 353.1
-    },
-    {
-     "ticker": "TSLA",
-     "change_pct": -10.77,
-     "price": 343.69
-    },
-    {
-     "ticker": "IONQ",
-     "change_pct": -10.53,
-     "price": 26.43
-    },
-    {
-     "ticker": "AVGO",
-     "change_pct": -10.43,
-     "price": 291.53
-    }
-   ],
-   "filings": [],
-   "counts": {
-    "stories": 882,
     "major": 105
    }
   }
