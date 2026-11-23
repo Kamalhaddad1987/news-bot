@@ -1,6 +1,173 @@
 {
  "briefings": [
   {
+   "id": "2026-11-23-close",
+   "kind": "close",
+   "title": "Closing brief",
+   "created": "2026-11-23T21:15:49Z",
+   "since": "2026-11-23T17:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI software & cloud": [
+     {
+      "id": "73f91114490dd6ba",
+      "ticker": "NOW",
+      "title": "ServiceNow stock: catalysts, technicals, and outlook after the selloff By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeGFUM0Nva05PM3NMdzB5eWdkaWc1aFMyYmNZTklwX3lKcVptNXVmOFh1UW14dFZKWHpIbjBsTmNUNUZVTm9WZWZkMkZhdWVwVTEwZVd5UElGa1hLTXRGTFVnbUJvUHRQcjliQzJ6QzFCbm5ndGdkV3lTS2ltTTdCVzFkUDAtb05feGVZWkVhODUxU2FGbW9FaXJUV1NHSlBCaDByWGRnc1FvQURtWUJNNHQydEkwczNwR1YtOXFvY2d5STQxczlR?oc=5",
+      "source": "Investing.com India",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "b616c47e4ae86340",
+      "ticker": "PLTR",
+      "title": "Why Is Palantir (PLTR) Stock Up Today? AI Rally Follows Nvidia CEO Return",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-pltr-stock-today-173107823.html?.tsrc=rss",
+      "source": "News",
+      "score": 78,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "f7483d8214966662",
+      "ticker": "AMD",
+      "title": "Why Does AMD Trade at 30x When Nvidia Is at 10x Forward Earnings? AMD’s China Exposure Is Bigger",
+      "url": "https://www.tikr.com/blog/why-does-amd-trade-at-30x-when-nvidia-is-at-10x-forward-earnings-amds-china-exposure-is-bigger?ref=yahoofinance&tlnk=yf-261123-7hvpgqh6&.tsrc=rss",
+      "source": "News",
+      "score": 78,
+      "tier": "major",
+      "category": "earnings"
+     },
+     {
+      "id": "9a445386e13b72be",
+      "ticker": "NVDA",
+      "title": "Huizenga wants answers from reinstated Nvidia CEO Huang, Trump admin",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSEFiWW4tS2h4U1p3Qk1wN0NhWGRCNktYdzR5MW0tWGJ5QzJqOWUycFJHWkwxNGtDUnNmMGN0MXVRNWpGQ1N3MWZhWUhscHNmVl90TktUZFppcjZqYWRubVB0M1BoemZNdjI4djBDcEhoVkxwclJvaUg5R0N1ZFE3WEdYZ29rMnhnQ251TkNObTVCUi1LcjB1bU9tUndtQkRJVmJYUjd4NFAxREt1bEM4MENkbVBNamt0Vmx0WUlNUjkzWUQ5QTM1cVptV2NncEpaU1lLLUd3?oc=5",
+      "source": "The Detroit News",
+      "score": 78,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "92ac1d98734a4435",
+      "ticker": "NVDA",
+      "title": "Nvidia: CEO Saga (Probably) Ends With Jensen Huang’s Reinstatement",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcEIxQXdrc1dZUE9CMnY0djFkcWowWVJGR1lxQWpUVUlEN3FGSVJtQXMwZlE5MjN3RE5aY0FlTjBZZmcwbzVMbTg1QkJ1Rk9oRmpvM1BLY2JuV1FiaC1HMm01UWtoWTE3NFBhdDMybjhJdDZQckNzX283UjRaMl9vTEt6UWdPendVTjBnZE1jZlI1LTQxeVMxY1luQ3M3OF9VVTQwQmZ6eGRjdw?oc=5",
+      "source": "Morningstar",
+      "score": 78,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "b818e47cecea568b",
+      "ticker": "TSLA",
+      "title": "“No Synergies” in a SpaceX-Tesla Merger? Really? Starlink Just Showed Up in a Cybercab Roof",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTBkN3JhOXVGUUJQYXo4c0xZRTRIdHRfdUp4bW9JQXB3TVROamxadVRIbHJwVjRZeEROSDFyOEEtRXpiSWNodXRsTGFUYlJfVEdhMHAyWVpCYlloSkFFanRwMlZtcDlEdzhMd2R2anBvcHBrYkN4UjJvQk5vSzlKRTFMVS1SdmVIR3R2TUEzNnNsRzZtaTlFNi1iTFh0dw?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "625b99288cd68474",
+      "ticker": "SPCX",
+      "title": "“No Synergies” in a SpaceX-Tesla Merger? Really? Starlink Just Showed Up in a Cybercab Roof",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTBkN3JhOXVGUUJQYXo4c0xZRTRIdHRfdUp4bW9JQXB3TVROamxadVRIbHJwVjRZeEROSDFyOEEtRXpiSWNodXRsTGFUYlJfVEdhMHAyWVpCYlloSkFFanRwMlZtcDlEdzhMd2R2anBvcHBrYkN4UjJvQk5vSzlKRTFMVS1SdmVIR3R2TUEzNnNsRzZtaTlFNi1iTFh0dw?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "deals"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "f88d45644c60a991",
+      "ticker": "AMZN",
+      "title": "Amazon to buy Israeli startup Decart's AI tech in record $7.5 billion deal",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPeXl6cUFSeDZqTDVwV3ZuVVRhYlM2UFRyZ1JCSHFGdDRBdUtjUDViOXJZbW9KMFRCbFBvS3ZfOWZhbEVvYlF6MmdjZ1I3N1UwTE43MDJVaXpQTDNqdnVUQWk4Wm50bHBPQ2dTZGRicDRwcnZ3NmM0UUdEZXRncmFVYnNmVlAwclNsSTFwYzhQMVQ0NGwwT2tpYXhRb0lVcm1MMW5FWHNDQVVFWUhOSWFySXUzMTJlclM1S3FXeGxzRHpzZHZ4MEhIU21DcVZOZ2c5enl2Qmw5em84OXNxMjJyUExYVndxcjZPY0t2NTRUWERqT1FZM04tRFJ6OXhQbVFNNzJld0V6MF84ejVFd1ZxeklFbnNFQTBIbGVBam4yTlpfMUNWMXc?oc=5",
+      "source": "Haaretz",
+      "score": 78,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "a0b53f0ce282bbc6",
+      "ticker": "MSFT",
+      "title": "Microsoft's Outlook outage didn't take long to become phishing bait",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1B4VzlnS3dNdDhuQ2k4Z3pnQnJiZVVfQTVZNlJRTlVrS2ktQkhyWHJmUktzQThEaWN4ZGRvYTNaV0lDSU1STlVTOXpIby00cVBvbkg5d2tFT3RvaElNU0ZBdWxJbmtEVkVFNkcxc1kxMnNZcnFwei1fUWk0QnhVbkZEakdZTnp3dTJveDJFNlRQVnVtMC1OWm5JcE5jcEJDNG9iNjJGOHIxSDZjdjQ3ZUtDYjZ3YlVJZXdIck9TbDY5ZVkxV1E?oc=5",
+      "source": "Windows Central",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "77d815ca2c4ef3ec",
+      "ticker": "CEG",
+      "title": "Morgan Stanley maintains Constellation Energy at Overweight, raises price target to $393 from $391",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUVJjWm54a0hMMDN2dTFDZXhkOW5weEpia2hibXdqQTJXbUJnNlJsYTN3bzJwMUlEUEEtSUI5SE1zRFE0aXg3c1BWYi1CcDZ6VVZqajhOWnYtQjlWLXRHQk9lLVcxa2hVQWtRTFRWVWlRNEFIcS0xbE95OHF2RFZpTDZKeDhJblE4dHdkNVpVUzJrSFNjTjFjMlJGYVhzU0lhV2EzbjVVMWdiMHZCR1dLY3B0RHEzR3VPUmhEejhPem94VzJ0R2ZzUWhabWZLZHVDNkI1d1dxTkpVbFY4dmpLNzRMYXVjaHlTNjZpTWZn?oc=5",
+      "source": "TradingView",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "NVDA",
+     "change_pct": 31.48,
+     "price": 165.05
+    },
+    {
+     "ticker": "TSM",
+     "change_pct": 14.08,
+     "price": 363.6
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": 13.3,
+     "price": 8.1
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": 12.64,
+     "price": 23.34
+    },
+    {
+     "ticker": "ORCL",
+     "change_pct": 12.34,
+     "price": 113.68
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": 12.12,
+     "price": 7.31
+    },
+    {
+     "ticker": "TSLA",
+     "change_pct": 11.46,
+     "price": 385.46
+    },
+    {
+     "ticker": "PLTR",
+     "change_pct": 11.06,
+     "price": 159.36
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 574,
+    "major": 54
+   }
+  },
+  {
    "id": "2026-11-23-midday",
    "kind": "midday",
    "title": "Midday brief",
@@ -4748,171 +4915,6 @@
    "counts": {
     "stories": 831,
     "major": 141
-   }
-  },
-  {
-   "id": "2026-11-09-morning",
-   "kind": "morning",
-   "title": "Morning brief",
-   "created": "2026-11-09T13:45:58Z",
-   "since": "2026-11-06T21:30:00Z",
-   "summary": null,
-   "groups": {
-    "AI energy": [
-     {
-      "id": "04fb48d9657952c7",
-      "ticker": "CEG",
-      "title": "Constellation Energy (CEG) Reports Strong Q3 Earnings, Upgrades 2026 Guidance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd0pQVnc4Rjd2QnZIN2M3M0lqRW9saXA0Vk52X3o2TlRIN010LUlmSEZWOWszaDl4b0lxb1REc1NiTE54dWQ4ak5nd2FkZjhRdVd2SlJfSDlPR2tMQ0hkamhQY0h5YTZ2RTNtX1pGZjMxTHowMldxOE5FX2NXeFVQc1FTUjUzdkVtenhRMmlaRkZkLURFOVF0T0RjeWFxS19OTUo3bGRRR013b2JJR0RfSkhJSQ?oc=5",
-      "source": "GuruFocus",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "c836d90e533b0422",
-      "ticker": "CEG",
-      "title": "Constellation Energy raises 2026 earnings guidance after quarterly profit more than doubles",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNc0JxVFBIOU1UOXBLUVlOSjRvTVdrYlU1dk5zQW1YSkFFUjBMa3V4T3o4UnVPTG5HREdOZ1Jndk03V2lGdUhFMnpMOFlPVmdyTTFmZW5xTC1EUHIzTFRlZDhiTkNSaUpTd216TUlPS3pLSzBjbEhuMGxJaktQVWNxeXlQMG96Y0d2Ti1WaFRKSjBvZGlkeG9EVWVLTThfX1A1ZXdZM2l1aVlxWTloV2hMVFpHaklMQlZUNk9rOW5DQUpQVGt6b0Ywc0N2bFU3OEpxc2x6T2pta3ZlVDRyMlpmc0hNeFQ3aXVkMjRoMC1tZFY3N1d4?oc=5",
-      "source": "Proactive financial news",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "f1fe080c2134a664",
-      "ticker": "CEG",
-      "title": "Data-Center Moratoriums? They Aren’t Showing Up in Constellation Energy’s Guidance.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVA4VGxVaW96Rl9UNUdUTEgzTlRvc2twQzhENXBpdklicVV3MFhaQmdHVzdyVW96d0FET0ZjeElfcm51R25uVHpOOVFZTk9OOXp4cFFCX3FOWWhhRzZqNVhrcTJYQmp5VUNxUjIzeGtUcU9HREN1Uy1nX2s1MkhuR0JIQ3lwMzNJd3BZ?oc=5",
-      "source": "Barron's",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "Big Tech": [
-     {
-      "id": "9701651e131d6419",
-      "ticker": "AAPL",
-      "title": "Apple's Market Value Grew From $350 Billion to $4 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFoxb2lJNkRwWlJ6QzdLRTlGdWktTm1lRjIwdzZCaXpmQnJjTkFvS3owbHZxRGtXd3VLYktFd2xNN0FVME1GRGo4b0lERF93RzRGTmpWSWd2NG1xeGJqMGJ2THhoeUhjTm52Y01tRzJCYVVuR2V4VmJyOWt5VjBMOF9mOTF2TDdPMU5yNEhkXy1WZWJOTU1r?oc=5",
-      "source": "The Motley Fool",
-      "score": 81,
-      "tier": "major",
-      "category": "leadership"
-     }
-    ],
-    "AI chips": [
-     {
-      "id": "a8deecf924d7f154",
-      "ticker": "NVDA",
-      "title": "Nvidia shares drop after co. investigates whether CEO was 'target of a foreign intelligence effort'",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-drop-co-investigates-131519038.html?.tsrc=rss",
-      "source": "News",
-      "score": 81,
-      "tier": "major",
-      "category": "leadership"
-     }
-    ],
-    "Quantum computing": [
-     {
-      "id": "0a0cc5d988ea4b9b",
-      "ticker": "RGTI",
-      "title": "Rigetti Q3 Earnings Preview: What To Expect From Upcoming Report",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ2UyZEptU0RHUnRpS05XWE1vcWVhaFp3S2R0X21YamdvbXhwYy1ENkJBYWNSbVQ0X2ZWWnRieVByQ213T2FEV2tRRmhUaFRLclNDM0hzU2Q0S1Nldm8zeElBcG1MbDFoeWNBUEMxQ0lSX0ZkZk1tSXd3ZjZvVTh4RHVzOERTUThCbmNPekdfQjgtQjhxaERUOUhES1lvVkg3U1FPNzdmSHozOTVOOUV5ZXJXUENqNHotWDZvX3N0Rk8?oc=5",
-      "source": "TradingView",
-      "score": 81,
-      "tier": "major",
-      "category": "earnings"
-     },
-     {
-      "id": "125a09380be3b392",
-      "ticker": "IONQ",
-      "title": "Rigetti Stock Jumped 17% on IonQ’s Guidance Raise. Here’s What Its November 10 Report Has to Show",
-      "url": "https://www.tikr.com/blog/rigetti-stock-jumped-17-on-ionqs-guidance-raise-heres-what-its-november-10-report-has-to-show?ref=yahoofinance&tlnk=yf-261109-36m97mqw&.tsrc=rss",
-      "source": "News",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "d249f3f855df5ce7",
-      "ticker": "RGTI",
-      "title": "Rigetti Stock Jumped 17% on IonQ’s Guidance Raise. Here’s What Its November 10 Report Has to Show",
-      "url": "https://www.tikr.com/blog/rigetti-stock-jumped-17-on-ionqs-guidance-raise-heres-what-its-november-10-report-has-to-show?ref=yahoofinance&tlnk=yf-261109-36m97mqw&.tsrc=rss",
-      "source": "News",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "8106c388e09343f6",
-      "ticker": "IONQ",
-      "title": "D-Wave Rallied 18% on IonQ’s Guidance. Its Own November 10 Report Has to Earn It",
-      "url": "https://www.tikr.com/blog/d-wave-rallied-18-on-ionqs-guidance-its-own-november-10-report-has-to-earn-it?ref=yahoofinance&tlnk=yf-261109-5xm88h3x&.tsrc=rss",
-      "source": "News",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "86edd68a058586e6",
-      "ticker": "QBTS",
-      "title": "D-Wave Rallied 18% on IonQ’s Guidance. Its Own November 10 Report Has to Earn It",
-      "url": "https://www.tikr.com/blog/d-wave-rallied-18-on-ionqs-guidance-its-own-november-10-report-has-to-earn-it?ref=yahoofinance&tlnk=yf-261109-5xm88h3x&.tsrc=rss",
-      "source": "News",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ]
-   },
-   "movers": [
-    {
-     "ticker": "IONQ",
-     "change_pct": 23.42,
-     "price": 32.62
-    },
-    {
-     "ticker": "OKLO",
-     "change_pct": 22.66,
-     "price": 23.55
-    },
-    {
-     "ticker": "RGTI",
-     "change_pct": 19.29,
-     "price": 11.75
-    },
-    {
-     "ticker": "QBTS",
-     "change_pct": 18.01,
-     "price": 10.68
-    },
-    {
-     "ticker": "AMD",
-     "change_pct": 11.04,
-     "price": 449.04
-    },
-    {
-     "ticker": "VST",
-     "change_pct": 10.55,
-     "price": 124.8
-    },
-    {
-     "ticker": "SPCX",
-     "change_pct": 8.62,
-     "price": 134.27
-    },
-    {
-     "ticker": "TSM",
-     "change_pct": 6.33,
-     "price": 375.44
-    }
-   ],
-   "filings": [],
-   "counts": {
-    "stories": 891,
-    "major": 147
    }
   }
  ]
