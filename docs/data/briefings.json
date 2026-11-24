@@ -1,6 +1,171 @@
 {
  "briefings": [
   {
+   "id": "2026-11-24-morning",
+   "kind": "morning",
+   "title": "Morning brief",
+   "created": "2026-11-24T13:48:52Z",
+   "since": "2026-11-23T21:30:00Z",
+   "summary": null,
+   "groups": {
+    "Tesla & SpaceX": [
+     {
+      "id": "367e11402bd8adec",
+      "ticker": "SPCX",
+      "title": "SpaceX and Tesla entrusts five directors for merger talks, FT reports",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOWExOGdJaUNMaGJweWhHZFNzMWhBZ1N5c1N2X21UcUJDNGpzR3lBNTRsR3kyS2FXWDEySGNXckZfYzBwY0NybHZPaktCM01IN1hMZ1VMdjRqRVJuaER6VlBMYjRmdWtrZVRJRWg3Y0hFWGswSmwyeTh0QlZsMHJjbzk0cExHaURXempJeUt6MktLT0swcF8tcU55MXRFRGo0S3dGdEhaQVd1enZWVy1XQTZGWmh4VzJ0WDlkZnJvbFNtTG1qcmdxVGkzMGgwbHV4aUx5Mw?oc=5",
+      "source": "TradingView",
+      "score": 87,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "504ffd9368fd505c",
+      "ticker": "TSLA",
+      "title": "SpaceX and Tesla entrusts five directors for merger talks, FT reports",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSUtjc3FZNGNkR21Ic1cybEtSRk03QkFMQkRfSENUTHdWV0xQSzVYdC1YZEhJRVZWT2ozVFI2R01vMGFERk9iTkRqdU9RcHk5eElJemxrcXBkbTdFbUtLTUNmVk5qdi1Id2RJM1p5ekwydzBIbVFEaHBfVlFVRFp2SEkxNFItRW12WE1kRGl0bll5bmdyamhLTEZrSWFNYWpNanlRaXRPeXRsbDM3N0tWUnNKZnRROXhVOFdTQmZ6NnJzWWhlMGI3R1IxRTR2dHVJaHZhRHp0VzhrWmYzeFpiTkFRRnNzN0t1b2x4MGt0OXJFU0trZy1wWXdJN1U?oc=5",
+      "source": "The Lufkin Daily News",
+      "score": 87,
+      "tier": "major",
+      "category": "deals"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "9da2aab4a8ca967e",
+      "ticker": "ANT",
+      "title": "Anthropic Slips Below Its IPO Price After A Hot Debut",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3pkQ0FzcXBPVGFfMHZDQldVcUktRW1mR2NuNi04ZXhOTmluZ295NlM5Z1FQN0JMdW9sQU5jeng4VHE2X09mUmtrMFBhTnZJVEFHWVZZcWVtbDJaSENmWG92ZjNBN2kwLTRJbDZRdVJIalNBby1TNzVJSnQtcDJRV3VfS2l3YjFEMXc?oc=5",
+      "source": "Finimize",
+      "score": 82,
+      "tier": "major",
+      "category": "capital"
+     },
+     {
+      "id": "b15470ea3b088b37",
+      "ticker": "ANT",
+      "title": "Anthropic shares fall below $83 IPO price in premarket trading",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlpqNHFkaWZpQWp0VElZX3V4b1J1NVJkaDV0OGYxaE1NbkpvMW1XUmxNSGozU2tISFpQcXBuTExwcUhaSFlQUm5qRmF3ZHIyUEotbGU3NlNNaVBEeXB5UDdWV2gtbGFrUVhzTjlROFV4RFRsMm55Z1UtWmhGUHNocXVQQ25QWUl6Zi1qQm01UkRxaXc?oc=5",
+      "source": "Crypto Briefing",
+      "score": 82,
+      "tier": "major",
+      "category": "capital"
+     },
+     {
+      "id": "6f711a6b14160489",
+      "ticker": "PLTR",
+      "title": "Palantir stock forecast: Can 200-day SMA keep recovery alive?",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXY0clJ4aGlxa285V3dRSk1OMGpUSFRUd21Xenp6TFQtUjY2RVlpRmFrOFJEd3NGVG9pSEVZajQ4S01pcFRXa0FOU09waTRVejdfX2FUMUdaakdTQWNGbFJqbFI4ZlZqMXY2VEpTenJWUWFJdU1KNDlVNGdRb24xckNWN08?oc=5",
+      "source": "Traders Union",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "cf4a2aea678cc548",
+      "ticker": "PLTR",
+      "title": "Palantir (PLTR) Stock Price, News & Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xa1F2TExlNThkYXlMTDVTR0FodGM5OUFZdHlKVHVja1JqOVM0c3BCOFdVby03bldPZ0pYMTRqbGx5OVh0c3JJVVozOA?oc=5",
+      "source": "blockchain.news",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "8d6aa8481ec7efa8",
+      "ticker": "TSM",
+      "title": "TSMC, SK Hynix, and Asian tech surge after Jensen Huang's return as Nvidia CEO",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb1htdWJ2QjI5UE1qU1FsUmFCbTE4MFdpRXNIV180U2xaRG9BeXlhdDJJWkxvelN6WVpLa25YSU54Y3ppS1lWTWl3dDJwQ1NLbmNfZ3cxUkRWVHhid0dhLUdVOHlIdWE3S0Uyc1pnMlZHeUNRc21YVEdFWGQ3eE9jOEozcDg0QVI3ekd6Z01yVHRyV1BXbEtDdXY4Uk85d2RrOFIxRXBhYTBqdkIxd2lveDFsUVdhRG9jZ0p1VnVOS3ItNHY5ajJwbkFONXg0VnNnX01WWi1n?oc=5",
+      "source": "TradingView",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "754208567e490310",
+      "ticker": "NVDA",
+      "title": "Nvidia CEO Jensen Huang Is Back, and Stock Investors Just Got More Great News About the AI Chip Giant",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS01WZUtnM25rYlFRMS04d0ZwVl9DT2JFOGEwTFdUc0ZwZ3ZMajNBQkxjbHZLYm1LZ0JES2dOOFIwajgtSGU0d1hhSUlXREg5SnVNS193djZzQlBpZGVZS1Y1bXJrYlh6Z0NOTGFGZnB5dkFkcXVtOHE4Q3M0Qm9vV3Npb29ZR0dHU3VIYmJpb3NCRzZpQ25GcGFuMGh0UQ?oc=5",
+      "source": "The Motley Fool",
+      "score": 78,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "0d6993152c7b4bd9",
+      "ticker": "MSFT",
+      "title": "Outlook did lose emails during the Microsoft 365 outage",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTWpWZXJUaGdfNmROMGFQaUxTRFpXUGRmNmI0dm9HUlFDb2lqM1pMWWhSdW16VE9LTm5hNWRIdWtDOEhxZEMzaGNJOUVTVXZTRl9xdXhRUDFyZFdrWXp0MnNYbjN4VkJ1MW9CR2lfSDhoTUEtVHRF?oc=5",
+      "source": "Korben",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "9871fedb40c92e82",
+      "ticker": "AMZN",
+      "title": "Amazon to acquire Decart’s AI optimisation technology",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVZha2c3dlVUTjA1RG9QZ1BKc0t6YmNTYWFlVHYzUzdvbEppSVRPQktpZGJqN0p0dmVJbGhSemNyVWVOdnBLOXExLVAta0VwVEUxX0RKeWliTXRYNEUzWHU1NDk2YmZQeElhYUNKbUpMTnFKZkwzTmlMYUxQT1V2Z0JpenRJMnl4QU40?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "deals"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "NVDA",
+     "change_pct": 31.48,
+     "price": 165.05
+    },
+    {
+     "ticker": "TSM",
+     "change_pct": 14.08,
+     "price": 363.6
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": 13.3,
+     "price": 8.1
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": 12.64,
+     "price": 23.34
+    },
+    {
+     "ticker": "ORCL",
+     "change_pct": 12.34,
+     "price": 113.68
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": 12.12,
+     "price": 7.31
+    },
+    {
+     "ticker": "TSLA",
+     "change_pct": 11.46,
+     "price": 385.46
+    },
+    {
+     "ticker": "PLTR",
+     "change_pct": 11.06,
+     "price": 159.36
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 878,
+    "major": 117
+   }
+  },
+  {
    "id": "2026-11-23-close",
    "kind": "close",
    "title": "Closing brief",
@@ -4752,169 +4917,6 @@
    "counts": {
     "stories": 528,
     "major": 95
-   }
-  },
-  {
-   "id": "2026-11-09-midday",
-   "kind": "midday",
-   "title": "Midday brief",
-   "created": "2026-11-09T17:29:55Z",
-   "since": "2026-11-09T13:30:00Z",
-   "summary": null,
-   "groups": {
-    "AI chips": [
-     {
-      "id": "0c5d37948170a9ba",
-      "ticker": "NVDA",
-      "title": "Nvidia Stock Falls on Report of CEO Probe Over Alleged Spy Effort",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-falls-report-ceo-134026922.html?.tsrc=rss",
-      "source": "News",
-      "score": 87,
-      "tier": "major",
-      "category": "leadership"
-     },
-     {
-      "id": "38ec331bf47ec534",
-      "ticker": "NVDA",
-      "title": "Nvidia's Jensen Huang admits to affair with suspected Chinese spy, raising security concerns",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaFdNWVk4eVg4NGtBM0h5TzJBM0J1NkhmRGZsT1ZfbEJTSmxiU2trOE9WVUlack9sMnlRM1NDUlN5LVFLdE9uT0dGNFhTb0RFbm9GVWdLZktzUDk0bzZuclo3VDFtbFo3Tk96bmpLUWFRdHh1X1FLQ0xGaHFNRDhfcjNoS2c3cEJDLU5VQUtnVGhVZHdhOGlOQlhhaWJNMTBlMjkxeUtYbFN0ZTZzVG96WURfNEJHcmlpclpNUVlUM0Q4WjU0UmN4MTYzeHc2VHp5Ukxn?oc=5",
-      "source": "Yahoo Finance",
-      "score": 84,
-      "tier": "major",
-      "category": "general"
-     },
-     {
-      "id": "f6bd83d4220d231a",
-      "ticker": "NVDA",
-      "title": "President Trump says Jensen Huang should stay on as Nvidia CEO",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM1JsZFNzLWgwOXNpTjI2bjh2T2JwUzV4cEtDVHZxTk1ZRnlqNzBleXhtWnhSVHVQREdELWhGaG9UR2xXNlpqWFoteTZnN042SnZPaWo1dFdVRkhGRTVmOThpU3cyX1RzV1hXSjZEZDFMdVFCZ3hlSmV0ZFNUSHVJcTkwYUwwTG1tdkh2eWZFdmIzUUw1R2ZBbWNZVnlSNGl4UDg5bmNnMm0?oc=5",
-      "source": "CNBC",
-      "score": 81,
-      "tier": "major",
-      "category": "leadership"
-     },
-     {
-      "id": "14a90be42ebfa34f",
-      "ticker": "NVDA",
-      "title": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
-      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/?.tsrc=rss",
-      "source": "News",
-      "score": 81,
-      "tier": "major",
-      "category": "leadership"
-     }
-    ],
-    "AI energy": [
-     {
-      "id": "752700e49444cf85",
-      "ticker": "CEG",
-      "title": "Constellation Energy Corporation (CEG) Beats Q3 Earnings and Revenue Estimates",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLXhvRFZSVy1IZzdPNk1zd0VjLUZJdWNONFZMNXRLdWs2TzhzaUtQNm9uOVZuSF9Sdm83b3hkSUdsTHlvWFNnS3pHVWNvX3FrLUl6czQzRkY0Z0tPSS1ncVVjNVNnUThnSjhNVEM3ZGNMTEpqOHY0azRFN295R292OVVWbWVNYkVrT1JtemZxUzUzekNXSnc?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "score": 84,
-      "tier": "major",
-      "category": "earnings"
-     },
-     {
-      "id": "e7f436e183dad933",
-      "ticker": "GEV",
-      "title": "GE Vernova Soars 7% as Constellation Raises Guidance, Easing Data-Center Moratorium Fears",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbFFYN2FRQ3BXSWRLSVk1NTJwLUJvVTBCcGxvd0hEVlN2VFp5RzJVSzZ1TnluNmxsTE4tb3JtNExBb21ETG0wUDltMVhBMmVxVVBFYkVycldud01JQVFIVUU2M0xRMXlLVGVmdWczYlBDTFRCa2xFWm9zc1V3a3hQeko2a1UwNHNRVVFwQTBZeHN3Z3NYRHFEbEpnTDByQQ?oc=5",
-      "source": "Yahoo Finance",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "1c2263f860927d16",
-      "ticker": "CEG",
-      "title": "Constellation Energy Raises 2026 Earnings Outlook After Q3 Beat — CEO Highlights Growing Demand For Reliable Power",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdHo3a25iQkR5QkxpaVQ4VnZQUVFWSE1hSWJiMjAxQkdGZzR3S2VuV3d0eU1XUGIzMnNtVUZoLXVQdU5WRExlTnFKUWQ0bmZXLTJJVFI2dmJpay1TdGRJZGNvdndHNmlONm1leEFIT3YtN3BoNzJyenhJYkhsUlJWSWtKdzlkdW1jaHpLNTB1T0ViWkFBTW5DZlo3RTNESExQWnROZUtDdl9aSl85ekc0RG5oV3RIdFNlSU14YmhyME9WMmNnVXp6VWN0dFllNzVhbFprckJTb2htbXNkLVl0ejBPT1NDX0hXV3Ixck9wMm1xOENUcl94NmdqeEtfbDdxUFZn?oc=5",
-      "source": "TradingView",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "04fb48d9657952c7",
-      "ticker": "CEG",
-      "title": "Constellation Energy (CEG) Reports Strong Q3 Earnings, Upgrades 2026 Guidance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd0pQVnc4Rjd2QnZIN2M3M0lqRW9saXA0Vk52X3o2TlRIN010LUlmSEZWOWszaDl4b0lxb1REc1NiTE54dWQ4ak5nd2FkZjhRdVd2SlJfSDlPR2tMQ0hkamhQY0h5YTZ2RTNtX1pGZjMxTHowMldxOE5FX2NXeFVQc1FTUjUzdkVtenhRMmlaRkZkLURFOVF0T0RjeWFxS19OTUo3bGRRR013b2JJR0RfSkhJSQ?oc=5",
-      "source": "GuruFocus",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "Big Tech": [
-     {
-      "id": "4d239049286a61fe",
-      "ticker": "GOOGL",
-      "title": "1754 Properties and Vander Capital Partners Acquire 40 Jessie Street, a 100% Google-Leased Office Building in Downtown San Francisco",
-      "url": "https://finance.yahoo.com/real-estate/articles/1754-properties-vander-capital-partners-135500569.html?.tsrc=rss",
-      "source": "News",
-      "score": 81,
-      "tier": "major",
-      "category": "deals"
-     },
-     {
-      "id": "9701651e131d6419",
-      "ticker": "AAPL",
-      "title": "Apple's Market Value Grew From $350 Billion to $4 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFoxb2lJNkRwWlJ6QzdLRTlGdWktTm1lRjIwdzZCaXpmQnJjTkFvS3owbHZxRGtXd3VLYktFd2xNN0FVME1GRGo4b0lERF93RzRGTmpWSWd2NG1xeGJqMGJ2THhoeUhjTm52Y01tRzJCYVVuR2V4VmJyOWt5VjBMOF9mOTF2TDdPMU5yNEhkXy1WZWJOTU1r?oc=5",
-      "source": "The Motley Fool",
-      "score": 81,
-      "tier": "major",
-      "category": "leadership"
-     }
-    ]
-   },
-   "movers": [
-    {
-     "ticker": "OKLO",
-     "change_pct": 13.42,
-     "price": 26.71
-    },
-    {
-     "ticker": "AMD",
-     "change_pct": 11.81,
-     "price": 502.05
-    },
-    {
-     "ticker": "CEG",
-     "change_pct": 9.55,
-     "price": 273.81
-    },
-    {
-     "ticker": "AVGO",
-     "change_pct": 9.23,
-     "price": 320.79
-    },
-    {
-     "ticker": "RGTI",
-     "change_pct": 9.02,
-     "price": 12.81
-    },
-    {
-     "ticker": "IONQ",
-     "change_pct": 8.97,
-     "price": 35.55
-    },
-    {
-     "ticker": "GEV",
-     "change_pct": 7.0,
-     "price": 828.31
-    },
-    {
-     "ticker": "QBTS",
-     "change_pct": 6.74,
-     "price": 11.4
-    }
-   ],
-   "filings": [],
-   "counts": {
-    "stories": 831,
-    "major": 141
    }
   }
  ]
