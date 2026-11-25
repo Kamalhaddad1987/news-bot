@@ -1,6 +1,171 @@
 {
  "briefings": [
   {
+   "id": "2026-11-25-close",
+   "kind": "close",
+   "title": "Closing brief",
+   "created": "2026-11-25T21:23:52Z",
+   "since": "2026-11-25T17:30:00Z",
+   "summary": null,
+   "groups": {
+    "Big Tech": [
+     {
+      "id": "7e7ba37ed185d03b",
+      "ticker": "AAPL",
+      "title": "Apple iPhone forecast to lead smartphone shipments in 2026 and 2027",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVQyTWFKYUprOEprSml0TEFHbXl2ZXM5TXhoeU9IS0RYWm00VFY0TFlGbGk5cGRXUGFYUUIyNW80TEFzNlJfRGdmQmg3NmZCdk1CMTlaS3pwSFd4a29MdzRaVzZ2cUxvWmhvQXpZTTdhRFZBMWc3Skd5NGVpaUlvb3A0U3FRM25idTVqbnUxbnVoR1BTcTRUbG04azdPZDNlSnlGTW1fb9IBrAFBVV95cUxNYVF6TUV4T1BpMlExZEQxaXVtMm9hSlYxY0xOeFVHMFdBelJaa0lUUENtempqb2pNQUxScXFBa3NLMUpXdms1SzlWeGpGQ0FndHhqX0xyZlFPdS02c1JMeFNSZXVMaVJGeUhtR3A5SWFiT1ZqWjUzVnc4bk51SURuWUtNamtmRlltZWFYQkxmckQ5SlhvS0xEY3JGT0ZCaldxU2t1cHB6OUdTOEJw?oc=5",
+      "source": "MacDailyNews",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "458c78b0c1138997",
+      "ticker": "MSFT",
+      "title": "Microsoft 365 Bug Blocked Users From Opening Word, Excel, and Outlook With Blank White Screen",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QYVVMMzZLT0FOZmY2eU9OZl85SG51aFRSeDkxWGFXVXRNb0E3aEpRbXRNX0Q4TGhpcWZFN01lUzRkVEdGV2p0dlBhc0oySVJmOUs0VzlHeVlyY01GeUZyQVZtZjJaRkg3cTl6OVp30gFzQVVfeXFMTmdNb2N3aUp3Y2JjV2ItTjAyTzAtRXpUTFNzcy03SHFYbWtQdmJmRG9rY25BTjNWU2dkczNnaEFtRlRBYkNRY2tyRUVrTUdmbHlzamxXSlJGNjZfNGdDMVFaY3RRZEZXQjNaU0RFWVRBRzBkWQ?oc=5",
+      "source": "CyberSecurityNews",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "6135599ea894e183",
+      "ticker": "AAPL",
+      "title": "Apple (NASDAQ: AAPL) Faces Unprecedented Memory Cost Pressure As Gross Margin Guidance Drops To 45%-46%",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTmJoUGx4eHg2ZGxiWTR0MzEtVGhHSVZNT1dPYUJvUFhab0hvQXFENFg3X0FOTEtucTVJa1lFWVlxVnZicnFqR1ZaNGppand5NldDUWdwZVA5VDVfc2E0Y1kxakVOLUdib2xIQ3A5RDRMTGZRbVdfWnlGQ2N4RGtSTk1hZEdvRlBOaXpiQVJMdGZ4RVJGbVhHTFlrQzF0VmZqbUFPYU85eXV6cjJEVkt3dTQ5XzJjdjVGS1c0UlZ0OUtrRW5mOGJfRFY4b0JmZk4tcWlyeDVlZnhGeGlVYmtPYw?oc=5",
+      "source": "Foreign Policy Journal",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "af5bb989bc47e8ab",
+      "ticker": "AAPL",
+      "title": "Apple to celebrate the 20th anniversary of its partnership with (RED) on December 1",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjRIMHdSYnItS3ZMVVg4MlpiZU54X3dGMUlBSkRBOWxwVDNSN0tfWDNiQTFQRnNOMWc1YVNza2lzUzFybTZhYXBjclg1YTlwa3VfQVNOV3ZTcDgyRU83T01IS3AtbDRMRUhkYVZEblYzM21QNmk3T09uTi1zZlRKd196QWdYc2d6b3dOQklvX09vUGJ6Mms5cDM0SHF0aE9yZ0dsZkN3NDBPaGhyWE0zV202SHU2ZF9T?oc=5",
+      "source": "Appleosophy",
+      "score": 75,
+      "tier": "major",
+      "category": "deals"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "f23812ab2c96d94f",
+      "ticker": "TSLA",
+      "title": "SpaceX Stock Price Forecast: Merger Agreement With Tesla as Soon as Year-End, Shares Poised to Rebound to $132",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMU9UMHZVaTRLanRTdWk4ODlCd0RuSEQtVjVQRDlMV0wzV0VwM2g2WmR3TUdhbS1tVVZTbmxVTzRTUnUwb0JIYWRjdUczd0tYM3g5VnZ6c2x5U3RXLUNDY04xZGRUdmpwX19RbzRpT0xHdzdxdGRSYVl4dlA0emVjeVphVDc5dllkbmhod3lwbXd5YVZkckdLVHFrXzZxcTdicGFMcTJQQUJjVDhkbURMNWNLTUJzT1FVUUtmU05yRnlCcHR6Mk1JYThYS2tPdU1vemRF?oc=5",
+      "source": "TradingKey",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "42e8e0b59ddda269",
+      "ticker": "SPCX",
+      "title": "SpaceX Stock Price Forecast: Merger Agreement With Tesla as Soon as Year-End, Shares Poised to Rebound to $132",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMU9UMHZVaTRLanRTdWk4ODlCd0RuSEQtVjVQRDlMV0wzV0VwM2g2WmR3TUdhbS1tVVZTbmxVTzRTUnUwb0JIYWRjdUczd0tYM3g5VnZ6c2x5U3RXLUNDY04xZGRUdmpwX19RbzRpT0xHdzdxdGRSYVl4dlA0emVjeVphVDc5dllkbmhod3lwbXd5YVZkckdLVHFrXzZxcTdicGFMcTJQQUJjVDhkbURMNWNLTUJzT1FVUUtmU05yRnlCcHR6Mk1JYThYS2tPdU1vemRF?oc=5",
+      "source": "TradingKey",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "0dffed20e5c8491e",
+      "ticker": "TSLA",
+      "title": "Is Space Exploration Technologies (SPCX) Cheap As Tesla Merger Talks Raise Valuation Questions?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-spcx-cheap-201121157.html?.tsrc=rss",
+      "source": "News",
+      "score": 75,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "8c845292f330a71b",
+      "ticker": "SPCX",
+      "title": "Is Space Exploration Technologies (SPCX) Cheap As Tesla Merger Talks Raise Valuation Questions?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-spcx-cheap-201121157.html?.tsrc=rss",
+      "source": "News",
+      "score": 75,
+      "tier": "major",
+      "category": "deals"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "4782cf4b39fb69c4",
+      "ticker": "ANT",
+      "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFFBVnY1ekpBVTZ5LS1HMnM2eVRLeG1sS211V1NDMDA2cGJyTElCWlVCTWVGWC1WalM1TFMyWnROOVphOThCMHNwWHNzMHRmMExWU0prZGhJZ2dBcUx1NndMQk45R0lYOE9DWmd4enJiU2lSUUx3Zk84RlB6QlVNb3lGOV93TGdELWRGTGJ4alJxVllmNUpkeTk2TTlMR1lzREE1Nw?oc=5",
+      "source": "The Decoder",
+      "score": 75,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "57be5cf383ecead0",
+      "ticker": "AVGO",
+      "title": "Outgoing Nutanix CEO downplays Broadcom's VMware updates",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkg1YXNjUkJ0R05IRUgzS3hkZHpkQnpLVFpvZzNEVWpKV2VDRFF6NlpkajVPY0VlZk54Wm9TVU9rRlJUaFJMcUpCbEFaU2VRQ0QwVTItWUI0Rl9wUjhPVFY0dzQyV2RsdHlMNDhNMXBqU0tERHhqb011cTk1cGx1U0ZZQ1dpeVlxQm1EQk9VUnRUdw?oc=5",
+      "source": "SDxCentral",
+      "score": 75,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "ORCL",
+     "change_pct": -5.13,
+     "price": 103.88
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": 5.09,
+     "price": 23.54
+    },
+    {
+     "ticker": "NVDA",
+     "change_pct": -3.91,
+     "price": 149.3
+    },
+    {
+     "ticker": "CEG",
+     "change_pct": -3.9,
+     "price": 235.28
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": 3.86,
+     "price": 7.0
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": 3.43,
+     "price": 7.85
+    },
+    {
+     "ticker": "META",
+     "change_pct": 3.4,
+     "price": 609.89
+    },
+    {
+     "ticker": "AMZN",
+     "change_pct": -3.12,
+     "price": 244.43
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 450,
+    "major": 43
+   }
+  },
+  {
    "id": "2026-11-25-midday",
    "kind": "midday",
    "title": "Midday brief",
@@ -4740,173 +4905,6 @@
    "counts": {
     "stories": 874,
     "major": 129
-   }
-  },
-  {
-   "id": "2026-11-11-morning",
-   "kind": "morning",
-   "title": "Morning brief",
-   "created": "2026-11-11T13:44:20Z",
-   "since": "2026-11-10T21:30:00Z",
-   "summary": null,
-   "groups": {
-    "Quantum computing": [
-     {
-      "id": "27c3d0e663234442",
-      "ticker": "RGTI",
-      "title": "RGTI Stock Falls Premarket On Weak Q3, Outlook: Retail Says ‘There’re Better Quantum Plays Than This’",
-      "url": "https://stocktwits.com/news-articles/markets/equity/rgti-stock-rigetti-earnings-miss-estimates-outlook-quantum-computing-commercialization/cNGDk2OR9B4?.tsrc=rss",
-      "source": "News",
-      "score": 84,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "1eb41138080afa74",
-      "ticker": "IONQ",
-      "title": "Raised Guidance Might Change The Case For Investing In IonQ Stock (IONQ)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbmFsQmpoTnZoZ3Y4Nks2OUhJUEN2d2pvcEh2Nk53OW5sU2hiZy1BdVFxcE9EZzhnZkQzVU15UUM4bkwwYnYyWVZsU3ljelI0T01BeG1vcXRrUFQzSGpzdUpja3BxWWhtbnU5dVJzR1JUd2d2UTczdVVjMnBKVFp5Wmg2NE1yQk1HR1VWRUdacHlVeGVpN0xTOUhiRHZtMEk?oc=5",
-      "source": "Yahoo Finance",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "051cdf78db21a93b",
-      "ticker": "RGTI",
-      "title": "Rigetti Computing Inc (RGTI) Q3 2026 Earnings Call Highlights: Record Fidelity, $100 Million ...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/rigetti-computing-inc-rgti-q3-130509088.html?.tsrc=rss",
-      "source": "News",
-      "score": 78,
-      "tier": "major",
-      "category": "earnings"
-     }
-    ],
-    "Tesla & SpaceX": [
-     {
-      "id": "273921c990bbba0d",
-      "ticker": "TSLA",
-      "title": "Tesla tuner Unplugged offers to take over Cybertruck production",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVZMTGVkc2k5MlhfV2tGRUpjVksyaGlWcDlBX3JkMG40NHNrQmVNU0JxMVRCN2R2amNxSm10U0pObVpkSUV0REE0WERaLTllLWliOGRuWG1CRkh0Q083eHE4XzNNQUU1aGU4ajJMbU9zUDdlX09TcFVFM1hsb1VZam5NR3NVT3l6cXlKQnhBc0QxT0VBVEM5elliMU1BbFk?oc=5",
-      "source": "Electrek",
-      "score": 82,
-      "tier": "major",
-      "category": "general"
-     },
-     {
-      "id": "42d27f4b39cb55cf",
-      "ticker": "SPCX",
-      "title": "Elon Musk Just Warned SpaceX Revenue 'Will Drop' If Compute Gets Cheap. Deutsche Bank Raised Its 2028 Forecast $18 Billion Two Days Later",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOEhHN0kwbEhkdmZkdXlod1ZJU1lUNkpzSVNGbG8yNnVWN2ZsOWx5SlFuMlpmLWhNdEVfUXk0SmVQREZFajVZbWVrRGlmb0dZZ2hidXd0N2RIbjJGQkJWMHRlMDdlQS1TWXlFdHhaamYxN0dUcTFoTEdRbklCTV9DcXp4d2ZSdkxqUm16Wl9nV1ZodUdPYl9JYUdQMDNadm9SR0xPVWxfNlpBdk55VDlqN0xxUTFyaFdSXzdPNFN3UDVseXM2dkhOd1YwTklYb0ZBLVdicU0wY2F0RDktd2dEMGZHZERYZ1dNTUpqR0tNMndsSFFzUEFTc1c0TmxlVklPcFd3SmZsb1k?oc=5",
-      "source": "24/7 Wall St.",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "Big Tech": [
-     {
-      "id": "ef619e1fa6ed91cc",
-      "ticker": "GOOGL",
-      "title": "Alphabet eyes $3 billion Hong Kong, Singapore bond sale, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVm10ZnlHTlp6eHhzZnNYZkd1MDVGZWR6TEd0MW9YTmFXaWx4cnVzTEh6ZXNRN2Z2U0dhU3I5R2RwODVZWnZXQTczdkZZM0Rya3BmUS1rWWUzS1dtMElxM0dlNEVCeEtsRTF3VkNIaGhoQ2hEX2tBTWdtX3ZKc2pQLTBFUEJhc244M0t4ZW5OeGhDWlAya3Y0Zjl1bXRyY1BpaWJjOXQ5S09ZOGw2eGlMWHBIUXZ6NkpublE?oc=5",
-      "source": "marketscreener.com",
-      "score": 79,
-      "tier": "major",
-      "category": "capital"
-     },
-     {
-      "id": "10b5b59956d1b02b",
-      "ticker": "AAPL",
-      "title": "China Renaissance upgrades Apple to Buy from Hold, sets price target at $425",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMzVLQ3Vvbkxaem85UkdSQ3d1V1poczNubGJVT1pZRDVVSHNoZWZROGlBdWNKTEJXeVhMTVR4UDdBQ3J1b0RZV2N4aWJweWktT2dwNVFjaU9SNjlVcnpKYzQ4VGQzVllrU2RhRlIxbHh6VGJBN3JadmwtQlJjX3JHMy02SU5yT3Q3R01kaFc2N2NfbFktQXc1WU1MUG5yTU5xekloQWtSaDFSUFVoZWoxV1ZWb2wtTDFGVDJ0bkV5R29JNDlDVVhIeGlrSjJFYkNjOVE?oc=5",
-      "source": "TradingView",
-      "score": 78,
-      "tier": "major",
-      "category": "deals"
-     }
-    ],
-    "AI chips": [
-     {
-      "id": "072793bbbd123a89",
-      "ticker": "NVDA",
-      "title": "Nvidia, chip stocks rebound premarket after CoreWeave lifts revenue outlook",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTnJTWFBvenp1QnlwZXZfU1FlYmV1cThsc0VzMWp2cEtDeDNNNWVSb2NTRDR6NkcwWl9PNnZvSzRXRVkwZnhJQ2RBZ3cxbTFVLUpDQ1J1ZzdGQnZ3YWZhVUc4SzgxLXJyN3JpdXMwV2RsUkg0LWNNUFBldkNNb1NEU1dqOEF1V01TYlpqV1RBdXZiY2tCV3VTSHBjVi1VV0Y2S1dQVXVKUF9vM2gwdGo2SG1pdVpWRkpDa21UbG96WVEwOFEyeUVrTVRURQ?oc=5",
-      "source": "Investing.com",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "AI energy": [
-     {
-      "id": "6adf9007bb4b08da",
-      "ticker": "VST",
-      "title": "Vistra: Q3 Net Income Rises To $1.14 Billion And 2027 Guidance Is Initiated",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmI4Tzk5UC1kVm5NYXM0MXY0R0l1SkRjVkVHTDlRTkJrTnVuZmVvOWtub1NGWFRwdUlFaUdhY2h0R0RsRE9mdjg1V2xMQ0VueU84R3NkbXhldWk3V283UVczZDh1cWt5Y0xkZzZYeGVzendDT3h3UUxKTUFEdGkxdFRLVnhnUE8zZTBZa0VZZ0dENXlWUGFibw?oc=5",
-      "source": "Pulse 2.0",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "705b87c67dfc0730",
-      "ticker": "CEG",
-      "title": "Constellation Energy stock raises 2026 outlook after Q3 earnings beat",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1pTQ0JVUjFYZ054RzNpNi1kbHpKOG1fcWd2c2g1aXlndW5tQUhRaXJzaC05NlBFTVFhZzRSeDQ0WS1IYzNKZUwtQjlEVS1DYVJRSmY3dm00UUUydHcyNXRrVEtjUm5rSVZlMmQ1WktKU0E1N2FtZzFBVjl6ank2MUIzREdxamZMNlA4b2o2S2YwWGZiYjZMZ2dfRFU1Uk92NU50aVlSVUVvcE9xRmJQeXZ3Z1lxSTNyTHdIRUNqcGJIOVFoM3lMdTRoQ0k?oc=5",
-      "source": "ad-hoc-news.de",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ]
-   },
-   "movers": [
-    {
-     "ticker": "QBTS",
-     "change_pct": -8.63,
-     "price": 10.48
-    },
-    {
-     "ticker": "OKLO",
-     "change_pct": -6.52,
-     "price": 25.09
-    },
-    {
-     "ticker": "RGTI",
-     "change_pct": -6.39,
-     "price": 12.15
-    },
-    {
-     "ticker": "NVDA",
-     "change_pct": -5.47,
-     "price": 168.89
-    },
-    {
-     "ticker": "AVGO",
-     "change_pct": 3.91,
-     "price": 331.98
-    },
-    {
-     "ticker": "GEV",
-     "change_pct": -3.89,
-     "price": 797.04
-    },
-    {
-     "ticker": "NOW",
-     "change_pct": -3.07,
-     "price": 99.61
-    },
-    {
-     "ticker": "CEG",
-     "change_pct": -3.02,
-     "price": 267.76
-    }
-   ],
-   "filings": [],
-   "counts": {
-    "stories": 893,
-    "major": 158
    }
   }
  ]
