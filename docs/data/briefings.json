@@ -1,6 +1,171 @@
 {
  "briefings": [
   {
+   "id": "2026-11-25-midday",
+   "kind": "midday",
+   "title": "Midday brief",
+   "created": "2026-11-25T17:24:18Z",
+   "since": "2026-11-25T13:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI chips": [
+     {
+      "id": "1c769daf50b5a636",
+      "ticker": "AVGO",
+      "title": "Does Broadcom's Debt Load Pose a Risk to the Stock's Outlook for FY27?",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzZwUFdlVFhIQ0dtc1V5aG5NWGF3OV9sTEt4SkZDWHhEVExYdllWOEMwTTRQWTBkaE00enU4UGdYd3diNm9rTVBXZlUxRWUwandWei02TlQ4YUwyVmN4RndUSGlsb1lSQ1VKQ3RYU1hOMnQtbUZZWVpMZEJTM0hSUlhkSnM?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "0d9341ac03595ae7",
+      "ticker": "NVDA",
+      "title": "Nvidia Just Delivered Its Latest Earnings Report. Is the Stock a Buy Below $160?",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMWFEZklIRmdFMUJ1dktUREJ4SnZSRlBkc2xJMDFkNWJRbjRHWFA0WWRxeEpaQkpTWkZYSDdoMEZFNkhoM3ZZZENMR184RmppdURjV2ZPLUxUUE5pckE3SXJ5V3FQYThiX2VfOTRscUFhdFd0V2FTYUxablpTZ3FlSDUtTC1RUlE3Mlk2X1ZvWE1ITzdLRDhBMlB0cEd5c0JQdWtQbndfZUhjSnVjZ3RYMVdLMGE3X3B5Znd5UlZNZEo?oc=5",
+      "source": "The Motley Fool",
+      "score": 78,
+      "tier": "major",
+      "category": "earnings"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "39fea0c3b85f616e",
+      "ticker": "GOOGL",
+      "title": "Is Google Services Still the Prime Earnings Engine for Alphabet Stock?",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0NhelFtbWxwRTd2cm1YOXg0QlpQamRXMGw5OWFkbGZ4N1QtZ2hCQmh5QkJOaHEtSTc2YWdaUGtOcTJoRjNMaFlSYVgzU1VwTmphVmJ1MjZENy12c0hkanM1b2ttdHEtN19fRXE3b1FQOEFrcFVtRlRZY3hkd3hqd1Nkdjg3NzlLZGhtUld3?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "score": 81,
+      "tier": "major",
+      "category": "earnings"
+     },
+     {
+      "id": "68aed9e49f88514c",
+      "ticker": "AMZN",
+      "title": "Amazon’s CEO, CFO and AWS Chief All Just Sold Amazon Stock",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZWJNbFNCT21wb3lOdTB0bFhOb0twTjR1ckFOeTZ4UHBiQl9raHZrNkIwbFFNOFlwY0xtcXBFQjNuRUJNM1RPZUJjQ0VNYW43S21zdUU5dEI3Unp3R2cwUzNRaXZPS2pmMXZHamFPdUtNN1FaTmhtYlRUV2FYYjVHb1dDRk95OWEtZGVOX2RoZG9mQkFfUWhqdlUwSmVSbTJpWFE?oc=5",
+      "source": "24/7 Wall St.",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "987eadc1416f338b",
+      "ticker": "MSFT",
+      "title": "Microsoft declares ‘Code Red’ after 24-hour outage disrupts Outlook, Teams and Copilot",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkZKQlRIZmNNOEttQ2w1OU5OQU80cVRvUEZ6b1Q4cUZyZVR0WkM3VktIdjB6WmY1X2ZiREVSODhRWWExT0FMcE1wRTFXc3FCUDhGbDMyWnVubXlBU0JPRHhNc3lYcVNseDlnUXhwYlVQbWNGVW1OWVBSb1AzdllsVUtjbGxTWi1tbjNOREMwaHJKcjFpUTZ6ZHVLZWpPMXdSRENUbU5kZWF1TF9uMGc?oc=5",
+      "source": "The American Bazaar",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "cc71f10b964f2155",
+      "ticker": "AMZN",
+      "title": "Cox Auto forecast Nov. sales, Amazon Autos expands to 35 brands, Reliable transportation drives mobility",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JZUZUd3dLUXcxQVpwYnBhbnloU1ZZd0phM0w3RFFNb3JHZnN1djRLaUYtWnpiczQwRE1rRkkyMDNETnJwdlFRUXZReTZIeVY5ZnB3bGVLUHFlZFRRSXR2Uzdab212SHlvNUlWMV82S2trX3c?oc=5",
+      "source": "CBT News",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "993b92e67317dfda",
+      "ticker": "MSFT",
+      "title": "Microsoft invokes 'Code Red' after global Outlook and Microsoft 365 outage",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk13bHhYZGlPTVcxdWN0NlV6Y1M5SUh6QU1VYTVYN2tMNl9sMWRaQjNpbm5nZDllVEo5OUFEZEFkQUEwNmRWMnlINXNiX2NGX05sTHpkVUttSG9pdUJIRTlpNnpXcllEVFRsX012cVJqNjBLMXlpalVlWU9pcHY4LTNjZ3dEQnpYMEp0MlFlNUZlUVdxczMyMS1TckVxQ3FuOEd6cXEwdjU5elRVbXhDZjhPYVNNMzNQbWNvMzhB?oc=5",
+      "source": "TweakTown",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "d5b8aa2f96d9b0fb",
+      "ticker": "PLTR",
+      "title": "Palantir’s CEO Alex Karp Sold $75 Million. Co-Founder Peter Thiel Bought $122 Million",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdlJQczctX1U2WUY4ZlJEd29ldUt0V2J4cVRObTkxY2ZOWnQ2UW52YjRRWWYyTzhiOS1HQ1pZX1NJV1o0NGR0RjFsNXZFQ2pFLUxBUUxBZV9XQjZMRW1LYTBoQVViTmdBcDg1WGlmSDVHbE8wYnF3QVN2cnFPWlFqb3hxWVZGYjhtRm1lVXRZMEh4RUdnenVyUjRMdzlKeXRMTnQ3UEtFb3NtXzJlZEEtY0VfMFU3alBtSVZzXzF0VG94VHM?oc=5",
+      "source": "24/7 Wall St.",
+      "score": 81,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "a281db038d2b4971",
+      "ticker": "TSLA",
+      "title": "Tesla and SpaceX stocks sink as merger concerns mount",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX21TU1QzV0o3SXVFSl83OWhvMVZzN2IxRFc1dzdBbGZDSEZYY2ZMTlBBaV9mVlF4dGVKTUU2eE4wN0xHajRtZ3EtNnA1RWNoWDlCZkE1NndHVTZlZzlHMEdObE5aYWxBRkNtajAwU25rbXVXZWY0OWRJb09iaG1xd0VvdnlkTm0ycjdmbWZVUUFRQUVBYW9wTXNiejAwdGtfNXE2dU1XN0MyS0l5WHVhQzlmZGYwZGc2?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "89e48cbe65719a67",
+      "ticker": "SPCX",
+      "title": "Tesla and SpaceX stocks sink as merger concerns mount",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX21TU1QzV0o3SXVFSl83OWhvMVZzN2IxRFc1dzdBbGZDSEZYY2ZMTlBBaV9mVlF4dGVKTUU2eE4wN0xHajRtZ3EtNnA1RWNoWDlCZkE1NndHVTZlZzlHMEdObE5aYWxBRkNtajAwU25rbXVXZWY0OWRJb09iaG1xd0VvdnlkTm0ycjdmbWZVUUFRQUVBYW9wTXNiejAwdGtfNXE2dU1XN0MyS0l5WHVhQzlmZGYwZGc2?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "deals"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "NVDA",
+     "change_pct": -7.38,
+     "price": 143.91
+    },
+    {
+     "ticker": "AMD",
+     "change_pct": -6.75,
+     "price": 385.37
+    },
+    {
+     "ticker": "ORCL",
+     "change_pct": -6.53,
+     "price": 102.35
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": -5.89,
+     "price": 18.07
+    },
+    {
+     "ticker": "TSM",
+     "change_pct": -5.81,
+     "price": 328.91
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": -4.71,
+     "price": 286.9
+    },
+    {
+     "ticker": "TSLA",
+     "change_pct": -4.64,
+     "price": 366.82
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": -4.6,
+     "price": 6.43
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 854,
+    "major": 86
+   }
+  },
+  {
    "id": "2026-11-25-morning",
    "kind": "morning",
    "title": "Morning brief",
@@ -4742,173 +4907,6 @@
    "counts": {
     "stories": 893,
     "major": 158
-   }
-  },
-  {
-   "id": "2026-11-10-close",
-   "kind": "close",
-   "title": "Closing brief",
-   "created": "2026-11-10T21:11:15Z",
-   "since": "2026-11-10T17:30:00Z",
-   "summary": null,
-   "groups": {
-    "AI chips": [
-     {
-      "id": "1fac2bb2f581ed3a",
-      "ticker": "NVDA",
-      "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjSEVwTlRmTGhoRFhDaTJwTmZlYWtpek1vQzlrSDBLZ1RteTVDWHF4UEg3TDVKTFZ0RGl3blhtaWVpNWh2YTI2TWJuQVItN0hqYVRVMlN2VzVzRHNwYWQ1V0EtWDVoZEJpSjF3OEFsTFJDN29EdTJNcnJzQlk?oc=5",
-      "source": "CNBC",
-      "score": 87,
-      "tier": "major",
-      "category": "regulatory"
-     },
-     {
-      "id": "87912d3e0d3b5150",
-      "ticker": "TSM",
-      "title": "TSMC record sales strengthen Wedbush’s bullish outlook",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYkwtT3FIYWdhdHcyWmJPXzBjLTFuV1AxUGd2amk5ZkFxWEYwMlI4QTRVclUyTmVqTFlhYmdBVlMxVkQ2TjMyZnhVQXNSU3ZBWjVkY1RWTXdYcDgtLXNoMjAzMDNUVVNBQnJ2ZzVKSEdTRHFTeWxEOWtQbjI2bXY4OXZOSzNMLXdLZjhQTVBPYkJ6X2p2RGV6dTl4SHdac3ByeXdv?oc=5",
-      "source": "Yahoo Finance",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "a274c79b63aa47a3",
-      "ticker": "AVGO",
-      "title": "Will Broadcom Inc. (AVGO) Beat Estimates Again in Its Next Earnings Report?",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFdFZlBYdEJPUjV4QUQyelc5dnZvb24xZlZtZkpIMk0xUUZleFliYjMyOGZpMjZZajFtdFVnYnJmN2dHWXozMDNfWWNnSU01THJ5MldaNlAwTm10SXIwbW11VUdDZ1g1aFlHQXIxR2QzM3hoUGVxVzNIQTMtdFU5MVdaM2VJMDAwd3pQRmt3WFd2eGE5SFlSRU8yX0kwUQ?oc=5",
-      "source": "Yahoo Finance",
-      "score": 78,
-      "tier": "major",
-      "category": "earnings"
-     }
-    ],
-    "Big Tech": [
-     {
-      "id": "0b1b2a6d7f06005e",
-      "ticker": "MSFT",
-      "title": "Microsoft Corp. (MSFT) Enters Five-Year Partnership With Ohio State",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR1llT0NaOTJ0cXBONkpNUl9VSUpSd0R6QmZUWGc5NmhqVXZjNW1VbTZVSnVGcmJ3eWdQbUIwbTVxM3FYRTRPVkgxMWRuczJ5YVA1eGo0T18yaEFfS2J5REZSTDVhTmE1QWJMb0luTWhxSFgyTmJIR2xEbHo5YlYtODFTOGkwWkhSS2lQclpROFFncksxTUFMa01MVWdHQ2gzek5BMmtsZDJFRlVnU3BCbFJFZlIxdjVBek9lVmRXUVl2aEIt?oc=5",
-      "source": "TradingView",
-      "score": 84,
-      "tier": "major",
-      "category": "deals"
-     },
-     {
-      "id": "afa41c9efbbad6fe",
-      "ticker": "MSFT",
-      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUW5MOWdTMklESkxEYTVWSFV1enJ0ZF9JNGFSOG03UjQzelY4WVBrdWo5SGJZd1BrU0NweXVUcm1jWmExNFl6TmcyLXUxc3FpUlpsLU9UYmtJdE9RWjBmZXZoTXpzS08xNmI5Sjk5bm5rRTZZV2tINU5oaHVETkhVNEdZVlM5bXpzY0RfRFpleWNvQ1kxQ2V1SXQ2WHNScllpTjFMR0p2ZjhsaVpjVjYta3NHREIzS18zUVlPT3Zn?oc=5",
-      "source": "BleepingComputer",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "460029501ab25a0e",
-      "ticker": "MSFT",
-      "title": "Anthropic Unveils Office Tools Ahead of IPO, Taking on Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZlMwX3dzdHpVbEFBcTlGVWlibGtMcDBYOGJwbVJaaWs5X2xiVWM3ZUVDZHBoM1dyM0t1NjNYdVpzTHlYVHhKYTRHbXJTSmpRSFRLZ3FENE9kcXRFcHZVVTloYVJybUJaWWJ0a0ZGcVZpWXA1U2dZNmp1ZjRtbEJWSEtSc1RRbXdsSnh3bjV2WE90SHpBeGJkQ1hfUUtnZV9ldW14RUJoRVFMMFZmVGxBemNXSlM?oc=5",
-      "source": "Bloomberg.com",
-      "score": 79,
-      "tier": "major",
-      "category": "capital"
-     },
-     {
-      "id": "7b144bcbb55708fd",
-      "ticker": "MSFT",
-      "title": "Microsoft November 2026 Patch Tuesday: Windows Search, LDAP, and Schannel RCEs, and an Exploited Outlook Spoofing Flaw — Prepare Now",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3FkX1E5ejkxLWtERE52TFZpNW1xaEFlWEkxWUdlSEdNNkh6VUlzdWF2UkZ2bHpONUNBdDhvNFFlbE02bjJMeVk1b3FpLUNWemR4ZXB4LUJmVnV4UVFqMEEyS2V4bmJSYldrTWJRSGlTZUhuVGdyMjM1M0pfUWRRQVJXZUFWV0ZpeUNYZ213OUNjSm01azRJZHhrZDVwUk5xQ2xzeQ?oc=5",
-      "source": "Rescana",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "AI software & cloud": [
-     {
-      "id": "49aa500774cb3174",
-      "ticker": "ANT",
-      "title": "Anthropic Unveils Office Tools Ahead of IPO, Taking on Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZlMwX3dzdHpVbEFBcTlGVWlibGtMcDBYOGJwbVJaaWs5X2xiVWM3ZUVDZHBoM1dyM0t1NjNYdVpzTHlYVHhKYTRHbXJTSmpRSFRLZ3FENE9kcXRFcHZVVTloYVJybUJaWWJ0a0ZGcVZpWXA1U2dZNmp1ZjRtbEJWSEtSc1RRbXdsSnh3bjV2WE90SHpBeGJkQ1hfUUtnZV9ldW14RUJoRVFMMFZmVGxBemNXSlM?oc=5",
-      "source": "Bloomberg.com",
-      "score": 82,
-      "tier": "major",
-      "category": "capital"
-     }
-    ],
-    "Quantum computing": [
-     {
-      "id": "ccd7bc4e9c6bb6fb",
-      "ticker": "QBTS",
-      "title": "D-Wave shares slide 8% as Q3 bookings fall 19% despite a revenue beat",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzBsQ3JMbW5iaWp3RW1QYl96dTktZXlPbWk3Tng2NnRLSkM0NVVBNktETHVERnhaYUJpTGg1VXlkc1pRMUNwNVRnLTE0SUZzQmRvX2JTQ2lZVXM5TzRMNVRXVmJVMUhuVENubjZBSkJhQ0hnZDhlY2hwZU5tN1RyM0hNYWE5Qy1kZ3FFYkNBdU9jQnBUWnBFZXg3NA?oc=5",
-      "source": "Startup Fortune",
-      "score": 81,
-      "tier": "major",
-      "category": "earnings"
-     }
-    ],
-    "Tesla & SpaceX": [
-     {
-      "id": "a2083d4e31bf5884",
-      "ticker": "SPCX",
-      "title": "SpaceX Could Profit From AI Data Center Crackdown, Deutsche Bank Says as It Raises 2028 Forecast",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63121272/spacex-data-center-crackdown?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "source": "News",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ]
-   },
-   "movers": [
-    {
-     "ticker": "QBTS",
-     "change_pct": -8.63,
-     "price": 10.48
-    },
-    {
-     "ticker": "OKLO",
-     "change_pct": -6.54,
-     "price": 25.09
-    },
-    {
-     "ticker": "RGTI",
-     "change_pct": -6.39,
-     "price": 12.15
-    },
-    {
-     "ticker": "NVDA",
-     "change_pct": -5.47,
-     "price": 168.89
-    },
-    {
-     "ticker": "GEV",
-     "change_pct": -3.92,
-     "price": 796.82
-    },
-    {
-     "ticker": "AVGO",
-     "change_pct": 3.91,
-     "price": 331.98
-    },
-    {
-     "ticker": "NOW",
-     "change_pct": -3.08,
-     "price": 99.6
-    },
-    {
-     "ticker": "CEG",
-     "change_pct": -3.02,
-     "price": 267.76
-    }
-   ],
-   "filings": [],
-   "counts": {
-    "stories": 541,
-    "major": 113
    }
   }
  ]
