@@ -1,6 +1,486 @@
 {
  "items": [
   {
+   "id": "b3271fb9638d0531",
+   "ticker": "SPCX",
+   "kind": "news",
+   "title": "Nvidia halts sales to SE Asia, SpaceX surges on Musk's share promise",
+   "url": "https://finance.yahoo.com/video/nvidia-halts-sales-to-se-asia-spacex-surges-on-musks-share-promise-151001061.html?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T15:10:01Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "musk",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "1e66b6c863c79a30",
+   "ticker": "CEG",
+   "kind": "news",
+   "title": "The Nuclear Stock AI Investors Loved Is Down 33% This Year. Is Constellation Energy a Buy Now?",
+   "url": "https://247wallst.com/investing/2026/11/27/the-nuclear-stock-ai-investors-loved-is-down-33-this-year-is-constellation-energy-a-buy-now/?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T15:28:29Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "ai_energy",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "731f7b73f40b4cd7",
+   "ticker": "GEV",
+   "kind": "news",
+   "title": "GE Vernova (GEV) Down 19.5% Since Last Earnings Report: Can It Rebound?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-down-19-153014406.html?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T15:30:14Z",
+   "score": 75,
+   "tier": "major",
+   "category": "earnings",
+   "reasons": [
+    "Earnings"
+   ],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "ai_energy",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 75,
+   "category_label": "Earnings",
+   "alerted": null,
+   "alert_channels": []
+  },
+  {
+   "id": "f3bc261e75d61f0b",
+   "ticker": "NOW",
+   "kind": "news",
+   "title": "ServiceNow (NOW) Down 16% Since Last Earnings Report: Can It Rebound?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-down-16-since-153017193.html?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T15:30:17Z",
+   "score": 75,
+   "tier": "major",
+   "category": "earnings",
+   "reasons": [
+    "Earnings"
+   ],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "ai_software",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
+  },
+  {
+   "id": "605cf5a15372766a",
+   "ticker": "MSFT",
+   "kind": "news",
+   "title": "Why Is Microsoft (MSFT) Down 7.6% Since Last Earnings Report?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-microsoft-msft-down-7-153027471.html?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T15:30:27Z",
+   "score": 75,
+   "tier": "major",
+   "category": "earnings",
+   "reasons": [
+    "Earnings"
+   ],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "big_tech",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 75,
+   "category_label": "Earnings",
+   "alerted": null,
+   "alert_channels": []
+  },
+  {
+   "id": "aeac6ace36fe9199",
+   "ticker": "SPCX",
+   "kind": "news",
+   "title": "Stock Market Today: Dow Rises, Nasdaq Up As Anthropic, SpaceX Gain; Biotech Name Plummets (Live Coverage)",
+   "url": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-dow.html?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T15:31:10Z",
+   "score": 0,
+   "tier": "muted",
+   "category": "noise",
+   "reasons": [
+    "noise: stock market today"
+   ],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "musk",
+   "base_score": 0
+  },
+  {
+   "id": "3ffc7310c1386be8",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Dan Ives Calls Nvidia's China Risk 'Containable', While Gene Munster Says AI Trade Is In The 'Penalty Box'",
+   "url": "https://stocktwits.com/news-articles/markets/equity/dan-ives-calls-nvidia-china-risk-containable-while-gene-munster-says-ai-trade-is-in-the-penalty-box/cNbCUJtR9V4?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T15:32:23Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "ai_chips",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "d55dbf0773cb01d2",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Prediction: This Overlooked AI Stock Could Be a Big Winner in Nvidia’s Shadow",
+   "url": "https://247wallst.com/investing/2026/11/27/prediction-this-overlooked-ai-stock-could-be-a-big-winner-in-nvidias-shadow/?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T15:33:24Z",
+   "score": 0,
+   "tier": "muted",
+   "category": "noise",
+   "reasons": [
+    "noise: prediction:"
+   ],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "ai_chips",
+   "base_score": 0
+  },
+  {
+   "id": "23b1c86d76979ced",
+   "ticker": "GOOGL",
+   "kind": "news",
+   "title": "Is Alphabet No Longer Telling You Something?",
+   "url": "https://www.trefis.com/stock/googl/articles/629385/is-alphabet-no-longer-telling-you-something/2026-11-27?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T15:36:01Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "big_tech",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "d3af72a91ccc6087",
+   "ticker": "GEV",
+   "kind": "news",
+   "title": "GE Vernova Dropped Another 11% This Month: It Will Gain 95% Within 12 Months Predicts One Wall Street Pro",
+   "url": "https://247wallst.com/investing/2026/11/27/ge-vernova-dropped-another-11-this-month-it-will-gain-95-within-12-months-predicts-one-wall-street-pro/?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T15:45:04Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "ai_energy",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "ca7c0676506e914b",
+   "ticker": "TSM",
+   "kind": "news",
+   "title": "No Threat to TSMC Before 2028: Intel’s Foundry Gap Is Still Huge",
+   "url": "https://247wallst.com/investing/2026/11/27/no-threat-to-tsmc-before-2028-intels-foundry-gap-is-still-huge/?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T15:45:12Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "ai_chips",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "960d5f14d13f4577",
+   "ticker": "TSM",
+   "kind": "news",
+   "title": "Trump Is Heading to Arizona to Break Ground on TSMC’s Newest Chip Plant",
+   "url": "https://247wallst.com/investing/2026/11/27/trump-is-heading-to-arizona-to-break-ground-on-tsmcs-newest-chip-plant/?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T15:48:35Z",
+   "score": 40,
+   "tier": "notable",
+   "category": "product",
+   "reasons": [
+    "Products & AI"
+   ],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "ai_chips",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 40
+  },
+  {
+   "id": "8fb7433d9fa3fe0a",
+   "ticker": "AMD",
+   "kind": "news",
+   "title": "AMD's Earnings & Why Stocks Surged",
+   "url": "https://www.fool.com/investing/2026/11/27/amd-s-earnings-and-why-stocks-surged/?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T15:54:01Z",
+   "score": 75,
+   "tier": "major",
+   "category": "earnings",
+   "reasons": [
+    "Earnings"
+   ],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "ai_chips",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 75,
+   "category_label": "Earnings",
+   "alerted": null,
+   "alert_channels": []
+  },
+  {
+   "id": "6ab7d793bdfdc49c",
+   "ticker": "AMZN",
+   "kind": "news",
+   "title": "Amazon technical outlook amid Black Friday shopping",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-technical-outlook-amid-black-155428563.html?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T15:54:28Z",
+   "score": 78,
+   "tier": "major",
+   "category": "guidance",
+   "reasons": [
+    "Guidance"
+   ],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "big_tech",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 78,
+   "category_label": "Guidance",
+   "alerted": null,
+   "alert_channels": []
+  },
+  {
+   "id": "4f54261196ab72ee",
+   "ticker": "NOW",
+   "kind": "news",
+   "title": "ServiceNow vs. Synopsys: Which Technology Stock Is a Better Buy for 2027?",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/27/servicenow-vs-synopsys-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T15:56:04Z",
+   "score": 0,
+   "tier": "muted",
+   "category": "noise",
+   "reasons": [
+    "noise: better buy"
+   ],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "ai_software",
+   "base_score": 0
+  },
+  {
+   "id": "e9b0b3215a41b07f",
+   "ticker": "NVDA",
+   "kind": "news",
+   "title": "Here’s Why I’d Still Buy Nvidia Over AMD With or Without Jensen Huang at CEO.",
+   "url": "https://www.fool.com/investing/2026/11/27/here-s-why-i-d-still-buy-nvidia-over-amd-with-or-without-jensen-huang-at-ceo/?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T16:05:02Z",
+   "score": 75,
+   "tier": "major",
+   "category": "leadership",
+   "reasons": [
+    "Leadership"
+   ],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "ai_chips",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
+  },
+  {
+   "id": "6c25796985c7a55a",
+   "ticker": "AMD",
+   "kind": "news",
+   "title": "Here’s Why I’d Still Buy Nvidia Over AMD With or Without Jensen Huang at CEO.",
+   "url": "https://www.fool.com/investing/2026/11/27/here-s-why-i-d-still-buy-nvidia-over-amd-with-or-without-jensen-huang-at-ceo/?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T16:05:02Z",
+   "score": 75,
+   "tier": "major",
+   "category": "leadership",
+   "reasons": [
+    "Leadership"
+   ],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "ai_chips",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 75,
+   "category_label": "Leadership",
+   "alerted": null,
+   "alert_channels": []
+  },
+  {
+   "id": "978330be8d71d6ec",
+   "ticker": "AMZN",
+   "kind": "news",
+   "title": "Amazon Stock Gets Black Friday Boost As Analysts Size Up Holiday Spending",
+   "url": "https://finance.yahoo.com/m/e21f6a78-2cc9-3d0c-be07-589f5bf6f3f0/amazon-stock-gets-black.html?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T16:09:48Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "big_tech",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "257eaea4b9d2c231",
+   "ticker": "AMZN",
+   "kind": "news",
+   "title": "Amazon.com (AMZN) Is Negotiating Muse AI Access To Its Shopping Platform",
+   "url": "https://finance.yahoo.com/technology/ai/articles/amazon-com-amzn-negotiating-muse-161256193.html?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T16:12:56Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "big_tech",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "3b776b155fa404d3",
+   "ticker": "PLTR",
+   "kind": "news",
+   "title": "Why Palantir Popped on Friday",
+   "url": "https://www.fool.com/investing/2026/11/27/why-palantir-popped-on-friday/?.tsrc=rss",
+   "source": "News",
+   "published": "2026-11-27T16:31:31Z",
+   "score": 20,
+   "tier": "info",
+   "category": "general",
+   "reasons": [],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "ai_software",
+   "outlets": [
+    "News"
+   ],
+   "base_score": 20
+  },
+  {
+   "id": "7ac5638de6f2eaf6",
+   "ticker": "PLTR",
+   "kind": "move",
+   "title": "Palantir (PLTR) is up 5.4% today at $172.41. Likely related: Poland to buy $300 million AI software from Palantir for military",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3BqdGhLLTBHdkt6VkV0STk1amNXWXprN2ZhN0gwSERiUmIySFZYdlFpUmctS3U1M3pkLVlIWEx4dGM4TVp0T3Ftczk3V0lzVmo4YnM0UFlqSldFb1pSTzZkS1VaUk00cFd3STZGSW4zYnNHN1poalo5MGFwTDhLRUcxT3ZTandILUZpdTRUb3pLNEsyWXZBazJHdjdOVTBsVFdv?oc=5",
+   "source": "Price move",
+   "published": "2026-11-27T16:44:24Z",
+   "change_pct": 5.39,
+   "score": 76,
+   "tier": "major",
+   "category": "move",
+   "reasons": [
+    "move ≥ 5.0%"
+   ],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "ai_software",
+   "category_label": "Big move",
+   "alerted": null,
+   "alert_channels": []
+  },
+  {
+   "id": "d29751689b0b798a",
+   "ticker": "TSLA",
+   "kind": "move",
+   "title": "Tesla (TSLA) is up 5.0% today at $399.2. Likely related: Tesla Takes A Run At German Supplier EMAG",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBajF0cDQ3amxXblJFVGZVX0REcTVTaFJmdnA4SU8zRURIU1hjeDRJbGhHb0taVUo4LWJJeURPTjJsaUc4SjAxbWZ5T2JYZXJ3czNGWFFRNG94X2lySzVLUUphbnltbmR5MEluTUxQMEhtMDlLdmtIelFn?oc=5",
+   "source": "Price move",
+   "published": "2026-11-27T16:44:24Z",
+   "change_pct": 5.01,
+   "score": 76,
+   "tier": "major",
+   "category": "move",
+   "reasons": [
+    "move ≥ 5.0%"
+   ],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "musk",
+   "category_label": "Big move",
+   "alerted": null,
+   "alert_channels": []
+  },
+  {
+   "id": "ad832358c34d502d",
+   "ticker": "RGTI",
+   "kind": "move",
+   "title": "Rigetti Computing (RGTI) is up 9.1% today at $8.56. Likely related: Will CHIPS Act Agreement Change Rigetti Computing (RGTI) Narrative",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTZyZ3c1eGhDcFhxRG5lWEhpa2ZqUjk0LXZKaTVmdVQ2ZUw3QnVNVzFVZWJ1YW5BRWNzeGVFY0xaamYydGRscmhVODZicTBIa3ltXy1SSlBqdzFaeXZLdjh3Njc0WFBZamxLM1lMZVA1blo2U3R3NGNzOHlpenJkVWJLYXlRZzM1cFJmbERoRHJ3RjllTHNaUkRrMHRMMlk?oc=5",
+   "source": "Price move",
+   "published": "2026-11-27T16:44:24Z",
+   "change_pct": 9.11,
+   "score": 76,
+   "tier": "major",
+   "category": "move",
+   "reasons": [
+    "move ≥ 4.0%"
+   ],
+   "first_seen": "2026-11-27T16:44:23Z",
+   "group": "quantum",
+   "alerted": "2026-11-27T16:44:24Z",
+   "alert_channels": [
+    "grouped"
+   ]
+  },
+  {
    "id": "b5e86bb30ba54d10",
    "ticker": "OKLO",
    "kind": "news",
@@ -420,7 +900,11 @@
    "outlets": [
     "Automotive World"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "f6a51b05ef666db2",
@@ -728,7 +1212,11 @@
    "outlets": [
     "TNGlobal"
    ],
-   "base_score": 70
+   "base_score": 70,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "804cf28d7e2365c2",
@@ -1133,7 +1621,10 @@
    "outlets": [
     "News"
    ],
-   "base_score": 70
+   "base_score": 70,
+   "category_label": "Legal & regulatory",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "4f3c3eac6c37c63b",
@@ -1158,7 +1649,10 @@
    "merged_ids": [
     "4f3c3eac6c37c63b"
    ],
-   "base_score": 70
+   "base_score": 70,
+   "category_label": "Legal & regulatory",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "63da16910a613050",
@@ -1718,7 +2212,10 @@
    "outlets": [
     "Howl.Link"
    ],
-   "base_score": 70
+   "base_score": 70,
+   "category_label": "Capital & dilution",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "52029a0c7e4b16f5",
@@ -2007,7 +2504,10 @@
    "outlets": [
     "Pluang"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "category_label": "Earnings",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "1e36784622dc4826",
@@ -2153,7 +2653,11 @@
    "outlets": [
     "Mexico Business News"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "58de0d0be73f08eb",
@@ -2269,7 +2773,11 @@
    "outlets": [
     "Center for American Progress"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "0ed21023eebfad34",
@@ -2574,7 +3082,11 @@
    "outlets": [
     "The Indian Express"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "db42edfdca133315",
@@ -2618,7 +3130,11 @@
    "outlets": [
     "The Mary Sue"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "d1811576d1a25177",
@@ -2639,7 +3155,10 @@
    "outlets": [
     "Arizona Daily Star"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "category_label": "Leadership",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "498be3089f7e8b8c",
@@ -2890,7 +3409,11 @@
    "outlets": [
     "Reuters"
    ],
-   "base_score": 70
+   "base_score": 70,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "05eb6837cffe808b",
@@ -3973,7 +4496,10 @@
    "outlets": [
     "News"
    ],
-   "base_score": 20
+   "base_score": 20,
+   "merged_ids": [
+    "3ff99b985fb18293"
+   ]
   },
   {
    "id": "354c7be7591c23b6",
@@ -4032,7 +4558,11 @@
    "outlets": [
     "24/7 Wall St."
    ],
-   "base_score": 70
+   "base_score": 70,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "d41d3d3347ea8ed6",
@@ -4053,7 +4583,11 @@
    "outlets": [
     "News"
    ],
-   "base_score": 70
+   "base_score": 70,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "9fd27f9e82b1d37a",
@@ -4074,7 +4608,11 @@
    "outlets": [
     "Traders Union"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "b0dc3027bbd4065c",
@@ -4171,7 +4709,11 @@
    "outlets": [
     "The Motley Fool"
    ],
-   "base_score": 70
+   "base_score": 70,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "7f6a78d8b3f25800",
@@ -4192,7 +4734,11 @@
    "outlets": [
     "The Motley Fool"
    ],
-   "base_score": 70
+   "base_score": 70,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "6d70c40d80843e62",
@@ -4956,7 +5502,10 @@
     "move ≥ 4.0%"
    ],
    "first_seen": "2026-11-27T15:30:00Z",
-   "group": "quantum"
+   "group": "quantum",
+   "category_label": "Big move",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "1809db7566e552d2",
@@ -6414,7 +6963,11 @@
    "outlets": [
     "Cheddar"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "00b270fc97fb072b",
@@ -6561,7 +7114,10 @@
    "outlets": [
     "TradingKey"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "category_label": "Deals & M&A",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "867c77cc6369393e",
@@ -6683,7 +7239,11 @@
    "outlets": [
     "Crypto Briefing"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "b09bd23ee0bd97af",
@@ -7429,7 +7989,10 @@
    "base_score": 75,
    "merged_ids": [
     "805fcfcde64aaeff"
-   ]
+   ],
+   "category_label": "general",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "0179bd72ecde01e3",
@@ -7510,7 +8073,11 @@
    "outlets": [
     "SeeNews"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "8e4358486e88825e",
@@ -8397,7 +8964,11 @@
    "outlets": [
     "TradingView"
    ],
-   "base_score": 70
+   "base_score": 70,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "e913dd68e8732d13",
@@ -10964,7 +11535,10 @@
    "outlets": [
     "HLTH"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "category_label": "Deals & M&A",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "9a80ef967e7fa929",
@@ -11402,7 +11976,11 @@
    "outlets": [
     "Telecompaper"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:24Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "6d9c6c904a1a35ff",
@@ -11718,7 +12296,11 @@
    "outlets": [
     "Washington Examiner"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:24Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "e5b7faad74f6b522",
@@ -12743,7 +13325,11 @@
    "outlets": [
     "Inc.com"
    ],
-   "base_score": 70
+   "base_score": 70,
+   "alerted": "2026-11-27T16:44:25Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "c5d616bdc7b90b6e",
@@ -12802,7 +13388,11 @@
    "outlets": [
     "News"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:24Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "879d07cdcc8cb278",
@@ -13166,7 +13756,10 @@
    "outlets": [
     "MarketBeat"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "category_label": "Deals & M&A",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "419e8408a45d01de",
@@ -14270,7 +14863,11 @@
    "outlets": [
     "FOX 9 Minneapolis-St. Paul"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:24Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "43854ffb9bea59a2",
@@ -14680,7 +15277,11 @@
    "outlets": [
     "ABC News - Breaking News, Latest News and Videos"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:24Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "022eba0809ce6f6c",
@@ -15226,7 +15827,10 @@
    "outlets": [
     "MarketBeat"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "category_label": "Deals & M&A",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "832052ab721f393a",
@@ -15364,7 +15968,10 @@
    "outlets": [
     "BigGo Finance"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "category_label": "Deals & M&A",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "2befb4083aae1216",
@@ -15882,7 +16489,10 @@
    "outlets": [
     "ChartMill"
    ],
-   "base_score": 70
+   "base_score": 70,
+   "category_label": "Capital & dilution",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "7a641112b698f7b0",
@@ -16348,7 +16958,10 @@
    "outlets": [
     "TradingPedia"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "category_label": "Earnings",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "044bae7dd8671f11",
@@ -16389,7 +17002,10 @@
    "outlets": [
     "TipRanks"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "category_label": "Earnings",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "b093ba574ac61f95",
@@ -16545,7 +17161,10 @@
    "outlets": [
     "Fortune"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "category_label": "Earnings",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "04c7ff36fa72f54e",
@@ -16827,7 +17446,10 @@
    "outlets": [
     "IGN"
    ],
-   "base_score": 70
+   "base_score": 70,
+   "category_label": "Capital & dilution",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "a7db680dbd2e6f01",
@@ -16924,7 +17546,10 @@
    "outlets": [
     "saastr.com"
    ],
-   "base_score": 70
+   "base_score": 70,
+   "category_label": "Capital & dilution",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "dc8ea9f3c2503a4c",
@@ -17099,7 +17724,10 @@
    "outlets": [
     "Bloomberg.com"
    ],
-   "base_score": 70
+   "base_score": 70,
+   "category_label": "Legal & regulatory",
+   "alerted": null,
+   "alert_channels": []
   },
   {
    "id": "8748ec459d1ef963",
@@ -17310,7 +17938,11 @@
    "outlets": [
     "Fox Business"
    ],
-   "base_score": 75
+   "base_score": 75,
+   "alerted": "2026-11-27T16:44:24Z",
+   "alert_channels": [
+    "grouped"
+   ]
   },
   {
    "id": "7be1a7dff9b2cb63",
@@ -17546,480 +18178,6 @@
    "group": "big_tech",
    "outlets": [
     "BigGo Finance"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "2bc94d723883e3f6",
-   "ticker": "AMZN",
-   "kind": "news",
-   "title": "Lego Sets, Hot Wheels, Barbies, Toniebox, and More Must-Have Holiday Toys Are on Sale at Amazon — from $7",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qN2pqWHlIWnJXaXVWYXNlWGJnUE1ydzRrdEx3OXZBNUQ0Q01tNVlTUUVFRXNGNWVMSWI0SmttYWhhOGZIN3NXeFZ4U3pWcjJ6eDd5RHJNazlPRGFNOXN0UUVVZm9RS2xaS3JFYUZ2czdJVi1HUndFdzlUMA?oc=5",
-   "source": "People.com",
-   "published": "2026-11-27T03:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "big_tech",
-   "outlets": [
-    "People.com"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "b01872ef774f07d8",
-   "ticker": "NVDA",
-   "kind": "news",
-   "title": "Nvidia Is Down 35% From Its All-Time High, Tied for Its Biggest Drop Since the AI Boom Began. Is It a Buy?",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzFndHNoRTl5ak1qTEtMYm5UNlZib3hqc2ZpZWFRcWE5ZjZlVGxvUWFReGpLdUpGT25BVVl0Smo4VzE5ZzYyb0sxSE80Yng4SlNLQUF5eFdFTUc4SEZ2a3RfRVZscE1ub3BibVpiclRfWTE3anc2Qk5saUtCV2Y2eDNJMExEeVc5eFBUdU9ILWVxZDN0VExKVW5mMXBiZVo5enZmVW91RzJ5TEVOeDZKRTZsLVVFNHVTcUJpek1qNUhaTE5vZ2NIdVhrOVBsenoxX1V6S1BielFIZ0pPcFE?oc=5",
-   "source": "The Motley Fool",
-   "published": "2026-11-27T03:00:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "ai_chips",
-   "outlets": [
-    "The Motley Fool"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "dbe1c61908bce1f8",
-   "ticker": "MSFT",
-   "kind": "news",
-   "title": "Microsoft Cuts Memory Utilization in Windows 11 In Response To RAMpocalypse",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnhhSHRPZm13eFlVV1dUc1ZFWENKVTFpdndEUV9hMUt3el9hN2czNENmYXE1UTJ6Zm5aS0tSYkJYZFFGMVdPQ0Z4N1M0MG1reXBpVmxGajgtbHJ6bFZ2OFZQeWRORnpxN1B6TzFiT0NpYjdCcS1wdU9oaFRYMF8zZ1A1Um55Q1N6Y2ktQTM0ejdpZnZxVGt4ajlCZElUUjFqb09FT0M3SlppLVRKWExj0gG0AUFVX3lxTE1INTdGQ1I0WFpBNWRlZzNjN25tLXpyOGkweWxOellDTm9oQ3AwNFFCLWpUdldPeEdBa2VYQ3BfZTd5RnRTSWNJcmhGeDBkTENJNUc0NjRBUDU4UmVXTzBRTThBOWtKMmhWY25aQng1Q2w0cl94TDNSd05iM2RSR2RzUnNnUC1hOHM3VGJVX210TmhBM2lERmhVWENPeXdLNkkxUmR6SllKNkVDN0JkVnRmdUdoQQ?oc=5",
-   "source": "TechPowerUp",
-   "published": "2026-11-27T03:00:54Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "big_tech",
-   "outlets": [
-    "TechPowerUp"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "e022bba34f6d8cec",
-   "ticker": "AMD",
-   "kind": "news",
-   "title": "AMD confirmed as inaugural tech partner of HKSTP AI developer community",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qUXRwWVc5S0ZuTEQ3TVlydmRrODVYZG4zTlc1MEhoRjFRMWpBZzQyQS1mVXY0ckdyT3lJYU1VaWlFVFNPenI5VmNzV20xaHRHWThCel9FUVM?oc=5",
-   "source": "chinadailyhk",
-   "published": "2026-11-27T03:02:32Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "ai_chips",
-   "outlets": [
-    "chinadailyhk"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "19383fea30aeabb7",
-   "ticker": "AMZN",
-   "kind": "news",
-   "title": "Amazon staff to strike and rally on busiest weekend of the year",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQalVzR0ZNSFpCVng4YnRfcDRRbTBHSnpaYlhVYzJjNjFySS1zOEFQQ1RaZm5QemdodU9jSFd6dmVnejBFV2h3bzREYUI5Tkd3ZGVwMHo4RkNIUHFjR3lJX0dkTXM2bWxOVWFXTEx6WS1LYnlmdi1ENXpodEQ2OE1pRFd6NS01N0FTQUc4ZHpscVVLeGhXaVY4WGZIUkJ1aWNX?oc=5",
-   "source": "Sky News",
-   "published": "2026-11-27T03:07:09Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "big_tech",
-   "outlets": [
-    "Sky News"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "48da669c9d60210c",
-   "ticker": "SPCX",
-   "kind": "news",
-   "title": "Vietnam's Viettel Telecom launches Starlink satellite Internet service",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbThsVkItSkNiXzM0R1Z2OV9pNUVvTGR3bl9KbGVRWGpXZlhqbDFiS3VsZVRPcU9PX1Z2YXhmTVB1bHJoQ2kxN1EweVpTMmJyQlhVSjdpNUZneG1yR2FlR19GWVNXSmcwcmw2LUtxQ0Y1STQ3cm1NcHdXMHNGc1V6SGZnSjgxX19JTUl6cmtrU1lUQ3p6QjZsTzF2MnIzbjhiX0xEQVppRFk?oc=5",
-   "source": "TNGlobal",
-   "published": "2026-11-27T03:09:18Z",
-   "score": 40,
-   "tier": "notable",
-   "category": "product",
-   "reasons": [
-    "Products & AI"
-   ],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "musk",
-   "outlets": [
-    "TNGlobal"
-   ],
-   "base_score": 40
-  },
-  {
-   "id": "3edeb4618c8de1a5",
-   "ticker": "TSM",
-   "kind": "news",
-   "title": "TSMC (TSM) Is Building a Semiconductor Moat That Rivals May Struggle to Cross",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMjlVWllkMzBpVm9IUEkxT2RieWszOXlNVERiVzVYTGdiWmtBZ0ZkVjFhSmJiRTRleW5lc3gxRWpjU3hfUVlseTFTc1R0UkYzOUtLYkc5TVNGS0R0dmhkVWZIOHVBVXdMblBfZW5uQ2l0ZUJRUm5hVTBtM2RZb3luV0xINXBBMGhZNmg2ZmRSV2hBSXVENFdhSmRUMFoxZw?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-27T03:11:00Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "ai_chips",
-   "outlets": [
-    "Yahoo Finance",
-    "News"
-   ],
-   "merged_ids": [
-    "3edeb4618c8de1a5"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "f17c254d1ca2a240",
-   "ticker": "AVGO",
-   "kind": "news",
-   "title": "Broadcom (AVGO) Could Be the Biggest Winner From the Shift to Custom AI Chips",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXBTM2h1ZXRvSTV6STM3V2FFS3JudzBTRHVmcUgzbkh1VDNMWnZraFZscEtzR0hsS3NwOXlHdVFpQTFSTldJU2RVWllweXFVNEpLX3VPeUNiTWxYUzBlZUI5TkVIb2haZ3BaUDBEbUF5WXJWOVdndGtQN3BkZnFLODNoWUlBVFlTZlcwazAxVlBudmoyNlJCUDVwUTQ0QTg?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-27T03:15:00Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "ai_chips",
-   "outlets": [
-    "Yahoo Finance",
-    "News"
-   ],
-   "merged_ids": [
-    "f17c254d1ca2a240"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "4f9b9843fae059d9",
-   "ticker": "SPCX",
-   "kind": "news",
-   "title": "ICYMI: SpaceX and Musk to hand shares to every child holding an active Trump Account",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNjV4UXpPdnpNNW9hbmt6T2lycGd6R3pBajFqTEhsOE4xblF4cEc0anFhTVRyTlYwdDVMeU1fc2RUT21GRkdmRzh0YWh0T3hzMHVsSTZ5QU9vczFxRDAwSDk0Z0VldnNaTUFHZFBidVZObVFZd1hSNk0xc2plTVNxRWo5dGhWT25xQjlUVWs2Umw3UkFEODZzVW44aHRXeUtYN2gwZU1kUjdMU2lRTlRaTW9xcy1pQlpB?oc=5",
-   "source": "investingLive",
-   "published": "2026-11-27T03:15:03Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "musk",
-   "outlets": [
-    "investingLive"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "dee5396ae1a37803",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Target cut its Apple Black Friday discount in half",
-   "url": "https://www.thestreet.com/retail/target-cut-its-apple-black-friday-discount-in-half?.tsrc=rss",
-   "source": "News",
-   "published": "2026-11-27T03:17:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "big_tech",
-   "outlets": [
-    "News"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "c32143d72c0ae937",
-   "ticker": "AAPL",
-   "kind": "news",
-   "title": "Apple (AAPL) Has Found a New AI Opportunity That Has Little to Do With the iPhone",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWhUc0xMVndoX0IxZEo1QWk3MzRxQzhpYkx4Q3ZaVDF6SEpWNkFZNEVnZ2ZUN1ItR3hXa3pUVjFWeDhjSVVMSWxuOHBYdkJ2Y2hjaC0tbktheDh5WTdzQmlTcmh0YndKN19JdW1xcWhLNnVTY1dmNVpReTMyV3dobXo0cTVqSDZTNUpIUExTanQwNFVQV1B4YXJxVQ?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-27T03:19:00Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "big_tech",
-   "outlets": [
-    "Yahoo Finance",
-    "News"
-   ],
-   "merged_ids": [
-    "c32143d72c0ae937"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "d0c67176e01937c1",
-   "ticker": "TSM",
-   "kind": "news",
-   "title": "Trump will visit the new expansion of the TSMC semiconductor plant in Arizona that manufactures chips for Nvidia",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY3JpcU54LUE0c0xXMmtoZWJVb0U2clRPaE8yVnhydWd1cFpnVlo0NmRGeUJ5QXR1TTNGOXBzU2ZHak4xQ3BDdDVDMzJUSTJXT2dkUXNSMWd4dnlUTEFvVkJwdXFwRllyd0t3UDFHVFpiY0lfdTYxeXoxZ1BfZ3U5VlNuOVh2RFRPUDVlbFN1bm1TQ0tyeFo0SVlGMk1YQ1JGSlRZb2xJX3RPdU5SUzgtdnFZWW5sXzJEa2xYNktkWmJ6eTVIQnlOcDdIekNoQ0ZLYnJj?oc=5",
-   "source": "voz.us",
-   "published": "2026-11-27T03:19:00Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "ai_chips",
-   "outlets": [
-    "voz.us"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "ba7d02735b7867fd",
-   "ticker": "AMD",
-   "kind": "news",
-   "title": "All-AMD Radeon RX 9070 XT and Ryzen 7 7800X3D PC deal offers RTX 5070 Ti level gaming for just $2,240 in Black Friday offer",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWVlMQkx3akg3dVpxS0prZjBBM3FpQ182YmZhLVQ2UFhOcXUwTG1JdDU5UEdrcVBXSG90QjE5cFFzaGZqUVZRcXAtU1RGSmxtX2RyVmgyMHA1bFZNdE9tWUVEQ0twV19XbzJhN1lHNURKbERZV1ZqQ2lIdGlNRWNFTEp1Ty1fWUJQeWFhUHdHTjVLQ1diTkZhQklqQXluS05CTkVhUG5scWY3aG5iYld5VmRHVDJmNTViLVdfUkRKdkIxaDN4TTNsS0stUHQ4R2RhcTdSTldiM3VVcGVLcWtFUFVpR1JXWTg?oc=5",
-   "source": "PC Guide",
-   "published": "2026-11-27T03:20:40Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "ai_chips",
-   "outlets": [
-    "PC Guide"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "ced7af17c4d562d7",
-   "ticker": "MSFT",
-   "kind": "news",
-   "title": "Microsoft study finds AI coding agents write bigger patches, mostly by adding tests",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVmFTSThld2JTQkJoQjBFSXNHWjNodlBtYXJibTZYZlJWY3NvbU5ZWmZ4eE9uUmVDWUFyTFpVRFdxSDZMRWU4dGNXS1M4b0lLZTM4cmFGanhVSVhYRWFoSVhIeVFZVkU0MXZsbUs2dHZXTHhsWGI2Uy1Yb3lCTUxrSQ?oc=5",
-   "source": "Crypto Briefing",
-   "published": "2026-11-27T03:21:15Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "big_tech",
-   "outlets": [
-    "Crypto Briefing"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "4f8e60f454bb1dc9",
-   "ticker": "RGTI",
-   "kind": "news",
-   "title": "Here’s Why Rigetti Computing (RGTI) Cracked the Best Quantum Computing Stocks for 2027 List",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUw0aDBLUXlDSXFrblVIN0F0MU04aUxmWkdTR1dDVjJITXlEb0pVY3ZoTzFIV1ZRWUNxN3pScllGbTdTbXpBVkRITXZZa1dLenN2TU53WEg2azR2TmZfdTBTaUJiUTFRQmVOUzMxaDJ2WlB4cFpRTW9abFZRdGZzYUxJeFluTWxWUTdpcm90Ynd3M3NjVUU0U2ItMA?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-27T03:29:00Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "quantum",
-   "outlets": [
-    "Yahoo Finance",
-    "News"
-   ],
-   "merged_ids": [
-    "4f8e60f454bb1dc9"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "658a0bf54d474f6a",
-   "ticker": "MSFT",
-   "kind": "news",
-   "title": "Microsoft’s Brad Smith Says ‘We Didn’t Know’ $10 Million Trump Ballroom Donation Would Involve Demolition of the East Wing: ’We Never Expect to Get Everything Perfect",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT0dnTGJIRjhKaG1fZUsyeUdTQXZpYWtBQkQwUWJmdFJoeEFNZlYyYWpxRHVsS2p2LVVSMHZFMzkxTTdUNlNfdGdsaTRHWmtOTWxwQnRQLXpDUW1GNzA5dmZRWEIzbWZma0hJMnRYeFZySl84R1Vfb1JOSFZFaFpoOVpnWUowM1ZHS2lJX0RBSkZ3UEpJZnc?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-27T03:30:00Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "big_tech",
-   "outlets": [
-    "Yahoo Finance",
-    "News"
-   ],
-   "merged_ids": [
-    "658a0bf54d474f6a"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "3853e1bfa8b69b46",
-   "ticker": "AMZN",
-   "kind": "news",
-   "title": "Amazon’s Black Friday Tech Deals Are Here! The 51 Best on Apple, Samsung, Bose, Dyson, and More Start at $14",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEcFJ2MnQ5SEh0U2N4SGxQRi1MTkJvRktzZ0dfa0xFdnc1UEc4N21uM0RQREpnejRuejFIQmRVZVJOZzRhUUJYQ2x4Tl8xMnhVV1hIc1MxYWVjREdnYTlzYmdoOE1WMkNtRkVkdzZMSWs?oc=5",
-   "source": "People.com",
-   "published": "2026-11-27T03:30:00Z",
-   "score": 23,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "big_tech",
-   "outlets": [
-    "People.com",
-    "New York Magazine"
-   ],
-   "base_score": 20,
-   "merged_ids": [
-    "f3f607bc800258ee",
-    "3fe22d6c2c8f3944"
-   ]
-  },
-  {
-   "id": "4c2b54417b2abdea",
-   "ticker": "TSM",
-   "kind": "news",
-   "title": "TSMC lifts pure-play foundry share to 75% as sector grows 36% in third quarter",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVjVRVTBXbXJLTDhvUFFWYWZqOUVrdUttc01NS2JQMVVlUUhibzhuZ2Q1bDJ0N1NONnZMT0ExNVdEM214cE96WFVJLV9vYUlVQ3QwRkdDX3ZmNHNnZDVNaHIxdnFfdlljWldXVVNwWlZEWDI0OWg3bTV6T2ppc2QyTjZ1dVpUd1A3S1N1N1VaMkp1Q1VmTjQybQ?oc=5",
-   "source": "digitimes",
-   "published": "2026-11-27T03:30:38Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "ai_chips",
-   "outlets": [
-    "digitimes"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "2205b853272b40dd",
-   "ticker": "QBTS",
-   "kind": "news",
-   "title": "D-Wave Quantum (QBTS): One of the Top Quantum Computing Stocks to Buy for 2027",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMlg3RlVOZkFtcjBaUDgxNGtFeWdTTG1ZcVhQRGxZS0RTa001MXdDSEI1czhsYjlQXy1iZGhJU25rdHFlRmUwejF6RGt0alNlLUpTQXBpVmpfbG1zMkhSeFVyaS1yUUpVNGlzZWtmdGVCakdqOXNXY0FQY1podkw5RG53Yk9kMTNVVWx3T0lJMEM?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-27T03:31:00Z",
-   "score": 0,
-   "tier": "muted",
-   "category": "noise",
-   "reasons": [
-    "noise: stocks? to buy"
-   ],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "quantum",
-   "base_score": 0
-  },
-  {
-   "id": "2205b853272b40dd",
-   "ticker": "QBTS",
-   "kind": "news",
-   "title": "D-Wave Quantum (QBTS): One of the Top Quantum Computing Stocks to Buy for 2027",
-   "url": "https://finance.yahoo.com/technology/ai/articles/d-wave-quantum-qbts-one-033110587.html?.tsrc=rss",
-   "source": "News",
-   "published": "2026-11-27T03:31:10Z",
-   "score": 0,
-   "tier": "muted",
-   "category": "noise",
-   "reasons": [
-    "noise: stocks? to buy"
-   ],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "quantum",
-   "base_score": 0
-  },
-  {
-   "id": "9332515354898501",
-   "ticker": "MSFT",
-   "kind": "news",
-   "title": "Pinterest Opens Ad Inventory to Microsoft Advertising",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemNibkxtTXV2VHh2QlNPLVhkYjFqLTdhWHJNaUk3TGx6YmRDSjUzam1QSEk2dVFiaV8xdHNVbTc4UkRXVlVSVTl4Ujh5UmpTM1RfWldqcjF4dTFYQ01wMDZWWGxzd0haWEZiTXpMQ0lXZlBRczB5bHNPWmJxcTNmdExJdXVSdDhaTFhhbw?oc=5",
-   "source": "MarkHub24",
-   "published": "2026-11-27T03:31:27Z",
-   "score": 20,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "big_tech",
-   "outlets": [
-    "MarkHub24"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "bccfd266f30918b0",
-   "ticker": "AMZN",
-   "kind": "news",
-   "title": "Amazon Lost 40 Satellites on a Boeing-Lockheed Rocket in November. SpaceX Is the Only Company That Can Fix Amazon’s Problem. Is the Stock a Buy Near $130?",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPYjFBa2NyN1ZXTVllTjZWX2V3N2hKc2kwYzIweF9aZ3ZLTzlIQjZ6Zk0yb2JXZ1dUX1VhU1dBZjQ3NFRJR2ViYXhUU0N3MGNoMUZyaGtUUzRGVVcxcndOT1E5bGJ2clp0NzRkdW9QNVMxTk1IU19NX1Q2b3FiOFAtdmluQlFxRlhNaXBIOUNaVVM1QjV4c3BFR2dya2JEMExiMUt6dFo3YmNjSU1LdW1zLThaTXoxdThoWWdtdVBKemM0VlFJcXhFNF82V3VXZnVfNzFPOEVfWlZaVFQ0aHJfTmFvVk9YaGpPU3UzRkJsbXE1Z1BXQ2p3N3FrNi05aDhIc3JaQnBFNWVKMW1IeDBUcmdMcHlLMC1yUHU3V2RxMlVSUQ?oc=5",
-   "source": "The Motley Fool",
-   "published": "2026-11-27T03:33:00Z",
-   "score": 26,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "big_tech",
-   "outlets": [
-    "The Motley Fool",
-    "Yahoo Finance",
-    "News"
-   ],
-   "merged_ids": [
-    "bccfd266f30918b0",
-    "bccfd266f30918b0"
-   ],
-   "base_score": 20
-  },
-  {
-   "id": "c75f66c9790ba3b8",
-   "ticker": "SPCX",
-   "kind": "news",
-   "title": "Amazon Lost 40 Satellites on a Boeing-Lockheed Rocket in November. SpaceX Is the Only Company That Can Fix Amazon’s Problem. Is the Stock a Buy Near $130?",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPYjFBa2NyN1ZXTVllTjZWX2V3N2hKc2kwYzIweF9aZ3ZLTzlIQjZ6Zk0yb2JXZ1dUX1VhU1dBZjQ3NFRJR2ViYXhUU0N3MGNoMUZyaGtUUzRGVVcxcndOT1E5bGJ2clp0NzRkdW9QNVMxTk1IU19NX1Q2b3FiOFAtdmluQlFxRlhNaXBIOUNaVVM1QjV4c3BFR2dya2JEMExiMUt6dFo3YmNjSU1LdW1zLThaTXoxdThoWWdtdVBKemM0VlFJcXhFNF82V3VXZnVfNzFPOEVfWlZaVFQ0aHJfTmFvVk9YaGpPU3UzRkJsbXE1Z1BXQ2p3N3FrNi05aDhIc3JaQnBFNWVKMW1IeDBUcmdMcHlLMC1yUHU3V2RxMlVSUQ?oc=5",
-   "source": "The Motley Fool",
-   "published": "2026-11-27T03:33:00Z",
-   "score": 26,
-   "tier": "info",
-   "category": "general",
-   "reasons": [],
-   "first_seen": "2026-11-27T09:43:52Z",
-   "group": "musk",
-   "outlets": [
-    "The Motley Fool",
-    "News",
-    "The Globe and Mail"
-   ],
-   "merged_ids": [
-    "c75f66c9790ba3b8",
-    "c75f66c9790ba3b8"
    ],
    "base_score": 20
   }
