@@ -1,6 +1,171 @@
 {
  "briefings": [
   {
+   "id": "2026-11-27-morning",
+   "kind": "morning",
+   "title": "Morning brief",
+   "created": "2026-11-27T13:50:14Z",
+   "since": "2026-11-25T21:30:00Z",
+   "summary": null,
+   "groups": {
+    "Tesla & SpaceX": [
+     {
+      "id": "6cba5c5b6d49ba21",
+      "ticker": "TSLA",
+      "title": "Tesla plans to acquire German manufacturing systems group EMAG",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHhqWmtyZzMtNldXQ1JGTHEyWkZzUmh1d052RFQzR0U0OXRkdm1LZFZRdllwY1VHQlZHYy1tYW5uMkQxb1FUVUZtSEVlUFVjREd0ZzlMMzJaLUFZLUpjSm02S2NFd1k0cWlfb0dHMVhuSlEyelJFdnRadldJLXBlWFdUbG5FV0RJZ09rVTAzcmQ3NjZnd25wanNXdWFBckEyekRBTWVKZWF4M0xqS2t5TjJGWU83UQ?oc=5",
+      "source": "marketscreener.com",
+      "score": 87,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "dd3ff960b7371d06",
+      "ticker": "TSLA",
+      "title": "Tesla Recovers From a 7% Drop as SpaceX Merger Talks and an EU Delay Keep TSLA Below $388.93",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUlJxVnk0UXhSWFgwcFdhTDduTjd1aXF6V1NwLWwyUlNaclZkQVFRSldTNG9XNmI0SWo2ZXhQVWM1M3pvdkFyY3Zlc3FRMU5JUUp2WUhsdGt2dXdNeFlsbVJGcGJlRXp2UU82VjJ6RFJqeDdLMndhUWZZLTZvY1JsaGFjYkg1RzZJalRuMzNBTWk4MTgxRnIyYVA0VUxZZGZRQm42M05LeVBLRnFnb0tkM1YxR05pMTVJbUtEZE1jWUZXM2dDQ0liUHRBQnNBZnZwa2U3TnF6cVJHbFpDOHNZWHlWanNzTm9LNUNFVTVVVXBHRHhLZ0Z5MXVR?oc=5",
+      "source": "TradingKey",
+      "score": 75,
+      "tier": "major",
+      "category": "deals"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "00c364f86a661ad1",
+      "ticker": "AAPL",
+      "title": "Will Rising AI Capex Alter the Free Cash Flow Outlook for Apple Stock?",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGpYSlZnQmQ3ckVHZ3BOckxIRnRGUVo4dEhLdDA0TXBzMHJsa29CeVRuWlE1ZTg0Zmd3al9BcXR1b19FWXNheXhtbVg4UkZTM191U3RrZXRreVlJX2pxRG9jNnBTMUpxTlQ0OFozaWlpdFIxYXJJTFh1WG0ycUpFZWtXRERPejFwY09NdHM4RVVuemJ0?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "719a09904b059170",
+      "ticker": "AMZN",
+      "title": "Can Amazon (AMZN) Turn Its AWS Growth Outlook Into Cash?",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWZLcUFLWUIxN2hqV2hBZEpWSHhSQllKVDYwS3B6SlJDLW13YnBzekFNemQ0aHQ3VFVWRmRtTllQcE9HWEFKeUMtbzRKbHFnNE00bkUtUURqTEVDWFgtemF2YTdfUTB0dzBKM2RuaDBjT3ZvaG1tMFhuQnROV3ZhRHBiLVkxQTB0UFNJYmxOLU1tZ0V6RmdN?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "9bd7ba5a591465af",
+      "ticker": "GOOGL",
+      "title": "Google's cybersecurity forecast warns that chatbots may be trying to scam you",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONDBYeUI1NU9vbmthUENrN1N3QWxWV0c5eTlFd0VpTHRERGlYRHpaMkprQUgwYkdYSjhxTTg1dDJmdkFXTWhYZVZhdDZKWW0zSUo5dTZSNktBd1NsdHpRUmlqd3dIS2RJLTZxcHRqSjBqQXF1c1lTaUtwaDk1NGNoVWlnZ3Q0WFNBdFhpb0NSaTFOcXRzdVE1WTRPNmJfeTdPNlQ1eS0zTQ?oc=5",
+      "source": "Georgia Public Broadcasting",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "2d94029ef94fdd89",
+      "ticker": "META",
+      "title": "Meta Platforms (META) Stock Price Target 2026 & Analyst Forecast",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12QkZNSXR4X3VwR004QWJZeURkWTl6dFRla1Q5WERTWEpqT01Lc1hjc2JZU05mSGtfOURNdjB5aDFoZ00waWJJSEFNY092d0lGOVd0bzVCdVhQVW1hQXc?oc=5",
+      "source": "Benzinga",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "71c8687fed553161",
+      "ticker": "NVDA",
+      "title": "Nvidia stock is still paying the price for the Jensen Huang CEO drama",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTEw1bXM4LW9fQ280Q256NWtHYXowN2YzeGFmb29VZzVZcXZacTNwODZubi1TR2lzSXYtZFUzWVpMS2RPdkdYeVZmd29HMkZNaFZOdXlQRl9vN3czUDNoUFZENUtvQ0ltWUdGUHR4OXNTdFNzMkRLNHJMTUUwYkJobmNTd1R4aExmRjhFTExpaFJhdTJ5MlJOWnZEelltN0QwMzZGbTlmRHYwTnl4amQ0M1VwYkVCcl9zdVVHaVY0UGI4Y3J4WThVOTZlSWxOUQ?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "leadership"
+     },
+     {
+      "id": "07524d1180ddaff5",
+      "ticker": "TSM",
+      "title": "Nomura Raises AI Server Outlook; TSMC's CoWoS Capacity Seen Up 80% by 2027",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uN2tZYk1JOHpWel9qOGZOY2tqQnQzOGpqZnVHRkZSYkltRzNPQ0VkZk8zZUJ6TFFQTlBOUk4xQ3BVNm1wcHo4bUxCUTQyeGNLVG1jYlJINF9Cc011cDBYR052WnlTLTBQQzNYYmE4VlNORU5xV0E?oc=5",
+      "source": "BigGo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "3a46881669e52c9c",
+      "ticker": "NVDA",
+      "title": "Big Business This Week: Huanging Tough As CEO Back at Nvidia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGIxellrd2pENFoyTEZnWlZaUXlCZUFpeWlscWw3VEM3YzlxRjZTQ0lYYWhPZU1pMjVoRm0zSnRvLVkxa0UyUGo0OWVDMEtBV2VyWm5OeWl0bkVvaldyaFRGLTN1cTd2QmhHazJkTWRvVWxGdzh2LVp3N0U5LWlLMTg5NXlKV1k3clF1YUktck1xSC1N?oc=5",
+      "source": "Cheddar",
+      "score": 75,
+      "tier": "major",
+      "category": "leadership"
+     }
+    ],
+    "AI software & cloud": [
+     {
+      "id": "19c5b6de00f10606",
+      "ticker": "ANT",
+      "title": "Anthropic, PBC (ANT) Stock Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZE5EaGpmZmNGSnhPdU44WUZHQ1FVNjVubDl0SFBCbzlMZno2U3RWdTNGdU5jMGRCTnhXY29aMHU3VHFXQzRaTjB0MVQ2bHUwT2RxM19PSE9DUkg5WGFfRm1MOUY0VU42VFVJRWtsZlAzWVZIY3lDTG1sNXpWM05IbUNzRnd4UTIwcVBfZA?oc=5",
+      "source": "Yahoo Finance",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "ORCL",
+     "change_pct": -5.13,
+     "price": 103.88
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": 5.09,
+     "price": 23.54
+    },
+    {
+     "ticker": "NVDA",
+     "change_pct": -3.91,
+     "price": 149.3
+    },
+    {
+     "ticker": "CEG",
+     "change_pct": -3.9,
+     "price": 235.28
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": 3.86,
+     "price": 7.0
+    },
+    {
+     "ticker": "RGTI",
+     "change_pct": 3.43,
+     "price": 7.85
+    },
+    {
+     "ticker": "META",
+     "change_pct": 3.4,
+     "price": 609.89
+    },
+    {
+     "ticker": "AMZN",
+     "change_pct": -3.12,
+     "price": 244.43
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 863,
+    "major": 48
+   }
+  },
+  {
    "id": "2026-11-25-close",
    "kind": "close",
    "title": "Closing brief",
@@ -4742,169 +4907,6 @@
    "counts": {
     "stories": 501,
     "major": 64
-   }
-  },
-  {
-   "id": "2026-11-11-midday",
-   "kind": "midday",
-   "title": "Midday brief",
-   "created": "2026-11-11T17:28:33Z",
-   "since": "2026-11-11T13:30:00Z",
-   "summary": null,
-   "groups": {
-    "Quantum computing": [
-     {
-      "id": "0f5ec25e3c797d94",
-      "ticker": "RGTI",
-      "title": "Rigetti Falls 5% as Q3 Revenue Misses by Nearly 60% and Mizuho Flags “Soft” Guidance",
-      "url": "https://www.tikr.com/blog/rigetti-falls-5-as-q3-revenue-misses-by-nearly-60-and-mizuho-flags-soft-guidance?ref=yahoofinance&tlnk=yf-261111-m3j5p4qh&.tsrc=rss",
-      "source": "News",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "d78da79d628bbaad",
-      "ticker": "IONQ",
-      "title": "Rigetti Drops 5% on Revenue Miss and Soft 2026 Outlook; IonQ Slides 2%, D-Wave Rises 2%",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeS1wazhXb2tvYkF4cDJQcEh6R0pjNFpSbW9QVWlWOVJrMnV6UlZ3NUswWkMtQzBsRTNBV0JVQ3NzaDcwTHFETXZHYVpDS0oyS3dBZEtQR3NkVmIyY1dCUTBHWE5kNFQyOHRFVXEzRFJ3YWdOTmFra1NxcG9qZ2loczJnZnVwaS1BVGdEWTNxLVppZ3MwMnQxaHRHLThKYmhrRVkzWmRVTFRXMW43VVFnUFNBOTJ1TE9yT2Y1WU5PSmtubWlD?oc=5",
-      "source": "24/7 Wall St.",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "2a1ba56d7f30adcd",
-      "ticker": "RGTI",
-      "title": "Rigetti Drops 5% on Revenue Miss and Soft 2026 Outlook; IonQ Slides 2%, D-Wave Rises 2%",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeS1wazhXb2tvYkF4cDJQcEh6R0pjNFpSbW9QVWlWOVJrMnV6UlZ3NUswWkMtQzBsRTNBV0JVQ3NzaDcwTHFETXZHYVpDS0oyS3dBZEtQR3NkVmIyY1dCUTBHWE5kNFQyOHRFVXEzRFJ3YWdOTmFra1NxcG9qZ2loczJnZnVwaS1BVGdEWTNxLVppZ3MwMnQxaHRHLThKYmhrRVkzWmRVTFRXMW43VVFnUFNBOTJ1TE9yT2Y1WU5PSmtubWlD?oc=5",
-      "source": "24/7 Wall St.",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "df2b78caa3bb9fb1",
-      "ticker": "QBTS",
-      "title": "Rigetti Drops 5% on Revenue Miss and Soft 2026 Outlook; IonQ Slides 2%, D-Wave Rises 2%",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeS1wazhXb2tvYkF4cDJQcEh6R0pjNFpSbW9QVWlWOVJrMnV6UlZ3NUswWkMtQzBsRTNBV0JVQ3NzaDcwTHFETXZHYVpDS0oyS3dBZEtQR3NkVmIyY1dCUTBHWE5kNFQyOHRFVXEzRFJ3YWdOTmFra1NxcG9qZ2loczJnZnVwaS1BVGdEWTNxLVppZ3MwMnQxaHRHLThKYmhrRVkzWmRVTFRXMW43VVFnUFNBOTJ1TE9yT2Y1WU5PSmtubWlD?oc=5",
-      "source": "24/7 Wall St.",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "c47a5859cea64d5d",
-      "ticker": "RGTI",
-      "title": "These Analysts Lower Their Forecasts On Rigetti Computing After Downbeat Q3 Results",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORlBPbzZEUzBYcTN3U3dPc3NZYzVyQi1PRERjaDIzTEF3Uk9makZsWG01ZWNJNi1aMGgzM2hLbXVuUmFxMHdRMEdtNm1uSXNic0s4b1hnMXl1cjgwdVpNZ3N4OWt4TkF5M0ljbVdJOUcyTkhfYjRyQjFNRk1KZlBYZ0t2aG5xUGpKMm5jekhjeHRTSWVQeks2dkpSWFlnUXk0b2NJZlhZVnJJQ05tQ2dYR3RZa0lyZ18zSTU4SHdiNG9wYjFPdUREUDl2S2xfUTBsTUNFMUZ5a21PSm9nNFFSQnRVbzdCeUU3UDB5V3ZSbw?oc=5",
-      "source": "Benzinga",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "Big Tech": [
-     {
-      "id": "0b67ca2a558f20cf",
-      "ticker": "GOOGL",
-      "title": "Eric Schmidt, Former Google CEO, Should Run Nvidia",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONmhUc2Q1aTYyN2tONi14SmpSYzZhVHhUbmdtZXhWRG1maXVKUVFPU051VmlBaDBRUlg1a0xvdFdRU2w2ZE9fRGcxaWRpb0ZlOTF2bFR6Sk1iRjVHcGxaTFBQOWtsREJIcmRCQ1l5VDM3V2tJaHIwY2pDeEUwZlc2ZlFLLUE3MVI5alZ6eTBQSWdEZXRjYUVz?oc=5",
-      "source": "24/7 Wall St.",
-      "score": 81,
-      "tier": "major",
-      "category": "leadership"
-     },
-     {
-      "id": "4fa2d7c458a01aef",
-      "ticker": "AMZN",
-      "title": "Dylanex Announces Q4 Inventory Preparation Guidance for Amazon Sellers Ahead of Holiday Shopping Season",
-      "url": "https://finance.yahoo.com/small-business/articles/dylanex-announces-q4-inventory-preparation-150000440.html?.tsrc=rss",
-      "source": "News",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "66476df128df136a",
-      "ticker": "MSFT",
-      "title": "Microsoft Patch Tuesday fixes Outlook flaw already under attack",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZi10TUVNU0xMNmhRUTVkRlhLazB1V2lSdjFIU09ma0gzaFZnNHBBQUtPZnNqUE45MXB2M1lWMGRuM2RtU2phNVlPTHFqN0pDTTdUU2dqSzFmVS03YUJid0VxdWZ2X0tqZGxLS1gxZ0FQUWtqcHc2N09vNDVjaGdRQUw5c3AtZ0YzZ3ZHUjBTYm9ET0J1Q2J4VTVjajltVUJWeHFCNTRod3g1Snk0anBz?oc=5",
-      "source": "Malwarebytes",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "AI chips": [
-     {
-      "id": "f794956a5e7b83c8",
-      "ticker": "AMD",
-      "title": "AMD Rises 4% as CoreWeave’s Raised Outlook Revives the AI Chip Trade",
-      "url": "https://www.tikr.com/blog/amd-rises-4-as-coreweaves-raised-outlook-revives-the-ai-chip-trade?ref=yahoofinance&tlnk=yf-261111-c9f92pr4&.tsrc=rss",
-      "source": "News",
-      "score": 81,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "824ef245973daa8c",
-      "ticker": "NVDA",
-      "title": "Nvidia faces Baird downgrade as AI spending outlook and China risks cloud growth",
-      "url": "https://www.proactiveinvestors.com/companies/news/1101608/nvidia-faces-baird-downgrade-as-ai-spending-outlook-and-china-risks-cloud-growth-1101608.html?.tsrc=rss",
-      "source": "News",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ]
-   },
-   "movers": [
-    {
-     "ticker": "ORCL",
-     "change_pct": 10.42,
-     "price": 130.27
-    },
-    {
-     "ticker": "AMD",
-     "change_pct": 8.04,
-     "price": 556.63
-    },
-    {
-     "ticker": "AVGO",
-     "change_pct": 7.03,
-     "price": 355.31
-    },
-    {
-     "ticker": "OKLO",
-     "change_pct": 6.78,
-     "price": 26.79
-    },
-    {
-     "ticker": "TSM",
-     "change_pct": 4.86,
-     "price": 415.75
-    },
-    {
-     "ticker": "NVDA",
-     "change_pct": 4.38,
-     "price": 176.19
-    },
-    {
-     "ticker": "RGTI",
-     "change_pct": -3.7,
-     "price": 11.7
-    },
-    {
-     "ticker": "VST",
-     "change_pct": 3.68,
-     "price": 136.0
-    }
-   ],
-   "filings": [],
-   "counts": {
-    "stories": 874,
-    "major": 129
    }
   }
  ]
