@@ -1,6 +1,175 @@
 {
  "briefings": [
   {
+   "id": "2026-11-27-midday",
+   "kind": "midday",
+   "title": "Midday brief",
+   "created": "2026-11-27T17:30:11Z",
+   "since": "2026-11-27T13:30:00Z",
+   "summary": null,
+   "groups": {
+    "AI software & cloud": [
+     {
+      "id": "a087c0b4e856e54e",
+      "ticker": "PLTR",
+      "title": "Poland to buy $300 million AI software from Palantir for military",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3BqdGhLLTBHdkt6VkV0STk1amNXWXprN2ZhN0gwSERiUmIySFZYdlFpUmctS3U1M3pkLVlIWEx4dGM4TVp0T3Ftczk3V0lzVmo4YnM0UFlqSldFb1pSTzZkS1VaUk00cFd3STZGSW4zYnNHN1poalo5MGFwTDhLRUcxT3ZTandILUZpdTRUb3pLNEsyWXZBazJHdjdOVTBsVFdv?oc=5",
+      "source": "Report.az",
+      "score": 87,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "1c7aeb3ff90587d4",
+      "ticker": "PLTR",
+      "title": "Palantir stock outlook: Bullish momentum persists as buyers dominate intraday trading",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOWFHQ3FuUTBxYlhLSTF6bjdraDdldThzMTZzWDdaU29jR3Z6QUt5dkRRUlU2Z0JlS0lkcm0yQUgyRGp4c05PMmpWaGFiVEFZTWk5SWdzV092T0lYbnJQWjY4WnJnNHhicXdvMTEycEVySzhLc2FNT05nNEdUbHlIb1VncHRWSmFrZEhpMF9YRQ?oc=5",
+      "source": "Traders Union",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "7d82cb89756dbf56",
+      "ticker": "ORCL",
+      "title": "Oracle Stock Outlook: Can a Double Bottom at $100 Trigger a Reversal for ORCL?",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTDlRdDhoeTB1bXJQWnphdGdpTmhPbF9zTmJzN1RvWnFwVDZuVGtwMVM4cWtfMTdKYXY5RnY3eVBOUEVLNXk0dzVzRG5icmVadS03MGw2SUpVa3ZueDZvcHBZTVdIV25MSTBBNDFlaWFwNG9xWU5KSzFTUEUzbEc4S3hZSnlHMjlXRDllZWpYMGJ0VjdVdXBfcW5jTkVrQlpnNXZGTUtoZm9HOWZscFBkczl1V3dEMHVIckE?oc=5",
+      "source": "FXLeaders",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI energy": [
+     {
+      "id": "6af8031a38c9a605",
+      "ticker": "CEG",
+      "title": "Constellation Energy Just Raised Its Forecast. Is the Stock Still a Buy?",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdWhMdENkUm04RzczTjM3dzRmMVUyWUlYLWJOTGxxZFlhUFQzUEVXSlBIVXlYRlJhZEdHem5CaTBMblhfRVhKWE5PRUpzU2xoZGRRTURVTzhhT3prRmhBbVNJNm9Oa3ZLTGh2UC1IQVdGVnpEektSMWc4SjRKVGs4Sm1HYTlIUk9NZmJRN2RySXNRUFlqanRQMkJwcUlRNUtDU3ZRY2NRa0dNLVhSRThXbTZod29keXpBejBoQXhZdVNvWXlCN1hQbmZTSUlhNTI5UkpkMjFDc1dNV2tQTU5ZTDJzbnljTTRndEp3?oc=5",
+      "source": "The Globe and Mail",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Big Tech": [
+     {
+      "id": "00c364f86a661ad1",
+      "ticker": "AAPL",
+      "title": "Will Rising AI Capex Alter the Free Cash Flow Outlook for Apple Stock?",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGpYSlZnQmQ3ckVHZ3BOckxIRnRGUVo4dEhLdDA0TXBzMHJsa29CeVRuWlE1ZTg0Zmd3al9BcXR1b19FWXNheXhtbVg4UkZTM191U3RrZXRreVlJX2pxRG9jNnBTMUpxTlQ0OFozaWlpdFIxYXJJTFh1WG0ycUpFZWtXRERPejFwY09NdHM4RVVuemJ0?oc=5",
+      "source": "Yahoo Finance",
+      "score": 81,
+      "tier": "major",
+      "category": "guidance"
+     },
+     {
+      "id": "6ab7d793bdfdc49c",
+      "ticker": "AMZN",
+      "title": "Amazon technical outlook amid Black Friday shopping",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-technical-outlook-amid-black-155428563.html?.tsrc=rss",
+      "source": "News",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Quantum computing": [
+     {
+      "id": "7926b8232769b591",
+      "ticker": "QBTS",
+      "title": "D-Wave Quantum (QBTS) Stock Forecast & Analyst Price Targets",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JTGNaalAyMklPMjVSbDRjUWxpWlB4VWFILUdaOF91T3FuTWd0Y1RldldITTRjRGJKdktjVkcyWDlzLXVrTnQ0OVQxcjdzd000VjFsbU56Qng?oc=5",
+      "source": "TipRanks",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "AI chips": [
+     {
+      "id": "1a0e4eaab2aed47e",
+      "ticker": "AMD",
+      "title": "AMD stock forecast: Sideways volatility likely unless price breaks above $423.97 resistance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTJZeHVvbUlZLTNRS3FoVFJVSnN0cDhXUkx5RDdSSTl6U3Q0SUJ0SkQ3TUNOTFp0RFlCU21tNDYzMThvSUJuQlVkRTFnd3g4Z3VSR0hMU1ZNX1c0UnlIZDhSajJfSkY1b1JDZEhPb1ZFYWpuaTZoODFsdFFCY2tfTXlWWGU5YXJ0TGJ2WEN3aw?oc=5",
+      "source": "Traders Union",
+      "score": 78,
+      "tier": "major",
+      "category": "guidance"
+     }
+    ],
+    "Tesla & SpaceX": [
+     {
+      "id": "1e814f7f80714c2a",
+      "ticker": "TSLA",
+      "title": "Tesla Rallies 5% Amid SpaceX Merger Speculation; Rivian and SpaceX Rise 3%: Is Tesla's 439x P/E a Warning Sign?",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ1Y5cWtPazFPbDdhMVNHUUNES25DWjdpNXptMEdLNFg2OEtKR3dZRVUyMUlBbjhtMDdic0hhWERhNXNfOWdHS1pvcVlWQWo5Z1BNU00tVk95NnhfekNrcXYzbHN4S1ZralBVbnJvSGFrTWtSdG15ZkxZRFdWQnFOTG5pX3RURFF2aC0temFSb2FEZmRhWlNuRnVZZnpUWE92VTczV0FBdGhjdlViWnRhUWh3V0hfWUFYVzhNSkVTSlFVZTBoekx5YXcxSHU2dll4YTY5WkNxU2hSU0gyWXNmYTFxdw?oc=5",
+      "source": "24/7 Wall St.",
+      "score": 78,
+      "tier": "major",
+      "category": "deals"
+     },
+     {
+      "id": "8d2c832cb81a20f0",
+      "ticker": "SPCX",
+      "title": "Tesla Rallies 5% Amid SpaceX Merger Speculation; Rivian and SpaceX Rise 3%: Is Tesla's 439x P/E a Warning Sign?",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ1Y5cWtPazFPbDdhMVNHUUNES25DWjdpNXptMEdLNFg2OEtKR3dZRVUyMUlBbjhtMDdic0hhWERhNXNfOWdHS1pvcVlWQWo5Z1BNU00tVk95NnhfekNrcXYzbHN4S1ZralBVbnJvSGFrTWtSdG15ZkxZRFdWQnFOTG5pX3RURFF2aC0temFSb2FEZmRhWlNuRnVZZnpUWE92VTczV0FBdGhjdlViWnRhUWh3V0hfWUFYVzhNSkVTSlFVZTBoekx5YXcxSHU2dll4YTY5WkNxU2hSU0gyWXNmYTFxdw?oc=5",
+      "source": "24/7 Wall St.",
+      "score": 78,
+      "tier": "major",
+      "category": "deals"
+     }
+    ]
+   },
+   "movers": [
+    {
+     "ticker": "RGTI",
+     "change_pct": 7.07,
+     "price": 8.4
+    },
+    {
+     "ticker": "QBTS",
+     "change_pct": 7.07,
+     "price": 7.5
+    },
+    {
+     "ticker": "IONQ",
+     "change_pct": 6.46,
+     "price": 25.06
+    },
+    {
+     "ticker": "OKLO",
+     "change_pct": 5.5,
+     "price": 20.54
+    },
+    {
+     "ticker": "PLTR",
+     "change_pct": 5.02,
+     "price": 171.79
+    },
+    {
+     "ticker": "TSLA",
+     "change_pct": 5.0,
+     "price": 399.15
+    },
+    {
+     "ticker": "AMZN",
+     "change_pct": 4.21,
+     "price": 254.73
+    },
+    {
+     "ticker": "AVGO",
+     "change_pct": 3.56,
+     "price": 311.57
+    }
+   ],
+   "filings": [],
+   "counts": {
+    "stories": 737,
+    "major": 57
+   }
+  },
+  {
    "id": "2026-11-27-morning",
    "kind": "morning",
    "title": "Morning brief",
@@ -4742,171 +4911,6 @@
    "counts": {
     "stories": 880,
     "major": 168
-   }
-  },
-  {
-   "id": "2026-11-11-close",
-   "kind": "close",
-   "title": "Closing brief",
-   "created": "2026-11-11T21:55:31Z",
-   "since": "2026-11-11T17:30:00Z",
-   "summary": null,
-   "groups": {
-    "AI chips": [
-     {
-      "id": "2f53292ecca8e1d8",
-      "ticker": "NVDA",
-      "title": "Nvidia Ceo in hot seat as spy probe grows",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtQUZUcDdNM3NvZGVhOGRQbVNkR25RSGxpdHI0QkhtZW1hMWZOQmlNQ3ByRHZuMVRaT1JMLXRmTENKZzU2UjR0NTd5MHBHTmFhaEhydVhfbUdEU2poeC1INU9BbkFCbVpBWVh1czFPNDExOUJiUkpvUno2NDRxc00?oc=5",
-      "source": "WSMV",
-      "score": 87,
-      "tier": "major",
-      "category": "leadership"
-     },
-     {
-      "id": "8aecebd15a43ef15",
-      "ticker": "NVDA",
-      "title": "Nvidia stock is pricing in 2 major risks as CEO Jensen Huang's affair fallout plays out",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblRWcW9rakVSOGNoV081cEI1U0FiZ19PN0hlNHA1VV9DbXlqUEhjdDRNNEpvNGg4NF83TDlBYUNRSnNpNGo0c3FYM3ZEODFOZXQ5YUpBTHFHRkhqc0hwemlLdVlBN2s5aDlua19kVTRPVFkxLXdWZW51STd1U1ctVmtYbGR5c01GY0EzYldiMmViU3kzR0JRelRwLVNEVWtrOUxrV202emNfcFY2SWozUVplRGdFR2NKWjVSWDhDUWdzdkhreXFJVHhVOU9wTnRvbng4T2FpOThOam9lVVhJLUZybGE?oc=5",
-      "source": "Yahoo Finance",
-      "score": 78,
-      "tier": "major",
-      "category": "leadership"
-     },
-     {
-      "id": "900d36fc503f414a",
-      "ticker": "NVDA",
-      "title": "Nvidia short-seller warned in May of CEO Jensen Huang's ties to suspected Chinese spy",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TUTFtU0c0OUs2ckQ2N2xhZzRBbUZLUzJjajZxS2dzcV9uUDlpbi04akZrdmcyZzNzR2FvQVE5UjctYnppOThIRGZnSW1laF9LRG1mOURMeTFJRElaOEplU0hhR2gtMnFxa1hya1ZNRG1sUWctUWVNcg?oc=5",
-      "source": "CBS News",
-      "score": 78,
-      "tier": "major",
-      "category": "leadership"
-     },
-     {
-      "id": "260609d6b034006c",
-      "ticker": "NVDA",
-      "title": "The Debate - Nvidia's Jensen Huang at heart of China spy scandal",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNHJidDJ5TmotQkhqdkR4clVnWHR4aXdSOUR4Z2psNnlJQXlGcDhzVkNnYUVOclgwMWtGU0hOd0JMZUJYcGQ1MFo4anRTX2NtbFRiSHB4SVVHWnoxNXhCTV9OMGQ1Vy1DaTRvMVVpbHpfTDRuOFJnLXZtbXp0WmRSeFlET21rQ2ZvblpMdnkwbzg3cFpianBzMmFaLXQzTm1aa3ZCRDlpeWtqOTU1?oc=5",
-      "source": "France 24",
-      "score": 78,
-      "tier": "major",
-      "category": "general"
-     },
-     {
-      "id": "dcf269bada8a2cdb",
-      "ticker": "AMD",
-      "title": "BofA Raised Its Earnings Estimates but Cut Its Target on AMD (AMD), Here’s Why",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSXJleUlRZEFkakZDN3phZjBfVTRMNWRrZ2JnQWduQXh1aVdFbm5vVzNRblN2dlQ4VkxvdVlSQ1VNRFZpcXlOd0RCYWxfSnZDa3BLNE5kZHBCYUdUbHEzcEdPVTdvandlX3VmeWdWSmgzYkVWWEo4SlRMbC1LaGRFSDJ4ZnBnZHZoREZVTkhxeXVJMTFRZDN5RnI0b0pvSjVi?oc=5",
-      "source": "Yahoo Finance",
-      "score": 78,
-      "tier": "major",
-      "category": "earnings"
-     }
-    ],
-    "Quantum computing": [
-     {
-      "id": "dee72ab89bbd8262",
-      "ticker": "RGTI",
-      "title": "Rigetti Computing earnings analysis: questions answered and next catalysts By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON2hmTERiVDBJbVNzRmVFRmNqMW44MkEzTDhJMUNCMFdvbHdjZTZPa2x6cWdBcDNpZWt0MEJjWnZGU2JldWtVYTdhWVdYaEtia0JzY1FLQlIySTlFb1d0emMwRzk1WDh1QUttZW4wZ3JqbTJNdkhfREpuUG9CUUtzZ3J2WVlzM05YOGlNSFhUc09wX05KRjdJLUZlTHpuQXNiY0VweHVQaVJVOUs1OU96TWRUSkhPTHJ5dG1XZWRaelRlMG9ZX0xacEhoYm5tUlU?oc=5",
-      "source": "Investing.com Canada",
-      "score": 81,
-      "tier": "major",
-      "category": "earnings"
-     }
-    ],
-    "Big Tech": [
-     {
-      "id": "423c28b98164cf19",
-      "ticker": "MSFT",
-      "title": "Microsoft Patches 1,235 Security Flaws: Outlook Zero-Day Already Under Attack",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPenpXV3diNGc3akZBeW03U3NfcU9fV0FpZXNmVk12bmo4bVQyaVlCb2xHUUx0X2RkRnAySllocG9XOHlpZnhJeFlyQW82R3J4LTJYOGlIbnlQczZmbEdkN2FsTUpuQUxBMU1jR3RQSzNQdHEyWGJNN3pWbGhqQTVVMkZldkhkeHM?oc=5",
-      "source": "TechRepublic",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ],
-    "AI software & cloud": [
-     {
-      "id": "8bc7c7282d65a3a1",
-      "ticker": "ORCL",
-      "title": "Oracle Stock Price Forecast: Bernstein Says Market Undervalues Data Center and Core Database Businesses, Sees Shares Rebounding to $132",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNXpnbHdjVHNvZEI3cmlvYmVLVFozYTZCemM5bkY1ZkVlVkQzU3ZZcm9jd1BKYUdRX2hHQk03d01uR0tuTklyQld2enBCaDFmNWg5M1Z2T2J4SmFCQzVTcHhMUkdmSzJod09BTjRKT1JKTmRMTU5YcEFUbnhJX0VqMlZMNGJkcGhDOGliUUVKWVlLUExGMnp6SlY4VEt6UUZwNmJOaG5mOE5YcGx1cGFxM0hWdFhXdkpfbVR5V3M4dnNTUzVRMEl2cjJDWDB0eERMc1RiZlVObTZRTVU?oc=5",
-      "source": "TradingKey",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     },
-     {
-      "id": "ac40ab40f95159f9",
-      "ticker": "ORCL",
-      "title": "Oracle CFO Promises “$30 Billion Plus” in Free Cash Flow by Fiscal 2029 After a 70% Plunge",
-      "url": "https://www.tikr.com/blog/oracle-cfo-promises-30-billion-plus-in-free-cash-flow-by-fiscal-2029-after-a-70-plunge?ref=yahoofinance&tlnk=yf-261111-fv69mxwf&.tsrc=rss",
-      "source": "News",
-      "score": 78,
-      "tier": "major",
-      "category": "leadership"
-     },
-     {
-      "id": "741cc26c7ad2f8db",
-      "ticker": "ORCL",
-      "title": "Oracle (NASDAQ: ORCL) Stock Price Trades At A Discount To Peers Despite Surging Revenue Forecasts",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRElmLUlzOFB6R1h6dTJLbmlJQ2xaTkxlSVFqakxPT0JYYXkzQ1dtNHEwUVdka2JITk1rUDZKU3VJdDBDUzAtYzk0eTlWN3AxY0QtUmRrSXJrMDNJejhNbnJYTlQ5cVBieGdOYnBTNGhzM3FNbHV5dkZjNnpaNnZVdVItcTRJMEtXUUZ5dmRGUFZKa1VsZ2tqLUNCVWVFYlRGdUp4Y05kSjNuWXdXUF9BVUpaWS05UjFnX3ZLaFBRZTJTb0RsOTAwc1FUc3p2RkF6Sjl3TkRKRHJGODA?oc=5",
-      "source": "Foreign Policy Journal",
-      "score": 78,
-      "tier": "major",
-      "category": "guidance"
-     }
-    ]
-   },
-   "movers": [
-    {
-     "ticker": "ORCL",
-     "change_pct": 8.82,
-     "price": 128.38
-    },
-    {
-     "ticker": "RGTI",
-     "change_pct": -8.56,
-     "price": 11.11
-    },
-    {
-     "ticker": "AMD",
-     "change_pct": 7.32,
-     "price": 552.9
-    },
-    {
-     "ticker": "TSM",
-     "change_pct": 4.25,
-     "price": 413.35
-    },
-    {
-     "ticker": "AVGO",
-     "change_pct": 3.99,
-     "price": 345.22
-    },
-    {
-     "ticker": "NOW",
-     "change_pct": 3.16,
-     "price": 102.76
-    },
-    {
-     "ticker": "OKLO",
-     "change_pct": 3.07,
-     "price": 25.86
-    },
-    {
-     "ticker": "NVDA",
-     "change_pct": 2.92,
-     "price": 173.73
-    }
-   ],
-   "filings": [],
-   "counts": {
-    "stories": 501,
-    "major": 64
    }
   }
  ]

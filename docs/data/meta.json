@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:44:23Z",
+ "updated": "2026-11-27T17:30:08Z",
  "session": "open",
  "repo": "Kamalhaddad1987/news-bot",
  "groups": {
@@ -124,34 +124,12 @@
  },
  "health": {
   "errors": [
-   "SEC ticker list: GET failed https://www.sec.gov/files/company_tickers.json: Invalid header value b'Kamal Haddad\\nKamalhaddad86@hotmail.com'",
-   "GOOGL news: GET failed https://news.google.com/rss/search?q=%28%22Alphabet%22+OR+%22Google%22+OR+%22GOOG%22%29+when%3A2d&hl=en-US&gl",
-   "MSFT news: GET failed https://news.google.com/rss/search?q=%28%22Microsoft%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error ",
-   "AAPL news: GET failed https://news.google.com/rss/search?q=%28%22Apple%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error 429:",
-   "AMZN news: GET failed https://news.google.com/rss/search?q=%28%22Amazon%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error 429",
-   "META news: GET failed https://news.google.com/rss/search?q=%28%22Meta%22+OR+%22Zuckerberg%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3A",
-   "NVDA news: GET failed https://news.google.com/rss/search?q=%28%22Nvidia%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error 429",
-   "AMD news: GET failed https://news.google.com/rss/search?q=%28%22AMD%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error 429: T",
-   "AVGO news: GET failed https://news.google.com/rss/search?q=%28%22Broadcom%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error 4",
-   "TSM news: GET failed https://news.google.com/rss/search?q=%28%22TSMC%22+OR+%22Taiwan+Semiconductor%22%29+when%3A2d&hl=en-US&gl=US&",
-   "ORCL news: GET failed https://news.google.com/rss/search?q=%28%22Oracle%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error 429",
-   "PLTR news: GET failed https://news.google.com/rss/search?q=%28%22Palantir%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error 4",
-   "NOW news: GET failed https://news.google.com/rss/search?q=%28%22ServiceNow%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error",
-   "ANT news: GET failed https://news.google.com/rss/search?q=%28%22Anthropic%22+OR+%22Claude+AI%22%29+when%3A2d&hl=en-US&gl=US&ceid=U",
-   "TSLA news: GET failed https://news.google.com/rss/search?q=%28%22Tesla%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error 429:",
-   "SPCX news: GET failed https://news.google.com/rss/search?q=%28%22SpaceX%22+OR+%22Starlink%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3A",
-   "VST news: GET failed https://news.google.com/rss/search?q=%28%22Vistra%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error 429",
-   "CEG news: GET failed https://news.google.com/rss/search?q=%28%22Constellation+Energy%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: ",
-   "GEV news: GET failed https://news.google.com/rss/search?q=%28%22GE+Vernova%22+OR+%22Vernova%22%29+when%3A2d&hl=en-US&gl=US&ceid=US",
-   "OKLO news: GET failed https://news.google.com/rss/search?q=%28%22Oklo%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error 429: ",
-   "IONQ news: GET failed https://news.google.com/rss/search?q=%28%22IonQ%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error 429: ",
-   "RGTI news: GET failed https://news.google.com/rss/search?q=%28%22Rigetti%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error 42",
-   "QBTS news: GET failed https://news.google.com/rss/search?q=%28%22D-Wave%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen: HTTP Error 429"
+   "SEC ticker list: GET failed https://www.sec.gov/files/company_tickers.json: Invalid header value b'Kamal Haddad\\nKamalhaddad86@hotmail.com'"
   ],
   "counts": {
-   "fetched": 144,
-   "new_stories": 20,
-   "alerts_sent": 0
+   "fetched": 1659,
+   "new_stories": 233,
+   "alerts_sent": 6
   }
  },
  "ai_summaries": false
